@@ -1,5 +1,11 @@
 # @niktekio/query-packages
 
+## 0.0.3
+
+### Patch Changes
+
+- 3e000ba: Yeah another bumpy
+
 ## 0.0.2
 
 ### Patch Changes
