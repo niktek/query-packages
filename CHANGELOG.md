@@ -1,5 +1,11 @@
 # @niktekio/query-packages
 
+## 0.0.4
+
+### Patch Changes
+
+- 7a31294: npm ignore setup
+
 ## 0.0.3
 
 ### Patch Changes
