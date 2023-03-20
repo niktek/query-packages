@@ -2,7 +2,7 @@
 	"name": "@niktekio/query-packages",
 	"version": "0.0.2",
 	"description": "Queries stats from npm and github for certain packages",
-	"private": "false",
+	"private": false,
 	"main": "./dist/index.js",
 	"module": "./dist.mjs",
 	"types": "./dist/index.d.ts",
