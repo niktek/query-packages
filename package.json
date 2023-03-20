@@ -1,19 +1,23 @@
 {
-	"name": "query-packages",
+	"name": "@niktekio/query-packages",
 	"version": "0.0.0",
 	"description": "",
-	"main": "index.js",
+	"main": "./dist/index.js",
+	"module": "./dist.mjs",
+	"types": "./dist/index.d.ts",
 	"scripts": {
 		"dev": "vitest",
 		"lint": "tsc",
 		"test": "vitest run",
 		"build": "tsup src/index.ts --format cjs,esm --dts",
-		"ci": "pnpm lint && pnpm test && pnpm build"
+		"ci": "pnpm lint && pnpm test && pnpm build",
+		"release": "pnpm ci && changeset publish"
 	},
 	"keywords": [],
 	"author": "niktek",
 	"license": "MIT",
 	"devDependencies": {
+		"@changesets/cli": "^2.26.0",
 		"@types/node": "^18.15.3",
 		"tsup": "^6.7.0",
 		"typescript": "^4.9.5",
