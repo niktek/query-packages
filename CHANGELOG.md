@@ -1,5 +1,11 @@
 # @niktekio/query-packages
 
+## 0.0.2
+
+### Patch Changes
+
+- 8d7a9e5: Added some rubbish to the code
+
 ## 0.0.1
 
 ### Patch Changes
