@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@imtala/svelte-components",
+		"scope": "imtala",
+		"version": "1.3.1",
+		"keywords": [
+			"graphql",
+			"graphiql",
+			"svelte"
+		],
+		"date": "2022-06-04T15:26:54.693Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40imtala%2Fsvelte-components",
+			"homepage": "https://github.com/des-des/imtala/tree/master/packages/cli#readme",
+			"repository": "https://github.com/des-des/imtala",
+			"bugs": "https://github.com/des-des/imtala/issues"
+		},
+		"author": {
+			"name": "@des-des"
+		},
+		"publisher": {
+			"username": "des-des",
+			"email": "em1081@my.bristol.ac.uk"
+		},
+		"maintainers": [
+			{
+				"username": "des-des",
+				"email": "em1081@my.bristol.ac.uk"
+			}
+		]
+	},
+	"score": {
+		"final": 0.234310620810337,
+		"detail": {
+			"quality": 0.3687250635161251,
+			"popularity": 0.02637741206903904,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 1.3265567e-7
+}

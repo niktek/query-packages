@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@0mn1/svelte-adapter-appengine",
+		"scope": "0mn1",
+		"version": "0.6.0",
+		"description": "Adapter for Svelte that integrates with Google Cloud Appengine",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"sveltekit-adapter",
+			"appengine"
+		],
+		"date": "2022-06-02T17:02:30.869Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%400mn1%2Fsvelte-adapter-appengine",
+			"homepage": "https://github.com/halfdanj/svelte-adapter-appengine#readme",
+			"repository": "https://github.com/halfdanj/svelte-adapter-appengine",
+			"bugs": "https://github.com/halfdanj/svelte-adapter-appengine/issues"
+		},
+		"author": {
+			"name": "Jonas Jongejan",
+			"email": "jonas@halfdanj.dk"
+		},
+		"publisher": {
+			"username": "0mn1",
+			"email": "admin-npm@omni.cr"
+		},
+		"maintainers": [
+			{
+				"username": "0mn1",
+				"email": "admin-npm@omni.cr"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19250586942541634,
+		"detail": {
+			"quality": 0.36872506351612505,
+			"popularity": 0.001707923805054072,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 7.812999e-9
+}

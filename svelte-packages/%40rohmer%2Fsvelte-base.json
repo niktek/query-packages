@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@rohmer/svelte-base",
+		"scope": "rohmer",
+		"version": "1.0.0",
+		"description": "Package including basic stuff for use in my svelte porjects.",
+		"date": "2021-08-16T08:41:41.054Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40rohmer%2Fsvelte-base",
+			"homepage": "https://github.com/mrohmer/svelte-base#readme",
+			"repository": "https://github.com/mrohmer/svelte-base",
+			"bugs": "https://github.com/mrohmer/svelte-base/issues"
+		},
+		"author": {
+			"name": "Matthias Rohmer",
+			"email": "m@rohmer.rocks",
+			"url": "https://matthias.rohmer.rocks"
+		},
+		"publisher": {
+			"username": "mrohmer",
+			"email": "rohmer.matze@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mrohmer",
+				"email": "rohmer.matze@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19224019441877047,
+		"detail": {
+			"quality": 0.49301784094506484,
+			"popularity": 0.0028354035180790473,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 7.771923e-9
+}

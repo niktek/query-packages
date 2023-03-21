@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "sveltekit-rate-limiter",
+		"scope": "unscoped",
+		"version": "0.1.8",
+		"description": "A modular rate limiter for password resets, account registration, etc. Use in your `page.server.ts` files, or `hooks.server.ts`.",
+		"date": "2023-03-11T09:47:44.354Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-rate-limiter"
+		},
+		"publisher": {
+			"username": "ciscoheat",
+			"email": "ciscoheat@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ciscoheat",
+				"email": "ciscoheat@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23173893319555855,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.008875230122091298,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.106092e-8
+}

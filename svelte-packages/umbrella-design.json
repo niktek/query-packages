@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "umbrella-design",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "custom design system with components for react",
+		"keywords": [
+			"react",
+			"svelte",
+			"design",
+			"system",
+			"web",
+			"components"
+		],
+		"date": "2022-09-04T14:38:48.301Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/umbrella-design",
+			"homepage": "https://github.com/cuvar/umbrella-design#readme",
+			"repository": "https://github.com/cuvar/umbrella-design",
+			"bugs": "https://github.com/cuvar/umbrella-design/issues"
+		},
+		"author": {
+			"name": "cuvar"
+		},
+		"publisher": {
+			"username": "cuvar",
+			"email": "luca-mueller@gmx.net"
+		},
+		"maintainers": [
+			{
+				"username": "cuvar",
+				"email": "luca-mueller@gmx.net"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2501711261590249,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.019179346772133943,
+			"maintenance": 0.33312352593011885
+		}
+	},
+	"searchScore": 1.0865506e-7
+}

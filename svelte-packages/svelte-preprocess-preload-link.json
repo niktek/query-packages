@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-preprocess-preload-link",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Generate preload links",
+		"keywords": [
+			"svelte",
+			"vite",
+			"preload"
+		],
+		"date": "2021-05-11T03:41:46.723Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-preprocess-preload-link"
+		},
+		"author": {
+			"name": "Jiang Fengming"
+		},
+		"publisher": {
+			"username": "jiangfengming",
+			"email": "jiangfengming87@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jiangfengming",
+				"email": "jiangfengming87@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17964543678010206,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 3.1005638e-9
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "braintapper-svelte-tippy",
+		"scope": "unscoped",
+		"version": "0.0.10",
+		"description": "Svelte component for using Tippy.js for popover controls.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-10-12T21:23:23.571Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/braintapper-svelte-tippy",
+			"homepage": "https://github.com/braintapper/braintapper-svelte-tippy#readme",
+			"repository": "https://github.com/braintapper/braintapper-svelte-tippy",
+			"bugs": "https://github.com/braintapper/braintapper-svelte-tippy/issues"
+		},
+		"author": {
+			"name": "braintapper"
+		},
+		"publisher": {
+			"username": "braintapper",
+			"email": "steven.ng@braintapper.com"
+		},
+		"maintainers": [
+			{
+				"username": "braintapper",
+				"email": "steven.ng@braintapper.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19646363024042846,
+		"detail": {
+			"quality": 0.37386569774146894,
+			"popularity": 0.019070286274888066,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 1.4373761e-8
+}

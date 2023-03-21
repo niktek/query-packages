@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "lit-svelte-stores",
+		"scope": "unscoped",
+		"version": "0.2.5",
+		"description": "Lit controllers to use svelte stores to manage state",
+		"date": "2023-03-03T14:24:42.764Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/lit-svelte-stores",
+			"homepage": "https://github.com/guillemcordoba/lit-svelte-stores#readme",
+			"repository": "https://github.com/guillemcordoba/lit-svelte-stores",
+			"bugs": "https://github.com/guillemcordoba/lit-svelte-stores/issues"
+		},
+		"publisher": {
+			"username": "guillem.cordoba",
+			"email": "guillem.cordoba@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "guillem.cordoba",
+				"email": "guillem.cordoba@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2456867629148684,
+		"detail": {
+			"quality": 0.3792891023433832,
+			"popularity": 0.04352390155767651,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.6752033e-7
+}

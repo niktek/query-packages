@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "imageuploader-svelte-tailwind",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-04-19T14:55:54.873Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/imageuploader-svelte-tailwind"
+		},
+		"author": {
+			"name": "SonuY"
+		},
+		"publisher": {
+			"username": "sonuy1614",
+			"email": "sonu.yadav@elastic.run"
+		},
+		"maintainers": [
+			{
+				"username": "sonuy1614",
+				"email": "sonu.yadav@elastic.run"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17584196189543194,
+		"detail": {
+			"quality": 0.4397711452609957,
+			"popularity": 0.0016233354663139636,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 2.7589444e-9
+}

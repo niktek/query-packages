@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "sveltekit-embed",
+		"scope": "unscoped",
+		"version": "0.0.12",
+		"description": "This is a collection of embed components I use on a regular basis packaged up for use.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"youtube",
+			"spotify",
+			"deezer",
+			"vimeo"
+		],
+		"date": "2023-02-21T09:17:11.964Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-embed",
+			"homepage": "https://github.com/spences10/sveltekit-embed#readme",
+			"repository": "https://github.com/spences10/sveltekit-embed",
+			"bugs": "https://github.com/spences10/sveltekit-embed/issues"
+		},
+		"author": {
+			"name": "Scott Spence",
+			"email": "yo@scottspence.dev",
+			"url": "https://scottspence.com"
+		},
+		"publisher": {
+			"username": "spences10",
+			"email": "spences10apps@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "spences10",
+				"email": "spences10apps@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.30875711650182214,
+		"detail": {
+			"quality": 0.6208418031542571,
+			"popularity": 0.01667973968250966,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000033690276
+}

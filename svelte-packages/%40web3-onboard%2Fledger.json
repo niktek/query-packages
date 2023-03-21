@@ -1,0 +1,69 @@
+{
+	"package": {
+		"name": "@web3-onboard/ledger",
+		"scope": "web3-onboard",
+		"version": "2.4.2",
+		"description": "Ledger hardare wallet module for connecting to Web3-Onboard. Web3-Onboard makes it simple to connect Ethereum hardware and software wallets to your dapp. Features standardised spec compliant web3 providers for all supported wallets, framework agnostic mod",
+		"keywords": [
+			"Ethereum",
+			"Web3",
+			"EVM",
+			"dapp",
+			"Multichain",
+			"Wallet",
+			"Transaction",
+			"Provider",
+			"Hardware Wallet",
+			"Notifications",
+			"React",
+			"Svelte",
+			"Vue",
+			"Next",
+			"Nuxt",
+			"MetaMask",
+			"Coinbase",
+			"WalletConnect",
+			"Ledger",
+			"Trezor",
+			"Connect Wallet",
+			"Ethereum Hooks",
+			"Blocknative",
+			"Mempool",
+			"pending",
+			"confirmed",
+			"Injected Wallet",
+			"Crypto",
+			"Crypto Wallet"
+		],
+		"date": "2023-01-26T16:16:11.765Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40web3-onboard%2Fledger",
+			"homepage": "https://onboard.blocknative.com",
+			"repository": "https://github.com/blocknative/web3-onboard",
+			"bugs": "https://github.com/blocknative/web3-onboard/issues"
+		},
+		"publisher": {
+			"username": "cmeisl",
+			"email": "chris@blocknative.com"
+		},
+		"maintainers": [
+			{
+				"username": "aaronbarnard1",
+				"email": "aaron@blocknative.com"
+			},
+			{
+				"username": "cmeisl",
+				"email": "chris@blocknative.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2969362034212749,
+		"detail": {
+			"quality": 0.5272075030985048,
+			"popularity": 0.0631636737858767,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.705006e-7
+}

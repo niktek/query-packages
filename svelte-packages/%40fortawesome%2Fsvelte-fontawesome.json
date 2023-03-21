@@ -1,0 +1,61 @@
+{
+	"package": {
+		"name": "@fortawesome/svelte-fontawesome",
+		"scope": "fortawesome",
+		"version": "0.2.0",
+		"description": "Svelte component for Font Awesome",
+		"date": "2022-08-02T21:30:38.364Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40fortawesome%2Fsvelte-fontawesome",
+			"homepage": "https://github.com/FortAwesome/svelte-fontawesome",
+			"repository": "https://github.com/FortAwesome/svelte-fontawesome",
+			"bugs": "https://github.com/FortAwesome/svelte-fontawesome/issues"
+		},
+		"publisher": {
+			"username": "robmadole",
+			"email": "robmadole@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jasonlundien",
+				"email": "jason@fontawesome.com"
+			},
+			{
+				"username": "devoto13",
+				"email": "devoto13@gmail.com"
+			},
+			{
+				"username": "jrjohnson",
+				"email": "jon.johnson@ucsf.edu"
+			},
+			{
+				"username": "robmadole",
+				"email": "robmadole@gmail.com"
+			},
+			{
+				"username": "supercodepoet",
+				"email": "travis@travischase.me"
+			},
+			{
+				"username": "fortawesome-admin",
+				"email": "admin@fortawesome.com"
+			},
+			{
+				"username": "mwilkerson",
+				"email": "mwilkerson@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3505128607671604,
+		"detail": {
+			"quality": 0.8855947797183326,
+			"popularity": 0.010125285179573309,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 0.000027116548
+}

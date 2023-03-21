@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "infinite-scroller-y",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "A infinite scroll function library(runs a function when the user scrolls to the bottom of the page!(eg axios.get('google.com/?page=1')))",
+		"keywords": [
+			"infinite",
+			"scroll",
+			"infite-scroll",
+			"library",
+			"front-end",
+			"vue",
+			"svelte",
+			"react",
+			"swr"
+		],
+		"date": "2022-06-29T14:08:59.942Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/infinite-scroller-y",
+			"homepage": "https://github.com/Yefee8/infinite-scroll",
+			"repository": "https://github.com/Yefee8/infinite-scroll",
+			"bugs": "https://github.com/Yefee8/infinite-scroll/issues"
+		},
+		"author": {
+			"name": "Yefee"
+		},
+		"publisher": {
+			"username": "yefee",
+			"email": "findikliyavuzefe@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "yefee",
+				"email": "findikliyavuzefe@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2504459164494324,
+		"detail": {
+			"quality": 0.4877539530635693,
+			"popularity": 0.0015288687180486996,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 7.928111e-8
+}

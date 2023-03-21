@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-ruta",
+		"scope": "unscoped",
+		"version": "0.0.6",
+		"description": "Router for Svelte & its Vite plugin",
+		"date": "2022-08-08T03:56:51.014Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ruta",
+			"homepage": "https://svelte-ruta.deno.dev",
+			"repository": "https://gitlab.com/alpineland/svelte-ruta",
+			"bugs": "https://gitlab.com/alpineland/svelte-ruta/issues"
+		},
+		"author": {
+			"name": "Jeff Yang"
+		},
+		"publisher": {
+			"username": "ydcjeff",
+			"email": "ydc.jeff@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ydcjeff",
+				"email": "ydc.jeff@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23972538404614632,
+		"detail": {
+			"quality": 0.3954791606050344,
+			"popularity": 0.018916080952286342,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 1.674034e-7
+}

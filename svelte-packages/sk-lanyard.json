@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "sk-lanyard",
+		"scope": "unscoped",
+		"version": "0.1.7",
+		"description": "SvelteKit integration with Lanyard, an API to fetch your Discord presence",
+		"keywords": [
+			"typescript",
+			"svelte",
+			"sveltekit",
+			"lanyard",
+			"discord",
+			"presence"
+		],
+		"date": "2022-10-01T17:46:15.390Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sk-lanyard",
+			"homepage": "https://github.com/nebulatgs/sk-lanyard#readme",
+			"repository": "https://github.com/nebulatgs/sk-lanyard",
+			"bugs": "https://github.com/nebulatgs/sk-lanyard/issues"
+		},
+		"author": {
+			"name": "Nebula",
+			"email": "infinitewormhole@gmail.com",
+			"username": "nebulatgs"
+		},
+		"publisher": {
+			"username": "nebulatgs",
+			"email": "infinitewormhole@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nebulatgs",
+				"email": "infinitewormhole@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25312068227150886,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.005220930402372194,
+			"maintenance": 0.3328575099373898
+		}
+	},
+	"searchScore": 1.325961e-7
+}

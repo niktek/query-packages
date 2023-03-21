@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svg-loaders-svelte",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "This is a zero-dependency Svelte adaptation of Sam Herberts [SVG Loaders](https://github.com/SamHerbert/SVG-Loaders) library. Highly influenced by ajwann [SVG Loaders React](https://github.com/ajwann/svg-loaders-react) adaptation.",
+		"date": "2022-08-15T01:58:20.310Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svg-loaders-svelte"
+		},
+		"author": {
+			"name": "Rodrigo Couto",
+			"email": "r@rodg.co",
+			"url": "https://github.com/rodgco/svg-loaders-svelte",
+			"username": "rodgco"
+		},
+		"publisher": {
+			"username": "rodgco",
+			"email": "r@rodg.co"
+		},
+		"maintainers": [
+			{
+				"username": "rodgco",
+				"email": "r@rodg.co"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19371691031139382,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0019443605977859507,
+			"maintenance": 0.25051357763796994
+		}
+	},
+	"searchScore": 7.124489e-9
+}

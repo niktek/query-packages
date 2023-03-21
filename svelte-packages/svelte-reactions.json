@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-reactions",
+		"scope": "unscoped",
+		"version": "2.5.4",
+		"description": "Easy to use emoji reactions for your app.",
+		"keywords": [
+			"reactions",
+			"svelte",
+			"emoji-reactions",
+			"emojis",
+			"svelte-reactions"
+		],
+		"date": "2022-12-14T04:12:53.135Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-reactions",
+			"homepage": "https://svelte.dev/repl/ca9025e2d4084b6fa6040eb61fafe643?version=3.49.0",
+			"repository": "https://github.com/Angel-Ponce/svelte-reactions",
+			"bugs": "https://github.com/Angel-Ponce/svelte-reactions/issues"
+		},
+		"author": {
+			"name": "Angel-Ponce"
+		},
+		"publisher": {
+			"username": "angel-ponce",
+			"email": "acdpf000@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "angel-ponce",
+				"email": "acdpf000@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3066929192265776,
+		"detail": {
+			"quality": 0.626599435462266,
+			"popularity": 0.005846919774946087,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000048557836
+}

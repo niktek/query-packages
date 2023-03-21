@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "heybit-svelte-ui",
+		"scope": "unscoped",
+		"version": "0.0.13",
+		"date": "2023-03-13T02:29:36.192Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/heybit-svelte-ui"
+		},
+		"publisher": {
+			"username": "beemo-heybit",
+			"email": "beemo@heybit.io"
+		},
+		"maintainers": [
+			{
+				"username": "beemo-heybit",
+				"email": "beemo@heybit.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.29702286733125244,
+		"detail": {
+			"quality": 0.5892610859961827,
+			"popularity": 0.010222499616374205,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000023527564
+}

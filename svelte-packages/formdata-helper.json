@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "formdata-helper",
+		"scope": "unscoped",
+		"version": "0.3.0",
+		"description": "Parse FormData into a structured JavaScript object with coerced primitives including TypeScript support",
+		"keywords": [
+			"formdata",
+			"parser",
+			"typescript",
+			"sveltekit"
+		],
+		"date": "2022-09-21T00:09:56.603Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/formdata-helper",
+			"homepage": "https://github.com/danawoodman/formdata-helper#readme",
+			"repository": "https://github.com/danawoodman/formdata-helper",
+			"bugs": "https://github.com/danawoodman/formdata-helper/issues"
+		},
+		"publisher": {
+			"username": "danawoodman",
+			"email": "dana@danawoodman.com"
+		},
+		"maintainers": [
+			{
+				"username": "danawoodman",
+				"email": "dana@danawoodman.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.35792996509102093,
+		"detail": {
+			"quality": 0.7993107605086407,
+			"popularity": 0.005072246846637575,
+			"maintenance": 0.33246128726315877
+		}
+	},
+	"searchScore": 0.0000056987274
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-site",
+		"scope": "unscoped",
+		"version": "0.0.34",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-09-25T03:49:12.104Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-site"
+		},
+		"publisher": {
+			"username": "pezdel",
+			"email": "adam.pezdel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pezdel",
+				"email": "adam.pezdel@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22372337768179934,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.004857368817866899,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.552165e-8
+}

@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-spinkit",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "A collection of loading indicators animated with CSS for Svelte",
+		"keywords": [
+			"svelte",
+			"svelte.js",
+			"sveltejs",
+			"svelte-spinkit",
+			"spinkit"
+		],
+		"date": "2020-08-11T22:06:59.490Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-spinkit"
+		},
+		"author": {
+			"name": "Moumni Heithem",
+			"email": "moumniheithem@gmail.com",
+			"url": "http://hmoumni.com",
+			"username": "heithemmoumni"
+		},
+		"publisher": {
+			"username": "heithemmoumni",
+			"email": "moumniheithem@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "heithemmoumni",
+				"email": "moumniheithem@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21100552964269403,
+		"detail": {
+			"quality": 0.5960353551434681,
+			"popularity": 0.002243797033275921,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.9802263e-8
+}

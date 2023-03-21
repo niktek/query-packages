@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@ctx-core/svg-ui-svelte",
+		"scope": "ctx-core",
+		"version": "1.2.78",
+		"description": "ctx-core svg",
+		"keywords": [
+			"ctx-core",
+			"svg"
+		],
+		"date": "2023-03-17T16:38:53.065Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ctx-core%2Fsvg-ui-svelte",
+			"homepage": "https://github.com/ctx-core/svg-ui-svelte#readme",
+			"repository": "https://github.com/ctx-core/svg-ui-svelte",
+			"bugs": "https://github.com/ctx-core/svg-ui-svelte/issues"
+		},
+		"author": {
+			"name": "Brian Takita"
+		},
+		"publisher": {
+			"username": "btakita",
+			"email": "brian.takita@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "btakita",
+				"email": "brian.takita@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.29050686993151636,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.049379719651874994,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000002071478
+}

@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@robotpajamas/svelte-heroicons",
+		"scope": "robotpajamas",
+		"version": "2.0.15-rc.3",
+		"description": "Svelte wrappers for the Heroicons library.",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"sveltejs",
+			"heroicons",
+			"tailwindcss",
+			"icons"
+		],
+		"date": "2023-02-21T05:06:24.720Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40robotpajamas%2Fsvelte-heroicons",
+			"homepage": "https://github.com/robotpajamas/svelte-heroicons",
+			"repository": "https://github.com/robotpajamas/svelte-heroicons",
+			"bugs": "https://github.com/robotpajamas/svelte-heroicons/issues"
+		},
+		"author": {
+			"name": "SJ",
+			"email": "suresh@robotpajamas.com",
+			"username": "sureshjoshi"
+		},
+		"publisher": {
+			"username": "sureshjoshi",
+			"email": "suresh@robotpajamas.com"
+		},
+		"maintainers": [
+			{
+				"username": "sureshjoshi",
+				"email": "suresh@robotpajamas.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2812296632212482,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.007720396759555161,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000014796392
+}

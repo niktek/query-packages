@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "sveltekit-markdoc",
+		"scope": "unscoped",
+		"version": "0.0.10",
+		"description": "WIP",
+		"date": "2022-12-20T16:36:01.414Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-markdoc"
+		},
+		"publisher": {
+			"username": "kwangure",
+			"email": "kaf.wangure@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kwangure",
+				"email": "kaf.wangure@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18477378749890472,
+		"detail": {
+			"quality": 0.2209847583636426,
+			"popularity": 0.00517626663755798,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.3852113e-9
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-moving-div",
+		"scope": "unscoped",
+		"version": "1.0.7",
+		"description": "![package size](https://img.shields.io/github/size/nergel3/svelte-moving-div/src/index.svelte) ![npm version](https://img.shields.io/npm/v/svelte-moving-div?color=green) # Svelte-moving-div",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-01-21T16:25:08.027Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-moving-div"
+		},
+		"publisher": {
+			"username": "nergel",
+			"email": "alexnegrel13@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nergel",
+				"email": "alexnegrel13@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16705736699233875,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.002441556290684222,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.5681723e-9
+}

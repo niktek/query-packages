@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-dragondrop",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Drag and drop library for Svelte",
+		"keywords": [
+			"svelte",
+			"drag",
+			"and",
+			"drop",
+			"dragondrop",
+			"dragndrop",
+			"dnd"
+		],
+		"date": "2021-03-28T15:02:55.330Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dragondrop"
+		},
+		"author": {
+			"name": "Jo Burgard"
+		},
+		"publisher": {
+			"username": "joburgard",
+			"email": "mail@joburgard.com"
+		},
+		"maintainers": [
+			{
+				"username": "joburgard",
+				"email": "mail@joburgard.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18840577934531183,
+		"detail": {
+			"quality": 0.4629360028651223,
+			"popularity": 0.0013675232066606574,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 7.52661e-9
+}

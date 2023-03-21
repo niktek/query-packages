@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "svelte-dragdroplist-clickable",
+		"scope": "unscoped",
+		"version": "2.0.1",
+		"description": "Sortable lists with Svelte 3.  Animated, touch-friendly, and accessible.",
+		"keywords": [
+			"svelte",
+			"drag",
+			"drop",
+			"list",
+			"sortable",
+			"component",
+			"dnd",
+			"clickable",
+			"double click"
+		],
+		"date": "2022-11-18T13:06:32.460Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dragdroplist-clickable",
+			"homepage": "https://github.com/rohitmeshramD/svelte-dragdroplist",
+			"bugs": "https://github.com/rohitmeshramD/svelte-dragdroplist/issues"
+		},
+		"author": {
+			"name": "Rohit Meshram",
+			"email": "rohitmeshramd@gmail.com",
+			"username": "rohitmeshramd"
+		},
+		"publisher": {
+			"username": "rohitmeshramcodeb",
+			"email": "rohit.meshram@codeb.online"
+		},
+		"maintainers": [
+			{
+				"username": "rohitmeshramd",
+				"email": "rohitmeshramd@gmail.com"
+			},
+			{
+				"username": "rohitmeshramcodeb",
+				"email": "rohit.meshram@codeb.online"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27492788255092654,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.005220139476494162,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 9.94717e-7
+}

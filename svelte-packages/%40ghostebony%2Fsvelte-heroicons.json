@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@ghostebony/svelte-heroicons",
+		"scope": "ghostebony",
+		"version": "2.0.0",
+		"description": "Heroicons for Svelte",
+		"keywords": [
+			"svelte",
+			"tailwind",
+			"heroicons",
+			"icons"
+		],
+		"date": "2023-03-05T12:24:23.239Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ghostebony%2Fsvelte-heroicons",
+			"homepage": "https://github.com/ghostebony/svelte-heroicons#readme",
+			"repository": "https://github.com/ghostebony/svelte-heroicons",
+			"bugs": "https://github.com/ghostebony/svelte-heroicons/issues"
+		},
+		"author": {
+			"name": "Pedro Américo"
+		},
+		"publisher": {
+			"username": "ghostebony",
+			"email": "pedroamericolouzada@uol.com.br"
+		},
+		"maintainers": [
+			{
+				"username": "ghostebony",
+				"email": "pedroamericolouzada@uol.com.br"
+			}
+		]
+	},
+	"score": {
+		"final": 0.281996520265441,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.009911416885820194,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000015831538
+}

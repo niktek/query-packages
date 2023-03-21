@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svawc",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Modern reactive development and HTML templating to A-Frame component development without compromising on speed, usability, or bundle size",
+		"keywords": [
+			"aframe",
+			"svelte",
+			"web",
+			"components"
+		],
+		"date": "2023-02-20T15:43:51.065Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svawc",
+			"homepage": "https://github.com/immers-space/svawc#readme",
+			"repository": "https://github.com/immers-space/svawc",
+			"bugs": "https://github.com/immers-space/svawc/issues"
+		},
+		"author": {
+			"name": "William Murphy"
+		},
+		"publisher": {
+			"username": "datatitian",
+			"email": "william@datatitian.com"
+		},
+		"maintainers": [
+			{
+				"username": "datatitian",
+				"email": "william@datatitian.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2545378612124136,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.022202045965215716,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.5836565e-7
+}

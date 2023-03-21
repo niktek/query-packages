@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-selecto",
+		"scope": "unscoped",
+		"version": "1.22.0",
+		"description": "A Svelte Selecto Component that allows you to select elements in the drag area using the mouse or touch.",
+		"keywords": [
+			"select",
+			"selecto",
+			"selection",
+			"selectable",
+			"moveable",
+			"svelte"
+		],
+		"date": "2023-01-21T10:46:43.247Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-selecto",
+			"homepage": "https://daybrush.com/selecto",
+			"bugs": "https://github.com/daybrush/selecto/issues"
+		},
+		"author": {
+			"name": "Daybrush"
+		},
+		"publisher": {
+			"username": "younkue",
+			"email": "daybrush@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "younkue",
+				"email": "daybrush@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30859521541023976,
+		"detail": {
+			"quality": 0.6321889092318793,
+			"popularity": 0.006491074211455237,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000005435963
+}

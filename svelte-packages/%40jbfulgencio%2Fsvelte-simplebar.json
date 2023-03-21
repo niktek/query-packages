@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@jbfulgencio/svelte-simplebar",
+		"scope": "jbfulgencio",
+		"version": "1.0.0",
+		"description": "A Svelte wrapper for SimpleBar",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-03-15T19:13:52.173Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40jbfulgencio%2Fsvelte-simplebar",
+			"homepage": "https://github.com/jbfulgencio/svelte-simplebar#readme",
+			"repository": "https://github.com/jbfulgencio/svelte-simplebar",
+			"bugs": "https://github.com/jbfulgencio/svelte-simplebar/issues"
+		},
+		"author": {
+			"name": "João Batista Fulgêncio"
+		},
+		"publisher": {
+			"username": "jbfulgencio",
+			"email": "jbfulgencio@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jbfulgencio",
+				"email": "jbfulgencio@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23671873191661108,
+		"detail": {
+			"quality": 0.4969965248782887,
+			"popularity": 0.018083421183755923,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.7823268e-7
+}

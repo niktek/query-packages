@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@kwangure/eslint-config-svelte",
+		"scope": "kwangure",
+		"version": "0.2.5",
+		"description": "An opinionated ESLint config for Svelte projects",
+		"keywords": [
+			"eslint",
+			"config",
+			"eslintconfig",
+			"svelte"
+		],
+		"date": "2022-10-24T20:53:45.799Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kwangure%2Feslint-config-svelte",
+			"homepage": "https://github.com/kwangure/eslint-config-svelte#readme",
+			"repository": "https://github.com/kwangure/eslint-config-svelte",
+			"bugs": "https://github.com/kwangure/eslint-config-svelte/issues"
+		},
+		"author": {
+			"name": "Kafungo Wangure"
+		},
+		"publisher": {
+			"username": "kwangure",
+			"email": "kaf.wangure@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kwangure",
+				"email": "kaf.wangure@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.232219385844662,
+		"detail": {
+			"quality": 0.38161389376922494,
+			"popularity": 0.003053003286790613,
+			"maintenance": 0.3333333330386224
+		}
+	},
+	"searchScore": 9.3450744e-8
+}

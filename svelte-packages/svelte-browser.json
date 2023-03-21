@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-browser",
+		"scope": "unscoped",
+		"version": "0.4.6",
+		"description": "```html <script lang=\"ts\"> \timport store, { KeyCapture, Browser, Viewport } from 'svelte-browser' \timport { isPC, isTablet, isMobile, isBlink, isMacSafari, isIOSlegacy, isLegacy } from 'svelte-browser' \tconst { isActive, isOnline, isWatching, isKeypad, is",
+		"keywords": [
+			"svelte",
+			"component",
+			"viewport"
+		],
+		"date": "2022-11-05T16:48:33.138Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-browser",
+			"homepage": "https://github.com/7korobi/svelte-browser/blob/main/src/lib/"
+		},
+		"author": {
+			"name": "7korobi",
+			"email": "7korobi@gmail.com",
+			"username": "7korobi"
+		},
+		"publisher": {
+			"username": "7korobi",
+			"email": "7korobi@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "7korobi",
+				"email": "7korobi@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25843796012569303,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0333451857174426,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.21611e-7
+}

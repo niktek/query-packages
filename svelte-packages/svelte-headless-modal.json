@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-headless-modal",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-10-19T06:32:49.449Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-headless-modal"
+		},
+		"publisher": {
+			"username": "garlandcrow",
+			"email": "garlandcrow@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "garlandcrow",
+				"email": "garlandcrow@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2226487105343281,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0021387035942534924,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 4.5427047e-8
+}

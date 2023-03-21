@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-samlat",
+		"scope": "unscoped",
+		"version": "0.3.0",
+		"description": "<p align=\"center\"> <img width=\"150\" alt=\"collected\" src=\"https://github.com/lichstam/svelte-samlat/blob/main/assets/data-collection.png\"> </p>",
+		"date": "2022-11-28T13:17:04.658Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-samlat",
+			"homepage": "https://github.com/lichstam/svelte-samlat#readme",
+			"repository": "https://github.com/lichstam/svelte-samlat",
+			"bugs": "https://github.com/lichstam/svelte-samlat/issues"
+		},
+		"author": {
+			"name": "Martin Lichstam",
+			"email": "martin.lichstam@gmail.com"
+		},
+		"publisher": {
+			"username": "lichstam",
+			"email": "lichota.martin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lichstam",
+				"email": "lichota.martin@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3550194529045005,
+		"detail": {
+			"quality": 0.7836682615264048,
+			"popularity": 0.009292307942606834,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000031780863
+}

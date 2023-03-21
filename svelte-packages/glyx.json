@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "glyx",
+		"scope": "unscoped",
+		"version": "0.4.0",
+		"description": "The declarative state management library. (*In the works*)",
+		"keywords": [
+			"state manager",
+			"react",
+			"preact",
+			"svelte",
+			"atomic",
+			"state",
+			"declarative"
+		],
+		"date": "2021-07-05T15:59:05.932Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/glyx",
+			"homepage": "https://github.com/judehunter/glyx#readme",
+			"repository": "https://github.com/judehunter/glyx",
+			"bugs": "https://github.com/judehunter/glyx/issues"
+		},
+		"author": {
+			"name": "judehunter",
+			"email": "matisowagm@gmail.com",
+			"username": "judehunter"
+		},
+		"publisher": {
+			"username": "judehunter",
+			"email": "matisowagm@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "judehunter",
+				"email": "matisowagm@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21227119860889432,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.002514694606179866,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 9.656831e-9
+}

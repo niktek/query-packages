@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@matrx/radar",
+		"scope": "matrx",
+		"version": "1.8.0",
+		"description": "## What is it?",
+		"keywords": [
+			"svelte",
+			"radar",
+			"chart",
+			"visualization",
+			"matrx"
+		],
+		"date": "2019-09-10T17:59:25.660Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40matrx%2Fradar",
+			"homepage": "https://gitlab.com/matrx/matrx-npm-packages#readme",
+			"repository": "https://gitlab.com/matrx/matrx-npm-packages",
+			"bugs": "https://gitlab.com/matrx/matrx-npm-packages/issues"
+		},
+		"publisher": {
+			"username": "lmaccherone",
+			"email": "Larry@Maccherone.com"
+		},
+		"maintainers": [
+			{
+				"username": "lmaccherone",
+				"email": "Larry@Maccherone.com"
+			},
+			{
+				"username": "morganmaccherone",
+				"email": "morgan@maccherone.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18783218468509638,
+		"detail": {
+			"quality": 0.4969965248782887,
+			"popularity": 0.020924665953150647,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.1707161e-9
+}

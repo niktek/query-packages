@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "sveltekit-icons",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-02-09T21:40:07.286Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-icons"
+		},
+		"publisher": {
+			"username": "bhargawananbhuyan",
+			"email": "bhargawanan@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "bhargawananbhuyan",
+				"email": "bhargawanan@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22463886797620009,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.007473055373297604,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.191171e-8
+}

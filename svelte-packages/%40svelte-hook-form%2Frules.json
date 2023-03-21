@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@svelte-hook-form/rules",
+		"scope": "svelte-hook-form",
+		"version": "0.1.1",
+		"description": "Form validation rules of `svelte-hook-form`.",
+		"date": "2022-06-26T15:30:56.405Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-hook-form%2Frules"
+		},
+		"author": {
+			"name": "si3nloong",
+			"email": "sianloong90@gmail.com",
+			"url": "https://github.com/si3nloong",
+			"username": "sianloong"
+		},
+		"publisher": {
+			"username": "sianloong",
+			"email": "sianloong90@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sianloong",
+				"email": "sianloong90@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3223437709569996,
+		"detail": {
+			"quality": 0.8021917667062083,
+			"popularity": 0.001130468303792204,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 0.000007355624
+}

@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "svroutes",
+		"scope": "unscoped",
+		"version": "0.1.36-r",
+		"description": "Powerful SPA router for Svelte.",
+		"keywords": [
+			"router",
+			"svelte",
+			"svelte-router",
+			"spa",
+			"js",
+			"framework",
+			"history",
+			"routes",
+			"routing"
+		],
+		"date": "2022-11-27T17:40:37.123Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svroutes",
+			"homepage": "https://github.com/Battledash-2/svelte-router#readme",
+			"repository": "https://github.com/Battledash-2/svelte-router",
+			"bugs": "https://github.com/Battledash-2/svelte-router/issues"
+		},
+		"author": {
+			"name": "Battledash-2"
+		},
+		"publisher": {
+			"username": "battledash2",
+			"email": "battledoosh@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "battledash2",
+				"email": "battledoosh@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2325944820407857,
+		"detail": {
+			"quality": 0.3792891023433832,
+			"popularity": 0.0061173847745831286,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.1684655e-8
+}

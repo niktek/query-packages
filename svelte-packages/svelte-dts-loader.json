@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-dts-loader",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "svelte-dts-loader",
+		"keywords": [
+			"svelte",
+			"webpack-loader",
+			"typescript",
+			"definition"
+		],
+		"date": "2018-02-21T06:24:30.380Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dts-loader"
+		},
+		"author": {
+			"name": "Kiho Chang"
+		},
+		"publisher": {
+			"username": "kiho",
+			"email": "kihoc22@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kiho",
+				"email": "kihoc22@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17948840337585342,
+		"detail": {
+			"quality": 0.4920005870517171,
+			"popularity": 0.0013675232066606574,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.994276e-9
+}

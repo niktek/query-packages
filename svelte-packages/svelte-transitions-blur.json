@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-transitions-blur",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Blur transition plugin for Svelte 3",
+		"keywords": [
+			"svelte",
+			"transitions",
+			"css",
+			"animation"
+		],
+		"date": "2019-08-25T00:54:46.555Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-transitions-blur"
+		},
+		"author": {
+			"name": "PaulMaly"
+		},
+		"publisher": {
+			"username": "paulmaly",
+			"email": "paul.malys@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "paulmaly",
+				"email": "paul.malys@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.197578142013145,
+		"detail": {
+			"quality": 0.55,
+			"popularity": 0.0033387082146798417,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.4774757e-8
+}

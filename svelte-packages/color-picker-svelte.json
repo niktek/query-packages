@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "color-picker-svelte",
+		"scope": "unscoped",
+		"version": "1.1.1",
+		"description": "Color picker for Svelte",
+		"keywords": [
+			"color",
+			"picker",
+			"color-picker",
+			"colorpicker",
+			"svelte"
+		],
+		"date": "2023-01-10T20:42:24.364Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/color-picker-svelte",
+			"homepage": "https://color-picker-svelte.kasper.space",
+			"repository": "https://github.com/probablykasper/color-picker-svelte",
+			"bugs": "https://github.com/probablykasper/color-picker-svelte/issues"
+		},
+		"author": {
+			"name": "Kasper Henningsen",
+			"url": "https://kasper.space"
+		},
+		"publisher": {
+			"username": "probablykasper",
+			"email": "kasperkh.kh@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "probablykasper",
+				"email": "kasperkh.kh@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.319457659119611,
+		"detail": {
+			"quality": 0.6395190192584685,
+			"popularity": 0.031255927706097905,
+			"maintenance": 0.3333210818426748
+		}
+	},
+	"searchScore": 0.000009965247
+}

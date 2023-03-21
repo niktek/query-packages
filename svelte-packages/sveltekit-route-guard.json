@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "sveltekit-route-guard",
+		"scope": "unscoped",
+		"version": "1.0.5",
+		"description": "Route guard for sveltekit.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"sveltekit-routing",
+			"sveltekit-route-guard",
+			"sveltekit-hooks-server",
+			"sveltekit-hooks-handle"
+		],
+		"date": "2023-01-30T17:52:27.964Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-route-guard",
+			"homepage": "https://github.com/rkanik/sveltekit-route-guard",
+			"repository": "https://github.com/rkanik/sveltekit-route-guard",
+			"bugs": "https://github.com/rkanik/sveltekit-route-guard/issues"
+		},
+		"author": {
+			"name": "RK Anik",
+			"email": "rkanik.me@gmail.com",
+			"url": "https://rkanik-me.web.app",
+			"username": "rkanik"
+		},
+		"publisher": {
+			"username": "rkanik",
+			"email": "rkanik.me@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rkanik",
+				"email": "rkanik.me@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3103586495270014,
+		"detail": {
+			"quality": 0.6350078740767695,
+			"popularity": 0.00911320182086819,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000032268324
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@neo4j-cypher/svelte-codemirror",
+		"scope": "neo4j-cypher",
+		"version": "1.0.3",
+		"description": "Svelte CodeMirror 6 Cypher editor",
+		"keywords": [
+			"svelte",
+			"cypher",
+			"codemirror",
+			"codemirror 6"
+		],
+		"date": "2023-03-16T16:01:42.588Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40neo4j-cypher%2Fsvelte-codemirror",
+			"homepage": "https://github.com/neo4j/cypher-editor#readme",
+			"repository": "https://github.com/neo4j/cypher-editor",
+			"bugs": "https://github.com/neo4j/cypher-editor/issues"
+		},
+		"author": {
+			"name": "Neo4j Inc."
+		},
+		"publisher": {
+			"username": "neo4j-organization",
+			"email": "npm@neo4j.com"
+		},
+		"maintainers": [
+			{
+				"username": "neo4j-organization",
+				"email": "npm@neo4j.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2773405655274743,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.01176170706889764,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000011655129
+}

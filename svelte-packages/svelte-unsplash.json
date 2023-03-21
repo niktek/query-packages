@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-unsplash",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "A customizeable unsplash widget for sveltekit.",
+		"date": "2022-11-19T02:35:02.011Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-unsplash"
+		},
+		"publisher": {
+			"username": "axerivant",
+			"email": "axerivant@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "axerivant",
+				"email": "axerivant@icloud.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20902176382976617,
+		"detail": {
+			"quality": 0.3068535346490191,
+			"popularity": 0.0022814783994732643,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.976522e-8
+}

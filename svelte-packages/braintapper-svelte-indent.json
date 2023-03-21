@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "braintapper-svelte-indent",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Svelte component for an indent div",
+		"keywords": [
+			"svelte",
+			"indent"
+		],
+		"date": "2020-11-26T15:17:58.123Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/braintapper-svelte-indent",
+			"homepage": "https://github.com/braintapper/braintapper-svelte-indent#readme",
+			"repository": "https://github.com/braintapper/braintapper-svelte-indent",
+			"bugs": "https://github.com/braintapper/braintapper-svelte-indent/issues"
+		},
+		"author": {
+			"name": "braintapper"
+		},
+		"publisher": {
+			"username": "braintapper",
+			"email": "steven.ng@braintapper.com"
+		},
+		"maintainers": [
+			{
+				"username": "braintapper",
+				"email": "steven.ng@braintapper.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.164627934950128,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.018152057425384126,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.5637146e-9
+}

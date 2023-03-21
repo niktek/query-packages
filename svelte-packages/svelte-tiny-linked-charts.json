@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-tiny-linked-charts",
+		"scope": "unscoped",
+		"version": "1.1.5",
+		"description": "A library to display tiny bar charts using Svelte. These charts are more so meant for graphic aids, rather than scientific representations. There's no axis labels, no extensive data visualisation, just bars.",
+		"keywords": [
+			"svelte",
+			"tiny",
+			"charts",
+			"linked",
+			"linked-charts",
+			"tiny-linked-charts"
+		],
+		"date": "2023-01-19T01:06:08.679Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tiny-linked-charts",
+			"homepage": "https://mitcheljager.github.io/svelte-tiny-linked-charts/",
+			"repository": "https://github.com/Mitcheljager/svelte-tiny-linked-charts",
+			"bugs": "https://github.com/Mitcheljager/svelte-tiny-linked-charts/issues"
+		},
+		"author": {
+			"name": "mitcheljager",
+			"email": "mitchel_jager@hotmail.com",
+			"username": "mitcheljager"
+		},
+		"publisher": {
+			"username": "mitcheljager",
+			"email": "mitchel_jager@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mitcheljager",
+				"email": "mitchel_jager@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3216313290078868,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.05502429817672641,
+			"maintenance": 0.3328191761865021
+		}
+	},
+	"searchScore": 0.000010981314
+}

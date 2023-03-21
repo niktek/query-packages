@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "skapi",
+		"scope": "unscoped",
+		"version": "1.0.9",
+		"description": "Skapi makes SvelteKit API development simpler.",
+		"date": "2021-07-21T17:48:36.201Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/skapi"
+		},
+		"publisher": {
+			"username": "codepilotsf",
+			"email": "hello@codepilot.com"
+		},
+		"maintainers": [
+			{
+				"username": "codepilotsf",
+				"email": "hello@codepilot.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21821819808705584,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.001707923805054072,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 3.7422794e-9
+}

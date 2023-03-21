@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-pocketbase",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "> **\\*Hold up!** This library is currently experimental, and in early > development. Be careful if you intend on using this in production.\\*",
+		"date": "2023-01-08T08:12:59.921Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-pocketbase",
+			"homepage": "https://github.com/creekdrops/svelte-pocketbase#readme",
+			"repository": "https://github.com/creekdrops/svelte-pocketbase",
+			"bugs": "https://github.com/creekdrops/svelte-pocketbase/issues"
+		},
+		"author": {
+			"name": "CREEK"
+		},
+		"publisher": {
+			"username": "brandonjcreek",
+			"email": "brandonjcreek@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "brandonjcreek",
+				"email": "brandonjcreek@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2416538748941563,
+		"detail": {
+			"quality": 0.4088071151157153,
+			"popularity": 0.006710259454849361,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 1.4675514e-7
+}

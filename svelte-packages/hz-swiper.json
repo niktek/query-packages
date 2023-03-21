@@ -1,0 +1,58 @@
+{
+	"package": {
+		"name": "hz-swiper",
+		"scope": "unscoped",
+		"version": "8.1.46",
+		"description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
+		"keywords": [
+			"swiper",
+			"swipe",
+			"slider",
+			"touch",
+			"ios",
+			"mobile",
+			"cordova",
+			"phonegap",
+			"app",
+			"framework",
+			"framework7",
+			"carousel",
+			"gallery",
+			"plugin",
+			"react",
+			"vue",
+			"angular",
+			"svelte",
+			"slideshow"
+		],
+		"date": "2022-05-11T16:08:07.564Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/hz-swiper",
+			"homepage": "https://swiperjs.com",
+			"repository": "https://github.com/nolimits4web/Swiper",
+			"bugs": "https://github.com/nolimits4web/swiper/issues"
+		},
+		"author": {
+			"name": "Vladimir Kharlampidi"
+		},
+		"publisher": {
+			"username": "visnix",
+			"email": "quantumprogr@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "visnix",
+				"email": "quantumprogr@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2973535192450132,
+		"detail": {
+			"quality": 0.6075140412473209,
+			"popularity": 0.0018237123985175437,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 6.261501e-7
+}

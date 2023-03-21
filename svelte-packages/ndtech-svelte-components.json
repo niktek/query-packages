@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "ndtech-svelte-components",
+		"scope": "unscoped",
+		"version": "0.0.9",
+		"description": "Svelte components for building ndtech applications",
+		"keywords": [
+			"svelte",
+			"component"
+		],
+		"date": "2021-02-07T21:08:48.390Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/ndtech-svelte-components",
+			"homepage": "https://github.com/22ndtech/ndtech-svelte-components#readme",
+			"repository": "https://github.com/22ndtech/ndtech-svelte-components",
+			"bugs": "https://github.com/22ndtech/ndtech-svelte-components/issues"
+		},
+		"author": {
+			"name": "22ndtech"
+		},
+		"publisher": {
+			"username": "22ndtech",
+			"email": "jeff@22ndtech.com"
+		},
+		"maintainers": [
+			{
+				"username": "22ndtech",
+				"email": "jeff@22ndtech.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19996623469425662,
+		"detail": {
+			"quality": 0.5403524821119995,
+			"popularity": 0.018431131207570745,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.1163272e-8
+}

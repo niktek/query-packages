@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "custom-components-svelte",
+		"scope": "unscoped",
+		"version": "1.0.7",
+		"description": "---",
+		"date": "2022-07-25T19:04:59.490Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/custom-components-svelte"
+		},
+		"publisher": {
+			"username": "bruno-marins",
+			"email": "nobruin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bruno-marins",
+				"email": "nobruin@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2506231418493647,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.0024088020274264928,
+			"maintenance": 0.32853380853478065
+		}
+	},
+	"searchScore": 2.0780193e-7
+}

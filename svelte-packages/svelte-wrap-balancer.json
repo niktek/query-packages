@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-wrap-balancer",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Simple Svelte Component That Makes Titles More Readable.",
+		"date": "2022-12-30T17:04:50.723Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-wrap-balancer"
+		},
+		"author": {
+			"name": "Yurica",
+			"email": "iherewithmyheart@gmail.com",
+			"username": "etes.dev"
+		},
+		"publisher": {
+			"username": "etes.dev",
+			"email": "iherewithmyheart@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "etes.dev",
+				"email": "iherewithmyheart@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24943231454248949,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.007706998088678619,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 2.2892189e-7
+}

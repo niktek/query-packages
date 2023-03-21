@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "svelte-scrollactive",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "Lightweight and simple to use Svelte component that highlights menu items as you scroll the page, also scrolling to target section when clicked.",
+		"keywords": [
+			"svelte",
+			"svelte-plugin",
+			"svelte-component",
+			"scrollspy",
+			"scroll",
+			"active",
+			"active-class",
+			"menu-item",
+			"highlight-menu-item"
+		],
+		"date": "2023-03-16T23:12:42.538Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-scrollactive",
+			"homepage": "https://github.com/dmvvilela/svelte-scrollactive#readme",
+			"repository": "https://github.com/dmvvilela/svelte-scrollactive",
+			"bugs": "https://github.com/dmvvilela/svelte-scrollactive/issues"
+		},
+		"author": {
+			"name": "Daniel Vilela",
+			"email": "dmvvilela@gmail.com",
+			"username": "dmvvilela"
+		},
+		"publisher": {
+			"username": "dmvvilela",
+			"email": "dmvvilela@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dmvvilela",
+				"email": "dmvvilela@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24993878375192835,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.00906182464954344,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.1385716e-7
+}

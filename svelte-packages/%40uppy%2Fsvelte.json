@@ -1,0 +1,60 @@
+{
+	"package": {
+		"name": "@uppy/svelte",
+		"scope": "uppy",
+		"version": "3.0.1",
+		"description": "Uppy plugin that helps integrate Uppy into your Svelte project.",
+		"keywords": [
+			"file uploader",
+			"uppy",
+			"uppy-plugin",
+			"svelte"
+		],
+		"date": "2022-09-25T19:08:01.532Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40uppy%2Fsvelte",
+			"homepage": "https://uppy.io",
+			"repository": "https://github.com/transloadit/uppy",
+			"bugs": "https://github.com/transloadit/uppy/issues"
+		},
+		"publisher": {
+			"username": "arturi",
+			"email": "artur@arturpaikin.com"
+		},
+		"maintainers": [
+			{
+				"username": "mifi",
+				"email": "finstaden@gmail.com"
+			},
+			{
+				"username": "aduh95",
+				"email": "duhamelantoine1995@gmail.com"
+			},
+			{
+				"username": "kvz",
+				"email": "kevin@vanzonneveld.net"
+			},
+			{
+				"username": "tim-kos",
+				"email": "tim@transloadit.com"
+			},
+			{
+				"username": "murderlon",
+				"email": "merlijn@soverin.net"
+			},
+			{
+				"username": "arturi",
+				"email": "artur@arturpaikin.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23906038988692252,
+		"detail": {
+			"quality": 0.39391278873383306,
+			"popularity": 0.012056824154430237,
+			"maintenance": 0.3333333280363487
+		}
+	},
+	"searchScore": 1.7398422e-7
+}

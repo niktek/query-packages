@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@svelte-spice/layout",
+		"scope": "svelte-spice",
+		"version": "1.0.0-next.4",
+		"description": "Layout and navigation controls for svelte",
+		"date": "2022-12-22T04:13:17.825Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-spice%2Flayout"
+		},
+		"author": {
+			"name": "Jerry Thomas",
+			"email": "me@jerrythomas.name",
+			"username": "jerrythomas"
+		},
+		"publisher": {
+			"username": "jerrythomas",
+			"email": "me@jerrythomas.name"
+		},
+		"maintainers": [
+			{
+				"username": "jerrythomas",
+				"email": "me@jerrythomas.name"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3307778995397743,
+		"detail": {
+			"quality": 0.7095566954747321,
+			"popularity": 0.0036471546966406827,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 0.000010859418
+}

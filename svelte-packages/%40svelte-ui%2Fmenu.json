@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@svelte-ui/menu",
+		"scope": "svelte-ui",
+		"version": "0.0.1",
+		"description": "[![npm package](https://img.shields.io/npm/v/@svelte-ui/menu/latest.svg)](https://www.npmjs.com/package/@svelte-ui/menu) [![npm downloads](https://img.shields.io/npm/dm/@svelte-ui/menu.svg)](https://www.npmjs.com/package/@svelte-ui/menu)",
+		"date": "2019-10-04T07:51:28.337Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-ui%2Fmenu"
+		},
+		"author": {
+			"name": "Sebastian Silbermann",
+			"email": "silbermann.sebastian@gmail.com",
+			"username": "eps1lon"
+		},
+		"publisher": {
+			"username": "eps1lon",
+			"email": "silbermann.sebastian@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "eps1lon",
+				"email": "silbermann.sebastian@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16741088006818367,
+		"detail": {
+			"quality": 0.4324771357207947,
+			"popularity": 0.017880414896966262,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.5809253e-9
+}

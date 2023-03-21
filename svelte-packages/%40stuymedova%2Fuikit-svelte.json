@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@stuymedova/uikit-svelte",
+		"scope": "stuymedova",
+		"version": "0.0.5",
+		"description": "[WIP] UIKit Component Library — Svelte implementation",
+		"keywords": [
+			"uikit",
+			"component library",
+			"ui components",
+			"svelte",
+			"sveltejs"
+		],
+		"date": "2022-11-17T14:47:44.220Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40stuymedova%2Fuikit-svelte",
+			"homepage": "https://github.com/stuymedova/uikit-svelte#readme",
+			"repository": "https://github.com/stuymedova/uikit-svelte",
+			"bugs": "https://github.com/stuymedova/uikit-svelte/issues"
+		},
+		"publisher": {
+			"username": "stuymedova",
+			"email": "stuymedova@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "stuymedova",
+				"email": "stuymedova@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2384486473106792,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0019443605977859507,
+			"maintenance": 0.33292298992923514
+		}
+	},
+	"searchScore": 1.4241438e-7
+}

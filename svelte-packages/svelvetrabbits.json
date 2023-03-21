@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelvetrabbits",
+		"scope": "unscoped",
+		"version": "4.10.3",
+		"description": "A lightweight Svelte component library for building interactive node-based flow diagrams dev testing",
+		"keywords": [
+			"svelte",
+			"svelvet",
+			"typescript"
+		],
+		"date": "2023-01-05T04:33:05.495Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelvetrabbits",
+			"homepage": "https://github.com/open-source-labs/Svelvet",
+			"repository": "https://github.com/open-source-labs/Svelvet",
+			"bugs": "https://github.com/open-source-labs/Svelvet/issues"
+		},
+		"publisher": {
+			"username": "taylien96",
+			"email": "tay10alan60@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "taylien96",
+				"email": "tay10alan60@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28518143759856635,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.02818214824938083,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.799819e-7
+}

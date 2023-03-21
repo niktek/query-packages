@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "boost-forms",
+		"scope": "unscoped",
+		"version": "1.9.0",
+		"description": "An opinionated, small form generator library for javascript",
+		"keywords": [
+			"form",
+			"javascript",
+			"react",
+			"svelte"
+		],
+		"date": "2021-07-29T13:26:10.219Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/boost-forms",
+			"homepage": "https://github.com/lgirma/boost-forms",
+			"repository": "https://github.com/lgirma/boost-forms",
+			"bugs": "https://github.com/lgirma/boost-forms/issues"
+		},
+		"author": {
+			"name": "Leone"
+		},
+		"publisher": {
+			"username": "lgirma",
+			"email": "leeman2016@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lgirma",
+				"email": "leeman2016@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20030884959974987,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.001168849454665771,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 6.0616334e-9
+}

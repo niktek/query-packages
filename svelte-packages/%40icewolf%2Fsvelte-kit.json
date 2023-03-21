@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@icewolf/svelte-kit",
+		"scope": "icewolf",
+		"version": "1.0.0-next.483.bleeding.0",
+		"description": "This is the [SvelteKit](https://kit.svelte.dev) framework and CLI.",
+		"date": "2022-09-16T12:34:39.040Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40icewolf%2Fsvelte-kit",
+			"homepage": "https://kit.svelte.dev",
+			"repository": "https://github.com/sveltejs/kit",
+			"bugs": "https://github.com/sveltejs/kit/issues"
+		},
+		"publisher": {
+			"username": "hmnd",
+			"email": "david@hmnd.io"
+		},
+		"maintainers": [
+			{
+				"username": "hmnd",
+				"email": "david@hmnd.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3359467660325374,
+		"detail": {
+			"quality": 0.7303444121419221,
+			"popularity": 0.0017674578008090047,
+			"maintenance": 0.3320709490276504
+		}
+	},
+	"searchScore": 0.000012589689
+}

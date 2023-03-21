@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-navlink-action",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Minimalist Svelte action to inject .active class in route-matched links.",
+		"keywords": [
+			"svelte",
+			"action",
+			"active",
+			"link",
+			"class"
+		],
+		"date": "2022-12-29T18:43:30.214Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-navlink-action",
+			"homepage": "https://github.com/kwhitley/svelte-navlink-action#readme",
+			"repository": "https://github.com/kwhitley/svelte-navlink-action",
+			"bugs": "https://github.com/kwhitley/svelte-navlink-action/issues"
+		},
+		"author": {
+			"name": "Kevin R. Whitley",
+			"email": "krwhitley@gmail.com",
+			"username": "krwhitley"
+		},
+		"publisher": {
+			"username": "krwhitley",
+			"email": "krwhitley@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "krwhitley",
+				"email": "krwhitley@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28481737238260374,
+		"detail": {
+			"quality": 0.5355947797183326,
+			"popularity": 0.021349348001249487,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000001911237
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "tailwind-sveltekit",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "Installs tailwind into your sveltekit project",
+		"date": "2022-11-17T00:58:08.535Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/tailwind-sveltekit"
+		},
+		"author": {
+			"name": "Lorien Danger"
+		},
+		"publisher": {
+			"username": "lorien-danger",
+			"email": "lorien.danger@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lorien-danger",
+				"email": "lorien.danger@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21345601274101886,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.020253527659655296,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 1.3481451e-8
+}

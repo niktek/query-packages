@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-icon-extension",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "TODO",
+		"date": "2022-07-27T11:19:30.406Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-icon-extension"
+		},
+		"author": {
+			"name": "Maxime Boisvert"
+		},
+		"publisher": {
+			"username": "maxiimeeb",
+			"email": "maxiimeeb@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "maxiimeeb",
+				"email": "maxiimeeb@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19897965939508427,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.001707923805054072,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 8.632257e-9
+}

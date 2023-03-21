@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-echarts",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "A simple [ECharts](https://echarts.apache.org/) component for [Svelte](https://svelte.dev/)! Check out this [demo](https://bherbruck.github.io/svelte-echarts/).",
+		"date": "2022-05-02T18:46:45.881Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-echarts"
+		},
+		"publisher": {
+			"username": "bherbruck",
+			"email": "brennen.herbruck@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bherbruck",
+				"email": "brennen.herbruck@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23891621726529397,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.008287950742881517,
+			"maintenance": 0.30261416013532566
+		}
+	},
+	"searchScore": 1.4592754e-7
+}

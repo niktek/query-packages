@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@sveltejs/adapter-cloudflare",
+		"scope": "sveltejs",
+		"version": "2.2.0",
+		"description": "[Adapter](https://kit.svelte.dev/docs/building-your-app) for building SvelteKit applications on [Cloudflare Pages](https://developers.cloudflare.com/pages/) with [Workers integration](https://developers.cloudflare.com/pages/platform/functions).",
+		"date": "2023-03-03T20:26:35.415Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltejs%2Fadapter-cloudflare",
+			"homepage": "https://kit.svelte.dev",
+			"repository": "https://github.com/sveltejs/kit",
+			"bugs": "https://github.com/sveltejs/kit/issues"
+		},
+		"publisher": {
+			"username": "svelte-admin",
+			"email": "richard.a.harris+svelte@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			},
+			{
+				"username": "svelte-admin",
+				"email": "richard.a.harris+svelte@gmail.com"
+			},
+			{
+				"username": "conduitry",
+				"email": "npm@chor.date"
+			},
+			{
+				"username": "dominik_g",
+				"email": "dominik.goepel@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31672674305031395,
+		"detail": {
+			"quality": 0.5947592301918334,
+			"popularity": 0.06180659236027794,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000036547424
+}

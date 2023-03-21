@@ -1,0 +1,61 @@
+{
+	"package": {
+		"name": "@beyonk/svelte-intercom",
+		"scope": "beyonk",
+		"version": "1.1.3",
+		"description": "<p align=\"center\">   <img width=\"186\" height=\"90\" src=\"https://user-images.githubusercontent.com/218949/44782765-377e7c80-ab80-11e8-9dd8-fce0e37c235b.png\" alt=\"Beyonk\" /> </p>",
+		"keywords": [
+			"svelte",
+			"intercom",
+			"widget",
+			"chat",
+			"bot"
+		],
+		"date": "2020-07-04T19:39:48.402Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40beyonk%2Fsvelte-intercom",
+			"homepage": "https://github.com/beyonk-adventures/svelte-intercom#readme",
+			"repository": "https://github.com/beyonk-adventures/svelte-intercom",
+			"bugs": "https://github.com/beyonk-adventures/svelte-intercom/issues"
+		},
+		"publisher": {
+			"username": "antony",
+			"email": "aj@desirableobjects.co.uk"
+		},
+		"maintainers": [
+			{
+				"username": "dextermb",
+				"email": "dexter.mb@outlook.com"
+			},
+			{
+				"username": "ghostsos",
+				"email": "ghostdevbusiness@gmail.com"
+			},
+			{
+				"username": "ahpercival",
+				"email": "adrian.percival@beyonk.com"
+			},
+			{
+				"username": "alex.dilley",
+				"email": "alex.dilley@gmail.com"
+			},
+			{
+				"username": "antony",
+				"email": "aj@desirableobjects.co.uk"
+			},
+			{
+				"username": "adampond",
+				"email": "adam@beyonk.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1716503371545458,
+		"detail": {
+			"quality": 0.4621851698978854,
+			"popularity": 0.004529120134780474,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.9786563e-9
+}

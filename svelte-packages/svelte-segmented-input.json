@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-segmented-input",
+		"scope": "unscoped",
+		"version": "1.6.6",
+		"description": "A simple component for number-only segmented input. Ideal for 2FA codes.",
+		"keywords": [
+			"svelte",
+			"input",
+			"segmented input"
+		],
+		"date": "2022-07-16T14:43:23.463Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-segmented-input",
+			"homepage": "https://github.com/ZuriPL/svelte-segmented-input#readme",
+			"repository": "https://github.com/ZuriPL/svelte-segmented-input",
+			"bugs": "https://github.com/ZuriPL/svelte-segmented-input/issues"
+		},
+		"author": {
+			"name": "zuriii"
+		},
+		"publisher": {
+			"username": "zuriii",
+			"email": "michal.bak222@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "zuriii",
+				"email": "michal.bak222@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27104248882820564,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.004173919311371157,
+			"maintenance": 0.33330347511169395
+		}
+	},
+	"searchScore": 7.7663543e-7
+}

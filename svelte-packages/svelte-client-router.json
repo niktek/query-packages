@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-client-router",
+		"scope": "unscoped",
+		"version": "2.0.2",
+		"description": "## Svelte Client Router makes SPA routes easy!",
+		"keywords": [
+			"svelte",
+			"router",
+			"spa",
+			"client",
+			"route"
+		],
+		"date": "2022-09-14T20:34:56.172Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-client-router",
+			"homepage": "https://arthurgermano.github.io/svelte-client-router/#/svelte-client-router/v2/presentation",
+			"repository": "https://github.com/arthurgermano/svelte-client-router",
+			"bugs": "https://github.com/arthurgermano/svelte-client-router/issues"
+		},
+		"author": {
+			"name": "Arthur José Germano"
+		},
+		"publisher": {
+			"username": "arthurgermano",
+			"email": "arthurgermano@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "arthurgermano",
+				"email": "arthurgermano@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3043936505364835,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.0053108093002229425,
+			"maintenance": 0.3332821551447103
+		}
+	},
+	"searchScore": 0.00000424146
+}

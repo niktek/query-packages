@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "vite-plugin-svelte-svgr",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "Vite plugin to enable normalized SVG imports.",
+		"keywords": [
+			"svg",
+			"vite-plugin",
+			"vite-plugin-svgr",
+			"svelte",
+			"sveltekit",
+			"svgo"
+		],
+		"date": "2022-09-22T22:15:54.613Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-plugin-svelte-svgr",
+			"homepage": "https://github.com/blujedis/vite-plugin-svelte-svgr#readme",
+			"repository": "https://github.com/blujedis/vite-plugin-svelte-svgr",
+			"bugs": "https://github.com/blujedis/vite-plugin-svelte-svgr/issues"
+		},
+		"author": {
+			"name": "Blujedis",
+			"url": "https://github.com/blujedis"
+		},
+		"publisher": {
+			"username": "blujedis",
+			"email": "blujedicorp@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "blujedis",
+				"email": "blujedicorp@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25492663408167493,
+		"detail": {
+			"quality": 0.45895049530327514,
+			"popularity": 0.002904723802899207,
+			"maintenance": 0.3320709490276504
+		}
+	},
+	"searchScore": 2.9564998e-7
+}

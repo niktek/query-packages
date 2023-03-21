@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@ezy/svelte-makina",
+		"scope": "ezy",
+		"version": "2.0.2",
+		"description": "Official Svelte bindings for Makina",
+		"keywords": [
+			"svelte",
+			"state",
+			"state management"
+		],
+		"date": "2021-07-25T19:47:24.990Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ezy%2Fsvelte-makina",
+			"homepage": "https://github.com/ezylean/svelte-makina#readme",
+			"repository": "https://github.com/ezylean/svelte-makina",
+			"bugs": "https://github.com/ezylean/svelte-makina/issues"
+		},
+		"publisher": {
+			"username": "didierdemoniere",
+			"email": "didier.demoniere@ezylean.com"
+		},
+		"maintainers": [
+			{
+				"username": "didierdemoniere",
+				"email": "didier.demoniere@ezylean.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3413072353262987,
+		"detail": {
+			"quality": 0.8999999999999999,
+			"popularity": 0.01889203243184194,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 0.000025869826
+}

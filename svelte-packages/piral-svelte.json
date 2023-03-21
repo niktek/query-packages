@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "piral-svelte",
+		"scope": "unscoped",
+		"version": "0.15.8",
+		"description": "Plugin for integrating Svelte components in Piral.",
+		"keywords": [
+			"piral",
+			"pilet-api",
+			"smapiot",
+			"portal",
+			"modules",
+			"api",
+			"plugin",
+			"plugin-converter",
+			"svelte"
+		],
+		"date": "2023-03-08T09:27:20.006Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/piral-svelte",
+			"homepage": "https://piral.io",
+			"repository": "https://github.com/smapiot/piral",
+			"bugs": "https://github.com/smapiot/piral/issues"
+		},
+		"author": {
+			"name": "smapiot"
+		},
+		"publisher": {
+			"username": "florianrappl",
+			"email": "mail@florian-rappl.de"
+		},
+		"maintainers": [
+			{
+				"username": "florianrappl",
+				"email": "mail@florian-rappl.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24675056799301964,
+		"detail": {
+			"quality": 0.420340307015724,
+			"popularity": 0.01137659777610229,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.6234912e-7
+}

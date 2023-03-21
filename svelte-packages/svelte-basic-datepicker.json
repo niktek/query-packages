@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-basic-datepicker",
+		"scope": "unscoped",
+		"version": "0.0.10",
+		"description": "Simple datepicker!",
+		"date": "2022-10-09T14:16:18.683Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-basic-datepicker"
+		},
+		"publisher": {
+			"username": "thecatatafish87",
+			"email": "inset07.axed@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "thecatatafish87",
+				"email": "inset07.axed@icloud.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20005477374664168,
+		"detail": {
+			"quality": 0.252137645108091,
+			"popularity": 0.02213375299299352,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.149254e-8
+}

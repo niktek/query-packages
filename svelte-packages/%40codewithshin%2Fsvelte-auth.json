@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "@codewithshin/svelte-auth",
+		"scope": "codewithshin",
+		"version": "0.1.7",
+		"description": "Register, Login, Forgot password, Reset password components using Sendgrid and MongoDB.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"tailwindcss",
+			"mongodb",
+			"auth",
+			"login",
+			"registration",
+			"forgot password",
+			"reset password"
+		],
+		"date": "2022-03-15T23:14:50.203Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40codewithshin%2Fsvelte-auth",
+			"homepage": "https://github.com/shinokada/svelte-auth",
+			"repository": "https://github.com/shinokada/svelte-auth",
+			"bugs": "https://github.com/shinokada/svelte-auth/issues"
+		},
+		"author": {
+			"name": "Shinichi Okada",
+			"email": "connect@codewithshin.com",
+			"url": "https://blog.codewithshin.com"
+		},
+		"publisher": {
+			"username": "shinichiokada",
+			"email": "okada.shin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shinichiokada",
+				"email": "okada.shin@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17600045638950912,
+		"detail": {
+			"quality": 0.368716630233646,
+			"popularity": 0.001960593815157559,
+			"maintenance": 0.1848550270974577
+		}
+	},
+	"searchScore": 2.2723086e-9
+}

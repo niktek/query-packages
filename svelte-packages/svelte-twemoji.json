@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-twemoji",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "A simple svelte wrapper for `twemoji`. Now you can just drop `twemoji` action into your component and all emojis will become consistent across all platforms.",
+		"keywords": [
+			"twemoji",
+			"emoji",
+			"DOM",
+			"parser",
+			"images",
+			"retina",
+			"twitter",
+			"unicode"
+		],
+		"date": "2020-11-28T11:51:43.963Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-twemoji"
+		},
+		"author": {
+			"name": "jankiel7410"
+		},
+		"publisher": {
+			"username": "jankiel",
+			"email": "michal.cymbalista@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jankiel",
+				"email": "michal.cymbalista@protonmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1829230994413697,
+		"detail": {
+			"quality": 0.4969965248782887,
+			"popularity": 0.006898708113931491,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.6938395e-9
+}

@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "embla-carousel-autoplay",
+		"scope": "unscoped",
+		"version": "7.1.0",
+		"description": "An autoplay plugin for Embla Carousel",
+		"keywords": [
+			"slider",
+			"carousel",
+			"slideshow",
+			"gallery",
+			"lightweight",
+			"touch",
+			"javascript",
+			"typescript",
+			"react",
+			"vue",
+			"svelte"
+		],
+		"date": "2023-03-08T19:58:02.664Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/embla-carousel-autoplay",
+			"homepage": "https://www.embla-carousel.com",
+			"repository": "https://github.com/davidjerleke/embla-carousel",
+			"bugs": "https://github.com/davidjerleke/embla-carousel/issues"
+		},
+		"author": {
+			"name": "David Jerleke"
+		},
+		"publisher": {
+			"username": "davidjerleke",
+			"email": "david.jerleke@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "davidjerleke",
+				"email": "david.jerleke@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3221575612455087,
+		"detail": {
+			"quality": 0.5724275598253187,
+			"popularity": 0.09646464751784696,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000047100425
+}

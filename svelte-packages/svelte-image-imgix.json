@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-image-imgix",
+		"scope": "unscoped",
+		"version": "1.0.10",
+		"description": "Viewport aware lazy loading imgix images for Svelte",
+		"keywords": [
+			"imgix",
+			"svelte",
+			"lazy",
+			"viewport"
+		],
+		"date": "2022-11-14T15:01:51.021Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-image-imgix",
+			"homepage": "https://github.com/Perspective-Software/svelte-image-imgix#readme",
+			"repository": "https://github.com/Perspective-Software/svelte-image-imgix",
+			"bugs": "https://github.com/Perspective-Software/svelte-image-imgix/issues"
+		},
+		"author": {
+			"name": "Christian Korndoerfer"
+		},
+		"publisher": {
+			"username": "alexdonets",
+			"email": "adonets1995@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "schnubor",
+				"email": "info@chko.org"
+			},
+			{
+				"username": "alexdonets",
+				"email": "adonets1995@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.275492806340368,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.005168238846430635,
+			"maintenance": 0.32866543914143104
+		}
+	},
+	"searchScore": 0.0000010831068
+}

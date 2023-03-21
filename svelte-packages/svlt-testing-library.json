@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svlt-testing-library",
+		"scope": "unscoped",
+		"version": "1.5.1",
+		"description": "Simple and complete Svelte testing utilities that encourage good testing practices.",
+		"date": "2019-05-06T02:07:01.638Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svlt-testing-library"
+		},
+		"publisher": {
+			"username": "benmonro",
+			"email": "ben.monro@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "benmonro",
+				"email": "ben.monro@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3129879119891788,
+		"detail": {
+			"quality": 0.915579306993587,
+			"popularity": 0.019727216437416227,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000013857958
+}

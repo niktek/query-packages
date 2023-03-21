@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "discord-svelte",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "A Discord UI library for Svelte",
+		"date": "2022-10-22T22:12:15.483Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/discord-svelte"
+		},
+		"publisher": {
+			"username": "thecommieaxolotl",
+			"email": "9s9zup5k@duck.com"
+		},
+		"maintainers": [
+			{
+				"username": "thecommieaxolotl",
+				"email": "9s9zup5k@duck.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28194523144308076,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.019287657288583535,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 0.0000015303173
+}

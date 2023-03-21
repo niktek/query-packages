@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svup",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "- ### Elegant - ### Using Svelte actions - ### Full yup support",
+		"keywords": [
+			"svelte",
+			"yup",
+			"validation"
+		],
+		"date": "2022-12-29T15:39:07.945Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svup",
+			"homepage": "https://github.com/FalkaiPeter/svup#readme",
+			"repository": "https://github.com/FalkaiPeter/svup",
+			"bugs": "https://github.com/FalkaiPeter/svup/issues"
+		},
+		"author": {
+			"name": "Falkai Peter"
+		},
+		"publisher": {
+			"username": "falkai_peter",
+			"email": "formal.pfalkai@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "falkai_peter",
+				"email": "formal.pfalkai@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25105090738449254,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.021483200013112484,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.7206924e-7
+}

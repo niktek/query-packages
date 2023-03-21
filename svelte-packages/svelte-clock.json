@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-clock",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "An analog clock for your Svelte apps.",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"svelte-clock",
+			"clock"
+		],
+		"date": "2021-05-04T17:18:27.562Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-clock",
+			"homepage": "https://github.com/Bunlong/svelte-clock",
+			"repository": "https://github.com/Bunlong/svelte-clock"
+		},
+		"author": {
+			"name": "Bunlong"
+		},
+		"publisher": {
+			"username": "bunlong",
+			"email": "bunlong.van@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bunlong",
+				"email": "bunlong.van@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23201521844090195,
+		"detail": {
+			"quality": 0.6081416904986702,
+			"popularity": 0.001503902651019941,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.372993e-7
+}

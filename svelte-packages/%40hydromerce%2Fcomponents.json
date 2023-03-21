@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@hydromerce/components",
+		"scope": "hydromerce",
+		"version": "0.1.4",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-12-26T12:35:24.038Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40hydromerce%2Fcomponents"
+		},
+		"publisher": {
+			"username": "kochmarvin",
+			"email": "marvin.info@gmx.at"
+		},
+		"maintainers": [
+			{
+				"username": "kochmarvin",
+				"email": "marvin.info@gmx.at"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23177820725107207,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.00898744170927281,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.9878003e-8
+}

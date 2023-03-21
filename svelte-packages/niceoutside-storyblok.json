@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "niceoutside-storyblok",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "Everything you need to build a Svelte library, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-03-17T15:00:05.739Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/niceoutside-storyblok"
+		},
+		"publisher": {
+			"username": "timopruesse",
+			"email": "chroma91@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "andre_biel",
+				"email": "andre@no.studio"
+			},
+			{
+				"username": "timopruesse",
+				"email": "chroma91@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23104779188957683,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.006900540676429246,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.8631248e-8
+}

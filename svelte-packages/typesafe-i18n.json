@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "typesafe-i18n",
+		"scope": "unscoped",
+		"version": "5.24.2",
+		"description": "A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.",
+		"keywords": [
+			"i18n",
+			"typescript",
+			"internationalization",
+			"typesafe",
+			"l10n",
+			"localization",
+			"internationalization library",
+			"localization library",
+			"localization engine",
+			"lightweight",
+			"svelte",
+			"react",
+			"angular",
+			"vue",
+			"solid",
+			"nodejs"
+		],
+		"date": "2023-03-02T20:04:15.262Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/typesafe-i18n",
+			"homepage": "https://github.com/ivanhofer/typesafe-i18n",
+			"repository": "https://github.com/ivanhofer/typesafe-i18n",
+			"bugs": "https://github.com/ivanhofer/typesafe-i18n/issues"
+		},
+		"author": {
+			"name": "ivanhofer"
+		},
+		"publisher": {
+			"username": "ivanhofer",
+			"email": "ivan.hofer@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "ivanhofer",
+				"email": "ivan.hofer@outlook.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.41130591790438054,
+		"detail": {
+			"quality": 0.8895361922957907,
+			"popularity": 0.07936683871136205,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000080889135
+}

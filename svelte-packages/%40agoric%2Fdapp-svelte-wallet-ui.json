@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@agoric/dapp-svelte-wallet-ui",
+		"scope": "agoric",
+		"version": "1.10.1",
+		"description": "*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*",
+		"date": "2021-10-13T20:25:45.674Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40agoric%2Fdapp-svelte-wallet-ui"
+		},
+		"author": {
+			"name": "Agoric"
+		},
+		"publisher": {
+			"username": "michaelfig",
+			"email": "michael@fig.org"
+		},
+		"maintainers": [
+			{
+				"username": "jimlarson",
+				"email": "jim@agoric.com"
+			},
+			{
+				"username": "agoricbot",
+				"email": "devops@agoric.com"
+			},
+			{
+				"username": "warner",
+				"email": "warner-npm@lothar.com"
+			},
+			{
+				"username": "erights",
+				"email": "erights@gmail.com"
+			},
+			{
+				"username": "michaelfig",
+				"email": "michael@fig.org"
+			},
+			{
+				"username": "kriskowal",
+				"email": "kris.kowal@cixar.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24877674123512317,
+		"detail": {
+			"quality": 0.41290393569459777,
+			"popularity": 0.023626667439997334,
+			"maintenance": 0.33324636263641366
+		}
+	},
+	"searchScore": 2.0365226e-7
+}

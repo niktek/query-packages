@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@svelte-parts/markdown",
+		"scope": "svelte-parts",
+		"version": "0.0.23",
+		"description": "Markdown blocks in svelte",
+		"keywords": [
+			"svelte",
+			"markdown"
+		],
+		"date": "2022-04-04T21:06:39.010Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-parts%2Fmarkdown",
+			"homepage": "https://github.com/idris-maps/svelte-parts#readme",
+			"repository": "https://github.com/idris-maps/svelte-parts",
+			"bugs": "https://github.com/idris-maps/svelte-parts/issues"
+		},
+		"author": {
+			"name": "idris-maps"
+		},
+		"publisher": {
+			"username": "idris-maps",
+			"email": "idris.maps@gmx.ch"
+		},
+		"maintainers": [
+			{
+				"username": "idris-maps",
+				"email": "idris.maps@gmx.ch"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22123779259756837,
+		"detail": {
+			"quality": 0.3792891023433832,
+			"popularity": 0.019195120037510185,
+			"maintenance": 0.2878079139469282
+		}
+	},
+	"searchScore": 6.681242e-8
+}

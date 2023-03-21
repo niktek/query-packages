@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-virtual-list-enhanced",
+		"scope": "unscoped",
+		"version": "1.2.0",
+		"description": "A <VirtualList> component for Svelte apps",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-07-13T10:48:09.008Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-virtual-list-enhanced"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "tje3d",
+			"email": "tje3d@yahoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "tje3d",
+				"email": "tje3d@yahoo.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18289635349926642,
+		"detail": {
+			"quality": 0.5029873865054335,
+			"popularity": 0.0016872668846552522,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.912473e-9
+}

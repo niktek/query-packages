@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "lottie-svelte",
+		"scope": "unscoped",
+		"version": "1.3.4",
+		"description": "A very simple Svetle wrapper around `lottie-web`, made with TypeScript.",
+		"keywords": [
+			"lottie-svelte",
+			"lottie",
+			"svelte",
+			"component",
+			"animation",
+			"programmatic",
+			"web",
+			"lottie-web"
+		],
+		"date": "2023-02-25T16:34:01.615Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/lottie-svelte",
+			"homepage": "https://github.com/MattDavis00/lottie-svelte",
+			"repository": "https://github.com/MattDavis00/lottie-svelte",
+			"bugs": "https://github.com/MattDavis00/lottie-svelte/issues"
+		},
+		"publisher": {
+			"username": "mattdavis00",
+			"email": "contact@mattdavis.info"
+		},
+		"maintainers": [
+			{
+				"username": "mattdavis00",
+				"email": "contact@mattdavis.info"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2859594443217122,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.03040502460122615,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000022314237
+}

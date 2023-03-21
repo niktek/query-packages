@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "universal-model-svelte",
+		"scope": "unscoped",
+		"version": "0.6.0",
+		"description": "Universal model for Svelte",
+		"keywords": [
+			"Univeral Model",
+			"Svelte"
+		],
+		"date": "2020-03-06T17:52:37.133Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/universal-model-svelte",
+			"homepage": "https://github.com/universal-model/universal-model-svelte#readme",
+			"repository": "https://github.com/universal-model/universal-model-svelte",
+			"bugs": "https://github.com/universal-model/universal-model-svelte/issues"
+		},
+		"author": {
+			"name": "Petri Silen"
+		},
+		"publisher": {
+			"username": "pksilen",
+			"email": "petri.silen@silensoft.com"
+		},
+		"maintainers": [
+			{
+				"username": "pksilen",
+				"email": "petri.silen@silensoft.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21688441623338722,
+		"detail": {
+			"quality": 0.610861689530329,
+			"popularity": 0.006332329246518512,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.50482e-8
+}

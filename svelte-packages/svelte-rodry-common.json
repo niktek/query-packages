@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-rodry-common",
+		"scope": "unscoped",
+		"version": "1.1.3",
+		"description": "Many Svelte components that I commonly use. Some are built by me and others are modified version of existing components to be used with Svelte.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-06-11T18:42:26.862Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-rodry-common"
+		},
+		"publisher": {
+			"username": "rodryquintero",
+			"email": "rodryquintero@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rodryquintero",
+				"email": "rodryquintero@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1954370794240609,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.0025433593471229465,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 1.1589303e-8
+}

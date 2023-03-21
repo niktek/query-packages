@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-transition-classes",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "svelte-transition-classes adds a set of base classes, a set of classes the be on the element at the start of the transition and then a set of classes that replace the initial classes on the initial tick. CSS animations or transitions included in the class",
+		"keywords": [
+			"svelte",
+			"svelte-transition",
+			"tailwindcss"
+		],
+		"date": "2021-12-21T16:37:13.147Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-transition-classes"
+		},
+		"publisher": {
+			"username": "rmarscher",
+			"email": "rob.marscher@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rmarscher",
+				"email": "rob.marscher@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1861527914061937,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.006609193971878874,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 6.3796204e-9
+}

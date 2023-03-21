@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "svelte-kit-isolated-stores",
+		"scope": "unscoped",
+		"version": "1.0.0-alpha.3",
+		"description": "Use stores in SvelteKit during SSR as you are used to from Svelte* without modifying server state.",
+		"keywords": [
+			"svelte",
+			"kit",
+			"svelte-kit",
+			"sveltekit",
+			"sveltejs",
+			"store",
+			"SSR",
+			"isolate",
+			"session"
+		],
+		"date": "2022-07-18T12:59:10.550Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-kit-isolated-stores",
+			"homepage": "https://gitlab.com/x3ro/svelte-kit-isolated-stores#readme",
+			"repository": "https://gitlab.com/x3ro/svelte-kit-isolated-stores",
+			"bugs": "https://gitlab.com/x3ro/svelte-kit-isolated-stores/issues"
+		},
+		"author": {
+			"name": "Björn Richter",
+			"email": "git@x3ro.dev"
+		},
+		"publisher": {
+			"username": "x3ro",
+			"email": "mail+npm@x3ro.dev"
+		},
+		"maintainers": [
+			{
+				"username": "x3ro",
+				"email": "mail+npm@x3ro.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.31010624145476745,
+		"detail": {
+			"quality": 0.7728837357107883,
+			"popularity": 0.0017480000564400972,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 0.000005553035
+}

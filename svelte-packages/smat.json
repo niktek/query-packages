@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "smat",
+		"scope": "unscoped",
+		"version": "0.0.8",
+		"description": "SMAT is a really minimal svelte implementation of [mapbox-gl](https://github.com/mapbox/mapbox-gl-js), written in Typescript. Based on https://gitlab.com/jailbreak/svelte-mapbox-gl/-/tree/master.",
+		"date": "2022-01-15T22:40:34.542Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/smat",
+			"homepage": "https://github.com/zombiefruit/smat#readme",
+			"repository": "https://github.com/zombiefruit/smat",
+			"bugs": "https://github.com/zombiefruit/smat/issues"
+		},
+		"publisher": {
+			"username": "zombiefruit",
+			"email": "kieranw@wix.com"
+		},
+		"maintainers": [
+			{
+				"username": "zombiefruit",
+				"email": "kieranw@wix.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20850169125371137,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0022054059257512718,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 3.760298e-9
+}

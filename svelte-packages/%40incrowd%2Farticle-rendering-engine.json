@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@incrowd/article-rendering-engine",
+		"scope": "incrowd",
+		"version": "2.10.5",
+		"description": "A component for rendering article from the CMS.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-03-17T16:29:35.851Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40incrowd%2Farticle-rendering-engine"
+		},
+		"publisher": {
+			"username": "virgus66",
+			"email": "david.cabala@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "virgus66",
+				"email": "david.cabala@gmail.com"
+			},
+			{
+				"username": "horacekeung",
+				"email": "horacekeung@hotmail.com"
+			},
+			{
+				"username": "josh_clement",
+				"email": "joshclement12@gmail.com"
+			},
+			{
+				"username": "saelora",
+				"email": "connor.macleod@incrowdsports.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20994839970690996,
+		"detail": {
+			"quality": 0.4244496140979512,
+			"popularity": 0.0037798241106134257,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.2820694e-8
+}

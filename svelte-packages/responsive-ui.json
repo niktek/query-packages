@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "responsive-ui",
+		"scope": "unscoped",
+		"version": "1.1.0-alpha.38",
+		"description": "WeTix svelte UI components",
+		"keywords": [
+			"svelte",
+			"ui-component",
+			"responsive-ui",
+			"svelte-responsive-ui"
+		],
+		"date": "2022-10-19T06:32:13.778Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/responsive-ui",
+			"homepage": "https://github.com/wetix/responsive-ui#readme",
+			"repository": "https://github.com/wetix/responsive-ui",
+			"bugs": "https://github.com/wetix/responsive-ui/issues"
+		},
+		"author": {
+			"name": "Si3nLoong",
+			"email": "sianloong90@gmail.com",
+			"url": "https://github.com/si3nloong"
+		},
+		"publisher": {
+			"username": "mohamadharith",
+			"email": "harith@revenuemonster.my"
+		},
+		"maintainers": [
+			{
+				"username": "mohamadharith",
+				"email": "harith@revenuemonster.my"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2495221591345243,
+		"detail": {
+			"quality": 0.4354357954676148,
+			"popularity": 0.007371331351251826,
+			"maintenance": 0.3323184414894335
+		}
+	},
+	"searchScore": 1.4699313e-7
+}

@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-signature-pad",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Svelte Action to capture smoothed signatures as SVG paths using the excellent [perfect-freehand](https://github.com/steveruizok/perfect-freehand) library.",
+		"keywords": [
+			"svelte",
+			"action",
+			"signature",
+			"svg"
+		],
+		"date": "2023-01-26T17:00:41.025Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-signature-pad",
+			"homepage": "https://captaincodeman.github.io/svelte-signature-pad/",
+			"repository": "https://github.com/captaincodeman/svelte-signature-pad",
+			"bugs": "https://github.com/captaincodeman/svelte-signature-pad/issues"
+		},
+		"author": {
+			"name": "Simon Green",
+			"email": "simon@captaincodeman.com",
+			"url": "https://www.captaincodeman.com/",
+			"username": "captaincodeman"
+		},
+		"publisher": {
+			"username": "captaincodeman",
+			"email": "simon@captaincodeman.com"
+		},
+		"maintainers": [
+			{
+				"username": "captaincodeman",
+				"email": "simon@captaincodeman.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24776784883052755,
+		"detail": {
+			"quality": 0.43476815925336065,
+			"popularity": 0.0033434715979273532,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 2.4522143e-7
+}

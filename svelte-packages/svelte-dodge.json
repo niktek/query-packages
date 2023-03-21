@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-dodge",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Make components dodge the pointer.",
+		"date": "2022-10-22T12:30:11.511Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dodge"
+		},
+		"publisher": {
+			"username": "wban314",
+			"email": "limejuicestudio@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wban314",
+				"email": "limejuicestudio@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26363738548609,
+		"detail": {
+			"quality": 0.4660379081226978,
+			"popularity": 0.02045527537889719,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.5004665e-7
+}

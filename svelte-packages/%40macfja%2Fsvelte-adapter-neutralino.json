@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@macfja/svelte-adapter-neutralino",
+		"scope": "macfja",
+		"version": "0.3.0",
+		"description": "SvelteKit adapter to generate a Neutralinojs application",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"sveltekit-adapter",
+			"neutralino",
+			"neutralinojs"
+		],
+		"date": "2022-01-22T14:12:07.990Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40macfja%2Fsvelte-adapter-neutralino",
+			"homepage": "https://github.com/macfja/svelte-adapter-neutralino#readme",
+			"repository": "https://github.com/macfja/svelte-adapter-neutralino",
+			"bugs": "https://github.com/macfja/svelte-adapter-neutralino/issues"
+		},
+		"author": {
+			"name": "MacFJA"
+		},
+		"publisher": {
+			"username": "macfja",
+			"email": "macfja@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "macfja",
+				"email": "macfja@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19363414226222525,
+		"detail": {
+			"quality": 0.4244496140979511,
+			"popularity": 0.018701664379612116,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 1.0557215e-8
+}

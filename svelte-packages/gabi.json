@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "gabi",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "https://dev.to/agustinl/creating-a-package-for-svelte-262n",
+		"date": "2022-11-22T01:32:57.846Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/gabi"
+		},
+		"publisher": {
+			"username": "hyperglu",
+			"email": "gabilungu@mac.com"
+		},
+		"maintainers": [
+			{
+				"username": "hyperglu",
+				"email": "gabilungu@mac.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26996506213727794,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.002138573763678048,
+			"maintenance": 0.33226045868530796
+		}
+	},
+	"searchScore": 1.4083572e-7
+}

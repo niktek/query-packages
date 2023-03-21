@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-supabase-lazy-images",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Lazyload images from Supabase using Svelte",
+		"keywords": [
+			"svelte",
+			"supabase",
+			"lazyload"
+		],
+		"date": "2021-08-29T13:39:17.161Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-supabase-lazy-images"
+		},
+		"author": {
+			"name": "mitcheljager",
+			"email": "mitchel_jager@hotmail.com",
+			"username": "mitcheljager"
+		},
+		"publisher": {
+			"username": "mitcheljager",
+			"email": "mitchel_jager@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mitcheljager",
+				"email": "mitchel_jager@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21158376478579474,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 3.1760006e-8
+}

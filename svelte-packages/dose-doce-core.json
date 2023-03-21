@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "dose-doce-core",
+		"scope": "unscoped",
+		"version": "1.0.8-alpha.0",
+		"description": "The core of the wallet adapter is a Svelte Store which exposes methods and properties to run the wallet in your application. This allows to share this data among all components in your application.",
+		"keywords": [
+			"svelte",
+			"wallet",
+			"adapter",
+			"wallet-adapter",
+			"solana"
+		],
+		"date": "2022-12-10T10:25:51.498Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/dose-doce-core",
+			"homepage": "https://github.com/svelte-on-solana/wallet-adapter#readme",
+			"repository": "https://github.com/svelte-on-solana/wallet-adapter",
+			"bugs": "https://github.com/svelte-on-solana/wallet-adapter/issues"
+		},
+		"author": {
+			"name": "Svelte on Solana"
+		},
+		"publisher": {
+			"username": "binyebarwe",
+			"email": "binyebarwe@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "binyebarwe",
+				"email": "binyebarwe@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27194025838252756,
+		"detail": {
+			"quality": 0.4969965248782887,
+			"popularity": 0.019068899782274648,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 3.8860884e-7
+}

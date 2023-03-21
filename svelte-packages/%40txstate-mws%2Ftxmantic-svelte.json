@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@txstate-mws/txmantic-svelte",
+		"scope": "txstate-mws",
+		"version": "1.0.4",
+		"description": "Svelte components that depend on our branded version of fomantic UI.",
+		"date": "2022-04-28T16:04:01.424Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40txstate-mws%2Ftxmantic-svelte"
+		},
+		"author": {
+			"name": "Nick Wing"
+		},
+		"publisher": {
+			"username": "wickning1",
+			"email": "wickning1@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wickning1",
+				"email": "wickning1@gmail.com"
+			},
+			{
+				"username": "jsnider",
+				"email": "jsnider@txstate.edu"
+			},
+			{
+				"username": "rmcew",
+				"email": "ram146@txstate.edu"
+			}
+		]
+	},
+	"score": {
+		"final": 0.36607407634391903,
+		"detail": {
+			"quality": 0.8105802889442291,
+			"popularity": 0.021024695703659953,
+			"maintenance": 0.3301181318981981
+		}
+	},
+	"searchScore": 0.000044734206
+}

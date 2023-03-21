@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "sveltekit-paginated-datatable",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Sveltekit Paginated Datatable",
+		"date": "2023-01-31T14:56:25.966Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-paginated-datatable",
+			"homepage": "https://github.com/ftognetto/sveltekit-paginated-datatable#readme",
+			"repository": "https://github.com/ftognetto/sveltekit-paginated-datatable",
+			"bugs": "https://github.com/ftognetto/sveltekit-paginated-datatable/issues"
+		},
+		"author": {
+			"name": "fabriziotognetto",
+			"email": "info@quantos.it",
+			"username": "quantosapplications"
+		},
+		"publisher": {
+			"username": "quantosapplications",
+			"email": "info@quantos.it"
+		},
+		"maintainers": [
+			{
+				"username": "quantosapplications",
+				"email": "info@quantos.it"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22448107899970937,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.007022229726181308,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.226652e-8
+}

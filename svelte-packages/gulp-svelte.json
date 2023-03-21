@@ -1,0 +1,58 @@
+{
+	"package": {
+		"name": "gulp-svelte",
+		"scope": "unscoped",
+		"version": "0.8.0",
+		"description": "A gulp plugin to compile Svelte templates to JavaScript",
+		"keywords": [
+			"gulpplugin",
+			"gulp",
+			"svelte",
+			"html",
+			"template",
+			"transform",
+			"transformer",
+			"template",
+			"contents",
+			"compile",
+			"compiler",
+			"preprocess",
+			"vanilla",
+			"fast",
+			"purify"
+		],
+		"date": "2018-12-17T09:01:59.954Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/gulp-svelte",
+			"homepage": "https://github.com/shinnn/gulp-svelte#readme",
+			"repository": "https://github.com/shinnn/gulp-svelte",
+			"bugs": "https://github.com/shinnn/gulp-svelte/issues"
+		},
+		"author": {
+			"name": "Shinnosuke Watanabe",
+			"url": "https://github.com/shinnn"
+		},
+		"publisher": {
+			"username": "shinnn",
+			"email": "snnskwtnb@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shinnn",
+				"email": "snnskwtnb@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1734921163551716,
+		"detail": {
+			"quality": 0.46419674529710386,
+			"popularity": 0.008067138937238231,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.7104472e-9
+}

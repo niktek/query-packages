@@ -1,0 +1,30 @@
+{
+	"package": {
+		"name": "nightingale-svelte",
+		"scope": "unscoped",
+		"version": "1.63.2",
+		"date": "2023-03-20T18:25:01.437Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/nightingale-svelte"
+		},
+		"publisher": {
+			"username": "saharulit",
+			"email": "saharulit@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "saharulit",
+				"email": "saharulit@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18370011658967444,
+		"detail": {
+			"quality": 0.19771492948031827,
+			"popularity": 0.022054203082606572,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.0295114e-9
+}

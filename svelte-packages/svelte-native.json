@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-native",
+		"scope": "unscoped",
+		"version": "1.0.5",
+		"description": "Svelte integration for NativeScript",
+		"keywords": [
+			"nativescript",
+			"svelte"
+		],
+		"date": "2022-10-25T23:10:06.543Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-native",
+			"homepage": "https://github.com/halfnelson/svelte-native",
+			"repository": "https://github.com/halfnelson/svelte-native",
+			"bugs": "https://github.com/halfnelson/svelte-native/issues"
+		},
+		"author": {
+			"name": "David Pershouse"
+		},
+		"publisher": {
+			"username": "halfnelson",
+			"email": "dpershouse@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "halfnelson",
+				"email": "dpershouse@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2845782030923524,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.03399541127924964,
+			"maintenance": 0.33177859359406153
+		}
+	},
+	"searchScore": 0.0000024238475
+}

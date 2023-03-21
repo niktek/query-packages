@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@mbeineris/svelte-switch",
+		"scope": "mbeineris",
+		"version": "1.0.0",
+		"description": "Sveltev3 switch component",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-08-25T12:57:29.830Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mbeineris%2Fsvelte-switch",
+			"homepage": "https://github.com/mbeineris/svelte-switch#readme",
+			"repository": "https://github.com/mbeineris/svelte-switch",
+			"bugs": "https://github.com/mbeineris/svelte-switch/issues"
+		},
+		"author": {
+			"name": "Marius Beineris"
+		},
+		"publisher": {
+			"username": "mbeineris",
+			"email": "mariusbeineris@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mbeineris",
+				"email": "mariusbeineris@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.188348436583138,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0010901173098212791,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.3601214e-9
+}

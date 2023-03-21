@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-selectbox",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "A simple selectbox library with custom dropdown placements. [Demos](https://svelte-selectbox.onrender.com/)",
+		"date": "2022-02-02T13:09:20.880Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-selectbox"
+		},
+		"author": {
+			"name": "David Ding",
+			"email": "david.ding@outlook.com",
+			"username": "david.ding"
+		},
+		"publisher": {
+			"username": "david.ding",
+			"email": "david.ding@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "david.ding",
+				"email": "david.ding@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19551254805317597,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0020487017717155816,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 9.8696855e-9
+}

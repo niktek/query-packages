@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "@agoric/dapp-svelte-wallet",
+		"scope": "agoric",
+		"version": "0.11.4",
+		"date": "2021-09-23T02:08:16.397Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40agoric%2Fdapp-svelte-wallet"
+		},
+		"author": {
+			"name": "Agoric"
+		},
+		"publisher": {
+			"username": "michaelfig",
+			"email": "michael@fig.org"
+		},
+		"maintainers": [
+			{
+				"username": "jimlarson",
+				"email": "jim@agoric.com"
+			},
+			{
+				"username": "agoricbot",
+				"email": "devops@agoric.com"
+			},
+			{
+				"username": "warner",
+				"email": "warner-npm@lothar.com"
+			},
+			{
+				"username": "erights",
+				"email": "erights@gmail.com"
+			},
+			{
+				"username": "michaelfig",
+				"email": "michael@fig.org"
+			},
+			{
+				"username": "kriskowal",
+				"email": "kris.kowal@cixar.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3153702507398296,
+		"detail": {
+			"quality": 0.6289709984822165,
+			"popularity": 0.02868747438324741,
+			"maintenance": 0.333252386174366
+		}
+	},
+	"searchScore": 0.000005378069
+}

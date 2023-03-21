@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-supabase",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Adds Supabase to Svelte ----------------------",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"svelte-kit",
+			"supabase"
+		],
+		"date": "2021-07-02T11:26:58.657Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-supabase"
+		},
+		"publisher": {
+			"username": "joshnuss",
+			"email": "joshnuss@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "joshnuss",
+				"email": "joshnuss@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16519387548426956,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0017324284403554362,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.3791814e-9
+}

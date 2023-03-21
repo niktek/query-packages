@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@bobbymannino/svelte-progress",
+		"scope": "bobbymannino",
+		"version": "2.3.0",
+		"description": "## **Description**",
+		"date": "2022-12-10T11:13:56.656Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bobbymannino%2Fsvelte-progress"
+		},
+		"publisher": {
+			"username": "bobbymannino",
+			"email": "manninobobby@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "bobbymannino",
+				"email": "manninobobby@icloud.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2534986488308582,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.0058250114617124545,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.49911e-7
+}

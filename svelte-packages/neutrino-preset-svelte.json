@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "neutrino-preset-svelte",
+		"scope": "unscoped",
+		"version": "5.0.0",
+		"description": "Neutrino preset for Svelte applications",
+		"keywords": [
+			"svelte",
+			"neutrino",
+			"preset",
+			"neutrino-preset",
+			"webpack"
+		],
+		"date": "2018-01-22T00:00:17.733Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/neutrino-preset-svelte",
+			"homepage": "https://github.com/constgen/neutrino-preset-svelte",
+			"repository": "https://github.com/constgen/neutrino-preset-svelte",
+			"bugs": "https://github.com/constgen/neutrino-preset-svelte/issues"
+		},
+		"author": {
+			"name": "Constantine Genchevsky",
+			"email": "const.gen@gmail.com",
+			"username": "constgen"
+		},
+		"publisher": {
+			"username": "constgen",
+			"email": "const.gen@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "constgen",
+				"email": "const.gen@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20434623859439555,
+		"detail": {
+			"quality": 0.5544221770842539,
+			"popularity": 0.018885689517463847,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.7305356e-8
+}

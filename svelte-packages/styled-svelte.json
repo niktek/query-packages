@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "styled-svelte",
+		"scope": "unscoped",
+		"version": "1.2.0",
+		"description": "Svelte styled components package",
+		"keywords": [
+			"styles",
+			"svelte",
+			"styled-components",
+			"css",
+			"css-in-js"
+		],
+		"date": "2022-12-20T06:55:43.561Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/styled-svelte",
+			"homepage": "https://github.com/vanzinvestor/styled-svelte",
+			"repository": "https://github.com/vanzinvestor/styled-svelte",
+			"bugs": "https://github.com/vanzinvestor/styled-svelte/issues"
+		},
+		"author": {
+			"name": "Vanz Investor",
+			"email": "vanzinvestor@gmail.com",
+			"username": "vanzinvestor"
+		},
+		"publisher": {
+			"username": "vanzinvestor",
+			"email": "vanzinvestor@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vanzinvestor",
+				"email": "vanzinvestor@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2835715355335476,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.023582428063612975,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000020193997
+}

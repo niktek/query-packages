@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@tuentyfaiv/svelte-modal",
+		"scope": "tuentyfaiv",
+		"version": "0.0.4",
+		"description": "A library for modals in svelte",
+		"keywords": [
+			"Svelte",
+			"Modal"
+		],
+		"date": "2023-01-30T01:56:03.445Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tuentyfaiv%2Fsvelte-modal",
+			"homepage": "https://github.com/TuentyFaiv/svelte-modal#readme",
+			"repository": "https://github.com/TuentyFaiv/svelte-modal",
+			"bugs": "https://github.com/TuentyFaiv/svelte-modal/issues"
+		},
+		"author": {
+			"name": "Tonalli López",
+			"email": "contact@tuentyfaiv.com",
+			"username": "tuentyfaiv"
+		},
+		"publisher": {
+			"username": "tuentyfaiv",
+			"email": "contact@tuentyfaiv.com"
+		},
+		"maintainers": [
+			{
+				"username": "tuentyfaiv",
+				"email": "contact@tuentyfaiv.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23972545075151158,
+		"detail": {
+			"quality": 0.40107365107630855,
+			"popularity": 0.007819110748435354,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.6878646e-7
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "create-sveltekit-app",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "A simple package to help newcomers create Svelte apps by using the correct command.",
+		"date": "2022-07-23T21:30:50.331Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-sveltekit-app"
+		},
+		"author": {
+			"name": "svemat01"
+		},
+		"publisher": {
+			"username": "svemat01",
+			"email": "jakob.helgesson@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "svemat01",
+				"email": "jakob.helgesson@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19709783832776095,
+		"detail": {
+			"quality": 0.38439491835083117,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 5.063349e-9
+}

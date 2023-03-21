@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "@7y1o/svelte-capacitor-safe-store",
+		"scope": "7y1o",
+		"version": "0.1.0",
+		"description": "Capacitor storage with safety JSON storing",
+		"keywords": [
+			"capacitor",
+			"storage",
+			"store",
+			"crypt",
+			"crypto",
+			"types",
+			"typescript",
+			"ts",
+			"cap",
+			"7y1o"
+		],
+		"date": "2022-05-20T03:14:25.815Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%407y1o%2Fsvelte-capacitor-safe-store",
+			"homepage": "https://github.com/7y1o/svelte-capacitor-safe-store",
+			"repository": "https://github.com/7y1o/svelte-capacitor-safe-store",
+			"bugs": "https://github.com/7y1o/svelte-capacitor-safe-store/issues"
+		},
+		"author": {
+			"name": "7y1o",
+			"email": "tdesu.webdesign@gmail.com"
+		},
+		"publisher": {
+			"username": "7y1o",
+			"email": "tylodesu@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "7y1o",
+				"email": "tylodesu@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24297025991198185,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0031951606044918483,
+			"maintenance": 0.32853380853478065
+		}
+	},
+	"searchScore": 1.1228791e-7
+}

@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@tanstack/svelte-query",
+		"scope": "tanstack",
+		"version": "4.27.0",
+		"description": "Primitives for managing, caching and syncing asynchronous and remote data in Svelte",
+		"date": "2023-03-17T15:44:56.214Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tanstack%2Fsvelte-query",
+			"homepage": "https://tanstack.com/query",
+			"repository": "https://github.com/tanstack/query",
+			"bugs": "https://github.com/tanstack/query/issues"
+		},
+		"author": {
+			"name": "Dre Johnson"
+		},
+		"publisher": {
+			"username": "tannerlinsley",
+			"email": "tannerlinsley@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nksaraf",
+				"email": "nsaraf98@gmail.com"
+			},
+			{
+				"username": "tannerlinsley",
+				"email": "tannerlinsley@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.37886166793110065,
+		"detail": {
+			"quality": 0.8110438523129458,
+			"popularity": 0.0539481302015722,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00009278024
+}

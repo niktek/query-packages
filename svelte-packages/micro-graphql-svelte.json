@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "micro-graphql-svelte",
+		"scope": "unscoped",
+		"version": "0.2.4",
+		"description": "[![npm version](https://img.shields.io/npm/v/micro-graphql-svelte.svg?style=flat)](https://www.npmjs.com/package/micro-graphql-svelte) [![codecov](https://codecov.io/gh/arackaf/micro-graphql-svelte/branch/master/graph/badge.svg?token=S472K5LJE1)](https://",
+		"date": "2022-04-11T16:26:22.120Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/micro-graphql-svelte",
+			"homepage": "https://github.com/arackaf/micro-graphql-react",
+			"repository": "https://github.com/arackaf/micro-graphql-react",
+			"bugs": "https://github.com/arackaf/micro-graphql-react/issues"
+		},
+		"author": {
+			"name": "Adam Rackis"
+		},
+		"publisher": {
+			"username": "arackaf",
+			"email": "adamrackis@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "arackaf",
+				"email": "adamrackis@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24913227098748147,
+		"detail": {
+			"quality": 0.5199522807360968,
+			"popularity": 0.007731530388190709,
+			"maintenance": 0.25840157465938773
+		}
+	},
+	"searchScore": 2.3660216e-7
+}

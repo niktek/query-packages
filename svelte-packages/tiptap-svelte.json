@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "tiptap-svelte",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "A rich-text editor for Svelte",
+		"date": "2020-01-29T18:15:39.324Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/tiptap-svelte",
+			"homepage": "https://github.com/justinmoon/tiptap-svelte#readme",
+			"repository": "https://github.com/justinmoon/tiptap-svelte",
+			"bugs": "https://github.com/justinmoon/tiptap-svelte/issues"
+		},
+		"publisher": {
+			"username": "justinmoon",
+			"email": "mail@justinmoon.com"
+		},
+		"maintainers": [
+			{
+				"username": "justinmoon",
+				"email": "mail@justinmoon.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19433458167295137,
+		"detail": {
+			"quality": 0.5213303137042602,
+			"popularity": 0.01864540978190358,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.28178135e-8
+}

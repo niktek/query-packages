@@ -1,0 +1,131 @@
+{
+	"package": {
+		"name": "@nativescript-community/ui-pager",
+		"scope": "nativescript-community",
+		"version": "14.1.1",
+		"description": "A NativeScript Pager / Carousel component that allows the user to swipe left and right through pages of data.",
+		"keywords": [
+			"NativeScript",
+			"JavaScript",
+			"Android",
+			"iOS",
+			"pager",
+			"viewpager",
+			"UIPageViewController",
+			"slides",
+			"Carousel",
+			"ng",
+			"angular",
+			"vue",
+			"vue.js",
+			"react",
+			"svelte",
+			"nativescript-angular",
+			"nativescript-vue",
+			"preview|https://raw.githubusercontent.com/nativescript-community/ui-pager/master/images/demo-ios.gif|iOS Demo",
+			"preview|https://raw.githubusercontent.com/nativescript-community/ui-pager/master/images/demo-android.gif|Android Demo"
+		],
+		"date": "2023-01-28T12:35:34.564Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nativescript-community%2Fui-pager",
+			"homepage": "https://github.com/nativescript-community/ui-pager#readme",
+			"repository": "https://github.com/nativescript-community/ui-pager",
+			"bugs": "https://github.com/nativescript-community/ui-pager/issues"
+		},
+		"author": {
+			"name": "Martin Guillon",
+			"email": "martin@akylas.fr"
+		},
+		"publisher": {
+			"username": "farfromrefuge",
+			"email": "martin.guillon@akylas.fr"
+		},
+		"maintainers": [
+			{
+				"username": "dgmachado",
+				"email": "douglassmachado@live.com"
+			},
+			{
+				"username": "classicoldsong",
+				"email": "syqlds@126.com"
+			},
+			{
+				"username": "mayerlench",
+				"email": "mlench@finitydevelopment.com"
+			},
+			{
+				"username": "jcassidyav",
+				"email": "jcassidyav@gmail.com"
+			},
+			{
+				"username": "sebjean",
+				"email": "contact@sebjean.com"
+			},
+			{
+				"username": "cjohn001",
+				"email": "christoph_john@gmx.de"
+			},
+			{
+				"username": "edusperoni",
+				"email": "edusperoni@gmail.com"
+			},
+			{
+				"username": "asharghi",
+				"email": "a.sharghi.mail@gmail.com"
+			},
+			{
+				"username": "farfromrefuge",
+				"email": "martin.guillon@akylas.fr"
+			},
+			{
+				"username": "triniwiz",
+				"email": "fortune.osei@yahoo.com"
+			},
+			{
+				"username": "eddyverbruggen",
+				"email": "eddyverbruggen@gmail.com"
+			},
+			{
+				"username": "rigor789",
+				"email": "shout@igor-randjelovic.com"
+			},
+			{
+				"username": "walkerrunpdx",
+				"email": "walkerrunpdx@gmail.com"
+			},
+			{
+				"username": "dnr",
+				"email": "katsampasdr@gmail.com"
+			},
+			{
+				"username": "keerl",
+				"email": "karlschmaltz@gmail.com"
+			},
+			{
+				"username": "cvietor",
+				"email": "cv@chris-vietor.de"
+			},
+			{
+				"username": "bradmartin",
+				"email": "bradwaynemartin@gmail.com"
+			},
+			{
+				"username": "rdlabo",
+				"email": "sakakibara@rdlabo.jp"
+			},
+			{
+				"username": "tralves",
+				"email": "tralves@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30105433734644266,
+		"detail": {
+			"quality": 0.605223017714755,
+			"popularity": 0.008059329615284407,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.5627638e-7
+}

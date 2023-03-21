@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-runner",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Run svelte components.  Zero configuration necessary.",
+		"keywords": [
+			"svelte",
+			"runner",
+			"component"
+		],
+		"date": "2020-12-01T18:41:22.555Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-runner",
+			"homepage": "https://github.com/Vehmloewff/svelte-runner",
+			"repository": "https://github.com/Vehmloewff/svelte-runner",
+			"bugs": "https://github.com/Vehmloewff/svelte-runner/issues"
+		},
+		"author": {
+			"name": "Vehmloewff",
+			"url": "https://github.com/Vehmloewff"
+		},
+		"publisher": {
+			"username": "vehmloewff",
+			"email": "ejsisgreat@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vehmloewff",
+				"email": "ejsisgreat@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1642253628997889,
+		"detail": {
+			"quality": 0.4412719742964627,
+			"popularity": 0.001240504208122975,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.279164e-9
+}

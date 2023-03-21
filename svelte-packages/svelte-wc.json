@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-wc",
+		"scope": "unscoped",
+		"version": "0.1.8",
+		"description": "<center>\r <img src=\"./svelte-wc.png\"  width=\"100%\"/> \r </center>\r ## Recommended IDE Setup",
+		"date": "2022-01-15T08:14:31.480Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-wc"
+		},
+		"publisher": {
+			"username": "codemunha",
+			"email": "codemunha@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "codemunha",
+				"email": "codemunha@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17647090261152834,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.0029507077731333224,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 2.3619267e-9
+}

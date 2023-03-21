@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@abineo/sveltekit-i18n",
+		"scope": "abineo",
+		"version": "2.1.1",
+		"description": "Vite Plugin to transpile JSON into TypeScript for Sveltekit.",
+		"keywords": [
+			"i18n",
+			"typscript",
+			"sveltekit",
+			"l10n"
+		],
+		"date": "2023-02-23T12:45:08.762Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40abineo%2Fsveltekit-i18n",
+			"homepage": "https://github.com/abineo-ag/sveltekit-i18n#readme",
+			"repository": "https://github.com/abineo-ag/sveltekit-i18n",
+			"bugs": "https://github.com/abineo-ag/sveltekit-i18n/issues"
+		},
+		"publisher": {
+			"username": "christoph-jeanluc-schneider",
+			"email": "christoph.schneider@abineo.com"
+		},
+		"maintainers": [
+			{
+				"username": "christoph-jeanluc-schneider",
+				"email": "christoph.schneider@abineo.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2722105887101627,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.007481489323894675,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.809272e-7
+}

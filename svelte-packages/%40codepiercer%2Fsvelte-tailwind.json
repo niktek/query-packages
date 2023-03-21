@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@codepiercer/svelte-tailwind",
+		"scope": "codepiercer",
+		"version": "0.7.1",
+		"description": "A collection of reusable svelte components designed with tailwind css.",
+		"date": "2023-03-16T21:28:11.092Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40codepiercer%2Fsvelte-tailwind",
+			"homepage": "https://github.com/codepiercer/svelte-tailwind#readme",
+			"repository": "https://github.com/codepiercer/svelte-tailwind",
+			"bugs": "https://github.com/codepiercer/svelte-tailwind/issues"
+		},
+		"publisher": {
+			"username": "jana19",
+			"email": "jana19.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jana19",
+				"email": "jana19.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22645635624284477,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.024823009697809484,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.1811066e-8
+}

@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@meerkat-ml/meerkat",
+		"scope": "meerkat-ml",
+		"version": "0.4.3",
+		"description": "The Meerkat Svelte Library",
+		"date": "2023-03-12T05:57:45.787Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40meerkat-ml%2Fmeerkat"
+		},
+		"publisher": {
+			"username": "chessmaster321",
+			"email": "es@eyuboglu.us"
+		},
+		"maintainers": [
+			{
+				"username": "chessmaster321",
+				"email": "es@eyuboglu.us"
+			},
+			{
+				"username": "krandiash",
+				"email": "kgoel@cs.stanford.edu"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2658097667156994,
+		"detail": {
+			"quality": 0.4806317352562367,
+			"popularity": 0.014153084206176392,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.5554313e-7
+}

@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@frickegroup/ui",
+		"scope": "frickegroup",
+		"version": "0.2.448",
+		"keywords": [
+			"custom-element",
+			"frickegroup",
+			"frix",
+			"storybook",
+			"svelte",
+			"svelte-component",
+			"ui"
+		],
+		"date": "2023-03-20T14:20:51.705Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40frickegroup%2Fui"
+		},
+		"author": {
+			"name": "Alexander Niebuhr",
+			"email": "tech@nbhr.io"
+		},
+		"publisher": {
+			"username": "finn-vgtl",
+			"email": "finn.voigtlaender@googlemail.com"
+		},
+		"maintainers": [
+			{
+				"username": "frixinnolab",
+				"email": "frix.tech@fricke.de"
+			},
+			{
+				"username": "finn-vgtl",
+				"email": "finn.voigtlaender@googlemail.com"
+			},
+			{
+				"username": "alexanderniebuhr",
+				"email": "alexander@nbhr.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19492045105217592,
+		"detail": {
+			"quality": 0.2466755199246849,
+			"popularity": 0.012146081166010894,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.882785e-9
+}

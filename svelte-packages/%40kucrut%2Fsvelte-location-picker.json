@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@kucrut/svelte-location-picker",
+		"scope": "kucrut",
+		"version": "0.1.4",
+		"description": "Simple location picker for Svelte projects.",
+		"keywords": [
+			"form",
+			"geolocation",
+			"leaflet",
+			"map",
+			"svelte"
+		],
+		"date": "2022-12-08T17:58:35.526Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kucrut%2Fsvelte-location-picker",
+			"homepage": "https://kucrut.gitlab.io/svelte-location-picker",
+			"repository": "https://gitlab.com/kucrut/svelte-location-picker",
+			"bugs": "https://gitlab.com/kucrut/svelte-location-picker/-/issues"
+		},
+		"publisher": {
+			"username": "kucrut",
+			"email": "dzikri.aziz@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kucrut",
+				"email": "dzikri.aziz@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2659154944173392,
+		"detail": {
+			"quality": 0.4946181556581559,
+			"popularity": 0.002467173576163465,
+			"maintenance": 0.33333296276638635
+		}
+	},
+	"searchScore": 6.0077156e-7
+}

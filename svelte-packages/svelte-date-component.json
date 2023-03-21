@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-date-component",
+		"scope": "unscoped",
+		"version": "1.2.2",
+		"description": "A svelte component for displaying the amount of elapsed time since a given date.",
+		"keywords": [
+			"svelte",
+			"date",
+			"automatic",
+			"component"
+		],
+		"date": "2019-05-28T23:35:42.731Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-date-component",
+			"bugs": "https://github.com/Vehmloewff/svelte-date-component/issues"
+		},
+		"author": {
+			"name": "Vehmloewff"
+		},
+		"publisher": {
+			"username": "vehmloewff",
+			"email": "ejsisgreat@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vehmloewff",
+				"email": "ejsisgreat@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18489499096166057,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0015999886957733678,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.7214153e-9
+}

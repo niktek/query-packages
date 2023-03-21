@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "tnext-hanta-core-components",
+		"scope": "unscoped",
+		"version": "1.143.0",
+		"description": "hanta core components",
+		"keywords": [
+			"svelte",
+			"component",
+			"template"
+		],
+		"date": "2023-03-03T19:22:54.557Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/tnext-hanta-core-components"
+		},
+		"publisher": {
+			"username": "t-next",
+			"email": "info@t-next.de"
+		},
+		"maintainers": [
+			{
+				"username": "t-next",
+				"email": "info@t-next.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3359069500382274,
+		"detail": {
+			"quality": 0.7216367202117366,
+			"popularity": 0.007855049451542263,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000065769277
+}

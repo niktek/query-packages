@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@mizchi/svelte-printer",
+		"scope": "mizchi",
+		"version": "2.2.0",
+		"description": "Svelte plugin for prettier",
+		"keywords": [
+			"prettier",
+			"svelte"
+		],
+		"date": "2021-05-07T06:35:21.282Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mizchi%2Fsvelte-printer",
+			"homepage": "https://github.com/sveltejs/prettier-plugin-svelte#readme",
+			"repository": "https://github.com/sveltejs/prettier-plugin-svelte",
+			"bugs": "https://github.com/sveltejs/prettier-plugin-svelte/issues"
+		},
+		"author": {
+			"name": "James Birtles",
+			"email": "jameshbirtles@gmail.com"
+		},
+		"publisher": {
+			"username": "mizchi",
+			"email": "miz404@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mizchi",
+				"email": "miz404@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21535402623131256,
+		"detail": {
+			"quality": 0.55,
+			"popularity": 0.036863853771475275,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 6.876453e-8
+}

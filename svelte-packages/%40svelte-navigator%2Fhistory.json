@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "@svelte-navigator/history",
+		"scope": "svelte-navigator",
+		"version": "0.5.0",
+		"description": "History module for svelte-navigator",
+		"keywords": [
+			"svelte-navigator",
+			"svelte",
+			"router",
+			"routing",
+			"history",
+			"hash",
+			"location",
+			"spa",
+			"typescript"
+		],
+		"date": "2022-06-04T10:19:10.800Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-navigator%2Fhistory",
+			"homepage": "https://github.com/mefechoel/svelte-navigator-history#readme",
+			"repository": "https://github.com/mefechoel/svelte-navigator-history",
+			"bugs": "https://github.com/mefechoel/svelte-navigator-history/issues"
+		},
+		"author": {
+			"name": "Michel Strelow",
+			"email": "svelte.navigator@gmail.com",
+			"username": "svelte-navigator"
+		},
+		"publisher": {
+			"username": "svelte-navigator",
+			"email": "svelte.navigator@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "svelte-navigator",
+				"email": "svelte.navigator@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2213443087452981,
+		"detail": {
+			"quality": 0.5355947797183326,
+			"popularity": 0.0026062837994932767,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 6.29568e-8
+}

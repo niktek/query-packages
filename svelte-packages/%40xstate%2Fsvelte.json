@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "@xstate/svelte",
+		"scope": "xstate",
+		"version": "2.0.1",
+		"description": "XState tools for Svelte",
+		"keywords": [
+			"state",
+			"machine",
+			"statechart",
+			"scxml",
+			"state",
+			"graph",
+			"svelte",
+			"store"
+		],
+		"date": "2022-12-05T04:33:56.659Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40xstate%2Fsvelte",
+			"homepage": "https://github.com/statelyai/xstate/tree/main/packages/xstate-svelte#readme",
+			"repository": "https://github.com/statelyai/xstate",
+			"bugs": "https://github.com/statelyai/xstate/issues"
+		},
+		"author": {
+			"name": "David Khourshid",
+			"email": "davidkpiano@gmail.com",
+			"username": "davidkpiano"
+		},
+		"publisher": {
+			"username": "xstate-release-bot",
+			"email": "david@stately.ai"
+		},
+		"maintainers": [
+			{
+				"username": "xstate-release-bot",
+				"email": "david@stately.ai"
+			},
+			{
+				"username": "andarist",
+				"email": "mateuszburzynski@gmail.com"
+			},
+			{
+				"username": "davidkpiano",
+				"email": "davidkpiano@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2927980758527141,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.058694009525651306,
+			"maintenance": 0.3305653460915505
+		}
+	},
+	"searchScore": 0.0000040974614
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@tadashi/svelte-btn",
+		"scope": "tadashi",
+		"version": "6.2.1",
+		"description": "Svelte component",
+		"keywords": [
+			"svelte",
+			"button",
+			"component"
+		],
+		"date": "2022-05-02T21:55:14.027Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tadashi%2Fsvelte-btn",
+			"homepage": "https://github.com/lagden/svelte-btn#readme",
+			"repository": "https://github.com/lagden/svelte-btn",
+			"bugs": "https://github.com/lagden/svelte-btn/issues"
+		},
+		"author": {
+			"name": "Thiago Lagden"
+		},
+		"publisher": {
+			"username": "lagden",
+			"email": "lagden@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lagden",
+				"email": "lagden@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30974100132512705,
+		"detail": {
+			"quality": 0.6258202115054826,
+			"popularity": 0.021525515263275546,
+			"maintenance": 0.327031450089531
+		}
+	},
+	"searchScore": 0.0000065149466
+}

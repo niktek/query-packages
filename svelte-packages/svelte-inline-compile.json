@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-inline-compile",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Precompile inline Svelte components via ES6 tagged template strings",
+		"date": "2022-07-01T15:37:30.522Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-inline-compile",
+			"homepage": "https://github.com/DockYard/svelte-inline-compile#readme",
+			"repository": "https://github.com/DockYard/svelte-inline-compile",
+			"bugs": "https://github.com/DockYard/svelte-inline-compile/issues"
+		},
+		"author": {
+			"name": "drew.chandler@dockyard.com"
+		},
+		"publisher": {
+			"username": "drewchan",
+			"email": "andrewschandler@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "drewchan",
+				"email": "andrewschandler@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1782430159771205,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.031088011282098656,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 3.4948269e-9
+}

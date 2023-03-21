@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-type-generator",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "A tool to generate Typescript-Declarations for your svelte-components.",
+		"keywords": [
+			"svelte",
+			"typescript",
+			"ts",
+			"dts",
+			"d.ts"
+		],
+		"date": "2021-05-02T12:17:04.803Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-type-generator",
+			"homepage": "https://github.com/material-svelte/material-svelte/tree/main/tools/svelte-type-generator#readme",
+			"repository": "https://github.com/material-svelte/material-svelte",
+			"bugs": "https://github.com/material-svelte/material-svelte/issues"
+		},
+		"publisher": {
+			"username": "material-svelte-bot",
+			"email": "bot@material-svelte.dev"
+		},
+		"maintainers": [
+			{
+				"username": "material-svelte-bot",
+				"email": "bot@material-svelte.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21785443194437648,
+		"detail": {
+			"quality": 0.5080363571731171,
+			"popularity": 0.002138573763678048,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 4.8120484e-8
+}

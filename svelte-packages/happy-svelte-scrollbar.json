@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "happy-svelte-scrollbar",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Custom scrollbar component for Svelte",
+		"keywords": [
+			"svelte",
+			"scrollbar",
+			"component",
+			"custom"
+		],
+		"date": "2020-12-15T13:24:34.841Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/happy-svelte-scrollbar",
+			"homepage": "https://github.com/happy-inc-tech/happy-svelte-scrollbar#readme",
+			"repository": "https://github.com/happy-inc-tech/happy-svelte-scrollbar",
+			"bugs": "https://github.com/happy-inc-tech/happy-svelte-scrollbar/issues"
+		},
+		"author": {
+			"name": "Happy Inc"
+		},
+		"publisher": {
+			"username": "happy-inc",
+			"email": "solovyev@happy-job.ru"
+		},
+		"maintainers": [
+			{
+				"username": "happy-inc",
+				"email": "solovyev@happy-job.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19967634797886408,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.018302560434627937,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.0295573e-8
+}

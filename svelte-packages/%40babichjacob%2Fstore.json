@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@babichjacob/store",
+		"scope": "babichjacob",
+		"version": "0.0.1",
+		"description": "An alternate implementation of `svelte/store` for use outside of Svelte projects",
+		"keywords": [
+			"store"
+		],
+		"date": "2022-09-13T04:10:24.279Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40babichjacob%2Fstore",
+			"homepage": "https://github.com/babichjacob/store-emitter-future-and-queue",
+			"repository": "https://github.com/babichjacob/store-emitter-future-and-queue",
+			"bugs": "https://github.com/babichjacob/store-emitter-future-and-queue/issues"
+		},
+		"author": {
+			"name": "J / Jacob Babich",
+			"email": "jacobbabichpublic+git@gmail.com"
+		},
+		"publisher": {
+			"username": "babichjacob",
+			"email": "jacobbabichpublic+npm@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "babichjacob",
+				"email": "jacobbabichpublic+npm@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2495015181379775,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.018483461227132042,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 6.459451e-8
+}

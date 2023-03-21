@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "@beyonk/svelte-datepicker",
+		"scope": "beyonk",
+		"version": "12.0.1",
+		"description": "<a href=\"https://beyonk.com\">     <br />     <br />     <img src=\"https://user-images.githubusercontent.com/218949/144224348-1b3a20d5-d68e-4a7a-b6ac-6946f19f4a86.png\" width=\"198\" />     <br />     <br /> </a>",
+		"date": "2022-04-21T17:23:35.378Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40beyonk%2Fsvelte-datepicker"
+		},
+		"publisher": {
+			"username": "antony",
+			"email": "aj@desirableobjects.co.uk"
+		},
+		"maintainers": [
+			{
+				"username": "dextermb",
+				"email": "dexter.mb@outlook.com"
+			},
+			{
+				"username": "ghostsos",
+				"email": "ghostdevbusiness@gmail.com"
+			},
+			{
+				"username": "ahpercival",
+				"email": "adrian.percival@beyonk.com"
+			},
+			{
+				"username": "alex.dilley",
+				"email": "alex.dilley@gmail.com"
+			},
+			{
+				"username": "antony",
+				"email": "aj@desirableobjects.co.uk"
+			},
+			{
+				"username": "adampond",
+				"email": "adam@beyonk.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3553884779621451,
+		"detail": {
+			"quality": 0.8788367301487212,
+			"popularity": 0.04030896627357653,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 0.000035072382
+}

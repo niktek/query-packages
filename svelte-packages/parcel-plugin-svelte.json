@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "parcel-plugin-svelte",
+		"scope": "unscoped",
+		"version": "4.0.9",
+		"description": "Parcel plugin to support svelte",
+		"keywords": [
+			"parcel",
+			"svelte"
+		],
+		"date": "2021-08-12T09:13:48.921Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/parcel-plugin-svelte",
+			"homepage": "https://github.com/DeMoorJasper/parcel-plugin-svelte#readme",
+			"repository": "https://github.com/DeMoorJasper/parcel-plugin-svelte",
+			"bugs": "https://github.com/DeMoorJasper/parcel-plugin-svelte/issues"
+		},
+		"author": {
+			"name": "Jasper De Moor"
+		},
+		"publisher": {
+			"username": "jasperdm",
+			"email": "jasperdemoor@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jasperdm",
+				"email": "jasperdemoor@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19976895636414843,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.026833937636341045,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 2.261024e-8
+}

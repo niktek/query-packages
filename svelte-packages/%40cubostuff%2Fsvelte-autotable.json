@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@cubostuff/svelte-autotable",
+		"scope": "cubostuff",
+		"version": "1.0.0-beta.4",
+		"description": "Throw data at it and the Autotable component will figure the rest",
+		"date": "2022-03-19T00:28:40.788Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cubostuff%2Fsvelte-autotable"
+		},
+		"author": {
+			"name": "cubodehelio"
+		},
+		"publisher": {
+			"username": "cubodehelio",
+			"email": "cubodehelio@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cubodehelio",
+				"email": "cubodehelio@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21778941351441983,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.02296795021648193,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 3.7969127e-8
+}

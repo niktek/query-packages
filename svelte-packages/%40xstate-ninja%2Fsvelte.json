@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@xstate-ninja/svelte",
+		"scope": "xstate-ninja",
+		"version": "1.0.0",
+		"description": "XState Ninja integration for Svelte",
+		"keywords": [
+			"xstate",
+			"fsm",
+			"state machine"
+		],
+		"date": "2022-07-11T21:35:52.579Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40xstate-ninja%2Fsvelte",
+			"homepage": "https://github.com/rlaffers/xstate-ninja",
+			"repository": "https://github.com/rlaffers/xstate-ninja",
+			"bugs": "https://github.com/rlaffers/xstate-ninja/issues"
+		},
+		"author": {
+			"name": "Richard Laffers"
+		},
+		"publisher": {
+			"username": "rlaffers",
+			"email": "rlaffers@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rlaffers",
+				"email": "rlaffers@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19918770185115656,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.001168849454665771,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.0996868e-8
+}

@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "docusaurus-plugin-svelte",
+		"scope": "unscoped",
+		"version": "0.1.8",
+		"description": "Docusaurus (v2) loads content from user friendly mdx files and converts the mdx files to html files.",
+		"keywords": [
+			"docusaurus",
+			"plugin",
+			"svelte",
+			"svelte-loader",
+			"svelte-adapter"
+		],
+		"date": "2021-12-06T16:16:10.257Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/docusaurus-plugin-svelte"
+		},
+		"publisher": {
+			"username": "hellokarthik",
+			"email": "karthiknetworklink@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hellokarthik",
+				"email": "karthiknetworklink@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18746602936310128,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.018477940676867942,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 7.4419955e-9
+}

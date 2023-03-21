@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "webpacker-svelte",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "webpacker-svelte integration",
+		"keywords": [
+			"svelte",
+			"webpacker"
+		],
+		"date": "2021-02-21T22:47:09.124Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/webpacker-svelte",
+			"homepage": "https://github.com/will-wow/webpacker-svelte",
+			"repository": "https://github.com/will-wow/webpacker-svelte",
+			"bugs": "https://github.com/will-wow/webpacker-svelte/issues"
+		},
+		"author": {
+			"name": "Will Ockelmann-Wagner",
+			"email": "will@willwow.dev",
+			"username": "will-wow"
+		},
+		"publisher": {
+			"username": "will-wow",
+			"email": "will@willwow.dev"
+		},
+		"maintainers": [
+			{
+				"username": "will-wow",
+				"email": "will@willwow.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18805549577349195,
+		"detail": {
+			"quality": 0.50836379143316,
+			"popularity": 0.011819326301534039,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 9.449354e-9
+}

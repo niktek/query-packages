@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-u",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"date": "2022-04-19T16:12:07.455Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-u"
+		},
+		"author": {
+			"name": "Yury Saukou",
+			"email": "yury.saukou@gmail.com",
+			"username": "usavkov"
+		},
+		"publisher": {
+			"username": "usavkov",
+			"email": "yury.saukou@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "usavkov",
+				"email": "yury.saukou@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1714453825663504,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.0012054692026613517,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.4051867e-9
+}

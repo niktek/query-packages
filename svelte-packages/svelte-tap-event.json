@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-tap-event",
+		"scope": "unscoped",
+		"version": "0.1.2",
+		"description": "Simple cross platform click/touch event support for Svelte",
+		"keywords": [
+			"svelte-touch",
+			"svelte-tap",
+			"iOS double tap",
+			"iOS single tap support"
+		],
+		"date": "2021-12-26T18:35:13.143Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tap-event"
+		},
+		"author": {
+			"name": "Chukwuma Nwaugha",
+			"email": "nwaughac@gmail.com"
+		},
+		"publisher": {
+			"username": "nwaughachukwuma",
+			"email": "c.nwaugha@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nwaughachukwuma",
+				"email": "c.nwaugha@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19232746169121828,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.002192334293793494,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 9.028698e-9
+}

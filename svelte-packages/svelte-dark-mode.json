@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-dark-mode",
+		"scope": "unscoped",
+		"version": "2.1.0",
+		"description": "Support dark mode in your Svelte apps",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"dark mode",
+			"theme",
+			"prefers color scheme",
+			"local storage",
+			"persist"
+		],
+		"date": "2022-01-23T18:38:25.259Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dark-mode"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23807367963307532,
+		"detail": {
+			"quality": 0.6191815227934985,
+			"popularity": 0.025647919688864075,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 2.1915885e-7
+}

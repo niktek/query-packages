@@ -1,0 +1,58 @@
+{
+	"package": {
+		"name": "@samrum/create-vite-plugin-web-extension",
+		"scope": "samrum",
+		"version": "1.1.2",
+		"description": "An easy way to start a Vite Web Extension project using @samrum/vite-plugin-web-extension",
+		"keywords": [
+			"create",
+			"vite",
+			"vite-plugin",
+			"web",
+			"extension",
+			"browser",
+			"chrome",
+			"firefox",
+			"edge",
+			"manifest",
+			"manifest V2",
+			"manifest V3",
+			"react",
+			"preact",
+			"svelte",
+			"vue",
+			"typescript"
+		],
+		"date": "2023-03-10T04:33:50.320Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40samrum%2Fcreate-vite-plugin-web-extension",
+			"homepage": "https://github.com/samrum/create-vite-plugin-web-extension#readme",
+			"repository": "https://github.com/samrum/create-vite-plugin-web-extension",
+			"bugs": "https://github.com/samrum/create-vite-plugin-web-extension/issues"
+		},
+		"author": {
+			"name": "Ruben Medina",
+			"email": "dev@rubenmedina.com",
+			"username": "samrum"
+		},
+		"publisher": {
+			"username": "samrum",
+			"email": "dev@rubenmedina.com"
+		},
+		"maintainers": [
+			{
+				"username": "samrum",
+				"email": "dev@rubenmedina.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2799560739176318,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.005636309917065796,
+			"maintenance": 0.33177859359406153
+		}
+	},
+	"searchScore": 2.7582345e-7
+}

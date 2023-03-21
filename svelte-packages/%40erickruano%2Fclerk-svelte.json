@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@erickruano/clerk-svelte",
+		"scope": "erickruano",
+		"version": "0.0.6",
+		"description": "An unofficial implementation of Clerk components inspired by the official react implementation",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-07-25T00:47:01.218Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40erickruano%2Fclerk-svelte"
+		},
+		"publisher": {
+			"username": "glitchverse",
+			"email": "erickaleruano@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "glitchverse",
+				"email": "erickaleruano@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17120009980991965,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.0021967347423896976,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 1.6669488e-9
+}

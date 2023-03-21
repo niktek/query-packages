@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "material-ui-svelte",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-02-13T02:57:16.925Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/material-ui-svelte"
+		},
+		"publisher": {
+			"username": "majesticstring",
+			"email": "harry_allen@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "majesticstring",
+				"email": "harry_allen@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22361645035172786,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.004551862160519841,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.0687905e-8
+}

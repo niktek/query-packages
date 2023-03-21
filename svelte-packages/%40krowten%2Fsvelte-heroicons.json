@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@krowten/svelte-heroicons",
+		"scope": "krowten",
+		"version": "0.1.0",
+		"description": "Heroicons for Svelte",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"tailwindcss",
+			"icon",
+			"icons",
+			"heroicons"
+		],
+		"date": "2023-01-06T11:00:52.870Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40krowten%2Fsvelte-heroicons",
+			"homepage": "https://github.com/krowten/svelte-heroicons#readme",
+			"repository": "https://github.com/krowten/svelte-heroicons",
+			"bugs": "https://github.com/krowten/svelte-heroicons/issues"
+		},
+		"author": {
+			"name": "Vladimir",
+			"email": "vladimir@kraykovskiy.ru",
+			"username": "krowten"
+		},
+		"publisher": {
+			"username": "krowten",
+			"email": "vladimir@kraykovskiy.ru"
+		},
+		"maintainers": [
+			{
+				"username": "krowten",
+				"email": "vladimir@kraykovskiy.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24951937212589567,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.010467581433549568,
+			"maintenance": 0.3307292576178053
+		}
+	},
+	"searchScore": 2.9611277e-7
+}

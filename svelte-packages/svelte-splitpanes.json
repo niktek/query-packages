@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "svelte-splitpanes",
+		"scope": "unscoped",
+		"version": "0.7.13",
+		"description": "A full featured resizable pane layout splitter, ported from vue-splitpanes",
+		"keywords": [
+			"svelte",
+			"component",
+			"layout",
+			"split",
+			"splitter",
+			"pane",
+			"panel",
+			"resize",
+			"resizable"
+		],
+		"date": "2023-02-27T09:44:15.610Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-splitpanes",
+			"homepage": "https://orefalo.github.io/svelte-splitpanes/",
+			"repository": "https://github.com/orefalo/svelte-splitpanes",
+			"bugs": "https://github.com/orefalo/svelte-splitpanes/issues"
+		},
+		"author": {
+			"name": "Olivier Refalo",
+			"url": "https://github.com/orefalo"
+		},
+		"publisher": {
+			"username": "orefalo",
+			"email": "orefalo@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "orefalo",
+				"email": "orefalo@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2861192305937222,
+		"detail": {
+			"quality": 0.520646441024333,
+			"popularity": 0.03788180462787329,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000022707004
+}

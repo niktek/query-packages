@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "sveltekit-adapter-vercel",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "This is a fork of official adapter-vercel and has been customised to work with sveltkit. Use at your own risk!!",
+		"date": "2021-05-14T07:16:49.542Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-adapter-vercel"
+		},
+		"publisher": {
+			"username": "gak4u",
+			"email": "anil.virtuali@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gak4u",
+				"email": "anil.virtuali@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18357817118545774,
+		"detail": {
+			"quality": 0.3940791575192584,
+			"popularity": 0.001883999870074789,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 1.3967385e-9
+}

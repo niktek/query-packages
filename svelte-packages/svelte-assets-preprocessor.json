@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-assets-preprocessor",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "Assets preprocessor for Svelte JS.",
+		"keywords": [
+			"preprocess",
+			"svelte"
+		],
+		"date": "2021-03-28T19:21:52.047Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-assets-preprocessor"
+		},
+		"author": {
+			"name": "Peter Chynoweth",
+			"email": "24738364+pchynoweth@users.noreply.github.com"
+		},
+		"publisher": {
+			"username": "pchynoweth",
+			"email": "pchynoweth@yahoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "pchynoweth",
+				"email": "pchynoweth@yahoo.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16469365880427148,
+		"detail": {
+			"quality": 0.41841770003139656,
+			"popularity": 0.004904775381589459,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 1.2765711e-9
+}

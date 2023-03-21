@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-vite-ssr",
+		"scope": "unscoped",
+		"version": "0.1.2",
+		"description": "A Svelte project template with a powerful [router]((https://github.com/jiangfengming/svelte-pilot)), SSR (Server-Side Rendering), CSR (Client-Side Rendering), HMR (Hot Module Replacement), `<link rel=\"preload\">` directives, and other nice features.",
+		"date": "2022-06-25T17:23:39.659Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-vite-ssr"
+		},
+		"publisher": {
+			"username": "jiangfengming",
+			"email": "jiangfengming87@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jiangfengming",
+				"email": "jiangfengming87@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17203010251462475,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 1.4748908e-9
+}

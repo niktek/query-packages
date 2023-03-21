@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@sunify/svelte-select",
+		"scope": "sunify",
+		"version": "1.0.0",
+		"description": "Simple select that allows you to customize button appearance",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-08-28T07:25:05.501Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sunify%2Fsvelte-select"
+		},
+		"author": {
+			"name": "Alex Lunyov",
+			"email": "isuntc@gmail.com",
+			"username": "sunify"
+		},
+		"publisher": {
+			"username": "sunify",
+			"email": "isuntc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sunify",
+				"email": "isuntc@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.188388809745632,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0012054692026613517,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.092692e-9
+}

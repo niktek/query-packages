@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "svelte-media-queries",
+		"scope": "unscoped",
+		"version": "1.5.4",
+		"description": "A light and magical Svelte component for CSS media queries🐹",
+		"keywords": [
+			"svelte",
+			"light",
+			"media-query",
+			"media-queries",
+			"css",
+			"css-in-svelte",
+			"media",
+			"query",
+			"queries",
+			"sveltejs",
+			"svelte-media-queries",
+			"svelte-queries",
+			"svelte-media",
+			"svelte-media-query",
+			"svelte-v3",
+			"svelte3"
+		],
+		"date": "2023-02-20T14:31:13.666Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-media-queries",
+			"homepage": "https://github.com/fedorovvvv/svelte-media-queries#readme",
+			"repository": "https://github.com/fedorovvvv/svelte-media-queries",
+			"bugs": "https://github.com/fedorovvvv/svelte-media-queries/issues"
+		},
+		"author": {
+			"name": "Nikita Fedorov",
+			"email": "nikitafedorov7@yandex.ru",
+			"username": "fedorovvvv"
+		},
+		"publisher": {
+			"username": "fedorovvvv",
+			"email": "nikitafedorov7@yandex.ru"
+		},
+		"maintainers": [
+			{
+				"username": "fedorovvvv",
+				"email": "nikitafedorov7@yandex.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3177102917072919,
+		"detail": {
+			"quality": 0.6243084119297001,
+			"popularity": 0.039288861319186366,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000010180924
+}

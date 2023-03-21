@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@dooboo/eslint-config-svelte",
+		"scope": "dooboo",
+		"version": "1.0.4",
+		"description": "Svelte eslint config",
+		"keywords": [
+			"eslint",
+			"svelte",
+			"config",
+			"theme"
+		],
+		"date": "2022-11-25T13:52:26.340Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40dooboo%2Feslint-config-svelte",
+			"homepage": "https://github.com/wecount-dev/eslint-config-svelte#readme",
+			"repository": "https://github.com/dooboolab/eslint-config",
+			"bugs": "https://github.com/wecount-dev/eslint-config-svelte/issues"
+		},
+		"author": {
+			"name": "dooboolab",
+			"email": "support@dooboolab.com"
+		},
+		"publisher": {
+			"username": "dooboolab",
+			"email": "dooboolab@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dooboolab",
+				"email": "dooboolab@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27044439084890803,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0026692419400392224,
+			"maintenance": 0.3330993011136041
+		}
+	},
+	"searchScore": 7.784017e-7
+}

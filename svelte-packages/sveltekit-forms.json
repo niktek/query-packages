@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "sveltekit-forms",
+		"scope": "unscoped",
+		"version": "1.0.37",
+		"description": "Sveltekit Form Actions Wrapper",
+		"date": "2023-03-15T09:26:52.745Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-forms",
+			"homepage": "https://github.com/ftognetto/sveltekit-forms#readme",
+			"repository": "https://github.com/ftognetto/sveltekit-forms",
+			"bugs": "https://github.com/ftognetto/sveltekit-forms/issues"
+		},
+		"author": {
+			"name": "fabriziotognetto",
+			"email": "info@quantos.it",
+			"username": "quantosapplications"
+		},
+		"publisher": {
+			"username": "quantosapplications",
+			"email": "info@quantos.it"
+		},
+		"maintainers": [
+			{
+				"username": "quantosapplications",
+				"email": "info@quantos.it"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26164760765484135,
+		"detail": {
+			"quality": 0.4660379081226978,
+			"popularity": 0.014770195861043877,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.081218e-7
+}

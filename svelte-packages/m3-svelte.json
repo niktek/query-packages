@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "m3-svelte",
+		"scope": "unscoped",
+		"version": "1.0.8",
+		"description": "An attempt to make Material 3 in Svelte. See the [website](https://ktibow.github.io/m3-svelte/) for docs.",
+		"keywords": [
+			"svelte",
+			"material",
+			"material 3",
+			"material you",
+			"m3",
+			"ui",
+			"frontend",
+			"design-system",
+			"ui-library",
+			"theming"
+		],
+		"date": "2023-03-11T21:19:57.981Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/m3-svelte",
+			"homepage": "https://github.com/KTibow/m3-svelte",
+			"repository": "https://github.com/KTibow/m3-svelte",
+			"bugs": "https://github.com/KTibow/m3-svelte/issues"
+		},
+		"author": {
+			"name": "KTibow"
+		},
+		"publisher": {
+			"username": "ktibow",
+			"email": "kendell.r+spam@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "ktibow",
+				"email": "kendell.r+spam@outlook.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2830131287888701,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.012816012667046224,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000017571837
+}

@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "stylelint-config-html",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "The shareable HTML config for Stylelint.",
+		"keywords": [
+			"stylelint",
+			"stylelint-config",
+			"html",
+			"vue",
+			"svelte",
+			"php",
+			"xml"
+		],
+		"date": "2022-07-07T13:08:40.896Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/stylelint-config-html",
+			"homepage": "https://github.com/ota-meshi/stylelint-config-html#readme",
+			"repository": "https://github.com/ota-meshi/stylelint-config-html",
+			"bugs": "https://github.com/ota-meshi/stylelint-config-html/issues"
+		},
+		"author": {
+			"name": "Yosuke Ota",
+			"url": "https://github.com/ota-meshi"
+		},
+		"publisher": {
+			"username": "ota-meshi",
+			"email": "otameshiyo23@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ota-meshi",
+				"email": "otameshiyo23@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.32849007092832583,
+		"detail": {
+			"quality": 0.63907759116668,
+			"popularity": 0.16896420816155683,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 0.000012460762
+}

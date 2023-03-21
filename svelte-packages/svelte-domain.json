@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-domain",
+		"scope": "unscoped",
+		"version": "0.1.8",
+		"description": "state manager of svelte",
+		"keywords": [
+			"lib",
+			"utils",
+			"typescript",
+			"svelte",
+			"state"
+		],
+		"date": "2022-10-01T23:35:35.741Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-domain",
+			"homepage": "https://github.com/thegenius/svelte-domain#readme",
+			"repository": "https://github.com/thegenius/svelte-domain",
+			"bugs": "https://github.com/thegenius/svelte-domain/issues"
+		},
+		"author": {
+			"name": "Wang Wei",
+			"email": "thegenius@vip.qq.com",
+			"username": "theprinceofelf"
+		},
+		"publisher": {
+			"username": "theprinceofelf",
+			"email": "thegenius@vip.qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "theprinceofelf",
+				"email": "thegenius@vip.qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3138359450646036,
+		"detail": {
+			"quality": 0.6526596678026519,
+			"popularity": 0.0039182230204039235,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000070528563
+}

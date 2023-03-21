@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-adapter-deno",
+		"scope": "unscoped",
+		"version": "0.9.0",
+		"description": "[Adapter](https://kit.svelte.dev/docs/adapters) for SvelteKit apps that generates a standalone Deno server.",
+		"date": "2023-01-30T18:39:12.821Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-adapter-deno",
+			"homepage": "https://github.com/pluvial/svelte-adapter-deno#readme",
+			"repository": "https://github.com/pluvial/svelte-adapter-deno",
+			"bugs": "https://github.com/pluvial/svelte-adapter-deno/issues"
+		},
+		"publisher": {
+			"username": "jpaquim",
+			"email": "joaopaquim@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jpaquim",
+				"email": "joaopaquim@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26233224893944845,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.031063868914827375,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.2374156e-7
+}

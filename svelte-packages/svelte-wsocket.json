@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-wsocket",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Simple websocket wrapper for svelte",
+		"keywords": [
+			"wsocket",
+			"websocket",
+			"wrapper",
+			"svelte"
+		],
+		"date": "2022-05-11T04:34:05.947Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-wsocket",
+			"homepage": "https://github.com/molimawka/svelte-wsocket#readme",
+			"repository": "https://github.com/molimawka/svelte-wsocket",
+			"bugs": "https://github.com/molimawka/svelte-wsocket/issues"
+		},
+		"publisher": {
+			"username": "molimawka",
+			"email": "be3yh4nk@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "molimawka",
+				"email": "be3yh4nk@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2659536225005154,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0014518238078102884,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 7.3493754e-7
+}

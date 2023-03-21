@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-inject",
+		"scope": "unscoped",
+		"version": "1.0.5",
+		"description": "A simple package to inject elements into other elements. Is so simple, that I can't call it a package really.",
+		"date": "2020-03-26T13:01:06.032Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-inject",
+			"homepage": "https://github.com/rster2002/svelte-body-injection#readme",
+			"repository": "https://github.com/rster2002/svelte-body-injection",
+			"bugs": "https://github.com/rster2002/svelte-body-injection/issues"
+		},
+		"author": {
+			"name": "Bjørn",
+			"url": "rster2002"
+		},
+		"publisher": {
+			"username": "rster2002",
+			"email": "rster2002dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rster2002",
+				"email": "rster2002dev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19574348521895102,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.032595686573745966,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.479027e-8
+}

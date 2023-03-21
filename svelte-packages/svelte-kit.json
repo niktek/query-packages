@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-kit",
+		"scope": "unscoped",
+		"version": "1.2.0",
+		"description": "This is not the package you are looking for.",
+		"date": "2023-01-14T03:46:34.301Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-kit"
+		},
+		"publisher": {
+			"username": "w3cj",
+			"email": "cj@null.computer"
+		},
+		"maintainers": [
+			{
+				"username": "w3cj",
+				"email": "cj@null.computer"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26291958927612485,
+		"detail": {
+			"quality": 0.45040211821973036,
+			"popularity": 0.03323362232845983,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 6.1093436e-7
+}

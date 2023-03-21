@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "smelte",
+		"scope": "unscoped",
+		"version": "1.1.8",
+		"description": "UI framework for Svelte using Tailwind CSS",
+		"date": "2021-09-06T04:05:31.316Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/smelte"
+		},
+		"publisher": {
+			"username": "matyunya",
+			"email": "matyunya@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "matyunya",
+				"email": "matyunya@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24259425769814025,
+		"detail": {
+			"quality": 0.5208482675063898,
+			"popularity": 0.10655266309365545,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.1356512e-7
+}

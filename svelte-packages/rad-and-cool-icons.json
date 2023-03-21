@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "rad-and-cool-icons",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "rad and cool light dark icon 4 u",
+		"keywords": [
+			"svelte",
+			"web-components",
+			"library",
+			"ezapi",
+			"ezlib",
+			"ezelte",
+			"ezipe",
+			"eze",
+			"ezeze"
+		],
+		"date": "2022-03-30T06:03:00.352Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/rad-and-cool-icons"
+		},
+		"publisher": {
+			"username": "autr",
+			"email": "g@sinnott.cc"
+		},
+		"maintainers": [
+			{
+				"username": "autr",
+				"email": "g@sinnott.cc"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2047798171048556,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.0018770928117855673,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 5.7257257e-9
+}

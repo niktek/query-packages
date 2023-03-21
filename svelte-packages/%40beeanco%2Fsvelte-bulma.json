@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@beeanco/svelte-bulma",
+		"scope": "beeanco",
+		"version": "0.14.5",
+		"description": "Svelte components using the bulma CSS framework",
+		"date": "2022-03-03T22:09:26.134Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40beeanco%2Fsvelte-bulma",
+			"homepage": "https://lukashechenberger.github.io/beeanco-opensource/docs/svelte-bulma/"
+		},
+		"author": {
+			"name": "Lukas Hechenberger",
+			"email": "npm@ls-age.com",
+			"username": "lhechenberger"
+		},
+		"publisher": {
+			"username": "lhechenberger",
+			"email": "npm@ls-age.com"
+		},
+		"maintainers": [
+			{
+				"username": "lhechenberger",
+				"email": "npm@ls-age.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.32023457085633933,
+		"detail": {
+			"quality": 0.770340307015724,
+			"popularity": 0.004150647366664736,
+			"maintenance": 0.25051357763796994
+		}
+	},
+	"searchScore": 0.0000074181517
+}

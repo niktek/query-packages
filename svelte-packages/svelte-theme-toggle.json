@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-theme-toggle",
+		"scope": "unscoped",
+		"version": "1.1.3",
+		"description": "Simple way to implement a dark theme toggle in Svelte/SvelteKit.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"dark mode",
+			"theme",
+			"dark theme",
+			"theme toggle"
+		],
+		"date": "2022-07-18T11:39:52.845Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-theme-toggle",
+			"homepage": "https://github.com/meetmistry0/svelte-theme-toggle#readme",
+			"repository": "https://github.com/meetmistry0/svelte-theme-toggle",
+			"bugs": "https://github.com/meetmistry0/svelte-theme-toggle/issues"
+		},
+		"author": {
+			"name": "Meet Mistry"
+		},
+		"publisher": {
+			"username": "meetmistry0",
+			"email": "meetmistry12@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "meet-mistry",
+				"email": "meetmistry0@outlook.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27205241288269744,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0025452412559151837,
+			"maintenance": 0.3274407915898105
+		}
+	},
+	"searchScore": 8.637152e-7
+}

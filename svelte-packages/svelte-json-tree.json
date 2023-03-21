@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-json-tree",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Svelte JSON Viewer Component",
+		"keywords": [
+			"svelte",
+			"json viewer",
+			"json",
+			"json tree",
+			"component"
+		],
+		"date": "2022-04-05T08:47:47.024Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-json-tree",
+			"homepage": "https://github.com/tanhauhau/svelte-json-tree#readme",
+			"repository": "https://github.com/tanhauhau/svelte-json-tree",
+			"bugs": "https://github.com/tanhauhau/svelte-json-tree/issues"
+		},
+		"author": {
+			"name": "Tan Li Hau",
+			"email": "lhtan93@gmail.com",
+			"username": "tanhauhau"
+		},
+		"publisher": {
+			"username": "tanhauhau",
+			"email": "lhtan93@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tanhauhau",
+				"email": "lhtan93@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2759857663739117,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.06325298211486555,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 0.0000018770273
+}

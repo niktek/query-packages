@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-toggleable",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "A toggleable store for Svelte",
+		"date": "2020-01-23T18:55:54.696Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-toggleable"
+		},
+		"author": {
+			"name": "Stephane Vanraes"
+		},
+		"publisher": {
+			"username": "rainlife",
+			"email": "stephane.vanraes@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rainlife",
+				"email": "stephane.vanraes@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1885019995760176,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0015288687180486996,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.9468222e-9
+}

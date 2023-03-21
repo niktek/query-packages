@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "import-svelte",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Require and transpile Svelte on the fly",
+		"keywords": [
+			"svelte",
+			"require",
+			"import"
+		],
+		"date": "2023-01-23T11:20:19.250Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/import-svelte",
+			"homepage": "https://github.com/SyMind/import-svelte#readme",
+			"repository": "https://github.com/SyMind/import-svelte",
+			"bugs": "https://github.com/SyMind/import-svelte/issues"
+		},
+		"author": {
+			"name": "SyMind"
+		},
+		"publisher": {
+			"username": "symind",
+			"email": "dacongsama@live.com"
+		},
+		"maintainers": [
+			{
+				"username": "symind",
+				"email": "dacongsama@live.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3688241813310073,
+		"detail": {
+			"quality": 0.8348901895230866,
+			"popularity": 0.004829879449756327,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000065586064
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "simply-svelte-autocomplete",
+		"scope": "unscoped",
+		"version": "1.4.0",
+		"description": "A lightweight, zero-dependency autocomplete component written in SvelteJS",
+		"keywords": [
+			"javascript",
+			"svelte",
+			"autocomplete",
+			"auto complete",
+			"autosuggest",
+			"auto suggest",
+			"typeahead",
+			"type ahead"
+		],
+		"date": "2021-01-31T00:03:52.797Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/simply-svelte-autocomplete",
+			"homepage": "https://github.com/themarquisdesheric/simply-svelte-autocomplete"
+		},
+		"author": {
+			"name": "Yuval Allweil | @esotericsheric | www.whoisyuval.com"
+		},
+		"publisher": {
+			"username": "themarquisdesheric",
+			"email": "sheric_d@yahoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "themarquisdesheric",
+				"email": "sheric_d@yahoo.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2620264909195493,
+		"detail": {
+			"quality": 0.7660617952064583,
+			"popularity": 0.0022810234845850506,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.9385803e-7
+}

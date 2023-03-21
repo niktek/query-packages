@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "@tolgee/svelte",
+		"scope": "tolgee",
+		"version": "5.5.4",
+		"description": "<!-- This file was generated using pnpm generate-readmes script",
+		"date": "2023-03-20T15:18:07.816Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tolgee%2Fsvelte"
+		},
+		"publisher": {
+			"username": "jancizmar",
+			"email": "cizmar@tolgee.io"
+		},
+		"maintainers": [
+			{
+				"username": "stepan662",
+				"email": "granat.stepan@gmail.com"
+			},
+			{
+				"username": "jancizmar",
+				"email": "cizmar@tolgee.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2758673535668827,
+		"detail": {
+			"quality": 0.487046316308575,
+			"popularity": 0.03739083430755307,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000011768561
+}

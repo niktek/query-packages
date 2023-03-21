@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@svelte-use/shared",
+		"scope": "svelte-use",
+		"version": "0.11.0",
+		"keywords": [
+			"svelte",
+			"svelte-use",
+			"utils"
+		],
+		"date": "2021-11-11T16:40:17.434Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-use%2Fshared",
+			"homepage": "https://github.com/evillt/svelte-use/tree/main/packages/shared#readme",
+			"repository": "https://github.com/evillt/svelte-use",
+			"bugs": "https://github.com/evillt/svelte-use/issues"
+		},
+		"author": {
+			"name": "2nthony",
+			"email": "https://github.com/evillt"
+		},
+		"publisher": {
+			"username": "evila",
+			"email": "ijoec123@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "evila",
+				"email": "ijoec123@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20710472624519194,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.02727578588930896,
+			"maintenance": 0.30807231393521367
+		}
+	},
+	"searchScore": 2.724795e-8
+}

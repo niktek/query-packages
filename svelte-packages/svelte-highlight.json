@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-highlight",
+		"scope": "unscoped",
+		"version": "7.2.0",
+		"description": "Syntax Highlighting for Svelte using highlight.js",
+		"keywords": [
+			"svelte",
+			"svelte 3",
+			"svelte components",
+			"highlight.js",
+			"highlight",
+			"code",
+			"syntax",
+			"typescript"
+		],
+		"date": "2023-02-14T23:10:59.682Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-highlight",
+			"homepage": "https://github.com/metonym/svelte-highlight",
+			"repository": "https://github.com/metonym/svelte-highlight",
+			"bugs": "https://github.com/metonym/svelte-highlight/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.32534328126418355,
+		"detail": {
+			"quality": 0.6258202115054826,
+			"popularity": 0.05980157470249179,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00001775985
+}

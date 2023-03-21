@@ -1,0 +1,60 @@
+{
+	"package": {
+		"name": "orval",
+		"scope": "unscoped",
+		"version": "6.12.1",
+		"description": "A swagger client generator for typescript",
+		"keywords": [
+			"rest",
+			"client",
+			"swagger",
+			"open-api",
+			"fetch",
+			"data fetching",
+			"code-generation",
+			"angular",
+			"react",
+			"react-query",
+			"svelte",
+			"svelte-query",
+			"vue",
+			"vue-query",
+			"msw",
+			"mock",
+			"axios",
+			"vue-query",
+			"vue",
+			"swr"
+		],
+		"date": "2023-03-05T13:01:34.820Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/orval",
+			"homepage": "https://github.com/anymaniax/orval#readme",
+			"repository": "https://github.com/anymaniax/orval",
+			"bugs": "https://github.com/anymaniax/orval/issues"
+		},
+		"author": {
+			"name": "Victor Bury",
+			"email": "victor@anymaniax.com"
+		},
+		"publisher": {
+			"username": "anymaniax",
+			"email": "bury.victor@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anymaniax",
+				"email": "bury.victor@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2890115266513384,
+		"detail": {
+			"quality": 0.459611339985021,
+			"popularity": 0.09846130854047266,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000011635632
+}

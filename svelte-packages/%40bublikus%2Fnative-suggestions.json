@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "@bublikus/native-suggestions",
+		"scope": "bublikus",
+		"version": "1.0.35",
+		"description": "Datalist with native suggestions for text input fields.",
+		"keywords": [
+			"native",
+			"suggestions",
+			"datalist",
+			"input",
+			"keyboard",
+			"dropdown",
+			"options",
+			"text",
+			"autocomplete",
+			"react",
+			"vue",
+			"svelte"
+		],
+		"date": "2021-02-06T20:08:21.976Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bublikus%2Fnative-suggestions",
+			"homepage": "https://github.com/Bublikus/native-suggestions#readme",
+			"repository": "https://github.com/Bublikus/native-suggestions",
+			"bugs": "https://github.com/Bublikus/native-suggestions/issues"
+		},
+		"author": {
+			"name": "Bublikus"
+		},
+		"publisher": {
+			"username": "bublikus",
+			"email": "bublik.script@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bublikus",
+				"email": "bublik.script@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18909644075784743,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0032272720947054225,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.0544741e-9
+}

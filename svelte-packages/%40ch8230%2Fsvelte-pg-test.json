@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@ch8230/svelte-pg-test",
+		"scope": "ch8230",
+		"version": "1.0.3",
+		"description": "\"used to test svelte kit build\"",
+		"date": "2022-09-08T02:46:07.712Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ch8230%2Fsvelte-pg-test",
+			"homepage": "https://github.com/carlosmoran/svelte-kit#readme",
+			"repository": "https://github.com/carlosmoran/svelte-kit",
+			"bugs": "https://github.com/carlosmoran/svelte-kit/issues"
+		},
+		"publisher": {
+			"username": "ch8230",
+			"email": "charlie@dcjoven.com"
+		},
+		"maintainers": [
+			{
+				"username": "ch8230",
+				"email": "charlie@dcjoven.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.38733412765459463,
+		"detail": {
+			"quality": 0.8788367301487212,
+			"popularity": 0.020057025884953887,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 0.00009539684
+}

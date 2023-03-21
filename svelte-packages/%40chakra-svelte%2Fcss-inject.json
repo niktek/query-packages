@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@chakra-svelte/css-inject",
+		"scope": "chakra-svelte",
+		"version": "0.0.2",
+		"description": "A component that injects CSS for a chakra component  into svelte:head",
+		"keywords": [
+			"CSSInject"
+		],
+		"date": "2023-02-12T12:50:40.385Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40chakra-svelte%2Fcss-inject"
+		},
+		"publisher": {
+			"username": "alexanderkrust",
+			"email": "work@alexanderrust.de"
+		},
+		"maintainers": [
+			{
+				"username": "alexanderkrust",
+				"email": "work@alexanderrust.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2265874670755086,
+		"detail": {
+			"quality": 0.3225776017021793,
+			"popularity": 0.037564342566251865,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.190268e-8
+}

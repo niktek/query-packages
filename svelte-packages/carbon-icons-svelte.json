@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "carbon-icons-svelte",
+		"scope": "unscoped",
+		"version": "11.4.0",
+		"description": "Carbon Design System SVG icons as Svelte components",
+		"keywords": [
+			"carbon",
+			"carbon design system",
+			"carbon icons",
+			"icons",
+			"components",
+			"svelte",
+			"svg"
+		],
+		"date": "2022-10-14T18:42:22.791Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/carbon-icons-svelte",
+			"homepage": "https://github.com/carbon-design-system/carbon-icons-svelte",
+			"repository": "https://github.com/carbon-design-system/carbon-icons-svelte",
+			"bugs": "https://github.com/carbon-design-system/carbon-icons-svelte/issues"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "etrain",
+				"email": "enrico.npm@theetrain.ca"
+			},
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.34923231748330386,
+		"detail": {
+			"quality": 0.6191815227934985,
+			"popularity": 0.1338708821031389,
+			"maintenance": 0.3332087197404448
+		}
+	},
+	"searchScore": 0.00006182438
+}

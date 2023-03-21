@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-keycon",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Svelte Key Controller Reactive Component",
+		"keywords": [
+			"key",
+			"keycode",
+			"keyboard",
+			"component",
+			"esm",
+			"svelte",
+			"hooks"
+		],
+		"date": "2022-12-04T01:50:42.280Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-keycon",
+			"homepage": "https://github.com/daybrush/keycon",
+			"bugs": "https://github.com/daybrush/keycon/issues"
+		},
+		"author": {
+			"name": "Daybrush"
+		},
+		"publisher": {
+			"username": "younkue",
+			"email": "daybrush@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "younkue",
+				"email": "daybrush@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24203017918636566,
+		"detail": {
+			"quality": 0.4149099988503061,
+			"popularity": 0.0026365507935523485,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 1.9077987e-7
+}

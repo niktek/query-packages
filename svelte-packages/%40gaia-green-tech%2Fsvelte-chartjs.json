@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@gaia-green-tech/svelte-chartjs",
+		"scope": "gaia-green-tech",
+		"version": "2.1.2-rc.2",
+		"description": "<img align=\"right\" width=\"150\" height=\"150\" alt=\"svelte-chartjs logo\" src=\"https://raw.githubusercontent.com/SauravKanchan/svelte-chartjs/master/assets/svelte-chartjs.png\">",
+		"keywords": [
+			"svelte",
+			"chartjs"
+		],
+		"date": "2022-09-07T12:43:10.178Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40gaia-green-tech%2Fsvelte-chartjs",
+			"homepage": "https://saurav.tech/mdbsvelte/?path=/story/charts--examples",
+			"repository": "https://github.com/SauravKanchan/svelte-chartjs",
+			"bugs": "https://github.com/SauravKanchan/svelte-chartjs"
+		},
+		"author": {
+			"name": "Saurav Kanchan"
+		},
+		"publisher": {
+			"username": "suda",
+			"email": "admin@suda.pl"
+		},
+		"maintainers": [
+			{
+				"username": "suda",
+				"email": "admin@suda.pl"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3084821832452922,
+		"detail": {
+			"quality": 0.6372988976093354,
+			"popularity": 0.0021399474715184555,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 0.0000044987214
+}

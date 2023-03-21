@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@react2svelte/swipeable",
+		"scope": "react2svelte",
+		"version": "0.1.4",
+		"description": "Svelte swipe event handler ported from react-swipeable",
+		"date": "2023-01-08T22:45:57.400Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40react2svelte%2Fswipeable",
+			"homepage": "https://github.com/react2svelte/swipeable",
+			"repository": "https://github.com/react2svelte/swipeable",
+			"bugs": "https://github.com/react2svelte/swipeable/issues"
+		},
+		"publisher": {
+			"username": "felixhennig",
+			"email": "npm@felixhennig.com"
+		},
+		"maintainers": [
+			{
+				"username": "felixhennig",
+				"email": "npm@felixhennig.com"
+			},
+			{
+				"username": "chaoran-chen",
+				"email": "mail@chaoran-chen.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28114195012228915,
+		"detail": {
+			"quality": 0.5199522807360968,
+			"popularity": 0.02460781015428582,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 7.5045676e-7
+}

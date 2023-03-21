@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@emagining/sveltekit-pote",
+		"scope": "emagining",
+		"version": "0.0.5",
+		"description": "Provides a way to render [Portable Text](http://www.portabletext.org) in Svelte / SvelteKit applications.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"sanity.io",
+			"portable-text"
+		],
+		"date": "2021-09-16T11:48:50.620Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40emagining%2Fsveltekit-pote",
+			"homepage": "https://github.com/emagining/sveltekit-pote#readme",
+			"repository": "https://github.com/emagining/sveltekit-pote",
+			"bugs": "https://github.com/emagining/sveltekit-pote/issues"
+		},
+		"author": {
+			"name": "Emma Agering"
+		},
+		"publisher": {
+			"username": "emagining",
+			"email": "emma@wishcart.com"
+		},
+		"maintainers": [
+			{
+				"username": "emagining",
+				"email": "emma@wishcart.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18657195308407237,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.001805298521989976,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 3.8909898e-9
+}

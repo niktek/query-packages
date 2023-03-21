@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-preprocess-loader",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "A webpack loader for svelte components preprocessing",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"preprocess",
+			"webpack-loader"
+		],
+		"date": "2017-12-12T21:11:58.969Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-preprocess-loader"
+		},
+		"author": {
+			"name": "Efthymis Sarmpanis",
+			"email": "e.sarbanis@gmail.com",
+			"username": "esarbanis"
+		},
+		"publisher": {
+			"username": "esarbanis",
+			"email": "e.sarbanis@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "esarbanis",
+				"email": "e.sarbanis@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3203252417614094,
+		"detail": {
+			"quality": 0.9614228727990023,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.000010180129
+}

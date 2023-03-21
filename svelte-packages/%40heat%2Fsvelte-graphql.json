@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@heat/svelte-graphql",
+		"scope": "heat",
+		"version": "0.0.7",
+		"description": "Svelte Kit Graphql Client",
+		"keywords": [
+			"svelte",
+			"svelte-kit",
+			"graphql",
+			"api",
+			"client"
+		],
+		"date": "2022-09-01T17:44:26.196Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40heat%2Fsvelte-graphql",
+			"homepage": "https://github.com/heat-js/monorepo/tree/master#readme",
+			"repository": "https://github.com/heat-js/monorepo/tree/master",
+			"bugs": "https://github.com/heat-js/monorepo/issues"
+		},
+		"publisher": {
+			"username": "ivands",
+			"email": "ivandasilveira@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "micmonen",
+				"email": "michel@monen.com"
+			},
+			{
+				"username": "ivands",
+				"email": "ivandasilveira@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26238964614007,
+		"detail": {
+			"quality": 0.49043426796376466,
+			"popularity": 0.0022810234845850506,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 5.6911654e-7
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@sveltekit-i18n/parser-icu",
+		"scope": "sveltekit-i18n",
+		"version": "1.0.3",
+		"description": "ICU parser compatible with sveltekit-i18n library.",
+		"keywords": [
+			"parser",
+			"icu",
+			"sveltekit-i18n"
+		],
+		"date": "2022-07-30T13:30:08.486Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltekit-i18n%2Fparser-icu",
+			"homepage": "https://github.com/sveltekit-i18n/parsers#readme",
+			"repository": "https://github.com/sveltekit-i18n/parsers",
+			"bugs": "https://github.com/sveltekit-i18n/lib/issues"
+		},
+		"author": {
+			"name": "Jarda Svoboda"
+		},
+		"publisher": {
+			"username": "jarda-svoboda",
+			"email": "scarabs04_chirps@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "jarda-svoboda",
+				"email": "scarabs04_chirps@icloud.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2673503416212838,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.013590611574633465,
+			"maintenance": 0.2878079139469282
+		}
+	},
+	"searchScore": 3.3089867e-7
+}

@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@nil-/3d",
+		"scope": "nil-",
+		"version": "0.2.19",
+		"description": "Babylon + Svelte",
+		"keywords": [
+			"svelte",
+			"babylonjs",
+			"3D"
+		],
+		"date": "2023-03-11T23:50:55.581Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nil-%2F3d"
+		},
+		"author": {
+			"name": "Neil Aldea",
+			"email": "njaldea@gmail.com",
+			"username": "nil-"
+		},
+		"publisher": {
+			"username": "nil-",
+			"email": "njaldea@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nil-",
+				"email": "njaldea@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23459520289423189,
+		"detail": {
+			"quality": 0.3859042146255083,
+			"popularity": 0.0061636338283221435,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.150792e-8
+}

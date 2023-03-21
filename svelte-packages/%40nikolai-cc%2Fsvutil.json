@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@nikolai-cc/svutil",
+		"scope": "nikolai-cc",
+		"version": "0.1.6",
+		"description": "Svelte utilities to make your life better ✨",
+		"date": "2022-07-15T15:53:42.713Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nikolai-cc%2Fsvutil",
+			"homepage": "https://github.com/nikolai-cc/svutil#readme",
+			"repository": "https://github.com/nikolai-cc/svutil",
+			"bugs": "https://github.com/nikolai-cc/svutil/issues"
+		},
+		"author": {
+			"name": "nikolai-cc",
+			"url": "https://nikolai.cc"
+		},
+		"publisher": {
+			"username": "nikolai-cc",
+			"email": "npm@nikolai.cc"
+		},
+		"maintainers": [
+			{
+				"username": "nikolai-cc",
+				"email": "npm@nikolai.cc"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24529027267853792,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.002082247683659026,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 4.0412186e-8
+}

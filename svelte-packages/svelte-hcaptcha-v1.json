@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-hcaptcha-v1",
+		"scope": "unscoped",
+		"version": "1.0.5",
+		"date": "2022-11-04T10:15:53.950Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-hcaptcha-v1",
+			"homepage": "https://github.com/jodev7/svelte-hcaptcha#readme",
+			"repository": "https://github.com/jodev7/svelte-hcaptcha",
+			"bugs": "https://github.com/jodev7/svelte-hcaptcha/issues"
+		},
+		"author": {
+			"name": "Joseph",
+			"email": "joseephnv@gmail.com",
+			"url": "https://github.com/jodev7",
+			"username": "jodev7"
+		},
+		"publisher": {
+			"username": "jodev7",
+			"email": "joseephnv@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jodev7",
+				"email": "joseephnv@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20622872141736182,
+		"detail": {
+			"quality": 0.29357134869397067,
+			"popularity": 0.004259000407154158,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.4590985e-8
+}

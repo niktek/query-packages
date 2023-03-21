@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "space-shader-box",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "WebGL fragment space effect. WebComponent built with Svelte",
+		"keywords": [
+			"Svelte",
+			"web component",
+			"glsl",
+			"webgl",
+			"fragment",
+			"typescript"
+		],
+		"date": "2022-08-02T08:46:35.159Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/space-shader-box",
+			"homepage": "https://github.com/nerosketch/space-shader-box#readme",
+			"repository": "https://github.com/nerosketch/space-shader-box",
+			"bugs": "https://github.com/nerosketch/space-shader-box/issues"
+		},
+		"author": {
+			"name": "Dmitry Novikov",
+			"email": "nerosketch@gmail.com",
+			"username": "nerosketch"
+		},
+		"publisher": {
+			"username": "nerosketch",
+			"email": "nerosketch@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nerosketch",
+				"email": "nerosketch@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23911661715372945,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.0021107500631218474,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 6.279165e-8
+}

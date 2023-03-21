@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@lalit64/sveltey",
+		"scope": "lalit64",
+		"version": "1.2.11",
+		"description": "Svletey: Cli for Svlete-Kit",
+		"date": "2021-10-27T07:27:51.709Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40lalit64%2Fsveltey",
+			"homepage": "https://github.com/Lalit64/sveltey",
+			"repository": "https://github.com/Lalit64/sveltey",
+			"bugs": "https://github.com/Lalit64/sveltey/issues"
+		},
+		"author": {
+			"name": "lalit64"
+		},
+		"publisher": {
+			"username": "lalit64",
+			"email": "lalit.yalamanchili@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lalit64",
+				"email": "lalit.yalamanchili@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26359518917028313,
+		"detail": {
+			"quality": 0.5397185522899346,
+			"popularity": 0.002705296005365493,
+			"maintenance": 0.2878079139469282
+		}
+	},
+	"searchScore": 1.9277601e-7
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-paginate-store",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Create a svelte store with pagination",
+		"keywords": [
+			"svelte",
+			"store",
+			"pagination",
+			"paginate"
+		],
+		"date": "2020-03-12T13:32:59.925Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-paginate-store"
+		},
+		"author": {
+			"name": "Steven Rico"
+		},
+		"publisher": {
+			"username": "stevenrico",
+			"email": "steven.rico.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "stevenrico",
+				"email": "steven.rico.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25822256357063317,
+		"detail": {
+			"quality": 0.7541502487540728,
+			"popularity": 0.0016225565897266057,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.4744675e-7
+}

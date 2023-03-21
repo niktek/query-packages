@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "symax2",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-07-09T13:42:30.383Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/symax2"
+		},
+		"publisher": {
+			"username": "eugeneche",
+			"email": "indexpro24@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "eugeneche",
+				"email": "indexpro24@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20436688804636755,
+		"detail": {
+			"quality": 0.4088071151157153,
+			"popularity": 0.001240504208122975,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 3.632558e-9
+}

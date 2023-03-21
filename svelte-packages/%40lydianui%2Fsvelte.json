@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@lydianui/svelte",
+		"scope": "lydianui",
+		"version": "0.3.4",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-01-21T09:11:06.732Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40lydianui%2Fsvelte"
+		},
+		"publisher": {
+			"username": "jaggy",
+			"email": "jaggy@hey.com"
+		},
+		"maintainers": [
+			{
+				"username": "jaggy",
+				"email": "jaggy@hey.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22454999841221573,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0072191423333423385,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.989224e-8
+}

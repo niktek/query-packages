@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "writespace-editor",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-02-16T15:11:30.385Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/writespace-editor"
+		},
+		"author": {
+			"name": "Omkar Patil"
+		},
+		"publisher": {
+			"username": "beastop",
+			"email": "omkarpatil290@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "beastop",
+				"email": "omkarpatil290@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1737770038690558,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0009544985920313587,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.2969731e-9
+}

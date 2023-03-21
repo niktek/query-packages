@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-progressive-image",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Progressive image component using Svelte (granted that you already have the images).",
+		"keywords": [
+			"svelte",
+			"image",
+			"component",
+			"responsive"
+		],
+		"date": "2021-02-01T00:53:22.111Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-progressive-image"
+		},
+		"author": {
+			"name": "Romanos Tsouroplis",
+			"url": "https://github.com/romdim"
+		},
+		"publisher": {
+			"username": "romdim",
+			"email": "rom-dim@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "romdim",
+				"email": "rom-dim@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18849326145255751,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.001503902651019941,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.454287e-9
+}

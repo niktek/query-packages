@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "svelte-disable-preload",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "![minified](https://img.shields.io/bundlephobia/min/svelte-disable-preload/0.0.1?style=for-the-badge) ![minified + zipped](https://img.shields.io/bundlephobia/minzip/svelte-disable-preload/0.0.1?style=for-the-badge)",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"preload",
+			"canvas",
+			"animation"
+		],
+		"date": "2023-01-30T19:36:57.148Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-disable-preload",
+			"homepage": "https://github.com/captaincodeman/svelte-disable-preload#readme",
+			"repository": "https://github.com/captaincodeman/svelte-disable-preload",
+			"bugs": "https://github.com/captaincodeman/svelte-disable-preload/issues"
+		},
+		"author": {
+			"name": "Simon Green",
+			"email": "simon@captaincodeman.com",
+			"url": "https://www.captaincodeman.com/",
+			"username": "captaincodeman"
+		},
+		"publisher": {
+			"username": "captaincodeman",
+			"email": "simon@captaincodeman.com"
+		},
+		"maintainers": [
+			{
+				"username": "captaincodeman",
+				"email": "simon@captaincodeman.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2255257150615137,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.022164034894006493,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.0649684e-8
+}

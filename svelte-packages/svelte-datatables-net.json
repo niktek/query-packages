@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "svelte-datatables-net",
+		"scope": "unscoped",
+		"version": "0.0.10",
+		"description": "svelte-datatables-net is a svelte/sveltekit component that turns data into an interactive HTML table. Inspired by datatables.net.",
+		"keywords": [
+			"datatable",
+			"table",
+			"searchable table",
+			"sortable table",
+			"datatables.net",
+			"svelte",
+			"sveltekit"
+		],
+		"date": "2023-02-24T01:30:33.696Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-datatables-net",
+			"homepage": "https://github.com/joaquimnetocel/svelte-datatables-net#readme",
+			"repository": "https://github.com/joaquimnetocel/svelte-datatables-net",
+			"bugs": "https://github.com/joaquimnetocel/svelte-datatables-net/issues"
+		},
+		"author": {
+			"name": "Joaquim Neto",
+			"email": "joaquim.neto.cel@gmail.com",
+			"username": "joaquim.neto.cel"
+		},
+		"publisher": {
+			"username": "joaquim.neto.cel",
+			"email": "joaquim.neto.cel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "joaquim.neto.cel",
+				"email": "joaquim.neto.cel@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2558130028486926,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.01243745151266791,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.1215577e-7
+}

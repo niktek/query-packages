@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-masonry-jothsa",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "This is a copy of Janzheng's project. I removed everything except the svelte masonry component, fixed a deprecated function call that broke the polyfill, and set typescript to ignore the component's script. The original project had a bunch of unneeded and",
+		"date": "2023-02-25T03:14:25.063Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-masonry-jothsa"
+		},
+		"publisher": {
+			"username": "jothsa",
+			"email": "zebras.embers.0t@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "jothsa",
+				"email": "zebras.embers.0t@icloud.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2529352550995329,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.004215315086497312,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.5404117e-7
+}

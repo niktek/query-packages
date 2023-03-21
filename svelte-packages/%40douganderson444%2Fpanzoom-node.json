@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@douganderson444/panzoom-node",
+		"scope": "douganderson444",
+		"version": "1.2.2",
+		"description": "https://github.com/DougAnderson444/panzoom-node",
+		"keywords": [
+			"svelte",
+			"zoom",
+			"panzoom"
+		],
+		"date": "2023-01-27T18:33:33.067Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40douganderson444%2Fpanzoom-node",
+			"homepage": "https://github.com/DougAnderson444/panzoom-node#readme",
+			"repository": "https://github.com/DougAnderson444/panzoom-node",
+			"bugs": "https://github.com/DougAnderson444/panzoom-node/issues"
+		},
+		"author": {
+			"name": "Doug Anderson"
+		},
+		"publisher": {
+			"username": "douganderson444",
+			"email": "douganderson444@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "douganderson444",
+				"email": "douganderson444@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2079719786736588,
+		"detail": {
+			"quality": 0.2783006264728339,
+			"popularity": 0.022328925900405604,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.06087175e-8
+}

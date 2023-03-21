@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@apsc/keyboard-shortcut-action",
+		"scope": "apsc",
+		"version": "0.0.4",
+		"description": "Action to call a function by keyboard shortcut for Svelte directive use:",
+		"keywords": [
+			"svelte",
+			"action",
+			"KeyboardEvent",
+			"keycode"
+		],
+		"date": "2023-02-01T20:15:30.166Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40apsc%2Fkeyboard-shortcut-action",
+			"homepage": "https://github.com/andrey-pavlenko/svelte-components/tree/main/packages/keyboard-shortcut-action#readme",
+			"repository": "https://github.com/andrey-pavlenko/svelte-components",
+			"bugs": "https://github.com/andrey-pavlenko/svelte-components/issues"
+		},
+		"author": {
+			"name": "Andrey Pavlenko"
+		},
+		"publisher": {
+			"username": "andrey-pavlenko",
+			"email": "andrey.pavlenko@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "andrey-pavlenko",
+				"email": "andrey.pavlenko@mail.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2515685317121477,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.02296212666355584,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.6256841e-7
+}

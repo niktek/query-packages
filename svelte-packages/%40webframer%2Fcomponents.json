@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@webframer/components",
+		"scope": "webframer",
+		"version": "0.0.1",
+		"description": "Components library for no-code development platform",
+		"keywords": [
+			"components",
+			"webframe",
+			"react",
+			"svelte"
+		],
+		"date": "2022-07-09T13:34:14.433Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40webframer%2Fcomponents",
+			"homepage": "https://github.com/webframer/components",
+			"repository": "https://github.com/webframer/components",
+			"bugs": "https://github.com/webframer/components/issues"
+		},
+		"publisher": {
+			"username": "ecoin",
+			"email": "coswarm@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ecoin",
+				"email": "coswarm@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2045319469788598,
+		"detail": {
+			"quality": 0.362758683523446,
+			"popularity": 0.0014518238078102884,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 6.7299792e-9
+}

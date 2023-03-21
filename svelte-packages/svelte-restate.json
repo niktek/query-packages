@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-restate",
+		"scope": "unscoped",
+		"version": "0.1.6",
+		"description": "Immutable store for Svelte with full Typescript support and Redux Devtools integration",
+		"keywords": [
+			"svelte",
+			"store"
+		],
+		"date": "2022-02-15T16:34:17.365Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-restate"
+		},
+		"author": {
+			"name": "Stepan Lusnikov",
+			"email": "endenwer@gmail.com",
+			"username": "endenwer"
+		},
+		"publisher": {
+			"username": "endenwer",
+			"email": "endenwer@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "endenwer",
+				"email": "endenwer@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2064897029865476,
+		"detail": {
+			"quality": 0.4397711452609957,
+			"popularity": 0.0026152305228521527,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 2.5165809e-8
+}

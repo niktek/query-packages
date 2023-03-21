@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "alova",
+		"scope": "unscoped",
+		"version": "2.0.7",
+		"description": "Request strategy library for MVVM libraries such as Vue.js, React.js and Svelte.js",
+		"keywords": [
+			"react",
+			"hooks",
+			"xmlhttprequest",
+			"vuejs",
+			"typescript",
+			"vue",
+			"reactjs",
+			"svelte",
+			"axios",
+			"request",
+			"fetch-api",
+			"vue3",
+			"react-hooks",
+			"superagent",
+			"alova"
+		],
+		"date": "2023-03-14T13:19:57.151Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/alova",
+			"homepage": "https://alova.js.org",
+			"repository": "https://github.com/alovajs/alova",
+			"bugs": "https://github.com/alovajs/alova/issues"
+		},
+		"author": {
+			"name": "JOU-amjs"
+		},
+		"publisher": {
+			"username": "zz4780452",
+			"email": "huzhen555@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "zz4780452",
+				"email": "huzhen555@qq.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31339167935044404,
+		"detail": {
+			"quality": 0.6388275979438635,
+			"popularity": 0.014504952287480988,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000017177094
+}

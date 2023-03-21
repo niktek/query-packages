@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-markdown",
+		"scope": "unscoped",
+		"version": "0.2.3",
+		"description": "A markdown renderer for Svelte",
+		"date": "2022-08-10T17:01:37.451Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-markdown",
+			"homepage": "https://github.com/pablo-abc/svelte-markdown",
+			"repository": "https://github.com/pablo-abc/svelte-markdown",
+			"bugs": "https://github.com/pablo-abc/svelte-markdown/issues"
+		},
+		"author": {
+			"name": "Pablo Berganza",
+			"email": "pablo@berganza.dev",
+			"username": "pberganza"
+		},
+		"publisher": {
+			"username": "pberganza",
+			"email": "pablo@berganza.dev"
+		},
+		"maintainers": [
+			{
+				"username": "pberganza",
+				"email": "pablo@berganza.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.259687137340083,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.06903182658875981,
+			"maintenance": 0.2878079139469282
+		}
+	},
+	"searchScore": 8.1025183e-7
+}

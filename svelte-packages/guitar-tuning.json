@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "guitar-tuning",
+		"scope": "unscoped",
+		"version": "0.0.6",
+		"description": "<guitar-tuning> Plays the guitar-string tone. Variabel tunings and chamber tone. Web-component or svelte component",
+		"keywords": [
+			"ivolution.one",
+			"<guitar-tuning/>"
+		],
+		"date": "2022-04-24T18:09:09.647Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/guitar-tuning",
+			"homepage": "https://github.com/ivosdc/guitar-tuning#readme",
+			"repository": "https://github.com/ivosdc/guitar-tuning",
+			"bugs": "https://github.com/ivosdc/guitar-tuning/issues"
+		},
+		"author": {
+			"name": "Ivo Bozic"
+		},
+		"publisher": {
+			"username": "nologin",
+			"email": "ibozic@mail.de"
+		},
+		"maintainers": [
+			{
+				"username": "nologin",
+				"email": "ibozic@mail.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24134501900178773,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.002192334293793494,
+			"maintenance": 0.3248930893877815
+		}
+	},
+	"searchScore": 2.4674707e-8
+}

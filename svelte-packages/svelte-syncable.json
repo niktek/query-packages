@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-syncable",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "Syncable store for SvelteJS",
+		"keywords": [
+			"svelte",
+			"localStorage",
+			"syncable",
+			"sync",
+			"store",
+			"svelte-store"
+		],
+		"date": "2019-06-26T19:01:00.960Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-syncable"
+		},
+		"author": {
+			"name": "Kevin Guillouard",
+			"email": "kevin.guillouard@gmail.com",
+			"username": "chainlist"
+		},
+		"publisher": {
+			"username": "chainlist",
+			"email": "kevin.guillouard@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "chainlist",
+				"email": "kevin.guillouard@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3223328875351203,
+		"detail": {
+			"quality": 0.9651207493584131,
+			"popularity": 0.003963053113112421,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.000011893593
+}

@@ -1,0 +1,64 @@
+{
+	"package": {
+		"name": "@vercel/examples-ui-svelte",
+		"scope": "vercel",
+		"version": "0.1.16",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-06-22T20:25:24.304Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40vercel%2Fexamples-ui-svelte"
+		},
+		"publisher": {
+			"username": "gbibeaulaviolette",
+			"email": "g.bibeaulaviolette@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vercel-release-bot",
+				"email": "infra+release@vercel.com"
+			},
+			{
+				"username": "nick.tracey",
+				"email": "nick.tracey@vercel.com"
+			},
+			{
+				"username": "matheuss",
+				"email": "matheus.frndes@gmail.com"
+			},
+			{
+				"username": "chriswdmr",
+				"email": "github.wolle404@gmail.com"
+			},
+			{
+				"username": "ijjk",
+				"email": "jj@jjsweb.site"
+			},
+			{
+				"username": "quietshu",
+				"email": "g@shud.in"
+			},
+			{
+				"username": "matt.straka",
+				"email": "matt.j.straka@gmail.com"
+			},
+			{
+				"username": "zeit-bot",
+				"email": "team@zeit.co"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20744321030587953,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.00309490385472622,
+			"maintenance": 0.3332202932860467
+		}
+	},
+	"searchScore": 1.8846888e-8
+}

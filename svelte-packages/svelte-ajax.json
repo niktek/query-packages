@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-ajax",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Svelte component for making AJAX requests with few lines of code",
+		"keywords": [
+			"svelte",
+			"ajax",
+			"fetch",
+			"json",
+			"api",
+			"rest",
+			"api-client",
+			"api-client-svelte"
+		],
+		"date": "2022-07-24T16:32:19.251Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ajax",
+			"homepage": "https://github.com/gak4u/svelte-ajax#readme",
+			"repository": "https://github.com/gak4u/svelte-ajax",
+			"bugs": "https://github.com/gak4u/svelte-ajax/issues"
+		},
+		"publisher": {
+			"username": "gak4u",
+			"email": "anil.virtuali@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gak4u",
+				"email": "anil.virtuali@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22060528556065925,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.0016872668846552522,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 5.6542717e-8
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@jonas_focke/svelcon",
+		"scope": "jonas_focke",
+		"version": "0.4.3",
+		"description": "A component library for Svelte",
+		"date": "2022-08-28T14:21:59.998Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40jonas_focke%2Fsvelcon"
+		},
+		"publisher": {
+			"username": "jonas_focke",
+			"email": "jonas-focke@mailbox.org"
+		},
+		"maintainers": [
+			{
+				"username": "jonas_focke",
+				"email": "jonas-focke@mailbox.org"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3144564967268834,
+		"detail": {
+			"quality": 0.6350251223107053,
+			"popularity": 0.020806552477157618,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000015686913
+}

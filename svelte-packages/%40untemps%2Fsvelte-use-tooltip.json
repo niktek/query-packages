@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@untemps/svelte-use-tooltip",
+		"scope": "untemps",
+		"version": "2.8.0",
+		"description": "Svelte action to display a tooltip",
+		"keywords": [
+			"tooltip",
+			"svelte",
+			"svelte-action",
+			"action",
+			"javascript"
+		],
+		"date": "2022-11-19T18:21:38.787Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40untemps%2Fsvelte-use-tooltip",
+			"homepage": "https://github.com/untemps/svelte-use-tooltip#readme",
+			"repository": "https://github.com/untemps/svelte-use-tooltip",
+			"bugs": "https://github.com/untemps/svelte-use-tooltip/issues"
+		},
+		"author": {
+			"name": "Vincent Le Badezet",
+			"email": "v.lebadezet@untemps.net",
+			"username": "untemps"
+		},
+		"publisher": {
+			"username": "untemps",
+			"email": "v.lebadezet@untemps.net"
+		},
+		"maintainers": [
+			{
+				"username": "untemps",
+				"email": "v.lebadezet@untemps.net"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2785915333117866,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.021562675789487427,
+			"maintenance": 0.3332630943426733
+		}
+	},
+	"searchScore": 0.0000014266056
+}

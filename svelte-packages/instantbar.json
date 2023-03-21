@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "instantbar",
+		"scope": "unscoped",
+		"version": "0.0.1-dev.7",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2021-10-11T17:15:36.072Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/instantbar"
+		},
+		"publisher": {
+			"username": "yesmeck",
+			"email": "yesmeck@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "yesmeck",
+				"email": "yesmeck@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19029253670520038,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.001992228563609958,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 1.3903914e-9
+}

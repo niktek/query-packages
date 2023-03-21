@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@arlequins/eslint-config-typescript-sveltejs",
+		"scope": "arlequins",
+		"version": "0.0.1",
+		"description": "eslint config for typescript sveltejs",
+		"keywords": [
+			"eslint",
+			"eslintconfig",
+			"eslint-config",
+			"sveltejs"
+		],
+		"date": "2022-05-17T09:15:10.108Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40arlequins%2Feslint-config-typescript-sveltejs"
+		},
+		"author": {
+			"name": "arlequins"
+		},
+		"publisher": {
+			"username": "arlequins",
+			"email": "tiret.rouge@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "arlequins",
+				"email": "tiret.rouge@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19924188892004463,
+		"detail": {
+			"quality": 0.39120256157201794,
+			"popularity": 0.0016872668846552522,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 5.050722e-9
+}

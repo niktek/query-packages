@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@accuser/svelte-gallery",
+		"scope": "accuser",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-07-01T16:19:01.107Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40accuser%2Fsvelte-gallery"
+		},
+		"publisher": {
+			"username": "accuser",
+			"email": "mhgibbons@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "accuser",
+				"email": "mhgibbons@me.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18718231301900623,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0015288687180486996,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 4.64216e-9
+}

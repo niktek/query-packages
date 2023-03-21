@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@htmlbricks/hb-input-area",
+		"scope": "htmlbricks",
+		"version": "0.19.31",
+		"description": "Svelte-Bootstrap Text Area Input WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2023-02-28T18:24:01.447Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fhb-input-area"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2380155637098304,
+		"detail": {
+			"quality": 0.3445850424719881,
+			"popularity": 0.05135252657590656,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.2722705e-7
+}

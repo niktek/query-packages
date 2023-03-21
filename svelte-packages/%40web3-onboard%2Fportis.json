@@ -1,0 +1,67 @@
+{
+	"package": {
+		"name": "@web3-onboard/portis",
+		"scope": "web3-onboard",
+		"version": "2.1.3",
+		"description": "Portis SDK wallet module for connecting to Web3-Onboard. Web3-Onboard makes it simple to connect Ethereum hardware and software wallets to your dapp. Features standardised spec compliant web3 providers for all supported wallets, framework agnostic modern",
+		"keywords": [
+			"Ethereum",
+			"Web3",
+			"EVM",
+			"dapp",
+			"Multichain",
+			"Wallet",
+			"Transaction",
+			"Provider",
+			"Hardware Wallet",
+			"Notifications",
+			"React",
+			"Svelte",
+			"Vue",
+			"Next",
+			"Nuxt",
+			"MetaMask",
+			"Coinbase",
+			"WalletConnect",
+			"Ledger",
+			"Trezor",
+			"Connect Wallet",
+			"Ethereum Hooks",
+			"Blocknative",
+			"Mempool",
+			"pending",
+			"confirmed",
+			"Injected Wallet"
+		],
+		"date": "2022-09-26T22:19:58.644Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40web3-onboard%2Fportis",
+			"homepage": "https://onboard.blocknative.com",
+			"repository": "https://github.com/blocknative/web3-onboard",
+			"bugs": "https://github.com/blocknative/web3-onboard/issues"
+		},
+		"publisher": {
+			"username": "cmeisl",
+			"email": "chris@blocknative.com"
+		},
+		"maintainers": [
+			{
+				"username": "aaronbarnard1",
+				"email": "aaron@blocknative.com"
+			},
+			{
+				"username": "cmeisl",
+				"email": "chris@blocknative.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2925368069184844,
+		"detail": {
+			"quality": 0.5272075030985048,
+			"popularity": 0.050594715054535444,
+			"maintenance": 0.33333258777098723
+		}
+	},
+	"searchScore": 5.295372e-7
+}

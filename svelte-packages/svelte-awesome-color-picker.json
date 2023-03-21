@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-awesome-color-picker",
+		"scope": "unscoped",
+		"version": "2.4.1",
+		"description": "A highly customizable color picker component library",
+		"keywords": [
+			"svelte",
+			"color picker"
+		],
+		"date": "2023-02-01T15:10:45.474Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-awesome-color-picker",
+			"homepage": "https://github.com/Ennoriel/svelte-awesome-color-picker#readme",
+			"repository": "https://github.com/Ennoriel/svelte-awesome-color-picker",
+			"bugs": "https://github.com/Ennoriel/svelte-awesome-color-picker/issues"
+		},
+		"author": {
+			"name": "Maxime Dupont",
+			"email": "m.dupont103@gmail.com",
+			"username": "ennoriel"
+		},
+		"publisher": {
+			"username": "ennoriel",
+			"email": "m.dupont103@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ennoriel",
+				"email": "m.dupont103@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.29240393995101344,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.03964690170174165,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000027367307
+}

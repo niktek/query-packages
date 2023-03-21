@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-searchable-select",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Searchalbe and multiple select for Svelte",
+		"keywords": [
+			"searchable",
+			"select",
+			"select",
+			"tags",
+			"select",
+			"tags",
+			"multiple",
+			"select"
+		],
+		"date": "2023-02-03T15:14:13.209Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-searchable-select",
+			"homepage": "https://github.com/ariferol01/svelte-searchable-select#readme",
+			"repository": "https://github.com/ariferol01/svelte-searchable-select",
+			"bugs": "https://github.com/ariferol01/svelte-searchable-select/issues"
+		},
+		"author": {
+			"name": "Arif EROL"
+		},
+		"publisher": {
+			"username": "ariferol01",
+			"email": "ariferol01@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ariferol01",
+				"email": "ariferol01@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2549137886026847,
+		"detail": {
+			"quality": 0.4482510331562057,
+			"popularity": 0.010776605683303955,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.2159502e-7
+}

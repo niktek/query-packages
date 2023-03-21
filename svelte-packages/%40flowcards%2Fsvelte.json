@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@flowcards/svelte",
+		"scope": "flowcards",
+		"version": "0.13.36",
+		"description": "```\r npm install @flowcards/svelte --save\r ```",
+		"date": "2020-11-09T17:26:03.893Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40flowcards%2Fsvelte"
+		},
+		"author": {
+			"name": "Thomas Deutsch",
+			"email": "deutsch.thomas+flowcards@gmail.com",
+			"url": "https://thomasdeutsch.de"
+		},
+		"publisher": {
+			"username": "thomas-deutsch",
+			"email": "deutsch.thomas+npm@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thomas-deutsch",
+				"email": "deutsch.thomas+npm@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21424344837818116,
+		"detail": {
+			"quality": 0.6042717256859202,
+			"popularity": 0.004435247241137243,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.079548e-8
+}

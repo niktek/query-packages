@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-preprocess-postcss",
+		"scope": "unscoped",
+		"version": "1.1.1",
+		"description": "Preprocess your Svelte component styles with PostCSS",
+		"keywords": [
+			"svelte",
+			"postcss"
+		],
+		"date": "2019-10-19T15:22:03.991Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-preprocess-postcss"
+		},
+		"author": {
+			"name": "TehShrike"
+		},
+		"publisher": {
+			"username": "tehshrike",
+			"email": "me@JoshDuff.com"
+		},
+		"maintainers": [
+			{
+				"username": "tehshrike",
+				"email": "me@JoshDuff.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18615271790792376,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.026503048322830715,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.911262e-9
+}

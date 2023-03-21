@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-kit-env",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Sveltekit Environment Variables",
+		"keywords": [
+			"env",
+			"svelte",
+			"sveltekit",
+			"environment",
+			"variables"
+		],
+		"date": "2022-01-14T13:56:05.392Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-kit-env"
+		},
+		"author": {
+			"name": "Montasir Mirghani"
+		},
+		"publisher": {
+			"username": "dr-montasir",
+			"email": "montasir1400@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dr-montasir",
+				"email": "montasir1400@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17253807949180286,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.0012741054442895535,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 2.1419821e-9
+}

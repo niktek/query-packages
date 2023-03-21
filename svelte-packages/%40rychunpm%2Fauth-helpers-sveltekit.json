@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@rychunpm/auth-helpers-sveltekit",
+		"scope": "rychunpm",
+		"version": "0.6.14",
+		"description": "A collection of framework specific Auth utilities for working with Supabase.",
+		"keywords": [
+			"Supabase",
+			"Auth",
+			"Svelte Kit",
+			"Svelte"
+		],
+		"date": "2022-09-25T10:43:59.313Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40rychunpm%2Fauth-helpers-sveltekit",
+			"homepage": "https://github.com/supabase/auth-helpers/tree/main/packages/sveltekit#readme",
+			"repository": "https://github.com/supabase/auth-helpers",
+			"bugs": "https://github.com/supabase/auth-helpers/issues"
+		},
+		"author": {
+			"name": "Supabase"
+		},
+		"publisher": {
+			"username": "rychunpm",
+			"email": "ryszardkozlowski@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rychunpm",
+				"email": "ryszardkozlowski@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22613830235311738,
+		"detail": {
+			"quality": 0.3422980387182727,
+			"popularity": 0.01938783196397483,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 5.3301665e-8
+}

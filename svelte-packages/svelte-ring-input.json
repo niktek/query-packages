@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-ring-input",
+		"scope": "unscoped",
+		"version": "0.0.6",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2021-09-11T21:46:10.641Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ring-input"
+		},
+		"publisher": {
+			"username": "mikedubcurry",
+			"email": "fender18295@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mikedubcurry",
+				"email": "fender18295@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17533087102876654,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0018418075192822218,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 1.9854818e-9
+}

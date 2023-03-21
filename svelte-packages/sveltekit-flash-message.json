@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "sveltekit-flash-message",
+		"scope": "unscoped",
+		"version": "0.11.3",
+		"description": "Send temporary data to the next request after redirect. Works with both SSR and client.",
+		"keywords": [
+			"sveltekit",
+			"svelte",
+			"session",
+			"flash message"
+		],
+		"date": "2023-02-15T17:18:49.243Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-flash-message",
+			"homepage": "https://github.com/ciscoheat/sveltekit-flash-message#readme",
+			"repository": "https://github.com/ciscoheat/sveltekit-flash-message",
+			"bugs": "https://github.com/ciscoheat/sveltekit-flash-message/issues"
+		},
+		"author": {
+			"name": "Andreas Söderlund",
+			"email": "ciscoheat@gmail.com",
+			"url": "https://blog.encodeart.dev",
+			"username": "ciscoheat"
+		},
+		"publisher": {
+			"username": "ciscoheat",
+			"email": "ciscoheat@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ciscoheat",
+				"email": "ciscoheat@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.250162240551917,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.009700272649511028,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.7672244e-7
+}

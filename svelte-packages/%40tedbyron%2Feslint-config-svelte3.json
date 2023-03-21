@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@tedbyron/eslint-config-svelte3",
+		"scope": "tedbyron",
+		"version": "1.1.0",
+		"description": "ESLint config for Svelte 3 with StandardJS and TypeScript",
+		"keywords": [
+			"svelte",
+			"eslint",
+			"eslintconfig",
+			"typescript",
+			"standardjs",
+			"standard",
+			"standard style",
+			"lint",
+			"style"
+		],
+		"date": "2022-07-03T07:27:58.253Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tedbyron%2Feslint-config-svelte3",
+			"homepage": "https://github.com/tedbyron/eslint-config-svelte3#readme",
+			"repository": "https://github.com/tedbyron/eslint-config-svelte3",
+			"bugs": "https://github.com/tedbyron/eslint-config-svelte3/issues"
+		},
+		"author": {
+			"name": "Teddy Byron",
+			"email": "ted@tedbyron.com",
+			"username": "tedbyron"
+		},
+		"publisher": {
+			"username": "tedbyron",
+			"email": "ted@tedbyron.com"
+		},
+		"maintainers": [
+			{
+				"username": "tedbyron",
+				"email": "ted@tedbyron.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2501554050646546,
+		"detail": {
+			"quality": 0.4498037081010845,
+			"popularity": 0.0021522431514099773,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 1.6301492e-7
+}

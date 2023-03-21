@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "svelte-painter",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "<p align=\"center\"> <a href=\"https://www.npmjs.com/package/svelte-painter\"><img src=\"https://img.shields.io/npm/v/svelte-painter.svg\"/></a> <a href=\"https://opensource.org/licenses/MIT\"><img src=\"https://img.shields.io/badge/License-MIT-blue.svg\"/></a>",
+		"keywords": [
+			"svelte",
+			"painter",
+			"svelte-painter"
+		],
+		"date": "2021-07-04T04:44:24.695Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-painter"
+		},
+		"publisher": {
+			"username": "miruoon",
+			"email": "rillakerika@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "miruoon",
+				"email": "rillakerika@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23213209725253864,
+		"detail": {
+			"quality": 0.5902596029477236,
+			"popularity": 0.001503902651019941,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 1.331005e-7
+}

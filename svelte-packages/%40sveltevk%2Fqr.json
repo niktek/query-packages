@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@sveltevk/qr",
+		"scope": "sveltevk",
+		"version": "1.0.0",
+		"description": "Svelte components for VK-style QR codes",
+		"keywords": [
+			"vk",
+			"qr",
+			"components",
+			"svelte"
+		],
+		"date": "2022-02-16T17:56:21.151Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltevk%2Fqr",
+			"homepage": "https://github.com/sveltevk/qr",
+			"repository": "https://github.com/sveltevk/qr",
+			"bugs": "https://github.com/sveltevk/qr/issues"
+		},
+		"author": {
+			"name": "Daniil Suvorov",
+			"url": "https://github.com/SevereCloud"
+		},
+		"publisher": {
+			"username": "severecloud",
+			"email": "severecloud@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "severecloud",
+				"email": "severecloud@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23309263487567966,
+		"detail": {
+			"quality": 0.6081416904986702,
+			"popularity": 0.02087907663472931,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.17167914e-7
+}

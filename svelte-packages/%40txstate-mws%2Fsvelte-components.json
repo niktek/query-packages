@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@txstate-mws/svelte-components",
+		"scope": "txstate-mws",
+		"version": "1.4.5",
+		"description": "Svelte components that are generically useful.",
+		"date": "2023-03-16T15:26:08.597Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40txstate-mws%2Fsvelte-components",
+			"homepage": "https://github.com/txstate-etc/svelte-components#readme",
+			"repository": "https://github.com/txstate-etc/svelte-components",
+			"bugs": "https://github.com/txstate-etc/svelte-components/issues"
+		},
+		"author": {
+			"name": "Nick Wing"
+		},
+		"publisher": {
+			"username": "wickning1",
+			"email": "wickning1@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wickning1",
+				"email": "wickning1@gmail.com"
+			},
+			{
+				"username": "jsnider",
+				"email": "jsnider@txstate.edu"
+			},
+			{
+				"username": "rmcew",
+				"email": "ram146@txstate.edu"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28692901588938463,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.03915727953149857,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000001915895
+}

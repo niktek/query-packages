@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@sveltehacks/leaflet",
+		"scope": "sveltehacks",
+		"version": "0.1.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-12-28T09:03:39.260Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltehacks%2Fleaflet"
+		},
+		"publisher": {
+			"username": "jpeeters",
+			"email": "julien.peeters@mountainhacks.fr"
+		},
+		"maintainers": [
+			{
+				"username": "jpeeters",
+				"email": "julien.peeters@mountainhacks.fr"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22326718346009222,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0039057690964367097,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 2.8247547e-8
+}

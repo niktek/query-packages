@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@yababay67/svelte-meets-bootstrap-icons",
+		"scope": "yababay67",
+		"version": "0.0.9",
+		"description": "Using bootstrap icons in svelte modules.",
+		"keywords": [
+			"bootstrap",
+			"svg",
+			"icons",
+			"svetle"
+		],
+		"date": "2022-01-24T07:20:16.522Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40yababay67%2Fsvelte-meets-bootstrap-icons",
+			"homepage": "https://github.com/yababay/svelte-meets-bootstrap-icons#readme",
+			"repository": "https://github.com/yababay/svelte-meets-bootstrap-icons",
+			"bugs": "https://github.com/yababay/svelte-meets-bootstrap-icons/issues"
+		},
+		"author": {
+			"name": "Michael Belyakov"
+		},
+		"publisher": {
+			"username": "yababay67",
+			"email": "bigbelk@live.ru"
+		},
+		"maintainers": [
+			{
+				"username": "yababay67",
+				"email": "bigbelk@live.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17476109440952534,
+		"detail": {
+			"quality": 0.31920103535484073,
+			"popularity": 0.003918465946560449,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 1.599191e-9
+}

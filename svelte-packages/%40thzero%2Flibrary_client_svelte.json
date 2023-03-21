@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@thzero/library_client_svelte",
+		"scope": "thzero",
+		"version": "0.17.3",
+		"description": "An opinionated library of common functionality to bootstrap a Svelte based SPA application.",
+		"date": "2023-03-03T13:37:42.736Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40thzero%2Flibrary_client_svelte",
+			"homepage": "https://github.com/thzero/library_client_svelte#readme",
+			"repository": "https://github.com/thzero/library_client_svelte",
+			"bugs": "https://github.com/thzero/library_client_svelte/issues"
+		},
+		"author": {
+			"name": "thZero"
+		},
+		"publisher": {
+			"username": "thzero",
+			"email": "development@thzero.com"
+		},
+		"maintainers": [
+			{
+				"username": "thzero",
+				"email": "development@thzero.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2737478097833546,
+		"detail": {
+			"quality": 0.49043426796376466,
+			"popularity": 0.028431036364453065,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.9061435e-7
+}

@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "syv",
+		"scope": "unscoped",
+		"version": "0.0.21",
+		"description": "Svelte Complementary Library",
+		"keywords": [
+			"svelte",
+			"complementary",
+			"components",
+			"icons",
+			"loaders",
+			"stores",
+			"library",
+			"kit"
+		],
+		"date": "2023-03-07T02:04:35.449Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/syv",
+			"homepage": "https://github.com/ignatiusmb/syv#readme",
+			"repository": "https://github.com/ignatiusmb/syv",
+			"bugs": "https://github.com/ignatiusmb/syv/issues"
+		},
+		"author": {
+			"name": "Ignatius Bagus"
+		},
+		"publisher": {
+			"username": "ignatiusmb",
+			"email": "ignatius.mbs@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ignatiusmb",
+				"email": "ignatius.mbs@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2531686747198503,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.004882228287403973,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.3953554e-7
+}

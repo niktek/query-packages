@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@innit/prettier-config-svelte",
+		"scope": "innit",
+		"version": "1.1.0",
+		"description": "Personal Prettier configuration, with Svelte projects.",
+		"keywords": [
+			"prettier",
+			"svelte",
+			"javascript",
+			"typescript",
+			"config"
+		],
+		"date": "2021-09-04T19:17:15.143Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40innit%2Fprettier-config-svelte"
+		},
+		"author": {
+			"name": "Tomasz Moskal",
+			"email": "boojum@stercus-accidit.com",
+			"url": "https://stercus-accidit.com/",
+			"username": "boojum"
+		},
+		"publisher": {
+			"username": "boojum",
+			"email": "boojum@stercus-accidit.com"
+		},
+		"maintainers": [
+			{
+				"username": "boojum",
+				"email": "boojum@stercus-accidit.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2115310887325594,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0012741054442895535,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 3.084818e-8
+}

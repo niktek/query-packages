@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@material-svelte/top-app-bar",
+		"scope": "material-svelte",
+		"version": "1.2.4",
+		"date": "2021-05-20T07:52:15.112Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40material-svelte%2Ftop-app-bar",
+			"homepage": "https://material-svelte.dev",
+			"repository": "https://github.com/material-svelte/material-svelte",
+			"bugs": "https://github.com/material-svelte/material-svelte/issues"
+		},
+		"publisher": {
+			"username": "material-svelte-bot",
+			"email": "bot@material-svelte.dev"
+		},
+		"maintainers": [
+			{
+				"username": "betaboon",
+				"email": "betaboon@0x80.ninja"
+			},
+			{
+				"username": "material-svelte-bot",
+				"email": "bot@material-svelte.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2550920080732544,
+		"detail": {
+			"quality": 0.5574776297318049,
+			"popularity": 0.018737548899722945,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 3.040654e-7
+}

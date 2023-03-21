@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@mac-barrett/svelte-mount-on-scroll",
+		"scope": "mac-barrett",
+		"version": "1.2.1",
+		"description": "A simple SvelteKit/Svelte component for snappy transitions and dynamic content!",
+		"keywords": [
+			"Svelte",
+			"SvelteKit",
+			"transitions",
+			"dynamic",
+			"component"
+		],
+		"date": "2023-01-12T18:45:23.803Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mac-barrett%2Fsvelte-mount-on-scroll",
+			"homepage": "https://github.com/Mac-Barrett/svelte-mount-on-scroll.git",
+			"bugs": "https://github.com/Mac-Barrett/svelte-mount-on-scroll/issues"
+		},
+		"author": {
+			"name": "Mac Barrett",
+			"email": "maccabee.barrett3@gmail.com",
+			"username": "mac-barrett"
+		},
+		"publisher": {
+			"username": "mac-barrett",
+			"email": "maccabee.barrett3@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mac-barrett",
+				"email": "maccabee.barrett3@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23531815933313305,
+		"detail": {
+			"quality": 0.3912006487957689,
+			"popularity": 0.003760998036671569,
+			"maintenance": 0.33326175823304965
+		}
+	},
+	"searchScore": 1.0311542e-7
+}

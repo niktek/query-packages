@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "sveltekit-auth0-js",
+		"scope": "unscoped",
+		"version": "0.0.17",
+		"description": "If you are in need of authentication and you love Auth0 as much as I do, You've found the right package!",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"auth0",
+			"authentication"
+		],
+		"date": "2022-06-06T17:38:04.582Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-auth0-js"
+		},
+		"publisher": {
+			"username": "leelaing",
+			"email": "lcharleslaing@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "leelaing",
+				"email": "lcharleslaing@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18758543668382432,
+		"detail": {
+			"quality": 0.23323956251455696,
+			"popularity": 0.0030244469050146653,
+			"maintenance": 0.3330143186077203
+		}
+	},
+	"searchScore": 3.2693808e-9
+}

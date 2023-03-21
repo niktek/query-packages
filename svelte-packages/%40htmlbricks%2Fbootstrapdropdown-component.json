@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@htmlbricks/bootstrapdropdown-component",
+		"scope": "htmlbricks",
+		"version": "0.2.0",
+		"description": "Svelte Boostrap 5 Dropdown WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents",
+			"html5-webcomponents"
+		],
+		"date": "2021-12-30T18:09:31.365Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fbootstrapdropdown-component"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21931348051008845,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.0047182829220493985,
+			"maintenance": 0.33302984372978967
+		}
+	},
+	"searchScore": 2.473198e-8
+}

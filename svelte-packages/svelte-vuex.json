@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "svelte-vuex",
+		"scope": "unscoped",
+		"version": "0.0.0",
+		"date": "2022-03-17T03:07:27.331Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-vuex"
+		},
+		"author": {
+			"name": "我"
+		},
+		"publisher": {
+			"username": "vanilla-vue",
+			"email": "getemail@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "vanilla-react",
+				"email": "getemail@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20096706464810138,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.001130468303792204,
+			"maintenance": 0.3166814555290432
+		}
+	},
+	"searchScore": 1.0994089e-8
+}

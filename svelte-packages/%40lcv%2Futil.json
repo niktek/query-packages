@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@lcv/util",
+		"scope": "lcv",
+		"version": "1.0.3",
+		"keywords": [
+			"util",
+			"template",
+			"lcv",
+			"vue",
+			"vue2",
+			"vue3",
+			"react",
+			"preact",
+			"vite",
+			"svelte",
+			"electron",
+			"cli"
+		],
+		"date": "2023-03-20T11:48:45.810Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40lcv%2Futil"
+		},
+		"publisher": {
+			"username": "livecv",
+			"email": "1739616529@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "livecv",
+				"email": "1739616529@qq.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25462209384063866,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.02606282239566844,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.1563539e-7
+}

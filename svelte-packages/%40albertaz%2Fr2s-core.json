@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "@albertaz/r2s-core",
+		"scope": "albertaz",
+		"version": "1.0.1-alpha.0",
+		"description": "react to svelte core",
+		"date": "2021-10-29T07:56:13.363Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40albertaz%2Fr2s-core"
+		},
+		"author": {
+			"name": "Albert Zhang",
+			"url": "https://github.com/AlbertAZ1992"
+		},
+		"publisher": {
+			"username": "albertaz777",
+			"email": "ziyuximing@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "albertaz777",
+				"email": "ziyuximing@163.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19154812998764784,
+		"detail": {
+			"quality": 0.47254430613008114,
+			"popularity": 0.018406820699143272,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 2.3989035e-9
+}

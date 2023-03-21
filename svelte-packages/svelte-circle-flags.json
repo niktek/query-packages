@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-circle-flags",
+		"scope": "unscoped",
+		"version": "0.4.1",
+		"description": "SVG circle flag icon components for Svelte",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"country circle flag icons",
+			"icons",
+			"svg"
+		],
+		"date": "2023-03-07T01:11:11.903Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-circle-flags",
+			"homepage": "https://svelte-circle-flags.codewithshin.com",
+			"repository": "https://github.com/shinokada/svelte-circle-flags",
+			"bugs": "https://github.com/shinokada/svelte-circle-flags/issues"
+		},
+		"author": {
+			"name": "Shinichi Okada",
+			"email": "connect@codewithshin.com",
+			"url": "https://blog.codewithshin.com"
+		},
+		"publisher": {
+			"username": "shinichiokada",
+			"email": "okada.shin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shinichiokada",
+				"email": "okada.shin@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28422070512067515,
+		"detail": {
+			"quality": 0.5486021661567133,
+			"popularity": 0.008495396019984386,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000016809267
+}

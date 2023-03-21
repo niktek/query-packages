@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@cautionyourblast/svelte-carousel",
+		"scope": "cautionyourblast",
+		"version": "2.4.3",
+		"description": "<p align=\"center\">   <img width=\"186\" height=\"90\" src=\"https://user-images.githubusercontent.com/218949/44782765-377e7c80-ab80-11e8-9dd8-fce0e37c235b.png\" alt=\"Beyonk\" /> </p>",
+		"keywords": [
+			"svelte",
+			"carousel",
+			"slider",
+			"glidejs",
+			"slick",
+			"flickity",
+			"siema"
+		],
+		"date": "2020-07-10T13:54:25.271Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cautionyourblast%2Fsvelte-carousel",
+			"homepage": "https://github.com/cautionyourblast/svelte-carousel#readme",
+			"repository": "https://github.com/cautionyourblast/svelte-carousel",
+			"bugs": "https://github.com/cautionyourblast/svelte-carousel/issues"
+		},
+		"publisher": {
+			"username": "jenbutonnpm",
+			"email": "jen@cautionyourblast.com"
+		},
+		"maintainers": [
+			{
+				"username": "jenbutonnpm",
+				"email": "jen@cautionyourblast.com"
+			},
+			{
+				"username": "superafroman",
+				"email": "max.stewart@superafroman.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19265592285991112,
+		"detail": {
+			"quality": 0.5355947797183326,
+			"popularity": 0.0016225565897266057,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.949955e-9
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-wordsearchpuzzle-solver-engine",
+		"scope": "unscoped",
+		"version": "0.2.3",
+		"description": "- build upon svelte-tesseract - upload an image of a grid of letters and receive all words found within",
+		"date": "2022-09-19T11:56:54.162Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-wordsearchpuzzle-solver-engine"
+		},
+		"publisher": {
+			"username": "hannesgith",
+			"email": "Hanneshattenbach.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hannesgith",
+				"email": "Hanneshattenbach.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20119335465182375,
+		"detail": {
+			"quality": 0.27862910763238746,
+			"popularity": 0.002748794052606204,
+			"maintenance": 0.3332644126962725
+		}
+	},
+	"searchScore": 9.864797e-9
+}

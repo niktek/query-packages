@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-link-preview",
+		"scope": "unscoped",
+		"version": "0.3.3",
+		"description": "Svelte library to preview links.",
+		"keywords": [
+			"svelte",
+			"svelte-link-preview",
+			"link",
+			"preview",
+			"card"
+		],
+		"date": "2021-11-24T03:36:08.445Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-link-preview",
+			"homepage": "https://github.com/dhaiwat10/svelte-link-preview",
+			"repository": "https://github.com/dhaiwat10/svelte-link-preview",
+			"bugs": "https://github.com/dhaiwat10/svelte-link-preview/issues"
+		},
+		"author": {
+			"name": "Dhaiwat Pandya"
+		},
+		"publisher": {
+			"username": "dhaiwat10",
+			"email": "dhaiwatpandya@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dhaiwat10",
+				"email": "dhaiwatpandya@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20497987432260198,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0035324775412281994,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 2.1575188e-8
+}

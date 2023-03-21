@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@cypress/svelte",
+		"scope": "cypress",
+		"version": "2.0.0",
+		"description": "Browser-based Component Testing for Svelte.js with Cypress.io 🧡",
+		"keywords": [
+			"cypress",
+			"svelte",
+			"testing",
+			"component testing"
+		],
+		"date": "2022-11-07T15:43:17.180Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cypress%2Fsvelte",
+			"homepage": "https://github.com/cypress-io/cypress/blob/develop/npm/svelte/#readme",
+			"repository": "https://github.com/cypress-io/cypress",
+			"bugs": "https://github.com/cypress-io/cypress/issues/new?assignees=&labels=npm%3A%20%40cypress%2Fsvelte&template=1-bug-report.md&title="
+		},
+		"publisher": {
+			"username": "cypress-npm-publisher",
+			"email": "cypress-npm-publisher@cypress.io"
+		},
+		"maintainers": [
+			{
+				"username": "cypress-npm-publisher",
+				"email": "cypress-npm-publisher@cypress.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2761085441734449,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.008451453460599346,
+			"maintenance": 0.33312352593011885
+		}
+	},
+	"searchScore": 0.0000011728104
+}

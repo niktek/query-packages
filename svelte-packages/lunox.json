@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "lunox",
+		"scope": "unscoped",
+		"version": "1.7.1",
+		"description": "Laravel-Flavoured NodeJs framework",
+		"keywords": [
+			"laravel",
+			"nodejs",
+			"lunox",
+			"polka",
+			"svelte",
+			"mvc"
+		],
+		"date": "2022-08-25T03:11:18.497Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/lunox",
+			"homepage": "https://github.com/kodepandai/lunox-framework#readme",
+			"repository": "https://github.com/kodepandai/lunox-framework",
+			"bugs": "https://github.com/kodepandai/lunox-framework/issues"
+		},
+		"author": {
+			"name": "Akhmad Salafudin",
+			"email": "axmad386@gmail.com",
+			"url": "https://github.com/axmad386",
+			"username": "axmad386"
+		},
+		"publisher": {
+			"username": "axmad386",
+			"email": "axmad386@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "axmad386",
+				"email": "axmad386@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2469556914961098,
+		"detail": {
+			"quality": 0.42762148195865607,
+			"popularity": 0.0057216578338466955,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.0108016e-8
+}

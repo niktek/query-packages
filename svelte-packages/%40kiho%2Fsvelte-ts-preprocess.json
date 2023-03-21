@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@kiho/svelte-ts-preprocess",
+		"scope": "kiho",
+		"version": "1.1.2",
+		"description": "Typescript preprocessor for Svelte 3",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"preprocess"
+		],
+		"date": "2019-06-22T21:22:59.216Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kiho%2Fsvelte-ts-preprocess",
+			"homepage": "https://github.com/PaulMaly/svelte-ts-preprocess",
+			"repository": "https://github.com/PaulMaly/svelte-ts-preprocess",
+			"bugs": "https://github.com/PaulMaly/svelte-ts-preprocess/issues"
+		},
+		"author": {
+			"name": "PaulMaly"
+		},
+		"publisher": {
+			"username": "kiho",
+			"email": "kihoc22@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kiho",
+				"email": "kihoc22@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18623402212446888,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.0012054692026613517,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.2849477e-9
+}

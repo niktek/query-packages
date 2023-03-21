@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-github-issue-comments-component",
+		"scope": "unscoped",
+		"version": "0.1.8",
+		"description": "A Svelte component that uses a Github issue as a no-backend comment system for static sites/blogs",
+		"date": "2022-12-18T11:51:49.503Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-github-issue-comments-component"
+		},
+		"publisher": {
+			"username": "pjaerr",
+			"email": "contact@joshuaj.co.uk"
+		},
+		"maintainers": [
+			{
+				"username": "pjaerr",
+				"email": "contact@joshuaj.co.uk"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2230938846881626,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.00309490385472622,
+			"maintenance": 0.33329724688608336
+		}
+	},
+	"searchScore": 3.8219518e-8
+}

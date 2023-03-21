@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-router-store",
+		"scope": "unscoped",
+		"version": "0.4.2",
+		"description": "A router for SPAs using svelte stores.",
+		"keywords": [
+			"svelte",
+			"router"
+		],
+		"date": "2022-12-27T13:48:48.114Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-router-store"
+		},
+		"publisher": {
+			"username": "digital-daniel",
+			"email": "daniel.kozma.v1@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "digital-daniel",
+				"email": "daniel.kozma.v1@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21375020311528184,
+		"detail": {
+			"quality": 0.29771645529148977,
+			"popularity": 0.022195999603337912,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.042392e-8
+}

@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@ctx-core/fontawesome-ui-svelte",
+		"scope": "ctx-core",
+		"version": "1.0.155",
+		"description": "ctx-core fontawesome",
+		"keywords": [
+			"ctx-core",
+			"fontawesome"
+		],
+		"date": "2023-03-17T16:42:13.244Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ctx-core%2Ffontawesome-ui-svelte",
+			"homepage": "https://github.com/ctx-core/fontawesome-ui-svelte#readme",
+			"repository": "https://github.com/ctx-core/fontawesome-ui-svelte",
+			"bugs": "https://github.com/ctx-core/fontawesome-ui-svelte/issues"
+		},
+		"author": {
+			"name": "Brian Takita"
+		},
+		"publisher": {
+			"username": "btakita",
+			"email": "brian.takita@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "btakita",
+				"email": "brian.takita@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26396355054632287,
+		"detail": {
+			"quality": 0.4385129329787492,
+			"popularity": 0.04498001138866131,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.3561683e-7
+}

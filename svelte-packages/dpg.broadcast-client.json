@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "dpg.broadcast-client",
+		"scope": "unscoped",
+		"version": "0.4.0",
+		"description": "Library for broadcast DPG",
+		"keywords": [
+			"DPG",
+			"stun",
+			"broadcast",
+			"peerconnection",
+			"webrtc",
+			"p2p",
+			"svelte",
+			"svelte-webrtc"
+		],
+		"date": "2022-10-11T15:29:03.463Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/dpg.broadcast-client"
+		},
+		"author": {
+			"name": "DPG"
+		},
+		"publisher": {
+			"username": "dpg_libraries",
+			"email": "mtitov@dpg.email"
+		},
+		"maintainers": [
+			{
+				"username": "dpg_libraries",
+				"email": "mtitov@dpg.email"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23979457933293757,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.005379537257283131,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.3302515e-8
+}

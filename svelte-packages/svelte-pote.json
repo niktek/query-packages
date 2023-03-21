@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-pote",
+		"scope": "unscoped",
+		"version": "1.0.0-beta.6",
+		"description": "Components for rendering [Portable Text](https://www.portabletext.org) rendering for Svelte. Portable Text is the serialization spec used primarily by the [Sanity CMS](https://www.sanity.io).",
+		"date": "2021-07-31T11:43:54.065Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-pote"
+		},
+		"author": {
+			"name": "Rune Finstad Halvorsen"
+		},
+		"publisher": {
+			"username": "runeh",
+			"email": "runefh@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "runeh",
+				"email": "runefh@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20008094384757985,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0018595969186283715,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 1.3053571e-8
+}

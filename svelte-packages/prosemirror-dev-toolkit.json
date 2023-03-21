@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "prosemirror-dev-toolkit",
+		"scope": "unscoped",
+		"version": "1.1.2",
+		"description": "Injectable dev tools for ProseMirror editors",
+		"keywords": [
+			"prosemirror",
+			"svelte",
+			"dev",
+			"devtools",
+			"typescript",
+			"inspector"
+		],
+		"date": "2023-03-20T09:00:45.439Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/prosemirror-dev-toolkit",
+			"homepage": "https://teemukoivisto.github.io/prosemirror-dev-toolkit/",
+			"repository": "https://github.com/TeemuKoivisto/prosemirror-dev-toolkit",
+			"bugs": "https://github.com/TeemuKoivisto/prosemirror-dev-toolkit/issues"
+		},
+		"author": {
+			"name": "Teemu Koivisto",
+			"email": "teemukoivisto.xyz@gmail.com"
+		},
+		"publisher": {
+			"username": "tekk",
+			"email": "tkoivisto456@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tekk",
+				"email": "tkoivisto456@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.4213989549128904,
+		"detail": {
+			"quality": 0.969620376602523,
+			"popularity": 0.0395605007584768,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00014765632
+}

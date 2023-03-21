@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@johnkegd/navbars",
+		"scope": "johnkegd",
+		"version": "1.0.2",
+		"description": "svelte components - Navbars",
+		"keywords": [
+			"svelte",
+			"components",
+			"johnkegd"
+		],
+		"date": "2021-06-04T22:24:50.882Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40johnkegd%2Fnavbars",
+			"homepage": "https://github.com/johnkegd/svelte#readme",
+			"repository": "https://github.com/johnkegd/svelte",
+			"bugs": "https://github.com/johnkegd/svelte/issues"
+		},
+		"author": {
+			"name": "johnkegd creative"
+		},
+		"publisher": {
+			"username": "johnkegd",
+			"email": "Johnkegd@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "johnkegd",
+				"email": "Johnkegd@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1784340354533496,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.017880414896966262,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 2.1332347e-9
+}

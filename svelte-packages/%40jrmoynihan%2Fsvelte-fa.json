@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@jrmoynihan/svelte-fa",
+		"scope": "jrmoynihan",
+		"version": "3.0.6",
+		"description": "Tiny FontAwesome component for Svelte",
+		"keywords": [
+			"fontawesome",
+			"font-awesome",
+			"svelte",
+			"svelte.js",
+			"component",
+			"icon",
+			"svg",
+			"duotone"
+		],
+		"date": "2022-12-19T13:17:06.938Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40jrmoynihan%2Fsvelte-fa",
+			"homepage": "https://github.com/jrmoynihan/svelte-fa/",
+			"bugs": "https://github.com/jrmoynihan/svelte-fa/issues"
+		},
+		"author": {
+			"name": "Cweili"
+		},
+		"publisher": {
+			"username": "jrmoynihan",
+			"email": "jrmoynihan@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jrmoynihan",
+				"email": "jrmoynihan@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3130581395484531,
+		"detail": {
+			"quality": 0.6283781290196105,
+			"popularity": 0.02260089739725551,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 0.000007176466
+}

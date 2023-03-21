@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "typescript-eslint-parser-for-extra-files",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "An experimental ESLint custom parser for Vue, Svelte, and Astro for use with TypeScript. It provides type information in combination with each framework's ESLint custom parser.",
+		"keywords": [
+			"eslint",
+			"parser",
+			"vue",
+			"svelte",
+			"astro",
+			"typescript"
+		],
+		"date": "2023-03-17T09:26:03.991Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/typescript-eslint-parser-for-extra-files",
+			"homepage": "https://github.com/ota-meshi/typescript-eslint-parser-for-extra-files#readme",
+			"repository": "https://github.com/ota-meshi/typescript-eslint-parser-for-extra-files",
+			"bugs": "https://github.com/ota-meshi/typescript-eslint-parser-for-extra-files/issues"
+		},
+		"author": {
+			"name": "Yosuke Ota",
+			"url": "https://github.com/ota-meshi"
+		},
+		"publisher": {
+			"username": "ota-meshi",
+			"email": "otameshiyo23@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ota-meshi",
+				"email": "otameshiyo23@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25576724827025504,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.012306724145703402,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.6256311e-7
+}

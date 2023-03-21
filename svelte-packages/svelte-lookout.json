@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-lookout",
+		"scope": "unscoped",
+		"version": "1.1.3",
+		"description": "[![Build Status](https://github.com/UrielCuriel/svelte-lookout/actions/workflows/release-please.yml/badge.svg?branch=main)](https://github.com/UrielCuriel/svelte-lookout/actions/workflows/release-please.yml)",
+		"date": "2023-01-30T19:45:10.129Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-lookout"
+		},
+		"publisher": {
+			"username": "urielcuriel",
+			"email": "urielcuriel@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "urielcuriel",
+				"email": "urielcuriel@outlook.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2714279427316386,
+		"detail": {
+			"quality": 0.487046316308575,
+			"popularity": 0.02470680334971273,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.313143e-7
+}

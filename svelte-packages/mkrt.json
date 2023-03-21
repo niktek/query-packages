@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "mkrt",
+		"scope": "unscoped",
+		"version": "0.6.0",
+		"description": "Create SvelteKit routes, fast",
+		"keywords": [
+			"sveltekit"
+		],
+		"date": "2022-09-01T11:59:44.881Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/mkrt",
+			"homepage": "https://github.com/j4w8n/mkrt#readme",
+			"repository": "https://github.com/j4w8n/mkrt",
+			"bugs": "https://github.com/j4w8n/mkrt/issues"
+		},
+		"author": {
+			"name": "Jason Creviston"
+		},
+		"publisher": {
+			"username": "j4w8n",
+			"email": "jason@malynium.com"
+		},
+		"maintainers": [
+			{
+				"username": "j4w8n",
+				"email": "jason@malynium.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23595293588998895,
+		"detail": {
+			"quality": 0.39802258930009876,
+			"popularity": 0.002340700182844099,
+			"maintenance": 0.3306483258170397
+		}
+	},
+	"searchScore": 2.469568e-8
+}

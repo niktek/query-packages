@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "routify-ts",
+		"scope": "unscoped",
+		"version": "2.0.2",
+		"description": "Use Typescript in Routify Starter Template.",
+		"keywords": [
+			"svelte",
+			"routify",
+			"typescript"
+		],
+		"date": "2020-12-09T06:00:24.893Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/routify-ts",
+			"homepage": "https://github.com/lamualfa/routify-ts#readme",
+			"repository": "https://github.com/lamualfa/routify-ts",
+			"bugs": "https://github.com/lamualfa/routify-ts/issues"
+		},
+		"author": {
+			"name": "Laode Muhammad Al Fatih"
+		},
+		"publisher": {
+			"username": "lamualfa",
+			"email": "laodemalfatih@lamualfa.com"
+		},
+		"maintainers": [
+			{
+				"username": "lamualfa",
+				"email": "laodemalfatih@lamualfa.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18528184852001783,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.002705296005365493,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.3787552e-9
+}

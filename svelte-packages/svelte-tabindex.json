@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-tabindex",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "A Svelte component for managing tabindex.",
+		"keywords": [
+			"svelte",
+			"tabindex",
+			"accessibility",
+			"keyboard-navigation",
+			"tabulation"
+		],
+		"date": "2022-05-16T14:22:53.121Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tabindex",
+			"homepage": "https://github.com/radiofrance/svelte-tabindex#readme",
+			"repository": "https://github.com/radiofrance/svelte-tabindex",
+			"bugs": "https://github.com/radiofrance/svelte-tabindex/issues"
+		},
+		"publisher": {
+			"username": "romaindurand",
+			"email": "romaindurand89@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "romaindurand",
+				"email": "romaindurand89@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2522278126260364,
+		"detail": {
+			"quality": 0.4660379081226978,
+			"popularity": 0.0018595969186283715,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 3.3994945e-7
+}

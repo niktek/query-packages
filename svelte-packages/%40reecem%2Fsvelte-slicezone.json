@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@reecem/svelte-slicezone",
+		"scope": "reecem",
+		"version": "0.1.0",
+		"description": "SvelteKit SliceZone component for Prismic SliceMachine",
+		"keywords": [
+			"Svelte",
+			"Prismic",
+			"slices"
+		],
+		"date": "2022-01-13T09:40:55.800Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40reecem%2Fsvelte-slicezone",
+			"homepage": "https://github.com/reecem/svelte-slicezone",
+			"repository": "https://github.com/reecem/svelte-slicezone",
+			"bugs": "https://github.com/reecem/svelte-slicezone/issues"
+		},
+		"author": {
+			"name": "ReeceM",
+			"email": "zsh.rce@gmail.com",
+			"url": "https://twitter.com/iexistin3d",
+			"username": "reecem"
+		},
+		"publisher": {
+			"username": "reecem",
+			"email": "zsh.rce@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "reecem",
+				"email": "zsh.rce@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18513646723101965,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0014518238078102884,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 5.16409e-9
+}

@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-zondicons",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Svelte component for Zondicons by Steve Schoger",
+		"keywords": [
+			"svelte",
+			"zondicons",
+			"svg",
+			"inline",
+			"icons",
+			"design"
+		],
+		"date": "2019-12-24T02:21:34.421Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-zondicons"
+		},
+		"author": {
+			"name": "moollaza",
+			"email": "moollaza@fastmail.fm",
+			"username": "moollaza"
+		},
+		"publisher": {
+			"username": "moollaza",
+			"email": "moollaza@fastmail.fm"
+		},
+		"maintainers": [
+			{
+				"username": "moollaza",
+				"email": "moollaza@fastmail.fm"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21447739447353648,
+		"detail": {
+			"quality": 0.6081416904986702,
+			"popularity": 0.0017865519597952627,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.7186372e-8
+}

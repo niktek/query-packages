@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@holochain-open-dev/stores",
+		"scope": "holochain-open-dev",
+		"version": "0.4.4",
+		"description": "Re-export of svelte/store, with additional utilities to build reusable holochain-open-dev modules",
+		"date": "2023-02-28T12:14:38.535Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40holochain-open-dev%2Fstores"
+		},
+		"author": {
+			"name": "guillem.cordoba@gmail.com"
+		},
+		"publisher": {
+			"username": "guillem.cordoba",
+			"email": "guillem.cordoba@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "matthme",
+				"email": "matthme@protonmail.com"
+			},
+			{
+				"username": "zippy314",
+				"email": "eric@harris-braun.com"
+			},
+			{
+				"username": "guillem.cordoba",
+				"email": "guillem.cordoba@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2250630101909748,
+		"detail": {
+			"quality": 0.31214430752912636,
+			"popularity": 0.04215157504448634,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.42908805e-8
+}

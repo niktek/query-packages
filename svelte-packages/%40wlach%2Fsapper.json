@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@wlach/sapper",
+		"scope": "wlach",
+		"version": "0.29.2-a4",
+		"description": "The next small thing in web development, powered by Svelte",
+		"keywords": [
+			"svelte",
+			"isomorphic",
+			"universal",
+			"template",
+			"express"
+		],
+		"date": "2021-06-18T14:27:44.032Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40wlach%2Fsapper",
+			"homepage": "https://github.com/sveltejs/sapper#readme",
+			"repository": "https://github.com/sveltejs/sapper",
+			"bugs": "https://github.com/sveltejs/sapper/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "wlach",
+			"email": "wrlach@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wlach",
+				"email": "wrlach@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19182699135782544,
+		"detail": {
+			"quality": 0.4380748564544328,
+			"popularity": 0.0018595969186283715,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 3.757304e-9
+}

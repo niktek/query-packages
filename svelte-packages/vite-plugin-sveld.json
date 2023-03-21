@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "vite-plugin-sveld",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "A vite plugin to parse your Svelte components through sveld",
+		"keywords": [
+			"vite",
+			"sveld",
+			"svelte"
+		],
+		"date": "2022-10-24T23:15:14.664Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-plugin-sveld",
+			"homepage": "https://github.com/mattjennings/vite-plugin-sveld#readme",
+			"repository": "https://github.com/mattjennings/vite-plugin-sveld",
+			"bugs": "https://github.com/mattjennings/vite-plugin-sveld/issues"
+		},
+		"author": {
+			"name": "Matt Jennings"
+		},
+		"publisher": {
+			"username": "mattjennings",
+			"email": "matt@mattjennings.io"
+		},
+		"maintainers": [
+			{
+				"username": "mattjennings",
+				"email": "matt@mattjennings.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2481804674111941,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.00862780662754359,
+			"maintenance": 0.3326029811690734
+		}
+	},
+	"searchScore": 1.2676287e-7
+}

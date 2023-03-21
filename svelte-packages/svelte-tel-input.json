@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-tel-input",
+		"scope": "unscoped",
+		"version": "1.3.2",
+		"description": "svelte-tel-input",
+		"keywords": [
+			"svelte",
+			"tel input",
+			"phone",
+			"phone input",
+			"intl",
+			"intl tel input"
+		],
+		"date": "2023-03-09T13:09:24.275Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tel-input",
+			"homepage": "https://github.com/gyurielf/svelte-tel-input#readme",
+			"repository": "https://github.com/gyurielf/svelte-tel-input",
+			"bugs": "https://github.com/gyurielf/svelte-tel-input/issues"
+		},
+		"publisher": {
+			"username": "gyurielf",
+			"email": "beyourself224@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gyurielf",
+				"email": "beyourself224@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28494909142482866,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.018347334484070818,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000019111956
+}

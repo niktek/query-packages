@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "sveltefirets",
+		"scope": "unscoped",
+		"version": "0.0.32",
+		"description": "[![NPM](https://img.shields.io/npm/v/sveltefirets?color=yellow&label=NPM)](https://www.npmjs.com/package/sveltefirets) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/jacobbowdoin)",
+		"keywords": [
+			"Svelte",
+			"SvelteKit",
+			"Firebase",
+			"ESM",
+			"Typescript"
+		],
+		"date": "2022-10-23T08:57:43.689Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltefirets",
+			"homepage": "https://github.com/jacob-8/sveltefirets#readme",
+			"repository": "https://github.com/jacob-8/sveltefirets",
+			"bugs": "https://github.com/jacob-8/sveltefirets/issues"
+		},
+		"author": {
+			"name": "Jacob Bowdoin"
+		},
+		"publisher": {
+			"username": "jacobbowdoin",
+			"email": "jacob@livingtongues.org"
+		},
+		"maintainers": [
+			{
+				"username": "jacobbowdoin",
+				"email": "jacob@livingtongues.org"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.331091876340035,
+		"detail": {
+			"quality": 0.6879865979685138,
+			"popularity": 0.02295214172847477,
+			"maintenance": 0.33332184955575633
+		}
+	},
+	"searchScore": 0.000010193782
+}

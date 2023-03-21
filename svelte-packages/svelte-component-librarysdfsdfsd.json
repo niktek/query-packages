@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-component-librarysdfsdfsd",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-02-04T12:30:32.305Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-component-librarysdfsdfsd"
+		},
+		"author": {
+			"name": "Patrick Jones"
+		},
+		"publisher": {
+			"username": "forksofpower",
+			"email": "forksofpower@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "forksofpower",
+				"email": "forksofpower@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22265479285794293,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.023113823387439614,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.6689334e-8
+}

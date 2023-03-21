@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "full-stack-svelte-kit",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "This framework is built on top of `@sveltejs/kit`.",
+		"keywords": [
+			"SvelteKit",
+			"getServerSideProps",
+			"Svelte",
+			"Preprocessor"
+		],
+		"date": "2021-12-12T23:23:59.804Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/full-stack-svelte-kit"
+		},
+		"author": {
+			"name": "pixelmund"
+		},
+		"publisher": {
+			"username": "pixelmund",
+			"email": "pixelmund@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pixelmund",
+				"email": "pixelmund@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19719325589093023,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.01891021370448559,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 1.3464583e-8
+}

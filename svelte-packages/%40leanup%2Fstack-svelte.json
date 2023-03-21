@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "@leanup/stack-svelte",
+		"scope": "leanup",
+		"version": "1.3.43",
+		"description": "This package contains the Svelte framework extension for the @leanup/cli.",
+		"keywords": [
+			"babel",
+			"snowpack",
+			"webpack",
+			"svelte",
+			"sinon",
+			"nyc",
+			"nightwatch",
+			"mocha",
+			"sass",
+			"typescript",
+			"cli",
+			"spa",
+			"pwa",
+			"lean",
+			"compiler",
+			"transpiler"
+		],
+		"date": "2023-01-21T03:26:34.817Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40leanup%2Fstack-svelte",
+			"homepage": "https://leanupjs.org",
+			"repository": "https://github.com/leanupjs/leanup",
+			"bugs": "https://github.com/leanupjs/leanup/issues"
+		},
+		"author": {
+			"name": "Martin Oppitz",
+			"email": "npmjs@martinoppitz.com",
+			"username": "m.oppitz"
+		},
+		"publisher": {
+			"username": "m.oppitz",
+			"email": "npmjs@martinoppitz.com"
+		},
+		"maintainers": [
+			{
+				"username": "m.oppitz",
+				"email": "npmjs@martinoppitz.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3053726250597294,
+		"detail": {
+			"quality": 0.5969965248782887,
+			"popularity": 0.027448574084503304,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000048662364
+}

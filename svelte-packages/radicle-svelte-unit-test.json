@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "radicle-svelte-unit-test",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Unit testing Radicle Svelte components in Cypress E2E test runner",
+		"keywords": [
+			"cypress",
+			"svelte",
+			"test"
+		],
+		"date": "2022-02-02T10:16:00.516Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/radicle-svelte-unit-test"
+		},
+		"publisher": {
+			"username": "sebastinez",
+			"email": "sebastinez@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "sebastinez",
+				"email": "sebastinez@me.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2240761073378626,
+		"detail": {
+			"quality": 0.600959065094793,
+			"popularity": 0.0012741054442895535,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 7.107148e-8
+}

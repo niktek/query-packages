@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "sthemer",
+		"scope": "unscoped",
+		"version": "1.3.0",
+		"description": "A lightweight yet powerful solution to support multiple color schemes in your Svelte/SvelteKit application.",
+		"keywords": [
+			"color schemes",
+			"light/dark mode",
+			"svelte",
+			"sveltekit",
+			"dark mode",
+			"light mode",
+			"scheme",
+			"theming",
+			"theme",
+			"themes"
+		],
+		"date": "2022-12-22T17:42:14.040Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sthemer",
+			"homepage": "https://github.com/ivanhofer/sthemer",
+			"repository": "https://github.com/ivanhofer/sthemer",
+			"bugs": "https://github.com/ivanhofer/sthemer/issues"
+		},
+		"author": {
+			"name": "ivanhofer"
+		},
+		"publisher": {
+			"username": "ivanhofer",
+			"email": "ivan.hofer@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "ivanhofer",
+				"email": "ivan.hofer@outlook.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2783886043815561,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.008774053343637303,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.3287739e-7
+}

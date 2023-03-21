@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@rgossiaux/svelte-headlessui",
+		"scope": "rgossiaux",
+		"version": "1.0.2",
+		"description": "A complete, full-featured, unofficial Svelte port of Headless UI, an unstyled, fully accessible UI component library.",
+		"keywords": [
+			"svelte",
+			"headlessui",
+			"svelte3",
+			"svelte-components",
+			"headless",
+			"sveltejs"
+		],
+		"date": "2022-05-25T21:35:16.260Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40rgossiaux%2Fsvelte-headlessui",
+			"homepage": "https://svelte-headlessui.goss.io",
+			"repository": "https://github.com/rgossiaux/svelte-headlessui",
+			"bugs": "https://github.com/rgossiaux/svelte-headlessui/issues"
+		},
+		"publisher": {
+			"username": "rgossiaux",
+			"email": "ryan.gossiaux@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rgossiaux",
+				"email": "ryan.gossiaux@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3233489184057306,
+		"detail": {
+			"quality": 0.626599435462266,
+			"popularity": 0.05973737210204288,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 0.0000146973325
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@philrwebb/component-library",
+		"scope": "philrwebb",
+		"version": "0.0.14",
+		"description": "## Overview This is a component library for use in Svelte applications.    The library currently contains 3 svelte components: 1. Tabs/Tab – A Tabs Container and Tab item. 2. List – A List view to display lists of data. 3. Tree – A Tree view (work in prog",
+		"date": "2022-06-27T05:57:40.192Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40philrwebb%2Fcomponent-library"
+		},
+		"publisher": {
+			"username": "philrwebb",
+			"email": "philrwebb@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "philrwebb",
+				"email": "philrwebb@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2226797548574328,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0025352249249302335,
+			"maintenance": 0.3326736977280798
+		}
+	},
+	"searchScore": 6.9427815e-9
+}

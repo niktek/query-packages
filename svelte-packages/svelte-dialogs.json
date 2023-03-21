@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-dialogs",
+		"scope": "unscoped",
+		"version": "1.2.2",
+		"description": "handy dialogs in/for svelte",
+		"keywords": [
+			"svelte",
+			"modal",
+			"dialog"
+		],
+		"date": "2022-06-27T22:18:32.775Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dialogs",
+			"homepage": "https://bibizio.github.io/svelte-dialogs/",
+			"repository": "https://github.com/bibizio/svelte-dialogs",
+			"bugs": "https://github.com/bibizio/svelte-dialogs/issues"
+		},
+		"author": {
+			"name": "Fabrizio Giovinazzi",
+			"url": "https://bibizio.github.io/cv/"
+		},
+		"publisher": {
+			"username": "bibizio",
+			"email": "fabrizio.giovinazzi@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bibizio",
+				"email": "fabrizio.giovinazzi@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.304075187742301,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.019812754840184278,
+			"maintenance": 0.31787031590708464
+		}
+	},
+	"searchScore": 0.000005307631
+}

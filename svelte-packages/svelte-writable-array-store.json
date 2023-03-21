@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-writable-array-store",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "Writable array store in Svelte",
+		"keywords": [
+			"svelte",
+			"store",
+			"writable",
+			"array"
+		],
+		"date": "2022-04-29T16:07:09.297Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-writable-array-store"
+		},
+		"author": {
+			"name": "Sophia Mersmann"
+		},
+		"publisher": {
+			"username": "sophiamersmann",
+			"email": "sophia.mersmann.blog@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sophiamersmann",
+				"email": "sophia.mersmann.blog@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20472769116399453,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0017281615521824118,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 1.9153287e-8
+}

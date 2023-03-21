@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "@informaticon/lib.svelte.base.components",
+		"scope": "informaticon",
+		"version": "0.0.1",
+		"description": "Informaticon Svelte components library",
+		"keywords": [
+			"components",
+			"web-components",
+			"svelte-copmonents",
+			"svelte",
+			"sveltejs",
+			"svelte-components-library"
+		],
+		"date": "2022-09-08T13:36:04.171Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40informaticon%2Flib.svelte.base.components"
+		},
+		"author": {
+			"name": "Informaticon AG"
+		},
+		"publisher": {
+			"username": "informaticon.bot",
+			"email": "bot@informaticon.com"
+		},
+		"maintainers": [
+			{
+				"username": "sebaz6r",
+				"email": "sebastian.zuercher+1@informaticon.com"
+			},
+			{
+				"username": "haldc",
+				"email": "ch@informaticon.com"
+			},
+			{
+				"username": "informaticon.bot",
+				"email": "bot@informaticon.com"
+			},
+			{
+				"username": "archanahegde",
+				"email": "archana.hegde@informaticon.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19153031480055654,
+		"detail": {
+			"quality": 0.23926108599618262,
+			"popularity": 0.008815206671528856,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.4369735e-9
+}

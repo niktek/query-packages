@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "epfn-sveltekit-components",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Opinionated SvelteKit components for my personal purposes.",
+		"date": "2023-03-13T15:43:14.590Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/epfn-sveltekit-components",
+			"homepage": "https://github.com/epfn/sveltekit-components#readme",
+			"repository": "https://github.com/epfn/sveltekit-components",
+			"bugs": "https://github.com/epfn/sveltekit-components/issues"
+		},
+		"publisher": {
+			"username": "epfn",
+			"email": "aiepifantsev@yandex.ru"
+		},
+		"maintainers": [
+			{
+				"username": "epfn",
+				"email": "aiepifantsev@yandex.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23071689274341567,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.005955114544540247,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.1925115e-8
+}

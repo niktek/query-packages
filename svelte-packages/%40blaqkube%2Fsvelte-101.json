@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@blaqkube/svelte-101",
+		"scope": "blaqkube",
+		"version": "0.0.2",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-07-18T07:09:37.972Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40blaqkube%2Fsvelte-101"
+		},
+		"publisher": {
+			"username": "gregoryguillou",
+			"email": "gregory@blaqkube.io"
+		},
+		"maintainers": [
+			{
+				"username": "0xjilan",
+				"email": "0xjilan@protonmail.com"
+			},
+			{
+				"username": "gregoryguillou",
+				"email": "gregory@blaqkube.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20847247788430265,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.022627549618088515,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 2.5346406e-8
+}

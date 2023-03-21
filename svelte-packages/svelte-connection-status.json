@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-connection-status",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Basic Svelte component and stores to detect offline & online changes",
+		"keywords": [
+			"svelte",
+			"online",
+			"offline",
+			"network",
+			"connection"
+		],
+		"date": "2021-05-30T14:04:23.474Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-connection-status"
+		},
+		"author": {
+			"name": "Said Magomedov",
+			"email": "saids.inbox@gmail.com",
+			"username": "said-m"
+		},
+		"publisher": {
+			"username": "said-m",
+			"email": "saids.inbox@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "said-m",
+				"email": "saids.inbox@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2063521475674247,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.002138573763678048,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 2.4045223e-8
+}

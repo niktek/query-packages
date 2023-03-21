@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-simple-icons",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Simple icons for Svelte",
+		"keywords": [
+			"svelte",
+			"simple-icons",
+			"fa",
+			"feather",
+			"brands"
+		],
+		"date": "2019-10-30T09:39:51.719Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-simple-icons"
+		},
+		"author": {
+			"name": "antony",
+			"email": "aj@desirableobjects.co.uk",
+			"username": "antony"
+		},
+		"publisher": {
+			"username": "antony",
+			"email": "aj@desirableobjects.co.uk"
+		},
+		"maintainers": [
+			{
+				"username": "antony",
+				"email": "aj@desirableobjects.co.uk"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18863583276157697,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0019112492482183752,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.654444e-9
+}

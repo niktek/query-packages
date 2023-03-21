@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "cognility-web-components",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "custom web components for cognility",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-02-23T11:48:09.846Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/cognility-web-components"
+		},
+		"author": {
+			"name": "Or Mizrahi"
+		},
+		"publisher": {
+			"username": "or777",
+			"email": "ormizrahi777@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "or777",
+				"email": "ormizrahi777@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18855005476399894,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0016661692551382154,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.4456076e-9
+}

@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@kasif-apps/capture",
+		"scope": "kasif-apps",
+		"version": "0.2.2",
+		"description": "2D field capturer utilities",
+		"keywords": [
+			"capture",
+			"field",
+			"2d",
+			"canvas",
+			"webgl",
+			"vanilla",
+			"react",
+			"vue",
+			"angular",
+			"svelte"
+		],
+		"date": "2023-02-12T18:29:45.929Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kasif-apps%2Fcapture",
+			"homepage": "https://github.com/kasif-apps/capture",
+			"repository": "https://github.com/kasif-apps/capture",
+			"bugs": "https://github.com/kasif-apps/capture/issues"
+		},
+		"publisher": {
+			"username": "muhammed_ali_can",
+			"email": "tmwwdw@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "muhammed_ali_can",
+				"email": "tmwwdw@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25448116483000205,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.008632200030694873,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.0457244e-7
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-render",
+		"scope": "unscoped",
+		"version": "1.6.0",
+		"description": "Manage complex Svelte behaviors outside of templates with full type safety",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"render",
+			"template"
+		],
+		"date": "2022-12-22T08:45:48.581Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-render",
+			"homepage": "https://github.com/bryanmylee/svelte-render#readme",
+			"repository": "https://github.com/bryanmylee/svelte-render",
+			"bugs": "https://github.com/bryanmylee/svelte-render/issues"
+		},
+		"author": {
+			"name": "Bryan Lee"
+		},
+		"publisher": {
+			"username": "bryanmylee",
+			"email": "bryanmylee@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bryanmylee",
+				"email": "bryanmylee@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31994394081433186,
+		"detail": {
+			"quality": 0.6272833081421932,
+			"popularity": 0.043472617212039474,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 0.000012194853
+}

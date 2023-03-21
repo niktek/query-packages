@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@sveu/actions",
+		"scope": "sveu",
+		"version": "0.5.0",
+		"description": "A collection of svelte actions",
+		"keywords": [
+			"svelte",
+			"actions",
+			"svelte-actions"
+		],
+		"date": "2023-03-18T14:49:56.115Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveu%2Factions",
+			"homepage": "https://github.com/svelte-u/actions#readme",
+			"repository": "https://github.com/svelte-u/actions",
+			"bugs": "https://github.com/svelte-u/actions/issues"
+		},
+		"author": {
+			"name": "Mohamed Nesredin",
+			"email": "https://github.com/Mohamed-Kaizen"
+		},
+		"publisher": {
+			"username": "mohamed-kaizen",
+			"email": "mohamednesredin19@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mohamed-kaizen",
+				"email": "mohamednesredin19@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2431784042017786,
+		"detail": {
+			"quality": 0.4088071151157153,
+			"popularity": 0.011056008572563874,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.1705098e-7
+}

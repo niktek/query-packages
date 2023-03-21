@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "@sschepis/fug",
+		"scope": "sschepis",
+		"version": "0.0.1",
+		"description": "A markup language for laying out uis and rendering them to html, WebComponents, react, svelte, and vue",
+		"keywords": [
+			"html",
+			"markup",
+			"layout",
+			"ui",
+			"webcomponents",
+			"react",
+			"vue",
+			"svelte",
+			"compiler"
+		],
+		"date": "2023-01-09T21:05:36.474Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sschepis%2Ffug",
+			"homepage": "https://github.com/sschepis/fug#readme",
+			"repository": "https://github.com/sschepis/fug",
+			"bugs": "https://github.com/sschepis/fug/issues"
+		},
+		"author": {
+			"name": "Sebastian Schepis"
+		},
+		"publisher": {
+			"username": "lonestar108",
+			"email": "sschepis@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lonestar108",
+				"email": "sschepis@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24732269000443952,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.003014358717923518,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 8.7080274e-8
+}

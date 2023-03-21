@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@eibeleza/svelte-components",
+		"scope": "eibeleza",
+		"version": "0.14.1",
+		"description": "Ei Beleza components for landing pages.",
+		"date": "2023-03-09T20:41:01.044Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40eibeleza%2Fsvelte-components"
+		},
+		"author": {
+			"name": "H.M."
+		},
+		"publisher": {
+			"username": "belezabot",
+			"email": "tech.admin@eibeleza.com.br"
+		},
+		"maintainers": [
+			{
+				"username": "hmaesta",
+				"email": "hmaesta@gmail.com"
+			},
+			{
+				"username": "belezabot",
+				"email": "tech.admin@eibeleza.com.br"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21783859287527088,
+		"detail": {
+			"quality": 0.31143769086870365,
+			"popularity": 0.022116054137123257,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.6756926e-8
+}

@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@marigoldapp/svelte-calendar",
+		"scope": "marigoldapp",
+		"version": "2.0.6",
+		"description": "A small date picker built with Svelte 3. Demo available here: [demo page].",
+		"keywords": [
+			"svelte",
+			"calendar",
+			"datepicker",
+			"svelte-datepicker",
+			"svelte-calendar"
+		],
+		"date": "2021-02-22T18:41:33.214Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40marigoldapp%2Fsvelte-calendar"
+		},
+		"publisher": {
+			"username": "marigoldapp",
+			"email": "hello@marigoldapp.com"
+		},
+		"maintainers": [
+			{
+				"username": "marigoldapp",
+				"email": "hello@marigoldapp.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.287958659477292,
+		"detail": {
+			"quality": 0.8535342651852775,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.000002468901
+}

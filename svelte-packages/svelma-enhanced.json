@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelma-enhanced",
+		"scope": "unscoped",
+		"version": "0.4.8",
+		"description": "Bulma components for Svelte",
+		"keywords": [
+			"svelte",
+			"svelte.js",
+			"sveltejs",
+			"bulma",
+			"component",
+			"components"
+		],
+		"date": "2022-05-21T01:14:11.751Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelma-enhanced",
+			"homepage": "https://github.com/saravanabalagi/svelma#readme",
+			"repository": "https://github.com/saravanabalagi/svelma",
+			"bugs": "https://github.com/saravanabalagi/svelma/issues"
+		},
+		"author": {
+			"name": "Saravanabalagi Ramachandran"
+		},
+		"publisher": {
+			"username": "saravanabalagi",
+			"email": "saravanabalagi@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "saravanabalagi",
+				"email": "saravanabalagi@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24999345859750038,
+		"detail": {
+			"quality": 0.5477573385021125,
+			"popularity": 0.002943949678950789,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 1.465726e-7
+}

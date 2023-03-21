@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@material-svelte/list",
+		"scope": "material-svelte",
+		"version": "1.2.4",
+		"date": "2021-05-20T07:51:15.714Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40material-svelte%2Flist",
+			"homepage": "https://material-svelte.dev",
+			"repository": "https://github.com/material-svelte/material-svelte",
+			"bugs": "https://github.com/material-svelte/material-svelte/issues"
+		},
+		"publisher": {
+			"username": "material-svelte-bot",
+			"email": "bot@material-svelte.dev"
+		},
+		"maintainers": [
+			{
+				"username": "betaboon",
+				"email": "betaboon@0x80.ninja"
+			},
+			{
+				"username": "material-svelte-bot",
+				"email": "bot@material-svelte.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2514879552198401,
+		"detail": {
+			"quality": 0.5574776297318049,
+			"popularity": 0.018900987367204802,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 2.8275292e-7
+}

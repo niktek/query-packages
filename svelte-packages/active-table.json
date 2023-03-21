@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "active-table",
+		"scope": "unscoped",
+		"version": "0.0.215",
+		"description": "Framework agnostic table component for editable data experience",
+		"keywords": [
+			"table",
+			"grid",
+			"editable",
+			"edit",
+			"react",
+			"vue",
+			"angular",
+			"solid",
+			"svelte",
+			"javascript",
+			"framework-agnostic",
+			"component",
+			"web-component",
+			"csv"
+		],
+		"date": "2023-03-20T18:28:03.712Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/active-table",
+			"homepage": "https://activetable.io",
+			"repository": "https://github.com/OvidijusParsiunas/active-table",
+			"bugs": "https://github.com/OvidijusParsiunas/active-table/issues"
+		},
+		"author": {
+			"name": "Ovidijus Parsiunas"
+		},
+		"publisher": {
+			"username": "ovidijusparsiunas",
+			"email": "oparsiunas@googlemail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ovidijusparsiunas",
+				"email": "oparsiunas@googlemail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2970183681885597,
+		"detail": {
+			"quality": 0.5470734658221853,
+			"popularity": 0.0463704622149641,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.531408e-7
+}

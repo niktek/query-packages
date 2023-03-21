@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "my-mini-svelte-app",
+		"scope": "unscoped",
+		"version": "2.3.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-01-17T13:52:15.168Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/my-mini-svelte-app"
+		},
+		"publisher": {
+			"username": "carmen.faura",
+			"email": "carmen.faura3@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "carmen.faura",
+				"email": "carmen.faura3@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2709062721016292,
+		"detail": {
+			"quality": 0.487046316308575,
+			"popularity": 0.023216315835400143,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.878619e-7
+}

@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "entitlement-provider-frontend",
+		"scope": "unscoped",
+		"version": "1.13.142",
+		"description": "web frontend for the entitlement-provider",
+		"keywords": [
+			"svelte",
+			"vite",
+			"web"
+		],
+		"date": "2023-02-21T09:44:19.409Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/entitlement-provider-frontend",
+			"homepage": "https://github.com/arlac77/entitlement-provider-frontend#readme",
+			"repository": "https://github.com/arlac77/entitlement-provider-frontend",
+			"bugs": "https://github.com/arlac77/entitlement-provider-frontend/issues"
+		},
+		"publisher": {
+			"username": "arlac77",
+			"email": "markus.felten@gmx.de"
+		},
+		"maintainers": [
+			{
+				"username": "arlac77",
+				"email": "markus.felten@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.308752598964469,
+		"detail": {
+			"quality": 0.6272833081421932,
+			"popularity": 0.0111455424432697,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000021505787
+}

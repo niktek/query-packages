@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "@przemyslawwalczak/swiper",
+		"scope": "przemyslawwalczak",
+		"version": "8.2.10",
+		"description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
+		"keywords": [
+			"swiper",
+			"swipe",
+			"slider",
+			"touch",
+			"ios",
+			"mobile",
+			"cordova",
+			"phonegap",
+			"app",
+			"framework",
+			"framework7",
+			"carousel",
+			"gallery",
+			"plugin",
+			"react",
+			"vue",
+			"angular",
+			"svelte",
+			"slideshow"
+		],
+		"date": "2022-07-02T02:41:09.804Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40przemyslawwalczak%2Fswiper",
+			"homepage": "https://swiperjs.com",
+			"bugs": "https://github.com/nolimits4web/swiper/issues"
+		},
+		"author": {
+			"name": "Vladimir Kharlampidi"
+		},
+		"publisher": {
+			"username": "pwalczak",
+			"email": "p.d.walczak@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pwalczak",
+				"email": "p.d.walczak@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2922897347758906,
+		"detail": {
+			"quality": 0.6075140412473209,
+			"popularity": 0.018431131207570745,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 5.799682e-7
+}

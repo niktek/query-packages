@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@svelte-parts/drop-file",
+		"scope": "svelte-parts",
+		"version": "0.0.23",
+		"description": "Drop files(s) or click to browse file system",
+		"keywords": [
+			"svelte",
+			"drop",
+			"file",
+			"upload"
+		],
+		"date": "2022-04-04T21:04:29.505Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-parts%2Fdrop-file",
+			"homepage": "https://github.com/idris-maps/svelte-parts#readme",
+			"repository": "https://github.com/idris-maps/svelte-parts",
+			"bugs": "https://github.com/idris-maps/svelte-parts/issues"
+		},
+		"author": {
+			"name": "idris-maps"
+		},
+		"publisher": {
+			"username": "idris-maps",
+			"email": "idris.maps@gmx.ch"
+		},
+		"maintainers": [
+			{
+				"username": "idris-maps",
+				"email": "idris.maps@gmx.ch"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22847636445603148,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.023309184814049387,
+			"maintenance": 0.2830659289854068
+		}
+	},
+	"searchScore": 8.7131916e-8
+}

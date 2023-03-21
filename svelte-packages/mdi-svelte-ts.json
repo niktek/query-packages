@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "mdi-svelte-ts",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "This repo is using isiration from the npm package [mdi-svelte](https://www.npmjs.com/package/mdi-svelte) by AlexxNB. This repo hasn't received an update since 29 Sep 2020. Svelte has been in heavy development since then. Furthermore, typescript is a must",
+		"keywords": [
+			"svelte",
+			"typescript",
+			"mdi",
+			"material design icons",
+			"icons",
+			"sveltekit",
+			"vite"
+		],
+		"date": "2022-09-22T13:48:07.272Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/mdi-svelte-ts"
+		},
+		"publisher": {
+			"username": "abeldebruijn",
+			"email": "abeldebruijn@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "abeldebruijn",
+				"email": "abeldebruijn@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25812166413901866,
+		"detail": {
+			"quality": 0.4660379081226978,
+			"popularity": 0.004777508968423446,
+			"maintenance": 0.33325189589503185
+		}
+	},
+	"searchScore": 4.3848925e-7
+}

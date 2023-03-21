@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@indaco/svelte-iconoir",
+		"scope": "indaco",
+		"version": "4.0.0",
+		"description": "Iconoir SVG icons as Svelte components.",
+		"keywords": [
+			"iconoir",
+			"icons",
+			"icons-set",
+			"svelte",
+			"svelte components",
+			"sveltekit",
+			"svg-icons"
+		],
+		"date": "2023-03-17T09:50:28.585Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40indaco%2Fsvelte-iconoir",
+			"homepage": "https://github.com/indaco/svelte-iconoir#readme",
+			"repository": "https://github.com/indaco/svelte-iconoir",
+			"bugs": "https://github.com/indaco/svelte-iconoir/issues"
+		},
+		"author": {
+			"name": "indaco",
+			"email": "github@mircoveltri.me",
+			"username": "indaco"
+		},
+		"publisher": {
+			"username": "indaco",
+			"email": "github@mircoveltri.me"
+		},
+		"maintainers": [
+			{
+				"username": "indaco",
+				"email": "github@mircoveltri.me"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30297381587605055,
+		"detail": {
+			"quality": 0.6151207493584132,
+			"popularity": 0.00505978400531406,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000004085503
+}

@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-component-budget",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "SvelteJS preprocessor to control component's size (loc).",
+		"keywords": [
+			"svelte",
+			"svelte preprocessor"
+		],
+		"date": "2022-01-16T18:52:15.865Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-component-budget"
+		},
+		"author": {
+			"name": "PaulMaly"
+		},
+		"publisher": {
+			"username": "paulmaly",
+			"email": "paul.malys@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "paulmaly",
+				"email": "paul.malys@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23490213376855595,
+		"detail": {
+			"quality": 0.6173293530699571,
+			"popularity": 0.0018770928117855673,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.4354863e-7
+}

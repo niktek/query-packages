@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "sveltekit-foundation",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-01-23T00:19:38.006Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-foundation",
+			"homepage": "https://github.com/maietta/sveltekit-foundation#readme",
+			"repository": "https://github.com/maietta/sveltekit-foundation",
+			"bugs": "https://github.com/maietta/sveltekit-foundation/issues"
+		},
+		"publisher": {
+			"username": "premoweb",
+			"email": "nick@premoweb.com"
+		},
+		"maintainers": [
+			{
+				"username": "premoweb",
+				"email": "nick@premoweb.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24719243014518377,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0026421876914785253,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.14099485e-7
+}

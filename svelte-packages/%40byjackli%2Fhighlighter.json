@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@byjackli/highlighter",
+		"scope": "byjackli",
+		"version": "1.0.7",
+		"description": "make web documentation digestible",
+		"keywords": [
+			"svelte",
+			"syntax",
+			"code",
+			"highlighter",
+			"prism"
+		],
+		"date": "2022-04-23T16:25:20.132Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40byjackli%2Fhighlighter",
+			"homepage": "https://github.com/byjackli/highlighter#readme",
+			"repository": "https://github.com/byjackli/highlighter",
+			"bugs": "https://github.com/byjackli/highlighter/issues"
+		},
+		"author": {
+			"name": "Jack Li"
+		},
+		"publisher": {
+			"username": "byjackli",
+			"email": "jack7598@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "byjackli",
+				"email": "jack7598@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2723205526353785,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0022183378900337654,
+			"maintenance": 0.32853380853478065
+		}
+	},
+	"searchScore": 3.1305123e-7
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "yot-cdk-svelte-builder",
+		"scope": "unscoped",
+		"version": "0.0.21",
+		"description": "This builder can be used with the Component Development Kit (CDK). It contains build targets for compiling [Svelte](https://svelte.dev/) components into [webcomponents](https://developer.mozilla.org/en-US/docs/Web/Web_Components) (reusable custom elements",
+		"date": "2021-10-12T09:00:17.024Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/yot-cdk-svelte-builder"
+		},
+		"publisher": {
+			"username": "gjansen",
+			"email": "geert-jansen@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gjansen",
+				"email": "geert-jansen@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20190741323348707,
+		"detail": {
+			"quality": 0.3157788243015078,
+			"popularity": 0.0035965997019164558,
+			"maintenance": 0.30261416013532566
+		}
+	},
+	"searchScore": 1.1206243e-8
+}

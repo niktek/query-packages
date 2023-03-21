@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@agufaui/svelte",
+		"scope": "agufaui",
+		"version": "0.8.0",
+		"description": "Svelte UI Components Library",
+		"keywords": [
+			"agufa-ui",
+			"agufaui",
+			"agufa",
+			"component library",
+			"ui framework",
+			"ui",
+			"svelte",
+			"sveltekit",
+			"svelte-kit"
+		],
+		"date": "2023-03-01T04:17:04.277Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40agufaui%2Fsvelte",
+			"homepage": "https://ui.agufa.tech",
+			"repository": "https://github.com/agufaui/agufaui",
+			"bugs": "https://github.com/agufaui/agufaui/issues"
+		},
+		"author": {
+			"name": "Agufa.tech",
+			"email": "https://agufa.tech"
+		},
+		"publisher": {
+			"username": "agufa",
+			"email": "agufa.tech@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "agufa",
+				"email": "agufa.tech@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24413950348458097,
+		"detail": {
+			"quality": 0.4191999977149844,
+			"popularity": 0.004893845867868493,
+			"maintenance": 0.33333330890380486
+		}
+	},
+	"searchScore": 2.2617628e-7
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-async-readable",
+		"scope": "unscoped",
+		"version": "4.0.2",
+		"description": "Svelte Readable Store bound to an async resource",
+		"keywords": [
+			"store",
+			"readable",
+			"async",
+			"remote",
+			"http",
+			"svelte"
+		],
+		"date": "2021-09-18T20:14:25.771Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-async-readable",
+			"homepage": "https://github.com/cdellacqua/svelte-async-readable",
+			"repository": "https://github.com/cdellacqua/svelte-async-readable",
+			"bugs": "https://github.com/cdellacqua/svelte-async-readable/issues"
+		},
+		"author": {
+			"name": "Carlo Dell'Acqua"
+		},
+		"publisher": {
+			"username": "cdellacqua",
+			"email": "carlo.dellacqua97@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cdellacqua",
+				"email": "carlo.dellacqua97@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23916917558343062,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0037751347369349053,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.6551766e-7
+}

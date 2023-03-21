@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-kit-bot-block",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Put any server on the internet and you should expect it to be hit with endless spam requests, usually a mix of rogue bots and script kiddies, probing for vulnerabilities.",
+		"keywords": [
+			"svelte-kit",
+			"http",
+			"bot",
+			"block"
+		],
+		"date": "2023-02-08T18:55:21.331Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-kit-bot-block",
+			"homepage": "https://github.com/captaincodeman/svelte-kit-bot-block#readme",
+			"repository": "https://github.com/captaincodeman/svelte-kit-bot-block",
+			"bugs": "https://github.com/captaincodeman/svelte-kit-bot-block/issues"
+		},
+		"author": {
+			"name": "Simon Green",
+			"email": "simon@captaincodeman.com",
+			"url": "https://www.captaincodeman.com/",
+			"username": "captaincodeman"
+		},
+		"publisher": {
+			"username": "captaincodeman",
+			"email": "simon@captaincodeman.com"
+		},
+		"maintainers": [
+			{
+				"username": "captaincodeman",
+				"email": "simon@captaincodeman.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2460429293436508,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.007174691324993324,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.0141148e-7
+}

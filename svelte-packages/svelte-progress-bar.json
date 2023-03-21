@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-progress-bar",
+		"scope": "unscoped",
+		"version": "3.0.2",
+		"description": "A tiny progress bar, inspired by YouTube's loader!",
+		"keywords": [
+			"svelte",
+			"progress",
+			"load"
+		],
+		"date": "2022-01-19T16:08:17.518Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-progress-bar",
+			"homepage": "https://github.com/saibotsivad/svelte-progress-bar#readme",
+			"repository": "https://github.com/saibotsivad/svelte-progress-bar",
+			"bugs": "https://github.com/saibotsivad/svelte-progress-bar/issues"
+		},
+		"author": {
+			"name": "Tobias Davis",
+			"email": "tobias@davistobias.com",
+			"url": "https://davistobias.com"
+		},
+		"publisher": {
+			"username": "saibotsivad",
+			"email": "accounts@davistobias.com"
+		},
+		"maintainers": [
+			{
+				"username": "saibotsivad",
+				"email": "accounts@davistobias.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2931603932112987,
+		"detail": {
+			"quality": 0.7993107605086407,
+			"popularity": 0.01234519912932178,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 0.000002981365
+}

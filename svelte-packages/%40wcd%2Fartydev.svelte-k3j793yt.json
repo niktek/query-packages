@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@wcd/artydev.svelte-k3j793yt",
+		"scope": "wcd",
+		"version": "0.1.0",
+		"date": "2019-11-28T21:01:46.595Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40wcd%2Fartydev.svelte-k3j793yt"
+		},
+		"author": {
+			"name": "artydev"
+		},
+		"publisher": {
+			"username": "_wcd_",
+			"email": "admin@divriots.com"
+		},
+		"maintainers": [
+			{
+				"username": "_divriots_",
+				"email": "admin+npm@divriots.com"
+			},
+			{
+				"username": "_wcd_",
+				"email": "admin@divriots.com"
+			},
+			{
+				"username": "georges-gomes",
+				"email": "georges.gomes@gmail.com"
+			},
+			{
+				"username": "gqio",
+				"email": "quinio.gregory@gmail.com"
+			},
+			{
+				"username": "gluck",
+				"email": "francois.valdy@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.251312565765077,
+		"detail": {
+			"quality": 0.7067200849252295,
+			"popularity": 0.022534131855717413,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.370371e-7
+}

@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@plantarium/ui",
+		"scope": "plantarium",
+		"version": "1.0.0",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2022-05-26T21:43:56.920Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40plantarium%2Fui"
+		},
+		"publisher": {
+			"username": "jim-fx",
+			"email": "jim-x@web.de"
+		},
+		"maintainers": [
+			{
+				"username": "jim-fx",
+				"email": "jim-x@web.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2602432916107936,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.018274482791670935,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 1.128444e-7
+}

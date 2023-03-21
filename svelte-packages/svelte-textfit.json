@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-textfit",
+		"scope": "unscoped",
+		"version": "1.1.4",
+		"description": "Svelte action to fit headlines and paragraphs into any element. Ported from react-textfit",
+		"keywords": [
+			"textfit",
+			"fittext",
+			"text",
+			"svelte",
+			"sveltejs",
+			"svelte-action"
+		],
+		"date": "2022-09-27T07:21:22.421Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-textfit",
+			"homepage": "https://github.com/micha-lmxt/svelte-textfit"
+		},
+		"author": {
+			"name": "micha-lmxt",
+			"email": "micha-lmxt@gradientdescent.de",
+			"url": "https://gradientdescent.de"
+		},
+		"publisher": {
+			"username": "micha-lmxt",
+			"email": "npm@lucht-familie.de"
+		},
+		"maintainers": [
+			{
+				"username": "micha-lmxt",
+				"email": "npm@lucht-familie.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3080695539692714,
+		"detail": {
+			"quality": 0.605223017714755,
+			"popularity": 0.029175680328534563,
+			"maintenance": 0.33226045868530796
+		}
+	},
+	"searchScore": 0.000006665355
+}

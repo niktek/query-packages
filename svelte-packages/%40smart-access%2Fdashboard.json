@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@smart-access/dashboard",
+		"scope": "smart-access",
+		"version": "1.0.3",
+		"description": "Base code to hot reload profiles inside the experience builder for better testing",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-09-09T20:04:29.272Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40smart-access%2Fdashboard"
+		},
+		"author": {
+			"name": "Kyle Jeske"
+		},
+		"publisher": {
+			"username": "smartaccess",
+			"email": "kyle.jeske@smartaccess.io"
+		},
+		"maintainers": [
+			{
+				"username": "smartaccess",
+				"email": "kyle.jeske@smartaccess.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17801035433362034,
+		"detail": {
+			"quality": 0.4869445905835839,
+			"popularity": 0.0014782372015374357,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.5719074e-9
+}

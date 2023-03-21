@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@sveltejs/adapter-vercel",
+		"scope": "sveltejs",
+		"version": "2.4.0",
+		"description": "A SvelteKit adapter that creates a Vercel app.",
+		"date": "2023-03-17T22:05:25.243Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltejs%2Fadapter-vercel",
+			"homepage": "https://kit.svelte.dev",
+			"repository": "https://github.com/sveltejs/kit",
+			"bugs": "https://github.com/sveltejs/kit/issues"
+		},
+		"publisher": {
+			"username": "svelte-admin",
+			"email": "richard.a.harris+svelte@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			},
+			{
+				"username": "svelte-admin",
+				"email": "richard.a.harris+svelte@gmail.com"
+			},
+			{
+				"username": "conduitry",
+				"email": "npm@chor.date"
+			},
+			{
+				"username": "dominik_g",
+				"email": "dominik.goepel@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.320741756273278,
+		"detail": {
+			"quality": 0.5769441527178413,
+			"popularity": 0.08854812511788274,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000005365345
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@poly-state/react",
+		"scope": "poly-state",
+		"version": "3.0.0",
+		"description": "React bindings for React",
+		"keywords": [
+			"react",
+			"preact",
+			"svelte",
+			"state",
+			"manager",
+			"management",
+			"redux",
+			"store",
+			"poly-state"
+		],
+		"date": "2022-09-03T18:59:49.600Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40poly-state%2Freact",
+			"homepage": "https://github.com/poly-state/poly-state",
+			"repository": "https://github.com/poly-state/poly-state",
+			"bugs": "https://github.com/poly-state/poly-state/issues"
+		},
+		"publisher": {
+			"username": "shahriar-shojib",
+			"email": "shahriar_shojib@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shahriar-shojib",
+				"email": "shahriar_shojib@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2857268916270279,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.020836730526453507,
+			"maintenance": 0.3330662235829485
+		}
+	},
+	"searchScore": 5.538158e-7
+}

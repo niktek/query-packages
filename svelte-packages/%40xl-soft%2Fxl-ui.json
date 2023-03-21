@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@xl-soft/xl-ui",
+		"scope": "xl-soft",
+		"version": "0.0.20",
+		"description": "Before using we recommend you have at least moderate experience with [SvelteKit](https://kit.svelte.dev/) and [TypeScript](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)",
+		"date": "2023-03-18T21:57:50.014Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40xl-soft%2Fxl-ui",
+			"homepage": "https://github.com/xl-soft/xl-ui#readme",
+			"repository": "https://github.com/xl-soft/xl-ui",
+			"bugs": "https://github.com/xl-soft/xl-ui/issues"
+		},
+		"publisher": {
+			"username": "xl-soft",
+			"email": "typodesigninfo@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "xl-soft",
+				"email": "typodesigninfo@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2149872597936397,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.011922900785289393,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.0717699e-9
+}

@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-tabular-table",
+		"scope": "unscoped",
+		"version": "1.0.6",
+		"description": "Fully-featured, lightweight table component for Svelte JS",
+		"keywords": [
+			"svelte",
+			"table",
+			"tabular",
+			"spreadsheets"
+		],
+		"date": "2021-05-06T16:01:02.357Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tabular-table",
+			"homepage": "https://autr.github.io/svelte-tabular-table"
+		},
+		"author": {
+			"name": "G.Sinnott"
+		},
+		"publisher": {
+			"username": "autr",
+			"email": "g@sinnott.cc"
+		},
+		"maintainers": [
+			{
+				"username": "autr",
+				"email": "g@sinnott.cc"
+			}
+		]
+	},
+	"score": {
+		"final": 0.253884326562098,
+		"detail": {
+			"quality": 0.5947592301918334,
+			"popularity": 0.005181510797992368,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 3.9613184e-7
+}

@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "svelte-motion",
+		"scope": "unscoped",
+		"version": "0.11.5",
+		"description": "Svelte animstion library baded on the React library framer-motion.",
+		"keywords": [
+			"svelte animation",
+			"svelte",
+			"animation",
+			"gestures",
+			"drag",
+			"spring",
+			"popmotion",
+			"framer-motion"
+		],
+		"date": "2022-12-14T10:51:32.452Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-motion",
+			"homepage": "https://github.com/micha-lmxt/svelte-motion#readme",
+			"repository": "https://github.com/micha-lmxt/svelte-motion",
+			"bugs": "https://github.com/micha-lmxt/svelte-motion/issues"
+		},
+		"author": {
+			"name": "Michael Lucht",
+			"email": "micha-lmxt@gradientdescent.de",
+			"url": "https://svelte-motion.gradientdescent.de"
+		},
+		"publisher": {
+			"username": "micha-lmxt",
+			"email": "npm@lucht-familie.de"
+		},
+		"maintainers": [
+			{
+				"username": "micha-lmxt",
+				"email": "npm@lucht-familie.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3343141588779513,
+		"detail": {
+			"quality": 0.6631254515578243,
+			"popularity": 0.05353817099240818,
+			"maintenance": 0.33325189589503185
+		}
+	},
+	"searchScore": 0.000023502245
+}

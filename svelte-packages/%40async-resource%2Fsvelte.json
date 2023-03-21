@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@async-resource/svelte",
+		"scope": "async-resource",
+		"version": "0.2.5",
+		"description": "High-Level Resource Manager for Svelte",
+		"keywords": [
+			"resource",
+			"manager",
+			"svelte",
+			"http",
+			"async"
+		],
+		"date": "2019-08-14T18:27:48.522Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40async-resource%2Fsvelte"
+		},
+		"author": {
+			"name": "Cristóvão Trevisan"
+		},
+		"publisher": {
+			"username": "cristovao-trevisan",
+			"email": "cristovao.trevisan@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cristovao-trevisan",
+				"email": "cristovao.trevisan@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26757241789814656,
+		"detail": {
+			"quality": 0.7836682615264048,
+			"popularity": 0.003035272292051732,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.887622e-7
+}

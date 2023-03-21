@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@nxext/sveltekit",
+		"scope": "nxext",
+		"version": "14.0.0-next.2",
+		"description": "Nx plugin for Svelte",
+		"keywords": [
+			"nx",
+			"nx-plugin",
+			"sveltekit"
+		],
+		"date": "2022-05-23T14:01:27.109Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nxext%2Fsveltekit",
+			"homepage": "https://nxext.dev/",
+			"repository": "https://github.com/nxext/nx-extensions",
+			"bugs": "https://github.com/nxext/nx-extensions/issues"
+		},
+		"author": {
+			"name": "Dominik Pieper"
+		},
+		"publisher": {
+			"username": "dominikpieper",
+			"email": "dominik@pieper.io"
+		},
+		"maintainers": [
+			{
+				"username": "jordan-hall",
+				"email": "jordan@libertyware.co.uk"
+			},
+			{
+				"username": "dominikpieper",
+				"email": "dominik@pieper.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3402344363598268,
+		"detail": {
+			"quality": 0.8664892440510724,
+			"popularity": 0.007595264064937393,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 0.000012495918
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-store-extended",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Svelte/store but with additionals functionalities",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"svelte-store",
+			"store"
+		],
+		"date": "2021-04-04T14:18:30.388Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-store-extended"
+		},
+		"author": {
+			"name": "ChainList"
+		},
+		"publisher": {
+			"username": "chainlist",
+			"email": "kevin.guillouard@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "chainlist",
+				"email": "kevin.guillouard@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1898561826442738,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0015288687180486996,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 8.035776e-9
+}

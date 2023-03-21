@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "hj-components-ui1",
+		"scope": "unscoped",
+		"version": "0.2.4",
+		"description": "这是一个svelte组件库的starter。\r 可以用它构建自己或者团队的组件库。",
+		"date": "2022-09-20T07:50:14.101Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/hj-components-ui1"
+		},
+		"publisher": {
+			"username": "zhenghezhen",
+			"email": "476746264@QQ.COM"
+		},
+		"maintainers": [
+			{
+				"username": "zhenghezhen",
+				"email": "476746264@QQ.COM"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21892865178251703,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.0033152826683017153,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.2969185e-9
+}

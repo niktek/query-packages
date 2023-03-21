@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-split-pane",
+		"scope": "unscoped",
+		"version": "0.1.2",
+		"description": "Split Pane Splitter Both for Horizontal and Vertial written in Svelte",
+		"keywords": [
+			"svelte",
+			"split",
+			"pane"
+		],
+		"date": "2021-02-07T15:35:09.068Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-split-pane"
+		},
+		"author": {
+			"name": "Readiz"
+		},
+		"publisher": {
+			"username": "readiz",
+			"email": "readiz@readiz.com"
+		},
+		"maintainers": [
+			{
+				"username": "readiz",
+				"email": "readiz@readiz.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1615116645370464,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.025305702208050167,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.2986099e-9
+}

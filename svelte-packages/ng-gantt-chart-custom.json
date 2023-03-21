@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "ng-gantt-chart-custom",
+		"scope": "unscoped",
+		"version": "1.2.6",
+		"description": "Interactive JavaScript Gantt chart/resource booking component",
+		"keywords": [
+			"svelte",
+			"gantt",
+			"booking",
+			"svelte-gantt",
+			"js-gantt",
+			"javascript-gantt",
+			"react-gantt",
+			"angular-gantt",
+			"vue-gantt",
+			"drag-n-drop"
+		],
+		"date": "2023-01-04T04:15:22.273Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/ng-gantt-chart-custom",
+			"homepage": "https://github.com/trongld230289/ng-gantt-chart-custom#readme",
+			"repository": "https://github.com/trongld230289/ng-gantt-chart-custom"
+		},
+		"author": {
+			"name": "trongld232@gmail.com"
+		},
+		"publisher": {
+			"username": "thangnaozay",
+			"email": "trongld232@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thangnaozay",
+				"email": "trongld232@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25003531266574264,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.024428878391824144,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.06366215e-7
+}

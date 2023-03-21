@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "skrapi",
+		"scope": "unscoped",
+		"version": "2.0.0",
+		"description": "This is the new plan. Skrapi is a SvelteKit Rest API system in a Node module -- thats it!",
+		"date": "2022-03-24T20:18:50.103Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/skrapi"
+		},
+		"publisher": {
+			"username": "codepilotsf",
+			"email": "hello@codepilot.com"
+		},
+		"maintainers": [
+			{
+				"username": "codepilotsf",
+				"email": "hello@codepilot.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2509620612990542,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.002293188067134428,
+			"maintenance": 0.2778115562726407
+		}
+	},
+	"searchScore": 2.0762672e-8
+}

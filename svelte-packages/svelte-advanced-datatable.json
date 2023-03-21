@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-advanced-datatable",
+		"scope": "unscoped",
+		"version": "0.5.3",
+		"description": "(Documentation is still WIP)",
+		"date": "2023-03-14T12:31:40.177Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-advanced-datatable",
+			"homepage": "https://svelte-advanced-datatable.pages.dev",
+			"bugs": "https://github.com/Kage0x3B/svelte-advanced-datatable/issues"
+		},
+		"author": {
+			"name": "Moritz Hein",
+			"email": "moritz.hein@live.de",
+			"url": "https://moritz.website",
+			"username": "kage0x3b"
+		},
+		"publisher": {
+			"username": "kage0x3b",
+			"email": "moritz.hein@live.de"
+		},
+		"maintainers": [
+			{
+				"username": "kage0x3b",
+				"email": "moritz.hein@live.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2501438340067637,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.009647682520501601,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.156096e-7
+}

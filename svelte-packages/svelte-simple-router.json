@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-simple-router",
+		"scope": "unscoped",
+		"version": "1.5.0",
+		"description": "Svelte 3 History Based Single Page Router",
+		"keywords": [
+			"svelte",
+			"router",
+			"spa",
+			"single page application",
+			"ssr",
+			"server side rendering"
+		],
+		"date": "2020-05-09T07:14:57.784Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-simple-router"
+		},
+		"author": {
+			"name": "Rajdeepsinh Jadeja",
+			"email": "jadeja.rajdeep@gmail.com",
+			"username": "jadeja.rajdeep"
+		},
+		"publisher": {
+			"username": "jadeja.rajdeep",
+			"email": "jadeja.rajdeep@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jadeja.rajdeep",
+				"email": "jadeja.rajdeep@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1850786554178354,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0021247442848442376,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.683688e-9
+}

@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelterial",
+		"scope": "unscoped",
+		"version": "1.0.7",
+		"description": "Material Design Components Web implementation in Svelte",
+		"keywords": [
+			"svelte",
+			"material",
+			"mdc"
+		],
+		"date": "2022-11-29T08:14:42.712Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelterial",
+			"homepage": "https://github.com/masyukun/svelterial#readme",
+			"repository": "https://github.com/masyukun/svelterial",
+			"bugs": "https://github.com/masyukun/svelterial/issues"
+		},
+		"author": {
+			"name": "Matthew Royal",
+			"email": "masyukun@gmail.com",
+			"username": "masyukun"
+		},
+		"publisher": {
+			"username": "masyukun",
+			"email": "masyukun@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "masyukun",
+				"email": "masyukun@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2526752918721409,
+		"detail": {
+			"quality": 0.4482510331562057,
+			"popularity": 0.004380900738892954,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.4751793e-7
+}

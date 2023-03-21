@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "drupal_svelte_component_menu",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Svelte menu component for decoupled applications.",
+		"keywords": [
+			"drupal",
+			"svelte"
+		],
+		"date": "2021-04-16T17:37:38.423Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/drupal_svelte_component_menu",
+			"homepage": "https://www.drupal.org/project/drupal_svelte_component_menu",
+			"repository": "https://github.com/d34dman/drupal-jsonapi-params",
+			"bugs": "https://github.com/d34dman/drupal-jsonapi-params/issues"
+		},
+		"publisher": {
+			"username": "d34dman",
+			"email": "shibinkidd@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "d34dman",
+				"email": "shibinkidd@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24071464776857576,
+		"detail": {
+			"quality": 0.6372988976093354,
+			"popularity": 0.0013675232066606574,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.4389788e-7
+}

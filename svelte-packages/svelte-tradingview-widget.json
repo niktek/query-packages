@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-tradingview-widget",
+		"scope": "unscoped",
+		"version": "2.3.0",
+		"description": "Svelte component for rendering the TradingView Advanced Real-Time Chart Widget.",
+		"keywords": [
+			"tradingview",
+			"tradingview widget",
+			"tradingview widget svelte"
+		],
+		"date": "2020-07-04T14:46:50.217Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tradingview-widget"
+		},
+		"author": {
+			"name": "Bora Kilicoglu"
+		},
+		"publisher": {
+			"username": "borakilicoglu",
+			"email": "sbkilicoglu@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "borakilicoglu",
+				"email": "sbkilicoglu@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21459986274362747,
+		"detail": {
+			"quality": 0.605223017714755,
+			"popularity": 0.004638180831982681,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.4129013e-8
+}

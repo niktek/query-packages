@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@gplane/svelte-jest",
+		"scope": "gplane",
+		"version": "0.2.0",
+		"description": "Jest custom transformer for transforming Svelte.",
+		"keywords": [
+			"svelte",
+			"jest",
+			"jest-transformers",
+			"testing-library"
+		],
+		"date": "2021-06-04T08:51:53.936Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40gplane%2Fsvelte-jest",
+			"homepage": "https://github.com/g-plane/svelte-jest#readme",
+			"repository": "https://github.com/g-plane/svelte-jest",
+			"bugs": "https://github.com/g-plane/svelte-jest/issues"
+		},
+		"author": {
+			"name": "Pig Fang",
+			"email": "g-plane@hotmail.com",
+			"username": "gplane"
+		},
+		"publisher": {
+			"username": "gplane",
+			"email": "g-plane@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gplane",
+				"email": "g-plane@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17301651821299596,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0022046075688786867,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 2.2887574e-9
+}

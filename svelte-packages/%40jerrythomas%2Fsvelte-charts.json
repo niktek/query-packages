@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@jerrythomas/svelte-charts",
+		"scope": "jerrythomas",
+		"version": "1.0.0-beta.1",
+		"description": "Themable d3 charts for svelte applications",
+		"keywords": [
+			"svelte",
+			"d3",
+			"charts",
+			"plots"
+		],
+		"date": "2021-10-10T11:06:47.776Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40jerrythomas%2Fsvelte-charts",
+			"homepage": "https://github.com/jerrythomas/svelte-charts#readme",
+			"repository": "https://github.com/jerrythomas/svelte-charts",
+			"bugs": "https://github.com/jerrythomas/svelte-charts/issues"
+		},
+		"author": {
+			"name": "Jerry Thomas",
+			"email": "me@jerrythomas.name",
+			"username": "jerrythomas"
+		},
+		"publisher": {
+			"username": "jerrythomas",
+			"email": "me@jerrythomas.name"
+		},
+		"maintainers": [
+			{
+				"username": "jerrythomas",
+				"email": "me@jerrythomas.name"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1900714985723954,
+		"detail": {
+			"quality": 0.38122160210023637,
+			"popularity": 0.018215461354817157,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 9.0808925e-9
+}

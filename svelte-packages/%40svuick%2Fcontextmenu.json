@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@svuick/contextmenu",
+		"scope": "svuick",
+		"version": "0.0.1",
+		"description": "[![npm (scoped)](https://img.shields.io/npm/v/@svuick/contextmenu)](https://npmjs.com/package/@svuick/contextmenu)",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"contextmenu"
+		],
+		"date": "2022-07-25T14:50:32.112Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svuick%2Fcontextmenu",
+			"homepage": "https://gitlab.com/david-plugge/svuick#readme",
+			"repository": "https://gitlab.com/david-plugge/svuick",
+			"bugs": "https://gitlab.com/david-plugge/svuick/issues"
+		},
+		"publisher": {
+			"username": "davidplugge",
+			"email": "npm@davidplugge.de"
+		},
+		"maintainers": [
+			{
+				"username": "davidplugge",
+				"email": "npm@davidplugge.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20110842527807815,
+		"detail": {
+			"quality": 0.3984731434043697,
+			"popularity": 0.0007883006227353423,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 6.3285723e-9
+}

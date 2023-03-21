@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "sveltekit-web3auth",
+		"scope": "unscoped",
+		"version": "4.1.0",
+		"description": "This project aims to integrate web3auth via MetaMask with a JWT Issuing auth server from a confidential client for use with APIs in Sveltekit. Once login is complete, Navigation to protected pages of app don't require a request to Authorization Server. Sv",
+		"keywords": [
+			"sveltekit-web3auth",
+			"auth",
+			"authentication",
+			"jwt",
+			"nodejs",
+			"web3",
+			"ethereum",
+			"sveltekit"
+		],
+		"date": "2022-02-27T19:56:32.431Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-web3auth"
+		},
+		"author": {
+			"name": "Patrick Lee Scott"
+		},
+		"publisher": {
+			"username": "patrickleet",
+			"email": "pat@patscott.io"
+		},
+		"maintainers": [
+			{
+				"username": "patrickleet",
+				"email": "pat@patscott.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2695192594757785,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.0042045576722468695,
+			"maintenance": 0.3125618435596447
+		}
+	},
+	"searchScore": 3.2633105e-7
+}

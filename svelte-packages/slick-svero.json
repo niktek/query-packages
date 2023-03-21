@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "slick-svero",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Slick Svero is page.js based router for svelte",
+		"keywords": [
+			"svelte",
+			"svelte router",
+			"slick svero",
+			"simple router"
+		],
+		"date": "2020-11-28T15:07:10.301Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/slick-svero",
+			"homepage": "https://github.com/antonielbordin/slick-svero/blob/main/README.md",
+			"repository": "https://github.com/antonielbordin/slick-svero",
+			"bugs": "https://github.com/antonielbordin/slick-svero/issues"
+		},
+		"author": {
+			"name": "Antoniel Bordin"
+		},
+		"publisher": {
+			"username": "antonielbordin",
+			"email": "antonielbordin@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "antonielbordin",
+				"email": "antonielbordin@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21060174173948487,
+		"detail": {
+			"quality": 0.5960353551434681,
+			"popularity": 0.0010901173098212791,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.7280334e-8
+}

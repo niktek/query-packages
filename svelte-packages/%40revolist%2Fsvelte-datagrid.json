@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "@revolist/svelte-datagrid",
+		"scope": "revolist",
+		"version": "3.2.16",
+		"description": "Svelte data grid spreadsheet",
+		"keywords": [
+			"spreadsheet",
+			"svelte",
+			"datagrid",
+			"revogrid",
+			"excel",
+			"js",
+			"gridjs",
+			"virtual",
+			"virtual grid",
+			"datalist",
+			"rangeedit",
+			"grouping"
+		],
+		"date": "2022-09-07T12:08:24.030Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40revolist%2Fsvelte-datagrid",
+			"homepage": "https://github.com/revolist/svelte-datagrid#readme",
+			"repository": "https://github.com/revolist/svelte-datagrid",
+			"bugs": "https://github.com/revolist/svelte-datagrid/issues"
+		},
+		"author": {
+			"name": "revolist"
+		},
+		"publisher": {
+			"username": "kumakint",
+			"email": "maksim.k@revolist.eu"
+		},
+		"maintainers": [
+			{
+				"username": "kumakint",
+				"email": "maksim.k@revolist.eu"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2639120240257733,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.008021128501415089,
+			"maintenance": 0.33039306340957725
+		}
+	},
+	"searchScore": 5.867902e-7
+}

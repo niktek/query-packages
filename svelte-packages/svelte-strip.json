@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-strip",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Strip types from Svelte files.",
+		"keywords": [
+			"svelte",
+			"typescript",
+			"strip",
+			"types",
+			"type"
+		],
+		"date": "2022-11-22T00:21:00.197Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-strip",
+			"homepage": "https://github.com/sciactive/svelte-strip#readme",
+			"repository": "https://github.com/sciactive/svelte-strip",
+			"bugs": "https://github.com/sciactive/svelte-strip/issues"
+		},
+		"author": {
+			"name": "Hunter Perrin",
+			"email": "hperrin@gmail.com",
+			"username": "hperrin"
+		},
+		"publisher": {
+			"username": "hperrin",
+			"email": "hperrin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hperrin",
+				"email": "hperrin@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24792110032265682,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.00831055045037485,
+			"maintenance": 0.33217918852184997
+		}
+	},
+	"searchScore": 2.8426643e-7
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-pdf",
+		"scope": "unscoped",
+		"version": "1.0.17",
+		"description": "svelte-pdf provides a component for rendering PDF documents using PDF.js",
+		"keywords": [
+			"pdf",
+			"svelte-pdf",
+			"pdfjs",
+			"pdf-print",
+			"pdf-zoom",
+			"pdf-rotation",
+			"pdf-navigation"
+		],
+		"date": "2023-03-15T14:22:02.723Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-pdf",
+			"homepage": "https://github.com/vinodnimbalkar/svelte-pdf#readme",
+			"repository": "https://github.com/vinodnimbalkar/svelte-pdf",
+			"bugs": "https://github.com/vinodnimbalkar/svelte-pdf/issues"
+		},
+		"publisher": {
+			"username": "vinodnimbalkar",
+			"email": "omvinod@yahoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "vinodnimbalkar",
+				"email": "omvinod@yahoo.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28414637974149404,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.025462037471511476,
+			"maintenance": 0.33309613594813897
+		}
+	},
+	"searchScore": 0.000002066676
+}

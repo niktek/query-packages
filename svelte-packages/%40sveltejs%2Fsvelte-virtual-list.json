@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@sveltejs/svelte-virtual-list",
+		"scope": "sveltejs",
+		"version": "3.0.1",
+		"description": "A <VirtualList> component for Svelte apps",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-08-22T14:41:08.370Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltejs%2Fsvelte-virtual-list",
+			"homepage": "https://github.com/sveltejs/svelte-virtual-list#readme",
+			"repository": "https://github.com/sveltejs/svelte-virtual-list",
+			"bugs": "https://github.com/sveltejs/svelte-virtual-list/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "rich_harris",
+			"email": "richard.a.harris@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dominik_g",
+				"email": "dominik.goepel@gmx.de"
+			},
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			},
+			{
+				"username": "svelte-admin",
+				"email": "richard.a.harris+svelte@gmail.com"
+			},
+			{
+				"username": "conduitry",
+				"email": "npm@chor.date"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20553377971552417,
+		"detail": {
+			"quality": 0.5029873865054335,
+			"popularity": 0.06636562750253443,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.9833247e-8
+}

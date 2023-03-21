@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@ui-things/test2",
+		"scope": "ui-things",
+		"version": "1.0.2",
+		"description": "test1 xox",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-03-25T08:55:25.885Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ui-things%2Ftest2"
+		},
+		"author": {
+			"name": "kamote"
+		},
+		"publisher": {
+			"username": "fatkenji",
+			"email": "fatkenji@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "fatkenji",
+				"email": "fatkenji@protonmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17934777537514932,
+		"detail": {
+			"quality": 0.43226704979797126,
+			"popularity": 0.018072027233813053,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 2.0560635e-9
+}

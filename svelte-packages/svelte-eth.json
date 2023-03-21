@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "svelte-eth",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"date": "2021-11-10T13:47:02.081Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-eth"
+		},
+		"author": {
+			"name": "Gerald Host"
+		},
+		"publisher": {
+			"username": "geraldhost",
+			"email": "me@jacobford.co.uk"
+		},
+		"maintainers": [
+			{
+				"username": "geraldhost",
+				"email": "me@jacobford.co.uk"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17695684225102584,
+		"detail": {
+			"quality": 0.4244496140979512,
+			"popularity": 0.0016446075948473565,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 2.4973519e-9
+}

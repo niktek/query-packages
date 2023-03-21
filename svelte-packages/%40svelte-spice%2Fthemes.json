@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@svelte-spice/themes",
+		"scope": "svelte-spice",
+		"version": "1.0.0-next.4",
+		"description": "Themes for use with svelte-spice components.",
+		"date": "2022-12-22T04:13:17.768Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-spice%2Fthemes"
+		},
+		"author": {
+			"name": "Jerry Thomas",
+			"email": "me@jerrythomas.name",
+			"username": "jerrythomas"
+		},
+		"publisher": {
+			"username": "jerrythomas",
+			"email": "me@jerrythomas.name"
+		},
+		"maintainers": [
+			{
+				"username": "jerrythomas",
+				"email": "me@jerrythomas.name"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.33098163955759885,
+		"detail": {
+			"quality": 0.7095566954747321,
+			"popularity": 0.004137040710035896,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00001093173
+}

@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "svelte-swagger-service",
+		"scope": "unscoped",
+		"version": "1.0.7",
+		"date": "2023-01-28T16:00:24.526Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-swagger-service"
+		},
+		"author": {
+			"name": "Vladislav Emelyanov"
+		},
+		"publisher": {
+			"username": "hardwayder",
+			"email": "hardwayder@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hardwayder",
+				"email": "hardwayder@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23711120496185983,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.00844717369137009,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.0206756e-7
+}

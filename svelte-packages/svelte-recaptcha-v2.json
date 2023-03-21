@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-recaptcha-v2",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Google ReCaptcha v2 implementation for Svelte and SvelteKit",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"recaptcha",
+			"v2"
+		],
+		"date": "2021-10-21T01:52:04.074Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-recaptcha-v2",
+			"homepage": "https://github.com/basaran/svelte-recaptcha-v2#readme",
+			"repository": "https://github.com/basaran/svelte-recaptcha-v2",
+			"bugs": "https://github.com/basaran/svelte-recaptcha-v2/issues"
+		},
+		"author": {
+			"name": "Basaran"
+		},
+		"publisher": {
+			"username": "anakha",
+			"email": "basaran@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anakha",
+				"email": "basaran@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21235946424032093,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.023533227484543593,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 4.4290186e-8
+}

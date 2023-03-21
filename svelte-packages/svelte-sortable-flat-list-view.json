@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-sortable-flat-list-view",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "a sortable view for flat lists",
+		"keywords": [
+			"svelte3",
+			"sortable",
+			"list-view"
+		],
+		"date": "2021-08-01T05:05:13.713Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-sortable-flat-list-view"
+		},
+		"author": {
+			"name": "Andreas Rozek",
+			"email": "a.rozek@gmx.de",
+			"url": "https://www.rozek.de/",
+			"username": "arozek"
+		},
+		"publisher": {
+			"username": "arozek",
+			"email": "a.rozek@gmx.de"
+		},
+		"maintainers": [
+			{
+				"username": "arozek",
+				"email": "a.rozek@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2439168244587412,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.008389566793531134,
+			"maintenance": 0.3206593839960776
+		}
+	},
+	"searchScore": 1.4090378e-7
+}

@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "@ptkdev/sveltekit-electron-adapter",
+		"scope": "ptkdev",
+		"version": "0.3.0",
+		"description": "Adapter for SvelteKit apps that prerenders your entire site as a collection of static files for use with Electron",
+		"keywords": [
+			"ptkdev",
+			"svelte",
+			"sveltekit",
+			"electron",
+			"electronjs",
+			"electron forge",
+			"sveltekit adapter",
+			"sveltekit electron",
+			"sveltekit electron forge"
+		],
+		"date": "2023-02-11T20:20:42.101Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ptkdev%2Fsveltekit-electron-adapter",
+			"homepage": "https://github.com/ptkdev/sveltekit-electron-adapter",
+			"repository": "https://github.com/ptkdev/sveltekit-electron-adapter",
+			"bugs": "https://github.com/ptkdev/sveltekit-electron-adapter/issues"
+		},
+		"author": {
+			"name": "Patryk Rzucidło [@ptkdev]",
+			"email": "support@ptkdev.io",
+			"url": "https://ptk.dev"
+		},
+		"publisher": {
+			"username": "ptkdevio",
+			"email": "ptkdev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ptkdevio",
+				"email": "ptkdev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2302632456644952,
+		"detail": {
+			"quality": 0.3595566954747321,
+			"popularity": 0.016370201015454052,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.387459e-8
+}

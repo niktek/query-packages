@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@bztes/svelte-ds-validator",
+		"scope": "bztes",
+		"version": "2.7.0",
+		"description": "Damn simple value validation for Svelte",
+		"keywords": [
+			"svelte",
+			"validator",
+			"form",
+			"validation"
+		],
+		"date": "2021-11-15T16:36:46.200Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bztes%2Fsvelte-ds-validator",
+			"homepage": "https://github.com/bztes/svelte-ds-validator#readme",
+			"repository": "https://github.com/bztes/svelte-ds-validator",
+			"bugs": "https://github.com/bztes/svelte-ds-validator/issues"
+		},
+		"author": {
+			"name": "Nico Beierle"
+		},
+		"publisher": {
+			"username": "bztes",
+			"email": "nico.beierle@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bztes",
+				"email": "nico.beierle@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3475550780380219,
+		"detail": {
+			"quality": 0.8539755837380317,
+			"popularity": 0.01921865216393867,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 0.00002939497
+}

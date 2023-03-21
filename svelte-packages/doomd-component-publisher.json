@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "doomd-component-publisher",
+		"scope": "unscoped",
+		"version": "0.0.13",
+		"description": "Sveltekit Component Publisher that supports inline tailwindcss styles!",
+		"keywords": [
+			"typescript",
+			"npm",
+			"template",
+			"ts",
+			"svelte",
+			"svelte-kit",
+			"web-component",
+			"svelte-component"
+		],
+		"date": "2022-01-09T02:49:40.620Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/doomd-component-publisher"
+		},
+		"author": {
+			"name": "Doomd"
+		},
+		"publisher": {
+			"username": "doomd",
+			"email": "doomddev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "doomd",
+				"email": "doomddev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2935437112761741,
+		"detail": {
+			"quality": 0.717504610740846,
+			"popularity": 0.0018943066632667645,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 0.0000013017658
+}

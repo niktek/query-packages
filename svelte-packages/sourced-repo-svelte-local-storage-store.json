@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "sourced-repo-svelte-local-storage-store",
+		"scope": "unscoped",
+		"version": "2.0.9",
+		"description": "sourced-repo-svelte-local-storage-store",
+		"keywords": [
+			"cloudevents"
+		],
+		"date": "2022-08-22T01:45:36.708Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sourced-repo-svelte-local-storage-store",
+			"homepage": "https://github.com/CloudNativeEntrepreneur/sourced-repo-svelte-local-storage-store#readme",
+			"repository": "https://github.com/CloudNativeEntrepreneur/sourced-repo-svelte-local-storage-store",
+			"bugs": "https://github.com/CloudNativeEntrepreneur/sourced-repo-svelte-local-storage-store/issues"
+		},
+		"author": {
+			"name": "Patrick Lee Scott"
+		},
+		"publisher": {
+			"username": "patrickleet",
+			"email": "pat@patscott.io"
+		},
+		"maintainers": [
+			{
+				"username": "patrickleet",
+				"email": "pat@patscott.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3594891076518465,
+		"detail": {
+			"quality": 0.7982510331562056,
+			"popularity": 0.01992386406669978,
+			"maintenance": 0.3229727008046854
+		}
+	},
+	"searchScore": 0.00003059149
+}

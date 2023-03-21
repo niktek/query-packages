@@ -1,0 +1,32 @@
+{
+	"package": {
+		"name": "svelte-ui-elements",
+		"scope": "unscoped",
+		"version": "1.6.0",
+		"description": "A Svelte UI library",
+		"date": "2021-07-05T14:33:57.003Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ui-elements",
+			"homepage": "https://saxenanihal95.github.io/SvelteUIElements/"
+		},
+		"publisher": {
+			"username": "saxenanihal95",
+			"email": "saxenanihal95@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "saxenanihal95",
+				"email": "saxenanihal95@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2872408020151877,
+		"detail": {
+			"quality": 0.7727997033237547,
+			"popularity": 0.0024944016505621344,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 0.000001872744
+}

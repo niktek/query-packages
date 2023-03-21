@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "svelte-formup",
+		"scope": "unscoped",
+		"version": "0.6.2",
+		"description": "form helpers for svelte",
+		"keywords": [
+			"svelte",
+			"yup",
+			"form",
+			"forms",
+			"validations",
+			"validation",
+			"html5",
+			"form-validation"
+		],
+		"date": "2020-07-13T10:36:44.595Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-formup",
+			"homepage": "https://svelte-formup.js.org",
+			"repository": "https://github.com/kenoxa/svelte-formup",
+			"bugs": "https://github.com/kenoxa/svelte-formup/issues"
+		},
+		"author": {
+			"name": "Sascha Tandel",
+			"email": "s.tandel@kenoxa.de"
+		},
+		"publisher": {
+			"username": "sastan",
+			"email": "s.tandel@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "sastan",
+				"email": "s.tandel@me.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18958143744179612,
+		"detail": {
+			"quality": 0.522175141358861,
+			"popularity": 0.0043408597032307044,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 9.022406e-9
+}

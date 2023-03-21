@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@felte/validator-superstruct",
+		"scope": "felte",
+		"version": "1.0.11",
+		"description": "A package to use Superstruct validation with Felte",
+		"keywords": [
+			"svelte",
+			"forms",
+			"validation",
+			"felte",
+			"superstruct"
+		],
+		"date": "2023-01-11T23:29:12.243Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40felte%2Fvalidator-superstruct",
+			"homepage": "https://github.com/pablo-abc/felte/tree/main/packages/validator-superstruct",
+			"repository": "https://github.com/pablo-abc/felte",
+			"bugs": "https://github.com/pablo-abc/felte/issues"
+		},
+		"author": {
+			"name": "Pablo Berganza",
+			"email": "pablo@berganza.dev",
+			"url": "https://pablo.berganza.dev",
+			"username": "pberganza"
+		},
+		"publisher": {
+			"username": "pberganza",
+			"email": "pablo@berganza.dev"
+		},
+		"maintainers": [
+			{
+				"username": "pberganza",
+				"email": "pablo@berganza.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27514481555578246,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.005489369539418315,
+			"maintenance": 0.33333209951512166
+		}
+	},
+	"searchScore": 3.6951272e-7
+}

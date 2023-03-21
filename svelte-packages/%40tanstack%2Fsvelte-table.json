@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@tanstack/svelte-table",
+		"scope": "tanstack",
+		"version": "8.7.9",
+		"description": "Headless UI for building powerful tables & datagrids for Svelte.",
+		"keywords": [
+			"svelte",
+			"table",
+			"svelte-table",
+			"datagrid"
+		],
+		"date": "2023-01-31T04:20:49.054Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tanstack%2Fsvelte-table",
+			"homepage": "https://github.com/tanstack/table#readme",
+			"repository": "https://github.com/tanstack/table",
+			"bugs": "https://github.com/tanstack/table/issues"
+		},
+		"author": {
+			"name": "Tanner Linsley"
+		},
+		"publisher": {
+			"username": "tannerlinsley",
+			"email": "tannerlinsley@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nksaraf",
+				"email": "nsaraf98@gmail.com"
+			},
+			{
+				"username": "tannerlinsley",
+				"email": "tannerlinsley@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2628536516815442,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.04958155908396989,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.687104e-7
+}

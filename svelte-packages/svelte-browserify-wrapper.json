@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-browserify-wrapper",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Wrap every bundled Svelte component in a single function.",
+		"keywords": [
+			"svelte",
+			"browserify"
+		],
+		"date": "2017-05-23T02:31:52.466Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-browserify-wrapper",
+			"homepage": "https://github.com/saibotsivad/svelte-browserify-wrapper#readme",
+			"repository": "https://github.com/saibotsivad/svelte-browserify-wrapper",
+			"bugs": "https://github.com/saibotsivad/svelte-browserify-wrapper/issues"
+		},
+		"author": {
+			"name": "saibotsivad"
+		},
+		"publisher": {
+			"username": "saibotsivad",
+			"email": "accounts@davistobias.com"
+		},
+		"maintainers": [
+			{
+				"username": "saibotsivad",
+				"email": "accounts@davistobias.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25338033329172904,
+		"detail": {
+			"quality": 0.7187250635161251,
+			"popularity": 0.018152057425384126,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.9982214e-7
+}

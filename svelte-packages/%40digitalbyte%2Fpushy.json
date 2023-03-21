@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@digitalbyte/pushy",
+		"scope": "digitalbyte",
+		"version": "0.0.8",
+		"description": "Demonstrate how to build and deploy a Web Component in Svelte",
+		"date": "2022-09-10T07:56:52.712Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40digitalbyte%2Fpushy"
+		},
+		"publisher": {
+			"username": "digitalbyte",
+			"email": "npmreg@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "digitalbyte",
+				"email": "npmreg@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20886726385596366,
+		"detail": {
+			"quality": 0.3034508702486718,
+			"popularity": 0.003329531756272729,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.982995e-9
+}

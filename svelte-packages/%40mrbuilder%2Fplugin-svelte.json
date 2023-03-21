@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@mrbuilder/plugin-svelte",
+		"scope": "mrbuilder",
+		"version": "4.4.7-alpha.9",
+		"description": "This plugin provides [svelte](https://svelte.dev) file handler.",
+		"keywords": [
+			"mrbuilder",
+			"svelte"
+		],
+		"date": "2021-10-25T22:41:48.846Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mrbuilder%2Fplugin-svelte"
+		},
+		"author": {
+			"email": "Justin Spears"
+		},
+		"publisher": {
+			"username": "speajus",
+			"email": "speajus@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "speajus",
+				"email": "speajus@gmail.com"
+			},
+			{
+				"username": "nanandn",
+				"email": "nanandn@yahoo.com"
+			},
+			{
+				"username": "brycereynolds",
+				"email": "brycereynoldsdesign@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17968676859975996,
+		"detail": {
+			"quality": 0.4528190157903331,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 3.842026e-9
+}

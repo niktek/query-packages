@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-jawns",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "A customizable Svelte component library built with Tailwind and TypeScript",
+		"keywords": [
+			"svelte",
+			"tailwind",
+			"typescript",
+			"components"
+		],
+		"date": "2023-02-18T20:59:23.841Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-jawns",
+			"homepage": "https://github.com/atuttle/svelte-jawns#readme",
+			"repository": "https://github.com/atuttle/svelte-jawns",
+			"bugs": "https://github.com/atuttle/svelte-jawns/issues"
+		},
+		"author": {
+			"name": "Adam Tuttle",
+			"email": "adamtuttlecodes@gmail.com",
+			"url": "https://adamtuttle.codes"
+		},
+		"publisher": {
+			"username": "atuttle",
+			"email": "adam@fusiongrokker.com"
+		},
+		"maintainers": [
+			{
+				"username": "atuttle",
+				"email": "adam@fusiongrokker.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24843119792478824,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.004754436572000384,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.8033583e-7
+}

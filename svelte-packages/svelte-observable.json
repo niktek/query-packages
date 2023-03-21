@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-observable",
+		"scope": "unscoped",
+		"version": "0.4.0",
+		"description": "Use observables in svelte components with ease",
+		"keywords": [
+			"svelte",
+			"observable",
+			"rxjs"
+		],
+		"date": "2019-04-26T20:13:35.925Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-observable"
+		},
+		"author": {
+			"name": "Tim Hall",
+			"email": "tim.hall.engr@gmail.com",
+			"username": "timhall"
+		},
+		"publisher": {
+			"username": "timhall",
+			"email": "tim.hall.engr@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "timhall",
+				"email": "tim.hall.engr@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16847085751414304,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.029131836179712864,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.640948e-9
+}

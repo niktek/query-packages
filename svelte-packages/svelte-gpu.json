@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "svelte-gpu",
+		"scope": "unscoped",
+		"version": "0.0.0",
+		"date": "2023-02-22T03:48:56.401Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-gpu"
+		},
+		"publisher": {
+			"username": "veevbot",
+			"email": "getemail@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "veevbot",
+				"email": "getemail@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20797410905425098,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.004498717374215205,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.8522382e-8
+}

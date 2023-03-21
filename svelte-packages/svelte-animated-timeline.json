@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-animated-timeline",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Timeline component supporting animation, custom icon, vertical & horizontal modes",
+		"date": "2023-02-20T10:36:28.000Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-animated-timeline",
+			"homepage": "https://svelte-animated-timeline.netlify.app",
+			"repository": "https://github.com/sytanta/svelte-animated-timeline",
+			"bugs": "https://github.com/sytanta/svelte-animated-timeline/issues"
+		},
+		"publisher": {
+			"username": "sytanta",
+			"email": "sytanta@yahoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "sytanta",
+				"email": "sytanta@yahoo.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24551413725253707,
+		"detail": {
+			"quality": 0.4240903319991194,
+			"popularity": 0.004629631388956082,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.5893035e-7
+}

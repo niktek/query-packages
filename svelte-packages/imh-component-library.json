@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "imh-component-library",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2021-10-06T08:08:28.059Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/imh-component-library"
+		},
+		"publisher": {
+			"username": "isaachauser",
+			"email": "hauserisaac01@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "isaachauser",
+				"email": "hauserisaac01@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21561600970628725,
+		"detail": {
+			"quality": 0.5011014744050128,
+			"popularity": 0.0016872668846552522,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 8.0693106e-9
+}

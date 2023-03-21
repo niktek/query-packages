@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "hyinsit-bbui",
+		"scope": "unscoped",
+		"version": "100.0.0",
+		"description": "A UI solution used in the different Budibase projects.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-11-14T09:21:26.490Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/hyinsit-bbui"
+		},
+		"publisher": {
+			"username": "hyinsit",
+			"email": "newstart.infotech@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hyinsit",
+				"email": "newstart.infotech@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2578685607427455,
+		"detail": {
+			"quality": 0.4412719742964627,
+			"popularity": 0.026627949881605443,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 2.398941e-7
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-migrate",
+		"scope": "unscoped",
+		"version": "1.1.3",
+		"description": "A CLI for migrating Svelte(Kit) codebases.",
+		"date": "2023-02-21T10:15:05.126Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-migrate",
+			"homepage": "https://kit.svelte.dev",
+			"repository": "https://github.com/sveltejs/kit",
+			"bugs": "https://github.com/sveltejs/kit/issues"
+		},
+		"publisher": {
+			"username": "svelte-admin",
+			"email": "richard.a.harris+svelte@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "svelte-admin",
+				"email": "richard.a.harris+svelte@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28818753711338724,
+		"detail": {
+			"quality": 0.5567132006168198,
+			"popularity": 0.01287688646192755,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000019510126
+}

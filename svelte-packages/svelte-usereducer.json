@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-usereducer",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "useReducer hook for Svelte",
+		"date": "2020-05-07T17:47:44.371Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-usereducer"
+		},
+		"author": {
+			"name": "@mikolaj6r"
+		},
+		"publisher": {
+			"username": "mikolaj6r",
+			"email": "mikolaj6r@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mikolaj6r",
+				"email": "mikolaj6r@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18837599283383355,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.001168849454665771,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.8736274e-9
+}

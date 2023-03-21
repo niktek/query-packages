@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@vek25/ui",
+		"scope": "vek25",
+		"version": "3.0.18",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-03-05T17:02:57.333Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40vek25%2Fui"
+		},
+		"publisher": {
+			"username": "mdanon",
+			"email": "serjvid91@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "mdanon",
+				"email": "serjvid91@mail.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25981508772106043,
+		"detail": {
+			"quality": 0.4660379081226978,
+			"popularity": 0.009534424621669901,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.6114704e-8
+}

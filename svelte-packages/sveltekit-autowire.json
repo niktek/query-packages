@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "sveltekit-autowire",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Reduce SvelteKit Boilerplate",
+		"keywords": [
+			"vite",
+			"sveltekit"
+		],
+		"date": "2022-10-09T14:48:19.650Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-autowire",
+			"homepage": "https://github.com/LorisSigrist/sveltekit-autowire#readme",
+			"repository": "https://github.com/LorisSigrist/sveltekit-autoimport",
+			"bugs": "https://github.com/LorisSigrist/sveltekit-autowire/issues"
+		},
+		"author": {
+			"name": "LorisSigrist"
+		},
+		"publisher": {
+			"username": "lurmwoch",
+			"email": "sigrist@hasch.io"
+		},
+		"maintainers": [
+			{
+				"username": "lurmwoch",
+				"email": "sigrist@hasch.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2194378055824004,
+		"detail": {
+			"quality": 0.3422980387182727,
+			"popularity": 0.0016605942047823005,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.9780153e-8
+}

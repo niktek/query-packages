@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "esbuild-svelte-paths",
+		"scope": "unscoped",
+		"version": "0.1.4",
+		"description": "ESBuild Plugin that resolves shortcuted pathes for Svelte components",
+		"keywords": [
+			"svelte",
+			"esbuild",
+			"paths",
+			"shortcut",
+			"resolve"
+		],
+		"date": "2022-01-19T06:02:10.015Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/esbuild-svelte-paths",
+			"homepage": "https://github.com/AlexxNB/esbuild-svelte-paths#readme",
+			"repository": "https://github.com/AlexxNB/esbuild-svelte-paths",
+			"bugs": "https://github.com/AlexxNB/esbuild-svelte-paths/issues"
+		},
+		"author": {
+			"name": "Alexey Schebelev"
+		},
+		"publisher": {
+			"username": "alexxnb",
+			"email": "alexxnb@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "alexxnb",
+				"email": "alexxnb@mail.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2710034798518185,
+		"detail": {
+			"quality": 0.7541502487540728,
+			"popularity": 0.020876365183715634,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 0.0000011961184
+}

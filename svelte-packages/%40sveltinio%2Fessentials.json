@@ -1,0 +1,60 @@
+{
+	"package": {
+		"name": "@sveltinio/essentials",
+		"scope": "sveltinio",
+		"version": "0.7.1",
+		"description": "A collection of essentials, type-safe, accessible and configurable Svelte components.",
+		"keywords": [
+			"sveltekit",
+			"svelte",
+			"components",
+			"svelte components",
+			"accessible components",
+			"a11y components",
+			"buttons",
+			"buttongroup",
+			"color viewer",
+			"dropdown",
+			"link",
+			"external links",
+			"tabs",
+			"togglelist",
+			"collapse",
+			"svelte accessibility"
+		],
+		"date": "2023-03-17T12:07:27.971Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltinio%2Fessentials",
+			"homepage": "https://components.sveltin.io",
+			"repository": "https://github.com/sveltinio/components-library",
+			"bugs": "https://github.com/sveltinio/components-library/issues"
+		},
+		"author": {
+			"name": "dev",
+			"email": "dev@sveltin.io",
+			"username": "sveltinio"
+		},
+		"publisher": {
+			"username": "sveltinio",
+			"email": "dev@sveltin.io"
+		},
+		"maintainers": [
+			{
+				"username": "sveltinio",
+				"email": "dev@sveltin.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2840944759245715,
+		"detail": {
+			"quality": 0.5486021661567133,
+			"popularity": 0.008134741173973878,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.38099e-7
+}

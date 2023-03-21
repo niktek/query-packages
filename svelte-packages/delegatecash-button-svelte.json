@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "delegatecash-button-svelte",
+		"scope": "unscoped",
+		"version": "0.1.5",
+		"description": "Delegate cash button",
+		"keywords": [
+			"delegate.cash",
+			"delegate cash",
+			"delegate"
+		],
+		"date": "2022-12-13T19:46:55.115Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/delegatecash-button-svelte",
+			"homepage": "https://delegate.cash",
+			"repository": "https://github.com/delegatecash/delegatecash-button",
+			"bugs": "https://github.com/delegatecash/delegatecash-button/issues"
+		},
+		"author": {
+			"name": "delegatecash"
+		},
+		"publisher": {
+			"username": "ryeshrimp",
+			"email": "ryeshrimp@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ryeshrimp",
+				"email": "ryeshrimp@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2693735307210414,
+		"detail": {
+			"quality": 0.5019129540676174,
+			"popularity": 0.006094222383112979,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.7819324e-7
+}

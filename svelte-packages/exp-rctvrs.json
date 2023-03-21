@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "exp-rctvrs",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "Reactivars is a Babel plugin that lets you use a Svelte like syntax with Solid (a React version is a WIP).",
+		"keywords": [
+			"babel",
+			"babel-plugin",
+			"solid",
+			"solid-js",
+			"react",
+			"reactivars",
+			"reactive variables"
+		],
+		"date": "2022-01-08T15:26:23.845Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/exp-rctvrs"
+		},
+		"author": {
+			"name": "Oren Elbaum"
+		},
+		"publisher": {
+			"username": "orenelb",
+			"email": "elbaumoren@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "orenelb",
+				"email": "elbaumoren@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28681799519019296,
+		"detail": {
+			"quality": 0.7541502487540728,
+			"popularity": 0.002340700182844099,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 2.7947647e-7
+}

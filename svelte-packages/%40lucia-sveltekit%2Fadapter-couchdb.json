@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@lucia-sveltekit/adapter-couchdb",
+		"scope": "lucia-sveltekit",
+		"version": "0.1.2",
+		"description": "CouchDB adapter for Lucia using nano",
+		"keywords": [
+			"sveltekit",
+			"lucia",
+			"couchdb"
+		],
+		"date": "2022-09-05T10:30:38.983Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40lucia-sveltekit%2Fadapter-couchdb",
+			"homepage": "https://github.com/pilcrowOnPaper/lucia-sveltekit#readme",
+			"repository": "https://github.com/pilcrowOnPaper/lucia-sveltekit",
+			"bugs": "https://github.com/pilcrowOnPaper/lucia-sveltekit/issues"
+		},
+		"author": {
+			"name": "TazorDE"
+		},
+		"publisher": {
+			"username": "pilcrowonpaper",
+			"email": "pilcrowonpaper@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pilcrowonpaper",
+				"email": "pilcrowonpaper@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2275970069618758,
+		"detail": {
+			"quality": 0.37078432737755396,
+			"popularity": 0.0015768738647987575,
+			"maintenance": 0.33088515113122874
+		}
+	},
+	"searchScore": 2.6789259e-8
+}

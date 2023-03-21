@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "sozai",
+		"scope": "unscoped",
+		"version": "0.6.8",
+		"description": "UI framework with material components build with Svelte and without Tailwind CSS",
+		"keywords": [
+			"svelte",
+			"material-design"
+		],
+		"date": "2022-03-10T18:06:21.791Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sozai"
+		},
+		"publisher": {
+			"username": "r2dev2",
+			"email": "ronak.badhe@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "r2dev2",
+				"email": "ronak.badhe@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2569878384440889,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.020866465076823097,
+			"maintenance": 0.32826099289888183
+		}
+	},
+	"searchScore": 2.2793598e-7
+}

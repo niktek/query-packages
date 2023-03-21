@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@hbquick/hq-player-live-camera-ptz",
+		"scope": "hbquick",
+		"version": "0.0.5",
+		"description": "Svelte-Bootstrap player-live-camera-ptz",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2023-02-28T17:23:34.732Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40hbquick%2Fhq-player-live-camera-ptz"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2212075507057338,
+		"detail": {
+			"quality": 0.33961655445723754,
+			"popularity": 0.007588336291131115,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.036043e-8
+}

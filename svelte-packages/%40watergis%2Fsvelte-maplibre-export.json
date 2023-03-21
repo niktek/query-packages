@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@watergis/svelte-maplibre-export",
+		"scope": "watergis",
+		"version": "0.1.21",
+		"description": "This is a svelte component to add export control plugin to maplibre.",
+		"keywords": [
+			"maplibre",
+			"maplibre-gl-js",
+			"export"
+		],
+		"date": "2023-02-19T10:30:21.182Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40watergis%2Fsvelte-maplibre-export",
+			"homepage": "https://github.com/watergis/svelte-maplibre-components/tree/main/packages/export#readme",
+			"repository": "https://github.com/watergis/svelte-maplibre-components",
+			"bugs": "https://github.com/watergis/svelte-maplibre-components/issues"
+		},
+		"author": {
+			"name": "Jin IGARASHI"
+		},
+		"publisher": {
+			"username": "j_igarashi",
+			"email": "info@water-gis.com"
+		},
+		"maintainers": [
+			{
+				"username": "j_igarashi",
+				"email": "info@water-gis.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2656890504660551,
+		"detail": {
+			"quality": 0.4629360028651223,
+			"popularity": 0.028975951256719416,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.939145e-7
+}

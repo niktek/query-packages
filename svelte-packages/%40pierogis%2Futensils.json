@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@pierogis/utensils",
+		"scope": "pierogis",
+		"version": "0.2.4",
+		"description": "a set of utensils to aid consumption",
+		"keywords": [
+			"svelte",
+			"ui",
+			"components"
+		],
+		"date": "2022-09-06T00:38:38.846Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40pierogis%2Futensils",
+			"homepage": "https://github.com/pierogis/utensils#readme",
+			"repository": "https://github.com/pierogis/utensils",
+			"bugs": "https://github.com/pierogis/utensils/issues"
+		},
+		"publisher": {
+			"username": "ksmoore17",
+			"email": "kyle@pierogis.live"
+		},
+		"maintainers": [
+			{
+				"username": "ksmoore17",
+				"email": "kyle@pierogis.live"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24035639005754184,
+		"detail": {
+			"quality": 0.39003516041159714,
+			"popularity": 0.019083357906845844,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.494189e-8
+}

@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-command",
+		"scope": "unscoped",
+		"version": "1.1.37",
+		"description": "general command execution handling for svelte components",
+		"keywords": [
+			"commands",
+			"component",
+			"svelte",
+			"vite",
+			"web"
+		],
+		"date": "2023-02-02T01:25:33.704Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-command",
+			"homepage": "https://github.com/arlac77/svelte-command#readme",
+			"repository": "https://github.com/arlac77/svelte-command",
+			"bugs": "https://github.com/arlac77/svelte-command/issues"
+		},
+		"publisher": {
+			"username": "arlac77",
+			"email": "markus.felten@gmx.de"
+		},
+		"maintainers": [
+			{
+				"username": "arlac77",
+				"email": "markus.felten@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31562971002330387,
+		"detail": {
+			"quality": 0.6081979139272481,
+			"popularity": 0.04715334050989364,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000010350914
+}

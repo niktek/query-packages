@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@iconify/svelte",
+		"scope": "iconify",
+		"version": "3.1.0",
+		"description": "Iconify icon component for Svelte.",
+		"date": "2023-01-27T18:51:20.618Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40iconify%2Fsvelte",
+			"homepage": "https://github.com/iconify/iconify",
+			"repository": "https://github.com/iconify/iconify",
+			"bugs": "https://github.com/iconify/iconify/issues"
+		},
+		"author": {
+			"name": "Vjacheslav Trushkin"
+		},
+		"publisher": {
+			"username": "cyberalien",
+			"email": "cyberalien@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cyberalien",
+				"email": "cyberalien@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2953951898357721,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0738400151705742,
+			"maintenance": 0.33321652498839516
+		}
+	},
+	"searchScore": 0.0000044296585
+}

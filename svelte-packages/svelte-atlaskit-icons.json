@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-atlaskit-icons",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Atlaskit SVG icons as Svelte components",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"atlaskit",
+			"icons",
+			"svg"
+		],
+		"date": "2020-04-27T00:02:27.664Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-atlaskit-icons",
+			"homepage": "https://github.com/metonym/svelte-atlaskit-icons",
+			"repository": "https://github.com/metonym/svelte-atlaskit-icons",
+			"bugs": "https://github.com/metonym/svelte-atlaskit-icons/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18970477660154456,
+		"detail": {
+			"quality": 0.5260551644706876,
+			"popularity": 0.0013675232066606574,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.560261e-9
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@smart-access/image_viewer",
+		"scope": "smart-access",
+		"version": "1.0.7",
+		"description": "A simple Image Viewer component for Smart Access Experience Builder",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-07-19T01:20:31.746Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40smart-access%2Fimage_viewer"
+		},
+		"author": {
+			"name": "Kyle Jeske"
+		},
+		"publisher": {
+			"username": "smartaccess",
+			"email": "kyle.jeske@smartaccess.io"
+		},
+		"maintainers": [
+			{
+				"username": "smartaccess",
+				"email": "kyle.jeske@smartaccess.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17476013806050056,
+		"detail": {
+			"quality": 0.4757289647993234,
+			"popularity": 0.001805298521989976,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.2286198e-9
+}

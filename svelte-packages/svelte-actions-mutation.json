@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-actions-mutation",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "MutationObserver action plugin for Svelte 3",
+		"keywords": [
+			"svelte",
+			"transitions",
+			"css",
+			"animation"
+		],
+		"date": "2019-09-14T18:44:16.515Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-actions-mutation"
+		},
+		"author": {
+			"name": "PaulMaly"
+		},
+		"publisher": {
+			"username": "paulmaly",
+			"email": "paul.malys@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "paulmaly",
+				"email": "paul.malys@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19822671811218867,
+		"detail": {
+			"quality": 0.55,
+			"popularity": 0.005191782783376013,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.5767675e-8
+}

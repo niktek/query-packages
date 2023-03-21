@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@hyrious/esbuild-plugin-svelte",
+		"scope": "hyrious",
+		"version": "0.1.7",
+		"description": "Load .svelte files in esbuild.",
+		"keywords": [
+			"esbuild",
+			"svelte"
+		],
+		"date": "2022-11-10T08:46:22.359Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40hyrious%2Fesbuild-plugin-svelte",
+			"homepage": "https://github.com/hyrious/esbuild-plugin-svelte#readme",
+			"repository": "https://github.com/hyrious/esbuild-plugin-svelte",
+			"bugs": "https://github.com/hyrious/esbuild-plugin-svelte/issues"
+		},
+		"author": {
+			"name": "hyrious",
+			"email": "hyrious@outlook.com",
+			"username": "hyrious"
+		},
+		"publisher": {
+			"username": "hyrious",
+			"email": "hyrious@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "hyrious",
+				"email": "hyrious@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3485834914250221,
+		"detail": {
+			"quality": 0.7728837357107883,
+			"popularity": 0.0030879957669531265,
+			"maintenance": 0.33039306340957725
+		}
+	},
+	"searchScore": 0.000026119025
+}

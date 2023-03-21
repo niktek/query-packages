@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@pdfsvex/table-of-contents",
+		"scope": "pdfsvex",
+		"version": "0.1.5",
+		"description": "Table of contents for pdfsvex",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-07-04T12:13:41.431Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40pdfsvex%2Ftable-of-contents"
+		},
+		"publisher": {
+			"username": "manuel3108",
+			"email": "mserret99@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "manuel3108",
+				"email": "mserret99@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2411056795087826,
+		"detail": {
+			"quality": 0.4397711452609957,
+			"popularity": 0.02411876014016872,
+			"maintenance": 0.2878079139469282
+		}
+	},
+	"searchScore": 9.836624e-8
+}

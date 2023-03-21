@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@tsconfig/svelte",
+		"scope": "tsconfig",
+		"version": "3.0.0",
+		"description": "A base TSConfig for working with Svelte.",
+		"date": "2021-12-17T04:12:52.509Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tsconfig%2Fsvelte",
+			"homepage": "https://github.com/tsconfig/bases#readme",
+			"repository": "https://github.com/tsconfig/bases",
+			"bugs": "https://github.com/tsconfig/bases/issues"
+		},
+		"publisher": {
+			"username": "typescript-deploys",
+			"email": "ortam@microsoft.com"
+		},
+		"maintainers": [
+			{
+				"username": "orta",
+				"email": "orta.therox@gmail.com"
+			},
+			{
+				"username": "typescript-deploys",
+				"email": "ortam@microsoft.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25898356033396147,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.1960185204072353,
+			"maintenance": 0.10700479260370348
+		}
+	},
+	"searchScore": 0.0000026153457
+}

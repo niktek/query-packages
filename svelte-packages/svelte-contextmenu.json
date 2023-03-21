@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-contextmenu",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "A simple, no-frills context menu that works out of the box with Bootstrap but allows total customization. This context menu can be set up to work with `on:click` and `on:contextmenu`.",
+		"keywords": [
+			"svelte",
+			"contextmenu",
+			"context",
+			"dropdown",
+			"menu"
+		],
+		"date": "2023-01-09T07:46:17.532Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-contextmenu",
+			"homepage": "https://github.com/vincentlaucsb/svelte-contextmenu#readme",
+			"repository": "https://github.com/vincentlaucsb/svelte-contextmenu",
+			"bugs": "https://github.com/vincentlaucsb/svelte-contextmenu/issues"
+		},
+		"publisher": {
+			"username": "vincela9",
+			"email": "vincela9@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vincela9",
+				"email": "vincela9@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27193956284383825,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.007380473621963821,
+			"maintenance": 0.3326599894171944
+		}
+	},
+	"searchScore": 9.1046047e-7
+}

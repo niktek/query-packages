@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-lucide",
+		"scope": "unscoped",
+		"version": "0.5.2",
+		"description": "Lucide-icon components for Sveltejs",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"lucide-icons",
+			"icons"
+		],
+		"date": "2023-03-07T03:10:37.285Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-lucide",
+			"homepage": "https://svelte-lucide.codewithshin.com",
+			"repository": "https://github.com/shinokada/svelte-lucide",
+			"bugs": "https://github.com/shinokada/svelte-lucide/issues"
+		},
+		"author": {
+			"name": "Shinichi Okada",
+			"email": "connect@codewithshin.com",
+			"url": "https://blog.codewithshin.com"
+		},
+		"publisher": {
+			"username": "shinichiokada",
+			"email": "okada.shin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shinichiokada",
+				"email": "okada.shin@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.29009413894430675,
+		"detail": {
+			"quality": 0.5486021661567133,
+			"popularity": 0.025276635516074588,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000026920384
+}

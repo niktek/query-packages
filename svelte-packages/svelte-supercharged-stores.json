@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-supercharged-stores",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Custom stores for Svelte(Kit)",
+		"keywords": [
+			"Svelte",
+			"stores",
+			"localStorage",
+			"persistable",
+			"reduceable"
+		],
+		"date": "2022-03-30T21:17:22.132Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-supercharged-stores",
+			"homepage": "https://github.com/IamSebastianDev/svelte-supercharged-stores#readme",
+			"repository": "https://github.com/IamSebastianDev/svelte-supercharged-stores",
+			"bugs": "https://github.com/IamSebastianDev/svelte-supercharged-stores/issues"
+		},
+		"author": {
+			"name": "Sebastian Heinz"
+		},
+		"publisher": {
+			"username": "sebastian.dev",
+			"email": "sebastian@iamsebastian.dev"
+		},
+		"maintainers": [
+			{
+				"username": "sebastian.dev",
+				"email": "sebastian@iamsebastian.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2572536877588729,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0021247442848442376,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 4.2427706e-7
+}

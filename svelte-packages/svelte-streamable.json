@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-streamable",
+		"scope": "unscoped",
+		"version": "2.3.0",
+		"description": "Super tiny, simple to use SvelteJS store for real-time updates from server via SSE.",
+		"keywords": [
+			"svelte",
+			"svelte store"
+		],
+		"date": "2022-07-27T14:41:23.079Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-streamable",
+			"homepage": "https://github.com/sveltetools/svelte-streamable#readme",
+			"repository": "https://github.com/sveltetools/svelte-streamable",
+			"bugs": "https://github.com/sveltetools/svelte-streamable/issues"
+		},
+		"author": {
+			"name": "PaulMaly"
+		},
+		"publisher": {
+			"username": "paulmaly",
+			"email": "paul.malys@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "paulmaly",
+				"email": "paul.malys@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30490089192117087,
+		"detail": {
+			"quality": 0.6350078740767695,
+			"popularity": 0.0038802411900004975,
+			"maintenance": 0.32297270080468526
+		}
+	},
+	"searchScore": 0.0000047435756
+}

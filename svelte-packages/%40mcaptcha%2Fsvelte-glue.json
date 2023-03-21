@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@mcaptcha/svelte-glue",
+		"scope": "mcaptcha",
+		"version": "0.1.0-alpha-1",
+		"description": "glue code to setup mCaptcha on your Svelte website",
+		"keywords": [
+			"mCaptcha",
+			"CAPTCHA",
+			"proof of work",
+			"react"
+		],
+		"date": "2021-12-15T09:29:11.502Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mcaptcha%2Fsvelte-glue",
+			"homepage": "https://mcaptcha.org",
+			"repository": "https://github.com/mCaptcha/glue",
+			"bugs": "https://github.com/mCaptcha/glue/issues"
+		},
+		"author": {
+			"name": "Aravinth Manivannan",
+			"email": "realaravinth@batsense.net",
+			"username": "realaravinth"
+		},
+		"publisher": {
+			"username": "realaravinth",
+			"email": "realaravinth@batsense.net"
+		},
+		"maintainers": [
+			{
+				"username": "mcaptcha-user",
+				"email": "realaravinth@gmail.com"
+			},
+			{
+				"username": "realaravinth",
+				"email": "realaravinth@batsense.net"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3085812130768217,
+		"detail": {
+			"quality": 0.8829596671744775,
+			"popularity": 0.0010024629158716884,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 0.0000047876315
+}

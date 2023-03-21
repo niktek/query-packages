@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@bagatell/editor",
+		"scope": "bagatell",
+		"version": "2.0.0-alpha.3",
+		"description": "Contains an Editor implemented in [Svelte](https://svelte.dev/) one can use to create Bagatell apps.",
+		"date": "2023-01-28T13:34:31.947Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bagatell%2Feditor"
+		},
+		"author": {
+			"name": "Peter Larsson-Green"
+		},
+		"publisher": {
+			"username": "peppe_l-g",
+			"email": "peter.larsson.green@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "peppe_l-g",
+				"email": "peter.larsson.green@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2529535594973832,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.021534860423824,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.890126e-8
+}

@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "routel",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "SvelteKit navigation patch",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"router",
+			"navigation",
+			"goto"
+		],
+		"date": "2021-08-18T20:18:16.112Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/routel",
+			"homepage": "https://github.com/dalirnet/routel#readme",
+			"repository": "https://github.com/dalirnet/routel",
+			"bugs": "https://github.com/dalirnet/routel/issues"
+		},
+		"author": {
+			"name": "Amir Reza Dalir",
+			"email": "dalirnet@gmail.com",
+			"username": "dalirnet"
+		},
+		"publisher": {
+			"username": "dalirnet",
+			"email": "dalirnet@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dalirnet",
+				"email": "dalirnet@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2136676552686827,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 1.5974015e-8
+}

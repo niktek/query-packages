@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@ak4zh/auth-helpers-sveltekit",
+		"scope": "ak4zh",
+		"version": "0.7.10",
+		"description": "A collection of framework specific Auth utilities for working with Supabase.",
+		"keywords": [
+			"Supabase",
+			"Auth",
+			"Svelte Kit",
+			"Svelte"
+		],
+		"date": "2022-09-26T03:17:55.813Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ak4zh%2Fauth-helpers-sveltekit",
+			"homepage": "https://github.com/supabase/auth-helpers/tree/main/packages/sveltekit#readme",
+			"repository": "https://github.com/supabase/auth-helpers",
+			"bugs": "https://github.com/supabase/auth-helpers/issues"
+		},
+		"author": {
+			"name": "Supabase"
+		},
+		"publisher": {
+			"username": "ak4zh",
+			"email": "agwl.akash@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ak4zh",
+				"email": "agwl.akash@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21938367711210158,
+		"detail": {
+			"quality": 0.3422980387182727,
+			"popularity": 0.002527036001970627,
+			"maintenance": 0.33088515113122874
+		}
+	},
+	"searchScore": 2.9465811e-8
+}

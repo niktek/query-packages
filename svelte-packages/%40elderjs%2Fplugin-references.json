@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "@elderjs/plugin-references",
+		"scope": "elderjs",
+		"version": "1.8.0-beta.7",
+		"description": "Adds {{ref}} and {{referenceList}} shortcodes to Elder.js allowing you to add wikipedia style references to your content.",
+		"keywords": [
+			"elder.js",
+			"elderjs",
+			"svelte",
+			"ssg",
+			"static",
+			"references",
+			"reference"
+		],
+		"date": "2022-07-15T10:12:24.295Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40elderjs%2Fplugin-references",
+			"homepage": "https://elderguide.com/tech/elderjs/",
+			"repository": "https://github.com/Elderjs/plugins",
+			"bugs": "https://github.com/Elderjs/plugins/issues"
+		},
+		"author": {
+			"name": "Nick Reese",
+			"email": "npm@nicholasreese.com",
+			"username": "nickreese"
+		},
+		"publisher": {
+			"username": "nickreese",
+			"email": "npm@nicholasreese.com"
+		},
+		"maintainers": [
+			{
+				"username": "eight04",
+				"email": "eight04@gmail.com"
+			},
+			{
+				"username": "vonadz",
+				"email": "alex.zdanov@gmail.com"
+			},
+			{
+				"username": "nickreese",
+				"email": "npm@nicholasreese.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3003935617908272,
+		"detail": {
+			"quality": 0.6075140412473209,
+			"popularity": 0.004555247274593847,
+			"maintenance": 0.3329857510586374
+		}
+	},
+	"searchScore": 0.0000011179857
+}

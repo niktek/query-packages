@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@deboxsoft/svelte-virtual-list",
+		"scope": "deboxsoft",
+		"version": "1.6.7",
+		"description": "A <VirtualList> component for Svelte apps",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-04-13T06:28:20.364Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40deboxsoft%2Fsvelte-virtual-list",
+			"homepage": "https://github.com/lionixevolve/svelte-virtual-list-enhanced#readme",
+			"repository": "https://github.com/lionixevolve/svelte-virtual-list-enhanced",
+			"bugs": "https://github.com/lionixevolve/svelte-virtual-list-enhanced/issues"
+		},
+		"author": {
+			"name": "Rich Harris + tje3d + Lionix folks"
+		},
+		"publisher": {
+			"username": "nurdiansyah",
+			"email": "deboxserver@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nurdiansyah",
+				"email": "deboxserver@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23290013813035707,
+		"detail": {
+			"quality": 0.5029873865054335,
+			"popularity": 0.0020381289711917687,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.1283745e-7
+}

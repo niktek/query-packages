@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "elderjs-plugin-blog-pagination",
+		"scope": "unscoped",
+		"version": "0.7.0",
+		"description": "Easily Generate pagination from @elderjs/plugin-markdown for your Elder.js powered website.",
+		"keywords": [
+			"elder.js",
+			"elderjs",
+			"svelte",
+			"ssg",
+			"static",
+			"site",
+			"generator",
+			"pagination"
+		],
+		"date": "2021-06-17T11:38:02.689Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/elderjs-plugin-blog-pagination",
+			"homepage": "https://github.com/noxasch/elderjs-plugin-blog-pagination",
+			"repository": "https://github.com/noxasch/elderjs-plugin-blog-pagination",
+			"bugs": "https://github.com/noxasch/elderjs-plugin-blog-pagination/issues"
+		},
+		"author": {
+			"name": "Alexander Dischberg"
+		},
+		"publisher": {
+			"username": "noxasch",
+			"email": "noxasch@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "noxasch",
+				"email": "noxasch@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21799143780515184,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.018544121236232787,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 1.6545023e-8
+}

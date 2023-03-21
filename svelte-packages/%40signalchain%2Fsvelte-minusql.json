@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@signalchain/svelte-minusql",
+		"scope": "signalchain",
+		"version": "0.3.0",
+		"description": "[WIP]",
+		"keywords": [
+			"graphql",
+			"graphql client",
+			"svelte",
+			"svelte graphql"
+		],
+		"date": "2022-04-03T12:28:40.965Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40signalchain%2Fsvelte-minusql"
+		},
+		"author": {
+			"name": "jameygleason"
+		},
+		"publisher": {
+			"username": "signalchain",
+			"email": "signalchain.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "signalchain",
+				"email": "signalchain.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21554160873213596,
+		"detail": {
+			"quality": 0.3658341385803834,
+			"popularity": 0.019195120037510185,
+			"maintenance": 0.2830659289854068
+		}
+	},
+	"searchScore": 4.2435122e-8
+}

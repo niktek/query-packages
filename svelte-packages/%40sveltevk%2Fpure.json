@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@sveltevk/pure",
+		"scope": "sveltevk",
+		"version": "0.0.2",
+		"description": "VKUI на чистом css с использованием html тегов. Предназначен для документации и простых приложений.",
+		"date": "2022-05-15T20:49:33.081Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltevk%2Fpure",
+			"homepage": "https://sveltevk.github.io/pure/"
+		},
+		"author": {
+			"name": "Daniil Suvorov",
+			"url": "https://github.com/SevereCloud"
+		},
+		"publisher": {
+			"username": "severecloud",
+			"email": "severecloud@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "severecloud",
+				"email": "severecloud@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2518243123692353,
+		"detail": {
+			"quality": 0.520646441024333,
+			"popularity": 0.001240504208122975,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 1.03051086e-7
+}

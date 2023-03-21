@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-phaser",
+		"scope": "unscoped",
+		"version": "0.1.0-beta.2",
+		"description": "Create Phaser 3 games with Svelte 3",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-02-15T18:55:44.261Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-phaser"
+		},
+		"publisher": {
+			"username": "mattjennings",
+			"email": "mattjennings44@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mattjennings",
+				"email": "mattjennings44@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21898834422624303,
+		"detail": {
+			"quality": 0.6208418031542571,
+			"popularity": 0.003789168977025372,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.753758e-8
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "toys-complib",
+		"scope": "unscoped",
+		"version": "0.0.16",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2022-01-14T13:39:21.911Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/toys-complib"
+		},
+		"publisher": {
+			"username": "boojum",
+			"email": "boojum@stercus-accidit.com"
+		},
+		"maintainers": [
+			{
+				"username": "boojum",
+				"email": "boojum@stercus-accidit.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20146751839818733,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0026133796577589843,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 2.8836609e-9
+}

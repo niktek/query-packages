@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@snowpack/app-template-svelte",
+		"scope": "snowpack",
+		"version": "2.1.2",
+		"description": "A preconfigured template for Snowpack with Svelte",
+		"keywords": [
+			"csa-template"
+		],
+		"date": "2021-05-24T21:08:28.549Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40snowpack%2Fapp-template-svelte",
+			"homepage": "https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/app-template-svelte#readme",
+			"repository": "https://github.com/snowpackjs/snowpack",
+			"bugs": "https://github.com/snowpackjs/snowpack/issues"
+		},
+		"publisher": {
+			"username": "fredkschott",
+			"email": "fkschott@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "fredkschott",
+				"email": "fkschott@gmail.com"
+			},
+			{
+				"username": "drewpowers",
+				"email": "drew@pow.rs"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30749866541307475,
+		"detail": {
+			"quality": 0.8365791999066021,
+			"popularity": 0.02136731450757214,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 0.0000049610203
+}

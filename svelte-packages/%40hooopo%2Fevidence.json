@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@hooopo/evidence",
+		"scope": "hooopo",
+		"version": "6.0.3",
+		"description": "dependencies for evidence projects",
+		"keywords": [
+			"analytics",
+			"business-intelligence",
+			"data",
+			"sql",
+			"markdown",
+			"svelte",
+			"data-visualization",
+			"visualization",
+			"data-viz",
+			"charts",
+			"echarts"
+		],
+		"date": "2022-12-16T00:31:06.147Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40hooopo%2Fevidence"
+		},
+		"publisher": {
+			"username": "hooopo",
+			"email": "hoooopo@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hooopo",
+				"email": "hoooopo@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3076787960453541,
+		"detail": {
+			"quality": 0.6326954500068855,
+			"popularity": 0.003790367702366592,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 0.0000011726742
+}

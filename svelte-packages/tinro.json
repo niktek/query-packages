@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "tinro",
+		"scope": "unscoped",
+		"version": "0.6.12",
+		"description": "tinro is a tiny declarative router for Svelte",
+		"keywords": [
+			"svelte-router",
+			"router",
+			"svelte"
+		],
+		"date": "2022-02-03T19:42:44.456Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/tinro",
+			"homepage": "https://github.com/AlexxNB/tinro#readme",
+			"repository": "https://github.com/AlexxNB/tinro",
+			"bugs": "https://github.com/AlexxNB/tinro/issues"
+		},
+		"author": {
+			"name": "Alexey Schebelev"
+		},
+		"publisher": {
+			"username": "alexxnb",
+			"email": "alexxnb@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "alexxnb",
+				"email": "alexxnb@mail.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2243139148097038,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.03660834124923844,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 5.4483746e-8
+}

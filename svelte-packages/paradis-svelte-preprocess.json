@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "paradis-svelte-preprocess",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "A Svelte preprocessor wrapper with baked-in support for commonly used preprocessors",
+		"date": "2021-03-20T13:19:35.846Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/paradis-svelte-preprocess",
+			"homepage": "https://github.com/sveltejs/svelte-preprocess#readme",
+			"repository": "https://github.com/sveltejs/svelte-preprocess",
+			"bugs": "https://github.com/sveltejs/svelte-preprocess/issues"
+		},
+		"author": {
+			"name": "Christian Kaisermann",
+			"email": "christian@kaisermann.me"
+		},
+		"publisher": {
+			"username": "paradis",
+			"email": "unity.clarenceeda@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "paradis",
+				"email": "unity.clarenceeda@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1812769068297031,
+		"detail": {
+			"quality": 0.4778219876535855,
+			"popularity": 0.0013675232066606574,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 3.479755e-9
+}

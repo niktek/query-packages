@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@stationeryworld/components",
+		"scope": "stationeryworld",
+		"version": "0.1.0",
+		"description": "> A Stationery World Svelte component library.",
+		"date": "2022-08-26T05:02:05.413Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40stationeryworld%2Fcomponents"
+		},
+		"publisher": {
+			"username": "sw_michael",
+			"email": "michael@stationeryworld.com.sg"
+		},
+		"maintainers": [
+			{
+				"username": "sw_michael",
+				"email": "michael@stationeryworld.com.sg"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23307788721057432,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.01900269626593881,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 2.471081e-8
+}

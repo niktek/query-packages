@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "query-store",
+		"scope": "unscoped",
+		"version": "1.1.2",
+		"description": "query-store gives you a writable svelte store that syncs with the browser's search params. Makes for easy bookmarking and sharing of UI state.",
+		"date": "2021-06-16T17:56:37.294Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/query-store"
+		},
+		"publisher": {
+			"username": "buhrmi",
+			"email": "buhrmi@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "buhrmi",
+				"email": "buhrmi@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1981655125252468,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.022252669525193502,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 2.212964e-9
+}

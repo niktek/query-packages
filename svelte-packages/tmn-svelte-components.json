@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "tmn-svelte-components",
+		"scope": "unscoped",
+		"version": "0.0.10",
+		"description": "Library of Svelte components to optimize the creation of WebApps",
+		"date": "2023-01-10T13:16:32.645Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/tmn-svelte-components"
+		},
+		"author": {
+			"name": "Lucas Daniel Fuentes"
+		},
+		"publisher": {
+			"username": "lucascarpii",
+			"email": "lucascarpii2002@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lucascarpii",
+				"email": "lucascarpii2002@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2537771080726302,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.006620609295346704,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.9315046e-7
+}

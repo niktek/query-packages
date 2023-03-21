@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-magnifier",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Svelte image magnifier component",
+		"keywords": [
+			"svelte",
+			"component",
+			"image",
+			"zoom",
+			"magnify",
+			"magnifier",
+			"magnifying glass"
+		],
+		"date": "2021-10-06T08:20:05.624Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-magnifier"
+		},
+		"author": {
+			"name": "Ambar Mutha"
+		},
+		"publisher": {
+			"username": "supercoww",
+			"email": "ambar.ytl+npm@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "supercoww",
+				"email": "ambar.ytl+npm@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1771687460921015,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.010645190657876231,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 3.7389576e-9
+}

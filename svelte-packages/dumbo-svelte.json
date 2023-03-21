@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "dumbo-svelte",
+		"scope": "unscoped",
+		"version": "0.0.27",
+		"description": "General purpose svelte components.",
+		"date": "2023-03-15T09:32:57.212Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/dumbo-svelte"
+		},
+		"publisher": {
+			"username": "malvi",
+			"email": "mario.alviano@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "malvi",
+				"email": "mario.alviano@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22693586543797356,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.014035905264078954,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.533812e-8
+}

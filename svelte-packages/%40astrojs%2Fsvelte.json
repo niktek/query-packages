@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "@astrojs/svelte",
+		"scope": "astrojs",
+		"version": "2.1.0",
+		"description": "Use Svelte components within Astro",
+		"keywords": [
+			"astro-integration",
+			"astro-component",
+			"renderer",
+			"svelte"
+		],
+		"date": "2023-03-07T19:52:24.369Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40astrojs%2Fsvelte",
+			"homepage": "https://docs.astro.build/en/guides/integrations-guide/svelte/",
+			"repository": "https://github.com/withastro/astro",
+			"bugs": "https://github.com/withastro/astro/issues"
+		},
+		"author": {
+			"name": "withastro"
+		},
+		"publisher": {
+			"username": "fredkschott",
+			"email": "fkschott@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "natemoo-re",
+				"email": "nate@natemoo.re"
+			},
+			{
+				"username": "drewpowers",
+				"email": "drew@pow.rs"
+			},
+			{
+				"username": "fredkschott",
+				"email": "fkschott@gmail.com"
+			},
+			{
+				"username": "matthewp",
+				"email": "matthew@matthewphillips.info"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3103349302605447,
+		"detail": {
+			"quality": 0.5947592301918334,
+			"popularity": 0.04354427010379448,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000080127165
+}

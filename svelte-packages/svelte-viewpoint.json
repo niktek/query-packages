@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-viewpoint",
+		"scope": "unscoped",
+		"version": "1.4.3",
+		"description": "Super tiny, loadable component for SvelteJS with blackjack and data preloading.",
+		"keywords": [
+			"svelte",
+			"svelte store"
+		],
+		"date": "2021-03-04T11:39:29.012Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-viewpoint"
+		},
+		"author": {
+			"name": "PaulMaly"
+		},
+		"publisher": {
+			"username": "paulmaly",
+			"email": "paul.malys@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "paulmaly",
+				"email": "paul.malys@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2264602395751325,
+		"detail": {
+			"quality": 0.6454716817809788,
+			"popularity": 0.004026116865233807,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.02378614e-7
+}

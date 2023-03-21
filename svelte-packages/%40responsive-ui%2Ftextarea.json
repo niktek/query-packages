@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@responsive-ui/textarea",
+		"scope": "responsive-ui",
+		"version": "1.1.0-alpha.8",
+		"description": "A textarea component of responsive-ui.",
+		"keywords": [
+			"svelte",
+			"ui-component",
+			"responsive-ui",
+			"textarea",
+			"svelte-textarea"
+		],
+		"date": "2022-03-14T06:40:09.426Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40responsive-ui%2Ftextarea",
+			"homepage": "https://github.com/wetix/responsive-ui/blob/main/components/textarea#README.md",
+			"repository": "https://github.com/wetix/responsive-ui",
+			"bugs": "https://github.com/wetix/responsive-ui/issues"
+		},
+		"author": {
+			"name": "Si3nLoong",
+			"email": "sianloong90@gmail.com",
+			"url": "https://github.com/si3nloong"
+		},
+		"publisher": {
+			"username": "mohamadharith",
+			"email": "harith@revenuemonster.my"
+		},
+		"maintainers": [
+			{
+				"username": "charu.yussuf",
+				"email": "yussuf@revenuemonster.my"
+			},
+			{
+				"username": "apacventure",
+				"email": "apacventure@gmail.com"
+			},
+			{
+				"username": "mohamadharith",
+				"email": "harith@revenuemonster.my"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3066769345389481,
+		"detail": {
+			"quality": 0.6173293530699571,
+			"popularity": 0.02410766667520327,
+			"maintenance": 0.3229727008046854
+		}
+	},
+	"searchScore": 0.00000224831
+}

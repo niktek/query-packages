@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "@cammarin/create-svelte-starter",
+		"scope": "cammarin",
+		"version": "0.1.2",
+		"date": "2022-03-22T06:30:58.849Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cammarin%2Fcreate-svelte-starter"
+		},
+		"publisher": {
+			"username": "cammarin",
+			"email": "cammarin+npm@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cammarin",
+				"email": "cammarin+npm@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22818958125925548,
+		"detail": {
+			"quality": 0.3595566954747321,
+			"popularity": 0.018885689517463847,
+			"maintenance": 0.3248930893877815
+		}
+	},
+	"searchScore": 6.09948e-8
+}

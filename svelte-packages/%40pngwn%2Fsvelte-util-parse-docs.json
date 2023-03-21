@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "@pngwn/svelte-util-parse-docs",
+		"scope": "pngwn",
+		"version": "0.0.1",
+		"date": "2021-03-18T22:44:29.619Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40pngwn%2Fsvelte-util-parse-docs"
+		},
+		"publisher": {
+			"username": "evilpingwin",
+			"email": "hello@pngwn.io"
+		},
+		"maintainers": [
+			{
+				"username": "evilpingwin",
+				"email": "hello@pngwn.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1905866457931303,
+		"detail": {
+			"quality": 0.4694143030074844,
+			"popularity": 0.01834258281989048,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 6.1279994e-9
+}

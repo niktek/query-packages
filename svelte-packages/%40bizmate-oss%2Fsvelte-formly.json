@@ -1,0 +1,73 @@
+{
+	"package": {
+		"name": "@bizmate-oss/svelte-formly",
+		"scope": "bizmate-oss",
+		"version": "2.0.2",
+		"description": "<p align=\"center\">   <img width=\"100%\" height=\"300\" src=\"./logo.png\" alt=\"Svelte Formly\" /> </p>",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"svelte-v3",
+			"svelte-framework",
+			"svelte-formly",
+			"svelte-form",
+			"svelte-forms",
+			"svelte-form-validations",
+			"svelte-form-validation",
+			"svelte-form-validators",
+			"svelte-form-validator",
+			"svelte-formly-validations",
+			"svelte-formly-validation",
+			"svelte-formly-validators",
+			"svelte-formly-validator",
+			"svelte-validations",
+			"svelte-validation",
+			"svelte-validators",
+			"svelte-validator",
+			"form",
+			"forms",
+			"formly",
+			"validations",
+			"validation",
+			"validators",
+			"validator"
+		],
+		"date": "2022-07-26T13:03:48.139Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bizmate-oss%2Fsvelte-formly",
+			"homepage": "https://github.com/bizmate-oss/svelte-formly#readme",
+			"repository": "https://github.com/bizmate-oss/svelte-formly",
+			"bugs": "https://github.com/bizmate-oss/svelte-formly/issues"
+		},
+		"author": {
+			"name": "Kamal Sahmoud"
+		},
+		"publisher": {
+			"username": "webfrank",
+			"email": "webfrank@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gaetano.serio",
+				"email": "gaetano.serio@bizmate.it"
+			},
+			{
+				"username": "tiziano.talini",
+				"email": "tiziano.talini@bizmate.it"
+			},
+			{
+				"username": "webfrank",
+				"email": "webfrank@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3040831013552528,
+		"detail": {
+			"quality": 0.6151207493584132,
+			"popularity": 0.01832977578890486,
+			"maintenance": 0.32323272863317754
+		}
+	},
+	"searchScore": 0.0000046441837
+}

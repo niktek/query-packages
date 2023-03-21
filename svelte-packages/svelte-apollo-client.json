@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-apollo-client",
+		"scope": "unscoped",
+		"version": "0.1.4",
+		"description": "Svelte integration for Apollo GraphQL.",
+		"keywords": [
+			"svelte",
+			"apollo",
+			"graphql"
+		],
+		"date": "2021-07-17T12:18:58.563Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-apollo-client"
+		},
+		"author": {
+			"name": "Tuni-Soft"
+		},
+		"publisher": {
+			"username": "unlocomqx",
+			"email": "tunisoft.solutions@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "unlocomqx",
+				"email": "tunisoft.solutions@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22449159814545536,
+		"detail": {
+			"quality": 0.4244496140979511,
+			"popularity": 0.005601458077078999,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 7.0683015e-8
+}

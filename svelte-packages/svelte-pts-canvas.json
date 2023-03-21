@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-pts-canvas",
+		"scope": "unscoped",
+		"version": "0.0.8",
+		"description": "A Svelte component for the [Pts](https://ptsjs.org) library.",
+		"date": "2022-09-25T10:01:53.249Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-pts-canvas",
+			"homepage": "https://github.com/williamngan/svelte-pts-canvas",
+			"repository": "https://github.com/williamngan/svelte-pts-canvas",
+			"bugs": "https://github.com/williamngan/svelte-pts-canvas/issues"
+		},
+		"author": {
+			"name": "William Ngan",
+			"url": "https://williamngan.com"
+		},
+		"publisher": {
+			"username": "williamngan",
+			"email": "hello.mr.ngan@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "williamngan",
+				"email": "hello.mr.ngan@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23812942178352545,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0019765012390421327,
+			"maintenance": 0.33197877635325396
+		}
+	},
+	"searchScore": 1.17246636e-7
+}

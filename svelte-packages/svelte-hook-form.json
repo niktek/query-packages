@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-hook-form",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "A better version of form validation.",
+		"keywords": [
+			"SvelteJS",
+			"Svelte3",
+			"react-hook-form",
+			"validation",
+			"validator",
+			"form"
+		],
+		"date": "2022-06-26T15:30:46.158Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-hook-form"
+		},
+		"author": {
+			"name": "si3nloong",
+			"email": "sianloong90@gmail.com",
+			"url": "https://github.com/si3nloong",
+			"username": "sianloong"
+		},
+		"publisher": {
+			"username": "sianloong",
+			"email": "sianloong90@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sianloong",
+				"email": "sianloong90@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3431356080555893,
+		"detail": {
+			"quality": 0.8713303137042602,
+			"popularity": 0.0012741054442895535,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 0.000018588275
+}

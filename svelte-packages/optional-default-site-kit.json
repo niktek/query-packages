@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "optional-default-site-kit",
+		"scope": "unscoped",
+		"version": "0.4.0",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2022-10-11T19:24:37.543Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/optional-default-site-kit",
+			"homepage": "https://github.com/tomatrow/optional-default-site-kit#readme"
+		},
+		"author": {
+			"name": "AJ Caldwell",
+			"email": "tomatrow@gmail.com",
+			"username": "tomatrow"
+		},
+		"publisher": {
+			"username": "tomatrow",
+			"email": "tomatrow@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tomatrow",
+				"email": "tomatrow@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2290982027402492,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.020227903623665562,
+			"maintenance": 0.3333194415516771
+		}
+	},
+	"searchScore": 1.9002133e-8
+}

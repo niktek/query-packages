@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-resize",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "<p align=\"center\"> <img alt=\"npm\" src=\"https://img.shields.io/npm/v/svelte-resize?logoColor=red&style=for-the-badge\">   <img alt=\"license\" src=\"https://img.shields.io/badge/License-MIT-black?style=for-the-badge\">   <img alt=\"npm bundle size\" src=\"https://",
+		"date": "2023-03-16T18:05:16.434Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-resize"
+		},
+		"publisher": {
+			"username": "thehawk",
+			"email": "hawktemp@pm.me"
+		},
+		"maintainers": [
+			{
+				"username": "thehawk",
+				"email": "hawktemp@pm.me"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2655476446426617,
+		"detail": {
+			"quality": 0.487046316308575,
+			"popularity": 0.00790595166692146,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.7720575e-7
+}

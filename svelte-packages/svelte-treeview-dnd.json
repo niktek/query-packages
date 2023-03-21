@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-treeview-dnd",
+		"scope": "unscoped",
+		"version": "0.1.2",
+		"description": "Simple and easy-to-use JSON-based treeview component with:",
+		"keywords": [
+			"svelte",
+			"treeview",
+			"treeview-component",
+			"typescript"
+		],
+		"date": "2023-02-13T15:49:58.978Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-treeview-dnd",
+			"homepage": "https://svelte-treeview-dnd.netlify.app",
+			"repository": "https://github.com/sytanta/svelte-treeview-dnd",
+			"bugs": "https://github.com/sytanta/svelte-treeview-dnd/issues"
+		},
+		"publisher": {
+			"username": "sytanta",
+			"email": "sytanta@yahoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "sytanta",
+				"email": "sytanta@yahoo.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2541972542388585,
+		"detail": {
+			"quality": 0.44895147840980887,
+			"popularity": 0.008128982997854875,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.3618494e-7
+}

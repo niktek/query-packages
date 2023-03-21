@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "agtardis3d-pankod-cli",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Save a lot of time by generating services, components, tests for Pankod Boilerplate projects",
+		"keywords": [
+			"pankod",
+			"cli",
+			"oclif",
+			"moleculer",
+			"react",
+			"nextjs",
+			"nextjs2",
+			"svelte",
+			"scaffold",
+			"generate"
+		],
+		"date": "2021-05-06T09:11:30.600Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/agtardis3d-pankod-cli",
+			"homepage": "https://github.com/agtardis3d/pankod-cli",
+			"repository": "https://github.com/Pankod/pankod-cli",
+			"bugs": "https://github.com/Pankod/pankod-cli/issues"
+		},
+		"author": {
+			"name": "Pankod",
+			"email": "info@pankod.com"
+		},
+		"publisher": {
+			"username": "agtardis3d",
+			"email": "ag@tardis3d.ru"
+		},
+		"maintainers": [
+			{
+				"username": "agtardis3d",
+				"email": "ag@tardis3d.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.322068083175965,
+		"detail": {
+			"quality": 0.907397073296747,
+			"popularity": 0.002293188067134428,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 0.0000029071425
+}

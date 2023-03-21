@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "storez",
+		"scope": "unscoped",
+		"version": "0.3.15",
+		"description": "Svelte writable store with more.",
+		"keywords": [
+			"storez",
+			"svelte",
+			"store",
+			"writable store"
+		],
+		"date": "2022-03-26T21:08:56.956Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/storez",
+			"homepage": "https://github.com/plrenaudin/svelte-storez#readme",
+			"repository": "https://github.com/plrenaudin/svelte-storez",
+			"bugs": "https://github.com/plrenaudin/svelte-storez/issues"
+		},
+		"author": {
+			"name": "Pierre-Louis Renaudin"
+		},
+		"publisher": {
+			"username": "plrenaudin",
+			"email": "pl.renaudin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "plrenaudin",
+				"email": "pl.renaudin@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.32343010609106293,
+		"detail": {
+			"quality": 0.7836682615264048,
+			"popularity": 0.02011157312666162,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 0.000005304892
+}

@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "spindly",
+		"scope": "unscoped",
+		"version": "1.0.33",
+		"description": "Spindly Go - Svelte desktop app framework",
+		"keywords": [
+			"svlete",
+			"golang",
+			"desktop",
+			"app",
+			"cross-platform"
+		],
+		"date": "2022-04-05T15:40:06.095Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/spindly",
+			"homepage": "https://github.com/spindlygo/spindly",
+			"repository": "https://github.com/spindlygo/spindly",
+			"bugs": "https://github.com/spindlygo/spindly/issues"
+		},
+		"author": {
+			"name": "HasinduLanka"
+		},
+		"publisher": {
+			"username": "hasindu",
+			"email": "hasindu@bitzquad.com"
+		},
+		"maintainers": [
+			{
+				"username": "hasindu",
+				"email": "hasindu@bitzquad.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2345979098264786,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.0032272720947054225,
+			"maintenance": 0.3313723916860516
+		}
+	},
+	"searchScore": 2.3215497e-8
+}

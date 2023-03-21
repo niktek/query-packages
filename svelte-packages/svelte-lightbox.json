@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "svelte-lightbox",
+		"scope": "unscoped",
+		"version": "1.1.1",
+		"description": "Lightweight lightbox library for Svelte",
+		"keywords": [
+			"svelte",
+			"svelteKit",
+			"lightbox",
+			"image",
+			"photo",
+			"video",
+			"gallery",
+			"ssr",
+			"modal"
+		],
+		"date": "2023-02-18T16:20:48.715Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-lightbox",
+			"homepage": "https://svelte-lightbox.js.org",
+			"repository": "https://github.com/Hejtmus/svelte-lightbox",
+			"bugs": "https://github.com/Hejtmus/svelte-lightbox/issues"
+		},
+		"author": {
+			"name": "Filip Holčík",
+			"email": "filip.holcik.official@gmail.com",
+			"username": "filiph"
+		},
+		"publisher": {
+			"username": "filiph",
+			"email": "filip.holcik.official@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "filiph",
+				"email": "filip.holcik.official@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3161829273481112,
+		"detail": {
+			"quality": 0.626599435462266,
+			"popularity": 0.03296122869361348,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000009507941
+}

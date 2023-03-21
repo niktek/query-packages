@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "svelte-virtualized-auto-sizer",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Port from react-virtualized-auto-sizer - High-order component that automatically adjusts the width and height of a single child.",
+		"keywords": [
+			"react",
+			"reactjs",
+			"virtual",
+			"svelte",
+			"sveltejs",
+			"window",
+			"windowed",
+			"list",
+			"scrolling",
+			"infinite",
+			"virtualized",
+			"table",
+			"grid",
+			"spreadsheet"
+		],
+		"date": "2021-02-19T20:05:47.052Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-virtualized-auto-sizer"
+		},
+		"author": {
+			"name": "micha-lmxt",
+			"email": "micha-lmxt@gradientdescent.de",
+			"url": "https://gradientdescent.de"
+		},
+		"publisher": {
+			"username": "micha-lmxt",
+			"email": "npm@lucht-familie.de"
+		},
+		"maintainers": [
+			{
+				"username": "micha-lmxt",
+				"email": "npm@lucht-familie.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21139581465753698,
+		"detail": {
+			"quality": 0.5960353551434681,
+			"popularity": 0.0033588970756843924,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.8841008e-8
+}

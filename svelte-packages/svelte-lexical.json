@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-lexical",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Rich Text editor for Svelte based on lexical",
+		"keywords": [
+			"lexical",
+			"editor",
+			"rich-text",
+			"list",
+			"svelte"
+		],
+		"date": "2023-02-21T15:46:49.578Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-lexical",
+			"homepage": "https://github.com/umaranis/svelte-lexical#readme",
+			"repository": "https://github.com/umaranis/svelte-lexical",
+			"bugs": "https://github.com/umaranis/svelte-lexical/issues"
+		},
+		"publisher": {
+			"username": "umaranis",
+			"email": "umar.anis@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "umaranis",
+				"email": "umar.anis@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3122697331153243,
+		"detail": {
+			"quality": 0.6426340896280174,
+			"popularity": 0.008036684457864077,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000066171274
+}

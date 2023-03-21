@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@radix-svelte/switch",
+		"scope": "radix-svelte",
+		"version": "0.1.0",
+		"description": "## Installation",
+		"date": "2022-08-27T13:02:54.879Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40radix-svelte%2Fswitch"
+		},
+		"publisher": {
+			"username": "symsym",
+			"email": "symeon.smith@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "symsym",
+				"email": "symeon.smith@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.201852938578544,
+		"detail": {
+			"quality": 0.4006027349376555,
+			"popularity": 0.0010901173098212791,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.1540106e-8
+}

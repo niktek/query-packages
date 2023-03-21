@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@byrone108/app-kit",
+		"scope": "byrone108",
+		"version": "2.1.9",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2023-03-17T03:48:08.138Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40byrone108%2Fapp-kit"
+		},
+		"publisher": {
+			"username": "byrone108",
+			"email": "byron.edwards@leapdev.io"
+		},
+		"maintainers": [
+			{
+				"username": "byrone108",
+				"email": "byron.edwards@leapdev.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23299636577230326,
+		"detail": {
+			"quality": 0.3839637528873364,
+			"popularity": 0.0032587806841019996,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.0161297e-8
+}

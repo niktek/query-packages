@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "@make-me-a-cup-of-tea/tree-view",
+		"scope": "make-me-a-cup-of-tea",
+		"version": "0.0.7",
+		"description": "Display JSON objects in a customizable tree-view",
+		"keywords": [
+			"svelte",
+			"tree-view",
+			"json-tree",
+			"typescript",
+			"tree",
+			"json",
+			"base16",
+			"theme"
+		],
+		"date": "2022-09-12T10:00:16.415Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40make-me-a-cup-of-tea%2Ftree-view",
+			"homepage": "https://github.com/TeemuKoivisto/svelte-tree-view",
+			"repository": "https://github.com/TeemuKoivisto/svelte-tree-view",
+			"bugs": "https://github.com/TeemuKoivisto/svelte-tree-view/issues"
+		},
+		"author": {
+			"name": "Teemu Koivisto",
+			"email": "teemukoivisto.xyz@gmail.com"
+		},
+		"publisher": {
+			"username": "tekk",
+			"email": "tkoivisto456@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tekk",
+				"email": "tkoivisto456@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2446863146948023,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.003298649471140346,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.6506863e-8
+}

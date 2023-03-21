@@ -1,0 +1,96 @@
+{
+	"package": {
+		"name": "@iota/is-ui-components",
+		"scope": "iota",
+		"version": "0.2.8",
+		"description": "Svelte UI components for IOTA Integration Services",
+		"keywords": [
+			"integration-services",
+			"audit-log",
+			"audit-trail-gw",
+			"ui",
+			"ux",
+			"svelte",
+			"sveltekit",
+			"iota",
+			"iota-streams"
+		],
+		"date": "2022-10-21T09:39:15.992Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40iota%2Fis-ui-components",
+			"homepage": "https://github.com/iotaledger/is-ui-components#readme",
+			"repository": "https://github.com/iotaledger/is-ui-components",
+			"bugs": "https://github.com/iotaledger/is-ui-components/issues"
+		},
+		"author": {
+			"name": "Begoña Álvarez",
+			"email": "balvarez@boxfish.studio"
+		},
+		"publisher": {
+			"username": "iota_ci",
+			"email": "it@iota.org"
+		},
+		"maintainers": [
+			{
+				"username": "tuditi",
+				"email": "daviddetroch@pm.me"
+			},
+			{
+				"username": "msarcevic",
+				"email": "mario.sarcevic@iota.org"
+			},
+			{
+				"username": "braniota",
+				"email": "branko.bosnic@iota.org"
+			},
+			{
+				"username": "lmoe",
+				"email": "moe@codingart.de"
+			},
+			{
+				"username": "domschiener",
+				"email": "dom@schiener.me"
+			},
+			{
+				"username": "lexerr",
+				"email": "lexerr@gmail.com"
+			},
+			{
+				"username": "martyniota",
+				"email": "martyn.janes@iota.org"
+			},
+			{
+				"username": "nothingismagick",
+				"email": "denjell@sfosc.org"
+			},
+			{
+				"username": "laumair",
+				"email": "aquadestructor@icloud.com"
+			},
+			{
+				"username": "iota_ci",
+				"email": "it@iota.org"
+			},
+			{
+				"username": "rubenkoch",
+				"email": "ruben.koch98@gmail.com"
+			},
+			{
+				"username": "brord",
+				"email": "brordvanwierst@msn.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25629608777001356,
+		"detail": {
+			"quality": 0.459503805830225,
+			"popularity": 0.005080798155083977,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.498867e-7
+}

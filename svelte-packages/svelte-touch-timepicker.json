@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-touch-timepicker",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Native like touch timepicker for Svelte",
+		"keywords": [
+			"svelte",
+			"svelte.js",
+			"sveltejs",
+			"svelte-touch-timepicker",
+			"touch-timepicker",
+			"timepicker",
+			"native-timepicker",
+			"time-picker"
+		],
+		"date": "2020-01-09T14:07:02.701Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-touch-timepicker"
+		},
+		"author": {
+			"name": "Sharif Ahmed",
+			"email": "me.sharifahmed@gmail.com",
+			"url": "http://sharifahmed.me",
+			"username": "me.sharifahmed..gmail.com"
+		},
+		"publisher": {
+			"username": "me.sharifahmed..gmail.com",
+			"email": "me.sharifahmed@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "me.sharifahmed..gmail.com",
+				"email": "me.sharifahmed@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21719155929829254,
+		"detail": {
+			"quality": 0.6173293530699571,
+			"popularity": 0.0016661692551382154,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.241072e-8
+}

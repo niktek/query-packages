@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "feedbacky-svelte-firebase",
+		"scope": "unscoped",
+		"version": "1.0.14",
+		"description": "This is simple feedback component made with svelte",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"feedback"
+		],
+		"date": "2022-08-03T14:42:37.458Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/feedbacky-svelte-firebase",
+			"homepage": "https://github.com/vukovics/svelte-feedback#readme",
+			"repository": "https://github.com/vukovics/svelte-feedback",
+			"bugs": "https://github.com/vukovics/svelte-feedback/issues"
+		},
+		"author": {
+			"name": "Stefan Vukovic",
+			"email": "stefanvkvc@gmail.com",
+			"username": "stefanvkvc"
+		},
+		"publisher": {
+			"username": "stefanvkvc",
+			"email": "stefanvkvc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "stefanvkvc",
+				"email": "stefanvkvc@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24536744015791234,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.0025452412559151837,
+			"maintenance": 0.3306483258170397
+		}
+	},
+	"searchScore": 2.1926132e-7
+}

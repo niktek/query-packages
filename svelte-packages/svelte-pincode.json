@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-pincode",
+		"scope": "unscoped",
+		"version": "2.2.0",
+		"description": "Declarative pin code component for Svelte",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"pincode",
+			"lockbox",
+			"input"
+		],
+		"date": "2022-10-30T18:24:56.759Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-pincode",
+			"homepage": "https://github.com/metonym/svelte-pincode",
+			"repository": "https://github.com/metonym/svelte-pincode",
+			"bugs": "https://github.com/metonym/svelte-pincode/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31562838755330463,
+		"detail": {
+			"quality": 0.6362840192096919,
+			"popularity": 0.02324264805727318,
+			"maintenance": 0.3331664427724328
+		}
+	},
+	"searchScore": 0.000009055347
+}

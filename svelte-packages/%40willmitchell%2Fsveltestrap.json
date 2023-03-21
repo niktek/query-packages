@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@willmitchell/sveltestrap",
+		"scope": "willmitchell",
+		"version": "5.10.0",
+		"description": "![sveltestrap](./logo.svg)",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-12-18T04:04:21.307Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40willmitchell%2Fsveltestrap",
+			"homepage": "https://github.com/willmitchell/sveltestrap#readme",
+			"repository": "https://github.com/willmitchell/sveltestrap",
+			"bugs": "https://github.com/willmitchell/sveltestrap/issues"
+		},
+		"publisher": {
+			"username": "willmitchell",
+			"email": "will.mitchell@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "willmitchell",
+				"email": "will.mitchell@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.36836147272350134,
+		"detail": {
+			"quality": 0.8370463163085748,
+			"popularity": 0.0030868338162402436,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 0.00004235316
+}

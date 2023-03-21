@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@spaceavocado/svelte-form",
+		"scope": "spaceavocado",
+		"version": "1.0.4",
+		"description": "Simple Svelte form model handler and input validations.",
+		"keywords": [
+			"svelte",
+			"form",
+			"validation",
+			"plugins"
+		],
+		"date": "2019-10-11T14:37:50.096Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40spaceavocado%2Fsvelte-form",
+			"homepage": "https://github.com/spaceavocado/svelte-form",
+			"repository": "https://github.com/spaceavocado/svelte-form",
+			"bugs": "https://github.com/spaceavocado/svelte-form/issues"
+		},
+		"author": {
+			"name": "David Horak",
+			"email": "info@davidhorak.com",
+			"username": "davidhorak"
+		},
+		"publisher": {
+			"username": "davidhorak",
+			"email": "info@davidhorak.com"
+		},
+		"maintainers": [
+			{
+				"username": "davidhorak",
+				"email": "info@davidhorak.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19827843547599044,
+		"detail": {
+			"quality": 0.55,
+			"popularity": 0.005339546679952498,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.568686e-8
+}

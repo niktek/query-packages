@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-pivottable",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "A Svelte-based pivot table with grouping",
+		"keywords": [
+			"svelte",
+			"sevltekit",
+			"pivottable"
+		],
+		"date": "2023-02-11T16:04:57.368Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-pivottable",
+			"homepage": "https://github.com/jjagielka/svelte-pivottable#readme",
+			"repository": "https://github.com/jjagielka/svelte-pivottable",
+			"bugs": "https://github.com/jjagielka/svelte-pivottable/issues"
+		},
+		"author": {
+			"name": "Jakub Jagielka",
+			"email": "jjagielka@gmail.com",
+			"username": "jjagielka"
+		},
+		"publisher": {
+			"username": "jjagielka",
+			"email": "jjagielka@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jjagielka",
+				"email": "jjagielka@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2399912145703518,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.005941352221323814,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.797191e-7
+}

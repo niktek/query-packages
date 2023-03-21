@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-speedometer",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Svelte component for showing speedometer like gauge using d3",
+		"keywords": [
+			"svelte",
+			"speedometer",
+			"d3",
+			"gauge"
+		],
+		"date": "2020-11-07T16:01:39.933Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-speedometer"
+		},
+		"author": {
+			"name": "palerdot"
+		},
+		"publisher": {
+			"username": "palerdot",
+			"email": "palerdot@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "palerdot",
+				"email": "palerdot@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3104067260904627,
+		"detail": {
+			"quality": 0.9148859847884631,
+			"popularity": 0.012946675759762074,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000078297635
+}

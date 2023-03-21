@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "test-svelte-components",
+		"scope": "unscoped",
+		"version": "1.0.7",
+		"description": "Svelte UI Components =====================================================",
+		"date": "2022-08-11T12:57:49.458Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/test-svelte-components"
+		},
+		"publisher": {
+			"username": "saharulit",
+			"email": "saharulit@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "saharulit",
+				"email": "saharulit@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.35920447993175797,
+		"detail": {
+			"quality": 0.8160379081226978,
+			"popularity": 0.0019443605977859507,
+			"maintenance": 0.3248930893877815
+		}
+	},
+	"searchScore": 0.00003406306
+}

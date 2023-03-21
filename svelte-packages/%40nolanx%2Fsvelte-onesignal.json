@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@nolanx/svelte-onesignal",
+		"scope": "nolanx",
+		"version": "2.0.5",
+		"description": "Svelte OneSignal Module: Make it easy to integrate OneSignal with your Svelte App!",
+		"keywords": [
+			"onesignal",
+			"push",
+			"notification",
+			"push notification",
+			"svelte"
+		],
+		"date": "2023-03-12T08:52:27.574Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nolanx%2Fsvelte-onesignal",
+			"homepage": "https://onesignal.com",
+			"repository": "https://github.com/dongnguyenvie/svelte-onesignal",
+			"bugs": "https://github.com/dongnguyenvie/svelte-onesignal/issues"
+		},
+		"author": {
+			"name": "rgomezp"
+		},
+		"publisher": {
+			"username": "dongnguyenvie",
+			"email": "dongnguyenvie@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dongnguyenvie",
+				"email": "dongnguyenvie@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1884384407390382,
+		"detail": {
+			"quality": 0.628128135796794,
+			"popularity": 0,
+			"maintenance": 0
+		}
+	},
+	"searchScore": 8.197819e-9
+}

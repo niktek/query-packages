@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@yellowinq/svelte-pin-input",
+		"scope": "yellowinq",
+		"version": "0.0.5",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2021-12-08T13:25:01.734Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40yellowinq%2Fsvelte-pin-input"
+		},
+		"publisher": {
+			"username": "hig4342",
+			"email": "hig4342@naver.com"
+		},
+		"maintainers": [
+			{
+				"username": "hig4342",
+				"email": "hig4342@naver.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1708431402697161,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0022613839019507433,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 1.3328267e-9
+}

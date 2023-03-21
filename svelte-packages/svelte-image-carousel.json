@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "svelte-image-carousel",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"date": "2022-09-28T12:35:57.721Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-image-carousel"
+		},
+		"publisher": {
+			"username": "jenulius",
+			"email": "jenulius@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "jenulius",
+				"email": "jenulius@icloud.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18470590528148312,
+		"detail": {
+			"quality": 0.20660381918525303,
+			"popularity": 0.01873592437332115,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 3.7043846e-9
+}

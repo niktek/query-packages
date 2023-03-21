@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-tesseract",
+		"scope": "unscoped",
+		"version": "0.2.3",
+		"description": "- A wrapper for [tesseract.js](https://github.com/naptha/tesseract.js) for usage with svelte.",
+		"date": "2022-09-19T11:55:51.985Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tesseract"
+		},
+		"publisher": {
+			"username": "hannesgith",
+			"email": "Hanneshattenbach.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hannesgith",
+				"email": "Hanneshattenbach.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2215994135307492,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.020144515731373377,
+			"maintenance": 0.3332872714831318
+		}
+	},
+	"searchScore": 5.6298866e-8
+}

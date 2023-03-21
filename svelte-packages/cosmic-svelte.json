@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "cosmic-svelte",
+		"scope": "unscoped",
+		"version": "0.0.31",
+		"date": "2022-04-24T11:17:30.410Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/cosmic-svelte"
+		},
+		"publisher": {
+			"username": "xingxiaodong",
+			"email": "xing_xiaodong163@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "wuyan1907",
+				"email": "wuyan1907@163.com"
+			},
+			{
+				"username": "yaochang",
+				"email": "wuhayao@gmail.com"
+			},
+			{
+				"username": "maxuelong",
+				"email": "dl880509@163.com"
+			},
+			{
+				"username": "biyingshuai",
+				"email": "biyingshuai@gmail.com"
+			},
+			{
+				"username": "xingxiaodong",
+				"email": "xing_xiaodong163@163.com"
+			},
+			{
+				"username": "zhmushan",
+				"email": "zhmushan@qq.com"
+			},
+			{
+				"username": "qiansc",
+				"email": "116353860@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1779433088463293,
+		"detail": {
+			"quality": 0.19931143041959076,
+			"popularity": 0.004253429307863059,
+			"maintenance": 0.33331765560771437
+		}
+	},
+	"searchScore": 2.0586075e-9
+}

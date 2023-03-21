@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "ticatec-svelte-chart",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-12-15T05:36:18.129Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/ticatec-svelte-chart"
+		},
+		"publisher": {
+			"username": "henry.feng",
+			"email": "henry.feng@ticatec.com"
+		},
+		"maintainers": [
+			{
+				"username": "henry.feng",
+				"email": "henry.feng@ticatec.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21150825719516686,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.0034099809937150846,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 2.2641572e-8
+}

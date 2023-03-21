@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "sashui",
+		"scope": "unscoped",
+		"version": "0.2.5",
+		"description": "Svelte Action Stores & Headless UI.",
+		"date": "2022-08-26T19:12:20.903Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sashui",
+			"homepage": "https://github.com/armchair-traveller/sashui#readme",
+			"repository": "https://github.com/armchair-traveller/sashui",
+			"bugs": "https://github.com/armchair-traveller/sashui/issues"
+		},
+		"publisher": {
+			"username": "fang_dev",
+			"email": "sentient.sober.armchair@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "fang_dev",
+				"email": "sentient.sober.armchair@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.32431920180758167,
+		"detail": {
+			"quality": 0.6879865979685138,
+			"popularity": 0.004992738993551387,
+			"maintenance": 0.3319307536265274
+		}
+	},
+	"searchScore": 0.0000021086921
+}

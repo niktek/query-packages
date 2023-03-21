@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "higlass-svelte",
+		"scope": "unscoped",
+		"version": "0.1.3",
+		"description": "Svelte component for HiGlass",
+		"keywords": [
+			"higlass",
+			"svelte"
+		],
+		"date": "2020-07-18T01:13:00.471Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/higlass-svelte",
+			"homepage": "https://github.com/flekschas/higlass-svelte#readme",
+			"repository": "https://github.com/flekschas/higlass-svelte",
+			"bugs": "https://github.com/flekschas/higlass-svelte/issues"
+		},
+		"publisher": {
+			"username": "flekschas",
+			"email": "code@lekschas.de"
+		},
+		"maintainers": [
+			{
+				"username": "flekschas",
+				"email": "code@lekschas.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17255988770621727,
+		"detail": {
+			"quality": 0.46863432508229863,
+			"popularity": 0.0015999886957733678,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.5736993e-9
+}

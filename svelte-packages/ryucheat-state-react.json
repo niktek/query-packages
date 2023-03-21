@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "ryucheat-state-react",
+		"scope": "unscoped",
+		"version": "1.1.2",
+		"description": "react/react-native state like svelte",
+		"keywords": [
+			"react",
+			"react-native",
+			"rn",
+			"svelte"
+		],
+		"date": "2022-05-08T06:30:57.735Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/ryucheat-state-react",
+			"homepage": "https://github.com/lingobong/ryucheat-state-react",
+			"bugs": "https://github.com/lingobong/ryucheat-state-react/issues"
+		},
+		"author": {
+			"name": "ryujaewan",
+			"url": "dmg1414@naver.com"
+		},
+		"publisher": {
+			"username": "lingobong",
+			"email": "dmg1414@naver.com"
+		},
+		"maintainers": [
+			{
+				"username": "lingobong",
+				"email": "dmg1414@naver.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26798418164323756,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.001707923805054072,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 3.2459988e-7
+}

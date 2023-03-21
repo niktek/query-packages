@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "varco-svelte",
+		"scope": "unscoped",
+		"version": "0.0.0",
+		"date": "2023-01-04T05:52:03.945Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/varco-svelte"
+		},
+		"publisher": {
+			"username": "veevbot",
+			"email": "getemail@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "veevbot",
+				"email": "getemail@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2069016487506355,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.0028616327108047838,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.6485265e-8
+}

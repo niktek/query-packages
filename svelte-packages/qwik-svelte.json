@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "qwik-svelte",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "Qwik Svelte allows you to use Svelte components in an existing Qwik application",
+		"date": "2022-11-01T22:28:30.846Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/qwik-svelte",
+			"homepage": "https://github.com/raymondmuller/qwik-svelte#readme",
+			"repository": "https://github.com/raymondmuller/qwik-svelte",
+			"bugs": "https://github.com/raymondmuller/qwik-svelte/issues"
+		},
+		"publisher": {
+			"username": "raymondmuller",
+			"email": "raymond.muller.1989@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "raymondmuller",
+				"email": "raymond.muller.1989@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2530190009579798,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.004454588967774106,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.0431957e-7
+}

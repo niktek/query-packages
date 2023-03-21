@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "@lottiefiles/svelte-lottie-player",
+		"scope": "lottiefiles",
+		"version": "0.3.0",
+		"description": "Lottie animation player component for Svelte",
+		"keywords": [
+			"lottie",
+			"lottiefiles",
+			"dotlottie",
+			"svelte",
+			"component",
+			"svelte-component"
+		],
+		"date": "2022-12-07T12:50:49.384Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40lottiefiles%2Fsvelte-lottie-player",
+			"homepage": "https://github.com/LottieFiles/svelte-lottie-player",
+			"repository": "https://github.com/LottieFiles/svelte-lottie-player",
+			"bugs": "https://github.com/LottieFiles/svelte-lottie-player/issues"
+		},
+		"author": {
+			"name": "Jawish Hameed",
+			"email": "jawish@lottiefiles.com"
+		},
+		"publisher": {
+			"username": "sam-osb",
+			"email": "sam@lottiefiles.com"
+		},
+		"maintainers": [
+			{
+				"username": "jawish",
+				"email": "jawish@gmail.com"
+			},
+			{
+				"username": "karamalie",
+				"email": "karam7898@gmail.com"
+			},
+			{
+				"username": "sam-osb",
+				"email": "sam@lottiefiles.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26247446899990723,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.03697674176713382,
+			"maintenance": 0.32782680351090904
+		}
+	},
+	"searchScore": 7.23292e-7
+}

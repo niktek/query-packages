@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-router",
+		"scope": "unscoped",
+		"version": "3.0.0-alpha.2",
+		"description": "A simple router for Svelte",
+		"keywords": [
+			"svelte",
+			"router",
+			"plugins"
+		],
+		"date": "2019-08-14T08:17:51.148Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-router",
+			"homepage": "https://jikkai.github.io/svelte-router",
+			"repository": "https://github.com/jikkai/svelte-router",
+			"bugs": "https://github.com/jikkai/svelte-router/issues"
+		},
+		"author": {
+			"name": "Jikkai Xiao",
+			"email": "sonne@asaki.me",
+			"username": "jikkai"
+		},
+		"publisher": {
+			"username": "jikkai",
+			"email": "sonne@asaki.me"
+		},
+		"maintainers": [
+			{
+				"username": "jikkai",
+				"email": "sonne@asaki.me"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21744796895762836,
+		"detail": {
+			"quality": 0.5475424388042784,
+			"popularity": 0.06221612336667933,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.10713444e-7
+}

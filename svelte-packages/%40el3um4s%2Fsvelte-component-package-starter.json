@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@el3um4s/svelte-component-package-starter",
+		"scope": "el3um4s",
+		"version": "0.0.18",
+		"description": "Svelte Component Package Starter",
+		"keywords": [
+			"typescript",
+			"npm",
+			"template",
+			"ts",
+			"svelte",
+			"svelte-kit",
+			"web-component",
+			"svelte-component"
+		],
+		"date": "2021-12-31T18:23:09.920Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40el3um4s%2Fsvelte-component-package-starter",
+			"homepage": "https://github.com/el3um4s/svelte-component-package-starter#readme",
+			"repository": "https://github.com/el3um4s/svelte-component-package-starter",
+			"bugs": "https://github.com/el3um4s/svelte-component-package-starter/issues"
+		},
+		"author": {
+			"name": "Samuele C. De Tomasi"
+		},
+		"publisher": {
+			"username": "el3um4s",
+			"email": "el3um4s@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "el3um4s",
+				"email": "el3um4s@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23022277157690638,
+		"detail": {
+			"quality": 0.4088071151157153,
+			"popularity": 0.01956533474504841,
+			"maintenance": 0.2878079139469282
+		}
+	},
+	"searchScore": 1.018445e-7
+}

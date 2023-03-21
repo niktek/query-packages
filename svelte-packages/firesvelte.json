@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "firesvelte",
+		"scope": "unscoped",
+		"version": "0.2.1",
+		"description": "A library that massively oversimplifies the usage of firebase with svelte(kit)",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"firebase"
+		],
+		"date": "2023-02-19T15:21:32.221Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/firesvelte",
+			"homepage": "https://github.com/daniel-kozma/firesvelte#readme",
+			"repository": "https://github.com/daniel-kozma/firesvelte",
+			"bugs": "https://github.com/daniel-kozma/firesvelte/issues"
+		},
+		"publisher": {
+			"username": "digital-daniel",
+			"email": "daniel.kozma.v1@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "digital-daniel",
+				"email": "daniel.kozma.v1@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2161993046875753,
+		"detail": {
+			"quality": 0.3225776017021793,
+			"popularity": 0.007883878600728252,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.9631054e-8
+}

@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-paystack",
+		"scope": "unscoped",
+		"version": "0.2.2",
+		"description": "## A svelte library for implementing paystack payment gateway",
+		"keywords": [
+			"paystack",
+			"svelte",
+			"payment",
+			"inline"
+		],
+		"date": "2021-10-15T08:38:48.672Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-paystack",
+			"homepage": "https://github.com/iykekings/svelte-paystack#readme",
+			"repository": "https://github.com/iykekings/svelte-paystack"
+		},
+		"author": {
+			"name": "Ikechukwu Eze",
+			"email": "hello@ikeze.dev"
+		},
+		"publisher": {
+			"username": "ikechukwu",
+			"email": "iykekings36@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ikechukwu",
+				"email": "iykekings36@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23112471780055793,
+		"detail": {
+			"quality": 0.585858909508616,
+			"popularity": 0.002397698593167381,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 1.2352946e-7
+}

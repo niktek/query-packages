@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-typing-animated",
+		"scope": "unscoped",
+		"version": "1.0.7",
+		"description": "Svelte component for typing animation.",
+		"keywords": [
+			"typing animated",
+			"animate typing",
+			"type animation"
+		],
+		"date": "2021-02-17T17:05:38.146Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-typing-animated"
+		},
+		"author": {
+			"name": "srinivasb"
+		},
+		"publisher": {
+			"username": "2705srinivas",
+			"email": "2705srinivas@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "2705srinivas",
+				"email": "2705srinivas@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17827785156063597,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.004003430187722611,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.0227507e-9
+}

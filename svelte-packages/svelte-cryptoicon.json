@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-cryptoicon",
+		"scope": "unscoped",
+		"version": "0.16.1",
+		"description": "Svelte component for cryptocurrency-icons",
+		"keywords": [
+			"svelte",
+			"icons",
+			"svg",
+			"crypto",
+			"currency"
+		],
+		"date": "2020-04-04T15:22:34.547Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-cryptoicon",
+			"homepage": "https://github.com/alepop/svelte-cryptoicon#readme",
+			"repository": "https://github.com/alepop/svelte-cryptoicon",
+			"bugs": "https://github.com/alepop/svelte-cryptoicon/issues"
+		},
+		"author": {
+			"name": "alepop"
+		},
+		"publisher": {
+			"username": "alepop",
+			"email": "alepooop@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "alepop",
+				"email": "alepooop@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16856354148182273,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.006744911974924245,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.9402175e-9
+}

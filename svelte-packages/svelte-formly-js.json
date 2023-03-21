@@ -1,0 +1,30 @@
+{
+	"package": {
+		"name": "svelte-formly-js",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"date": "2022-07-26T15:52:44.017Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-formly-js"
+		},
+		"publisher": {
+			"username": "marocdevelop",
+			"email": "maroc.develop@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "marocdevelop",
+				"email": "maroc.develop@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19918770185115656,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.001168849454665771,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 9.886254e-9
+}

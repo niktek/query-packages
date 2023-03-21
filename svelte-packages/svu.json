@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svu",
+		"scope": "unscoped",
+		"version": "0.2.1",
+		"description": "Svultimate Svelte(Kit) Svutilities",
+		"date": "2022-09-02T16:05:09.382Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svu",
+			"homepage": "http://svu.vercel.app",
+			"repository": "https://github.com/nikolai-cc/svu",
+			"bugs": "https://github.com/nikolai-cc/svu/issues"
+		},
+		"author": {
+			"name": "nikolai-cc",
+			"url": "https://nikolai.cc"
+		},
+		"publisher": {
+			"username": "nikolai-cc",
+			"email": "npm@nikolai.cc"
+		},
+		"maintainers": [
+			{
+				"username": "nikolai-cc",
+				"email": "npm@nikolai.cc"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2880807959933493,
+		"detail": {
+			"quality": 0.5470734658221853,
+			"popularity": 0.021024695703659953,
+			"maintenance": 0.3331431792868935
+		}
+	},
+	"searchScore": 4.9465206e-7
+}

@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "svelte-htm",
+		"scope": "unscoped",
+		"version": "1.2.0",
+		"description": "tagged template syntax for svelte to simplify testing",
+		"keywords": [
+			"svelte",
+			"htm",
+			"Hyperscript Tagged Markup",
+			"tagged template",
+			"template literals",
+			"html",
+			"jsx",
+			"hyperscript",
+			"dom",
+			"jsdom",
+			"testing",
+			"ui",
+			"unit",
+			"functional"
+		],
+		"date": "2022-11-08T21:34:29.863Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-htm",
+			"homepage": "https://github.com/kenoxa/svelte-htm#readme",
+			"repository": "https://github.com/kenoxa/svelte-htm",
+			"bugs": "https://github.com/kenoxa/svelte-htm/issues"
+		},
+		"author": {
+			"name": "Sascha Tandel",
+			"email": "s.tandel@kenoxa.de"
+		},
+		"publisher": {
+			"username": "sastan",
+			"email": "s.tandel@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "sastan",
+				"email": "s.tandel@me.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.32281725768211383,
+		"detail": {
+			"quality": 0.6362840192096919,
+			"popularity": 0.04942890088314235,
+			"maintenance": 0.32751981888601844
+		}
+	},
+	"searchScore": 0.000013667116
+}

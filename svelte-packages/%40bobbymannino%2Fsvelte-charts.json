@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@bobbymannino/svelte-charts",
+		"scope": "bobbymannino",
+		"version": "1.1.0",
+		"description": "A set of simple svelte charts that are: TypeScript First, Auto-Fitting, Animated, Customizable With Props & Easy To Use",
+		"keywords": [
+			"charts",
+			"graphs",
+			"data",
+			"svelte",
+			"sveltekit"
+		],
+		"date": "2022-12-27T19:21:27.973Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bobbymannino%2Fsvelte-charts",
+			"homepage": "https://github.com/bobbymannino/svelte-charts#readme",
+			"repository": "https://github.com/bobbymannino/svelte-charts",
+			"bugs": "https://github.com/bobbymannino/svelte-charts/issues"
+		},
+		"author": {
+			"name": "Bobby Mannino",
+			"email": "manninobobby@icloud.com",
+			"username": "bobbymannino"
+		},
+		"publisher": {
+			"username": "bobbymannino",
+			"email": "manninobobby@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "bobbymannino",
+				"email": "manninobobby@icloud.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25297226551018565,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.004413287440179811,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 3.239069e-7
+}

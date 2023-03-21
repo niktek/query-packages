@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@ally-ui/svelte-dialog",
+		"scope": "ally-ui",
+		"version": "0.0.22",
+		"description": "A WAI-ARIA compliant Dialog for Svelte",
+		"date": "2022-10-03T15:03:58.424Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ally-ui%2Fsvelte-dialog",
+			"homepage": "https://github.com/ally-ui/ally-ui#readme",
+			"repository": "https://github.com/ally-ui/ally-ui",
+			"bugs": "https://github.com/ally-ui/ally-ui/issues"
+		},
+		"author": {
+			"name": "Bryan Lee"
+		},
+		"publisher": {
+			"username": "bryanmylee",
+			"email": "bryanmylee@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bryanmylee",
+				"email": "bryanmylee@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21536555932480045,
+		"detail": {
+			"quality": 0.3225776017021793,
+			"popularity": 0.005501748992800038,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.7829126e-8
+}

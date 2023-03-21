@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-headless-button",
+		"scope": "unscoped",
+		"version": "0.2.7",
+		"description": "Simple button component without default style.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-07-21T04:14:49.117Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-headless-button",
+			"homepage": "https://github.com/zerok84/svelte-headless-button#readme",
+			"repository": "https://github.com/zerok84/svelte-headless-button",
+			"bugs": "https://github.com/zerok84/svelte-headless-button/issues"
+		},
+		"author": {
+			"name": "Zerok84"
+		},
+		"publisher": {
+			"username": "zerok84",
+			"email": "tranchitam.um@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "zerok84",
+				"email": "tranchitam.um@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24274626828102325,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0025551845160386435,
+			"maintenance": 0.32853380853478065
+		}
+	},
+	"searchScore": 1.7585171e-7
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "vite-plugin-sveltekit-tex",
+		"scope": "unscoped",
+		"version": "0.0.12",
+		"description": "Generate LaTeX tex/pdf while building in SvelteKit",
+		"keywords": [
+			"mathlified",
+			"sveltekit-tex"
+		],
+		"date": "2023-02-23T06:40:55.216Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-plugin-sveltekit-tex",
+			"homepage": "https://github.com/kelvinsjk/mathlified"
+		},
+		"author": {
+			"name": "Kelvin Soh"
+		},
+		"publisher": {
+			"username": "kelvinsjk",
+			"email": "kelvinsjk@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kelvinsjk",
+				"email": "kelvinsjk@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2500689082902288,
+		"detail": {
+			"quality": 0.4338930193208129,
+			"popularity": 0.009240959506623632,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.2284423e-7
+}

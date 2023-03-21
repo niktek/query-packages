@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-scramble",
+		"scope": "unscoped",
+		"version": "2.1.16",
+		"description": "A simple and reusable scramble effect for your Svelte applications",
+		"keywords": [
+			"svelte",
+			"scramble-effect"
+		],
+		"date": "2021-02-12T05:12:30.136Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-scramble"
+		},
+		"author": {
+			"name": "Berkin AKKAYA",
+			"email": "berkinakkaya@hotmail.com"
+		},
+		"publisher": {
+			"username": "berkinakkaya",
+			"email": "berkin_akkaya@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "berkinakkaya",
+				"email": "berkin_akkaya@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19366611573307158,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.001130468303792204,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.1908969e-8
+}

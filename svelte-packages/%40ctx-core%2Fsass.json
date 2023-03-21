@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@ctx-core/sass",
+		"scope": "ctx-core",
+		"version": "12.2.33",
+		"description": "ctx-core sass",
+		"keywords": [
+			"ctx-core",
+			"svelte",
+			"sass",
+			"postcss"
+		],
+		"date": "2023-03-14T21:58:52.143Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ctx-core%2Fsass",
+			"homepage": "https://github.com/ctx-core/sass#readme",
+			"repository": "https://github.com/ctx-core/sass",
+			"bugs": "https://github.com/ctx-core/sass/issues"
+		},
+		"author": {
+			"name": "Brian Takita"
+		},
+		"publisher": {
+			"username": "btakita",
+			"email": "brian.takita@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "btakita",
+				"email": "brian.takita@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2877862381754167,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.04160648606301873,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.291756e-7
+}

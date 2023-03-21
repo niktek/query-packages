@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@apsc/glob-notify",
+		"scope": "apsc",
+		"version": "0.0.8",
+		"description": "Svelte component for notifications globally for the entire application",
+		"keywords": [
+			"svelte",
+			"component",
+			"notification"
+		],
+		"date": "2023-02-01T20:16:50.892Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40apsc%2Fglob-notify",
+			"homepage": "https://github.com/andrey-pavlenko/svelte-components/tree/main/packages/glob-notify#readme",
+			"repository": "https://github.com/andrey-pavlenko/svelte-components",
+			"bugs": "https://github.com/andrey-pavlenko/svelte-components/issues"
+		},
+		"author": {
+			"name": "Andrey Pavlenko"
+		},
+		"publisher": {
+			"username": "andrey-pavlenko",
+			"email": "andrey.pavlenko@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "andrey-pavlenko",
+				"email": "andrey.pavlenko@mail.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2515646408563636,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.022951009932744078,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.7560632e-7
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@geoffcox/svelte-splitter",
+		"scope": "geoffcox",
+		"version": "1.0.1",
+		"description": "A splitter for Svelte that leverages CSS grid templates for simple and consistent resizing.",
+		"keywords": [
+			"split",
+			"splitter",
+			"resize",
+			"resizer",
+			"pane",
+			"svelte",
+			"typescript"
+		],
+		"date": "2021-04-29T16:31:18.128Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40geoffcox%2Fsvelte-splitter",
+			"homepage": "https://github.com/GeoffCox/svelte-splitter/blob/main/package/README.md",
+			"bugs": "https://github.com/GeoffCox/svelte-splitter/issues"
+		},
+		"author": {
+			"name": "Geoff Cox"
+		},
+		"publisher": {
+			"username": "geoffcox",
+			"email": "geoff.cox@live.com"
+		},
+		"maintainers": [
+			{
+				"username": "geoffcox",
+				"email": "geoff.cox@live.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21737098114289374,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.033620955407875255,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 6.646727e-8
+}

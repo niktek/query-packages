@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-gravatar",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Svelte component for rendering a gravatar profile image.",
+		"keywords": [
+			"svelte",
+			"image",
+			"gravatar",
+			"email"
+		],
+		"date": "2020-03-14T16:05:22.083Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-gravatar"
+		},
+		"author": {
+			"name": "Joao Lopes"
+		},
+		"publisher": {
+			"username": "pr00f",
+			"email": "jocolopes@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pr00f",
+				"email": "jocolopes@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21290341863082823,
+		"detail": {
+			"quality": 0.5960353551434681,
+			"popularity": 0.007666336999373668,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.6091778e-8
+}

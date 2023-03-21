@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-data-grid-tmp",
+		"scope": "unscoped",
+		"version": "3.0.0",
+		"description": "High-performance svelte data table component for displaying huge datasets",
+		"keywords": [
+			"svelte",
+			"data-grid",
+			"data-table",
+			"table",
+			"virtual-list"
+		],
+		"date": "2020-01-04T13:40:29.859Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-data-grid-tmp",
+			"homepage": "https://github.com/bsssshhhhhhh/svelte-data-grid",
+			"repository": "https://github.com/bsssshhhhhhh/svelte-data-grid",
+			"bugs": "https://github.com/bsssshhhhhhh/svelte-data-grid/issues"
+		},
+		"author": {
+			"name": "Brian Simon",
+			"email": "bsssshhhhhhh@gmail.com",
+			"url": "https://github.com/bsssshhhhhhh"
+		},
+		"publisher": {
+			"username": "thecodejack",
+			"email": "aadisrikanth@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thecodejack",
+				"email": "aadisrikanth@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20690189569713485,
+		"detail": {
+			"quality": 0.5832805440879806,
+			"popularity": 0.0014518238078102884,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.4219272e-8
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "sveltekit-bootstrap-icons",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-10-06T17:10:17.663Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-bootstrap-icons",
+			"homepage": "https://github.com/cdcarson/sveltekit-bootstrap-icons#readme",
+			"repository": "https://github.com/cdcarson/sveltekit-bootstrap-icons",
+			"bugs": "https://github.com/cdcarson/sveltekit-bootstrap-icons/issues"
+		},
+		"publisher": {
+			"username": "chriscarson",
+			"email": "chris@nowzoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "chriscarson",
+				"email": "chris@nowzoo.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2468374021827876,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0016278220846323718,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.0613063e-7
+}

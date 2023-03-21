@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "guitar-chord",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "<guitar-chord> Web-component or svelte component",
+		"keywords": [
+			"ivolution.one",
+			"<guitar-chord/>"
+		],
+		"date": "2022-04-01T20:48:01.936Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/guitar-chord",
+			"homepage": "https://github.com/ivosdc/guitar-chords#readme",
+			"repository": "https://github.com/ivosdc/guitar-chords",
+			"bugs": "https://github.com/ivosdc/guitar-chords/issues"
+		},
+		"author": {
+			"name": "Ivo Bozic"
+		},
+		"publisher": {
+			"username": "nologin",
+			"email": "ibozic@mail.de"
+		},
+		"maintainers": [
+			{
+				"username": "nologin",
+				"email": "ibozic@mail.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23934404712086077,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0020381289711917687,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 2.9690085e-8
+}

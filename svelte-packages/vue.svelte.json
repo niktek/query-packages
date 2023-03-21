@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "vue.svelte",
+		"scope": "unscoped",
+		"version": "0.0.0",
+		"date": "2022-05-29T18:47:02.175Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vue.svelte"
+		},
+		"author": {
+			"name": "我"
+		},
+		"publisher": {
+			"username": "vanilla-vue",
+			"email": "getemail@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "vanilla-react",
+				"email": "getemail@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20098049805090715,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.001168849454665771,
+			"maintenance": 0.3166814555290432
+		}
+	},
+	"searchScore": 4.334271e-9
+}

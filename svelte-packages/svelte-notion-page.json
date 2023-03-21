@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-notion-page",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "> This library is an experimental state. It would be changed rapidly.",
+		"date": "2023-01-02T07:54:03.443Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-notion-page"
+		},
+		"publisher": {
+			"username": "goodgoodjm",
+			"email": "gjwnsan9420@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "goodgoodjm",
+				"email": "gjwnsan9420@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22965997475409855,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.02182912364278529,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 7.5370835e-8
+}

@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@krznbtni/rollup-plugin-svelte-component-barrel-file",
+		"scope": "krznbtni",
+		"version": "1.1.1",
+		"description": "This repo/package/whatever creates a barrel file for your Svelte components.",
+		"keywords": [
+			"barrel",
+			"components",
+			"plugin",
+			"rollup",
+			"svelte"
+		],
+		"date": "2023-03-20T21:10:03.090Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40krznbtni%2Frollup-plugin-svelte-component-barrel-file",
+			"homepage": "https://github.com/krznbtni/rollup-plugin-svelte-component-barrel-file#readme",
+			"repository": "https://github.com/krznbtni/rollup-plugin-svelte-component-barrel-file",
+			"bugs": "https://github.com/krznbtni/rollup-plugin-svelte-component-barrel-file/issues"
+		},
+		"author": {
+			"name": "krznbtni"
+		},
+		"publisher": {
+			"username": "botani",
+			"email": "karzan@botani.nu"
+		},
+		"maintainers": [
+			{
+				"username": "botani",
+				"email": "karzan@botani.nu"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3883047534487024,
+		"detail": {
+			"quality": 0.8999999999999999,
+			"popularity": 0.004680247948673702,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00009103028
+}

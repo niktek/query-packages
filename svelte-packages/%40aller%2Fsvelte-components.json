@@ -1,0 +1,63 @@
+{
+	"package": {
+		"name": "@aller/svelte-components",
+		"scope": "aller",
+		"version": "1.5.16",
+		"description": "<div align=\"center\">    <h1>Svelte components</h1>  </div>",
+		"date": "2022-11-16T14:48:18.568Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40aller%2Fsvelte-components"
+		},
+		"publisher": {
+			"username": "konrad-j",
+			"email": "konrad.jorgensen@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mariusjn",
+				"email": "marius.nesset@medialaben.no"
+			},
+			{
+				"username": "lobunto",
+				"email": "marius.ibsen@gmail.com"
+			},
+			{
+				"username": "konrad-j",
+				"email": "konrad.jorgensen@gmail.com"
+			},
+			{
+				"username": "oyvigri",
+				"email": "grimstadoyvind@gmail.com"
+			},
+			{
+				"username": "ryaaoka",
+				"email": "natalia.bezvoziuk@medialaben.no"
+			},
+			{
+				"username": "goodleby",
+				"email": "goodleby@gmail.com"
+			},
+			{
+				"username": "jimoe",
+				"email": "jon3828@gmail.com"
+			},
+			{
+				"username": "vnorvik",
+				"email": "vnorvik@gmail.com"
+			},
+			{
+				"username": "kevinmidboe",
+				"email": "Kevin.Midboe@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24122920862684072,
+		"detail": {
+			"quality": 0.40646061931605937,
+			"popularity": 0.00749816047244644,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.448895e-7
+}

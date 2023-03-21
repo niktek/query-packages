@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@hoppr/inizio",
+		"scope": "hoppr",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-01-20T19:14:24.883Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40hoppr%2Finizio"
+		},
+		"publisher": {
+			"username": "hoppr",
+			"email": "dark.year9890@cianflone.co"
+		},
+		"maintainers": [
+			{
+				"username": "hoppr",
+				"email": "dark.year9890@cianflone.co"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22250587019876644,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0028058636418353947,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.0622045e-8
+}

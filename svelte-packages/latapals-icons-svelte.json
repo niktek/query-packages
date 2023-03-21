@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "latapals-icons-svelte",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "`latapals-icons-svelte` brings the beautiful Latapals icon set to Svelte, you get the best icons on the best framework.",
+		"date": "2023-01-26T21:56:49.504Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/latapals-icons-svelte"
+		},
+		"publisher": {
+			"username": "codelikecraze",
+			"email": "codelikecraze@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "codelikecraze",
+				"email": "codelikecraze@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21888670673329202,
+		"detail": {
+			"quality": 0.3388071751080497,
+			"popularity": 0.0030781948732352678,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 3.600196e-8
+}

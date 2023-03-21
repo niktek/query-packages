@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-calculator",
+		"scope": "unscoped",
+		"version": "1.0.9",
+		"description": "Svelte calculator with Animation and Sounds",
+		"keywords": [
+			"svelte",
+			"calculator",
+			"tailwind"
+		],
+		"date": "2021-07-19T07:42:50.091Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-calculator",
+			"homepage": "https://github.com/ArshdeepSahni/svelte-calculator",
+			"repository": "https://github.com/ArshdeepSahni/svelte-calculator",
+			"bugs": "https://github.com/ArshdeepSahni/svelte-calculator/issues"
+		},
+		"author": {
+			"name": "Arshdeep Singh",
+			"email": "arsh22sahni@gmail.com",
+			"username": "arshdeepsahni"
+		},
+		"publisher": {
+			"username": "arshdeepsahni",
+			"email": "arsh22sahni@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "arshdeepsahni",
+				"email": "arsh22sahni@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24001443260421507,
+		"detail": {
+			"quality": 0.5154496581509524,
+			"popularity": 0.0021247442848442376,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 1.9165837e-7
+}

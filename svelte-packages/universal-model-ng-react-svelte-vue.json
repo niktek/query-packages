@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "universal-model-ng-react-svelte-vue",
+		"scope": "unscoped",
+		"version": "0.3.3",
+		"description": "Universal model for Angular/React/Svelte/Vue",
+		"keywords": [
+			"Univeral Model",
+			"Vue",
+			"Angular",
+			"Svelte",
+			"React"
+		],
+		"date": "2020-02-18T09:33:04.008Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/universal-model-ng-react-svelte-vue",
+			"homepage": "https://github.com/universal-model/universal-model#readme",
+			"repository": "https://github.com/universal-model/universal-model",
+			"bugs": "https://github.com/universal-model/universal-model/issues"
+		},
+		"author": {
+			"name": "Petri Silen"
+		},
+		"publisher": {
+			"username": "pksilen",
+			"email": "petri.silen@silensoft.com"
+		},
+		"maintainers": [
+			{
+				"username": "pksilen",
+				"email": "petri.silen@silensoft.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1954421001566618,
+		"detail": {
+			"quality": 0.5447824422896195,
+			"popularity": 0.001707923805054072,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.0405672e-8
+}

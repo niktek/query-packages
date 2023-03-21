@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@watheia/dox.theme",
+		"scope": "watheia",
+		"version": "0.0.1",
+		"keywords": [
+			"watheia",
+			"micro",
+			"domain-specific",
+			"microcomponent",
+			"microfrontend",
+			"webcomponent",
+			"snowpack",
+			"svelte",
+			"preact"
+		],
+		"date": "2021-05-09T18:02:50.357Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40watheia%2Fdox.theme"
+		},
+		"author": {
+			"name": "Aaron R Miller",
+			"email": "amiller@watheia.org"
+		},
+		"publisher": {
+			"username": "waweb",
+			"email": "admin@watheia.org"
+		},
+		"maintainers": [
+			{
+				"username": "waweb",
+				"email": "admin@watheia.org"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21863534428399772,
+		"detail": {
+			"quality": 0.5829459869031378,
+			"popularity": 0.001168849454665771,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.48318104e-8
+}

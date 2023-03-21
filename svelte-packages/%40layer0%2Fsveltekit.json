@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@layer0/sveltekit",
+		"scope": "layer0",
+		"version": "4.19.8",
+		"description": "Deploy Sveltekit apps on Layer0. See [the docs](https://docs.layer0.co/guides/sveltekit) for more info.",
+		"date": "2023-02-06T14:07:59.986Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40layer0%2Fsveltekit"
+		},
+		"publisher": {
+			"username": "moovweb-admin",
+			"email": "ops@moovweb.com"
+		},
+		"maintainers": [
+			{
+				"username": "moovweb-admin",
+				"email": "ops@moovweb.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21529115648709865,
+		"detail": {
+			"quality": 0.31104106135152987,
+			"popularity": 0.015177632614208663,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.4223025e-8
+}

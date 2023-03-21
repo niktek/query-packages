@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@nick-mazuk/ui-svelte",
+		"scope": "nick-mazuk",
+		"version": "0.29.19",
+		"description": "A highly opinionated ui component library for Svelte.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-09-05T03:55:03.875Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nick-mazuk%2Fui-svelte",
+			"homepage": "https://github.com/Nick-Mazuk/ui-svelte#readme",
+			"repository": "https://github.com/Nick-Mazuk/ui-svelte",
+			"bugs": "https://github.com/Nick-Mazuk/ui-svelte/issues"
+		},
+		"publisher": {
+			"username": "nick-m",
+			"email": "npm@nickmazuk.com"
+		},
+		"maintainers": [
+			{
+				"username": "nick-m",
+				"email": "npm@nickmazuk.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.31455051103303616,
+		"detail": {
+			"quality": 0.6504386989440387,
+			"popularity": 0.007863527666165425,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000006751439
+}

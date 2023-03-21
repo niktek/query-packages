@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "svelte-rxjs-observer",
+		"scope": "unscoped",
+		"version": "0.3.0",
+		"description": "A svelte component that makes observing observables easier",
+		"keywords": [
+			"sveltejs",
+			"rxjs",
+			"reactive",
+			"ts",
+			"typescript",
+			"js",
+			"javascript"
+		],
+		"date": "2022-10-26T00:08:59.414Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-rxjs-observer",
+			"homepage": "https://www.github.com/AlexAegis/svelte-rxjs-observer#readme",
+			"repository": "https://github.com/AlexAegis/svelte-rxjs-observer",
+			"bugs": "https://www.github.com/AlexAegis/svelte-rxjs-observer/issues"
+		},
+		"author": {
+			"name": "AlexAegis",
+			"email": "alexaegis@gmail.com",
+			"url": "https://www.github.com/AlexAegis",
+			"username": "alexaegis"
+		},
+		"publisher": {
+			"username": "alexaegis",
+			"email": "alexaegis@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "alexaegis",
+				"email": "alexaegis@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3222306715382588,
+		"detail": {
+			"quality": 0.6807086922166825,
+			"popularity": 0.0039533631992101845,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 0.000008170292
+}

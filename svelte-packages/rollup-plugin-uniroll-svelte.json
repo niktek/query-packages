@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "rollup-plugin-uniroll-svelte",
+		"scope": "unscoped",
+		"version": "4.0.1-alpha.0",
+		"description": "``` $ npm install rollup-plugin-uniroll-svelte ```",
+		"date": "2021-05-13T10:58:51.679Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/rollup-plugin-uniroll-svelte"
+		},
+		"publisher": {
+			"username": "mizchi",
+			"email": "miz404@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mizchi",
+				"email": "miz404@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21729770558670536,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.03341159667590843,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 5.1888012e-8
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@inqling/svelte-icons",
+		"scope": "inqling",
+		"version": "3.1.0",
+		"description": "Combines <a href=\"https://heroicons.com\"><strong>Heroicons &rarr;</strong></a> & <a href=\"https://simpleicons.org/\"><strong>Simple Icons &rarr;</strong></a> as easy to use SVG components in your svelte project.",
+		"date": "2023-03-11T13:00:23.292Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40inqling%2Fsvelte-icons",
+			"homepage": "https://github.com/inqling/svelte-icons#readme",
+			"repository": "https://github.com/inqling/svelte-icons",
+			"bugs": "https://github.com/inqling/svelte-icons/issues"
+		},
+		"author": {
+			"name": "Ollie Taylor"
+		},
+		"publisher": {
+			"username": "olliejt",
+			"email": "ollie@inqling.studio"
+		},
+		"maintainers": [
+			{
+				"username": "olliejt",
+				"email": "ollie@inqling.studio"
+			}
+		]
+	},
+	"score": {
+		"final": 0.288834285230645,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.02944788821497475,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000001966493
+}

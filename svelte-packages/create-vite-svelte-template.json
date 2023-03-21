@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "create-vite-svelte-template",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Create a Svelte Template with ViteJS!",
+		"keywords": [
+			"Vite",
+			"Svelte",
+			"Typescript",
+			"SWC Jest",
+			"ESLint",
+			"Prettier",
+			"Husky",
+			"lint staged",
+			"MSW",
+			"StoryBook",
+			"Alias"
+		],
+		"date": "2023-02-05T15:22:57.742Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-vite-svelte-template",
+			"homepage": "https://github.com/jeus0630/create-vite-svelte-template.git#readme",
+			"repository": "https://github.com/jeus0630/create-vite-svelte-template"
+		},
+		"author": {
+			"name": "Zeus",
+			"email": "jeus0630@gmail.com",
+			"username": "jeus"
+		},
+		"publisher": {
+			"username": "jeus",
+			"email": "jeus0630@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jeus",
+				"email": "jeus0630@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24161993086863204,
+		"detail": {
+			"quality": 0.4108797777219616,
+			"popularity": 0.004826659672505514,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.5436854e-7
+}

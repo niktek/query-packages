@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "gb7sveltelib",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Test svelte design system",
+		"date": "2023-02-22T21:37:04.814Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/gb7sveltelib"
+		},
+		"author": {
+			"name": "gbarska"
+		},
+		"publisher": {
+			"username": "gbarska",
+			"email": "gbarska@yahoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "gbarska",
+				"email": "gbarska@yahoo.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2778993361611491,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.007376144142474419,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.1663e-7
+}

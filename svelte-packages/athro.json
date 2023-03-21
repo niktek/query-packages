@@ -1,0 +1,64 @@
+{
+	"package": {
+		"name": "athro",
+		"scope": "unscoped",
+		"version": "2.0.4",
+		"description": "A datastructures and algorithms library for TS/JS",
+		"keywords": [
+			"data structures",
+			"algorithms",
+			"stack",
+			"queue",
+			"linked list",
+			"doubly linked list",
+			"trees",
+			"binary search tree",
+			"bst",
+			"tree traversal",
+			"inorder",
+			"preorder",
+			"postorder",
+			"breadth first search",
+			"depth first search",
+			"searching",
+			"sorting",
+			"graphs",
+			"trees",
+			"react",
+			"vue",
+			"javascript",
+			"nodejs",
+			"angular",
+			"expressjs",
+			"svelte",
+			"bun",
+			"deno"
+		],
+		"date": "2023-03-16T11:01:23.613Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/athro"
+		},
+		"author": {
+			"name": "arneeshaima"
+		},
+		"publisher": {
+			"username": "arneeshaima",
+			"email": "arneeshaima@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "arneeshaima",
+				"email": "arneeshaima@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3654853364742104,
+		"detail": {
+			"quality": 0.8246648545117741,
+			"popularity": 0.00405489558289008,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000006845293
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "sveltefy",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Shopify GraphQl for svelte and svelte kit.",
+		"keywords": [
+			"Svelte",
+			"Shopify",
+			"GraphQl"
+		],
+		"date": "2023-01-26T23:16:30.059Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltefy"
+		},
+		"author": {
+			"name": "anthony809"
+		},
+		"publisher": {
+			"username": "anthony809",
+			"email": "anthonytoribio809@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anthony809",
+				"email": "anthonytoribio809@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23956454585465578,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.004732347651970152,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 1.2213285e-7
+}

@@ -1,0 +1,72 @@
+{
+	"package": {
+		"name": "@web3-onboard/taho",
+		"scope": "web3-onboard",
+		"version": "2.0.0",
+		"description": "Taho SDK wallet module for connecting to Web3-Onboard. Web3-Onboard makes it simple to connect Ethereum hardware and software wallets to your dapp. Features standardised spec compliant web3 providers for all supported wallets, framework agnostic modern ja",
+		"keywords": [
+			"Ethereum",
+			"Web3",
+			"EVM",
+			"dapp",
+			"Multichain",
+			"Wallet",
+			"Transaction",
+			"Provider",
+			"Hardware Wallet",
+			"Notifications",
+			"React",
+			"Svelte",
+			"Vue",
+			"Next",
+			"Nuxt",
+			"MetaMask",
+			"Coinbase",
+			"WalletConnect",
+			"Ledger",
+			"Trezor",
+			"Connect Wallet",
+			"Ethereum Hooks",
+			"Blocknative",
+			"Mempool",
+			"pending",
+			"confirmed",
+			"Injected Wallet",
+			"Crypto",
+			"Crypto Wallet",
+			"Tally Ho",
+			"Taho",
+			"Taho Wallet"
+		],
+		"date": "2023-03-14T20:30:37.111Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40web3-onboard%2Ftaho",
+			"homepage": "https://onboard.blocknative.com",
+			"repository": "https://github.com/blocknative/web3-onboard",
+			"bugs": "https://github.com/blocknative/web3-onboard/issues"
+		},
+		"publisher": {
+			"username": "cmeisl",
+			"email": "chris@blocknative.com"
+		},
+		"maintainers": [
+			{
+				"username": "aaronbarnard1",
+				"email": "aaron@blocknative.com"
+			},
+			{
+				"username": "cmeisl",
+				"email": "chris@blocknative.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2771356515130596,
+		"detail": {
+			"quality": 0.5272075030985048,
+			"popularity": 0.0065906683338328755,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.5371033e-7
+}

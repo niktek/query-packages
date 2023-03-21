@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-inversify",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "This is a small library that wraps the container from Inversify using Svelte's context API. It is based on inversify-react which has the same concept but for React.",
+		"keywords": [
+			"svelte",
+			"inversify"
+		],
+		"date": "2023-01-21T19:49:03.014Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-inversify",
+			"homepage": "https://github.com/KaSSaaaa/svelte-inversify#readme",
+			"repository": "https://github.com/KaSSaaaa/svelte-inversify",
+			"bugs": "https://github.com/KaSSaaaa/svelte-inversify/issues"
+		},
+		"publisher": {
+			"username": "kassa_",
+			"email": "pierre.jacobs852@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kassa_",
+				"email": "pierre.jacobs852@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2125972230037797,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.005104273146895794,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 3.1817606e-8
+}

@@ -1,0 +1,30 @@
+{
+	"package": {
+		"name": "svelte-to-hfc",
+		"scope": "unscoped",
+		"version": "1.2.1",
+		"date": "2023-02-24T09:18:30.388Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-to-hfc"
+		},
+		"publisher": {
+			"username": "terryfei",
+			"email": "i@terryfei.com"
+		},
+		"maintainers": [
+			{
+				"username": "terryfei",
+				"email": "i@terryfei.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24173882616067732,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.0216710404031142,
+			"maintenance": 0.3333312414753535
+		}
+	},
+	"searchScore": 1.6046478e-7
+}

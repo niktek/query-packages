@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "module1_abhilasha",
+		"scope": "unscoped",
+		"version": "1.0.8",
+		"description": "This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template-webpack.",
+		"date": "2022-06-15T10:31:20.347Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/module1_abhilasha"
+		},
+		"publisher": {
+			"username": "abhilasha94",
+			"email": "abhilasha.pati@dieffenbacher.de"
+		},
+		"maintainers": [
+			{
+				"username": "abhilasha94",
+				"email": "abhilasha.pati@dieffenbacher.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24001830861536597,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.0021107500631218474,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 2.239674e-8
+}

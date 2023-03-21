@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-jspanel4",
+		"scope": "unscoped",
+		"version": "0.1.3",
+		"description": "Svelte component for jsPanel4",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-09-17T13:16:15.195Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-jspanel4",
+			"homepage": "https://ngyewch.github.io/svelte-jspanel4/",
+			"repository": "https://github.com/ngyewch/svelte-jspanel4",
+			"bugs": "https://github.com/ngyewch/svelte-jspanel4/issues"
+		},
+		"publisher": {
+			"username": "ngyewch",
+			"email": "ngyewch@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ngyewch",
+				"email": "ngyewch@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1882953018789717,
+		"detail": {
+			"quality": 0.520646441024333,
+			"popularity": 0.0019765012390421327,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.600127e-9
+}

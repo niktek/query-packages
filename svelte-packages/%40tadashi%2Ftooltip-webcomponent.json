@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@tadashi/tooltip-webcomponent",
+		"scope": "tadashi",
+		"version": "0.3.0",
+		"description": "Svelte component",
+		"keywords": [
+			"svelte",
+			"button",
+			"tooltip"
+		],
+		"date": "2023-01-23T23:00:27.923Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tadashi%2Ftooltip-webcomponent",
+			"homepage": "https://github.com/lagden/svelte-tooltip-webcomponent#readme",
+			"bugs": "https://github.com/lagden/svelte-tooltip-webcomponent/issues"
+		},
+		"author": {
+			"name": "Thiago Lagden"
+		},
+		"publisher": {
+			"username": "lagden",
+			"email": "lagden@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lagden",
+				"email": "lagden@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.27510858460395443,
+		"detail": {
+			"quality": 0.5091677549204802,
+			"popularity": 0.022075204336296988,
+			"maintenance": 0.32751981888601844
+		}
+	},
+	"searchScore": 6.2953586e-7
+}

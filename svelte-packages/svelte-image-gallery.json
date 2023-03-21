@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-image-gallery",
+		"scope": "unscoped",
+		"version": "1.7.0",
+		"description": "A Masonry-Like Image Container for Svelte",
+		"date": "2022-08-21T19:30:59.396Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-image-gallery",
+			"homepage": "https://github.com/berkinakkaya/svelte-image-gallery#readme",
+			"repository": "https://github.com/berkinakkaya/svelte-image-gallery",
+			"bugs": "https://github.com/berkinakkaya/svelte-image-gallery/issues"
+		},
+		"author": {
+			"name": "Berkin AKKAYA",
+			"email": "berkin_akkaya@hotmail.com",
+			"username": "berkinakkaya"
+		},
+		"publisher": {
+			"username": "berkinakkaya",
+			"email": "berkin_akkaya@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "berkinakkaya",
+				"email": "berkin_akkaya@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24289981441352315,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.006556175600287996,
+			"maintenance": 0.25051357763796994
+		}
+	},
+	"searchScore": 1.7248065e-7
+}

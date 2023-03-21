@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@crikey/stores-svelte",
+		"scope": "crikey",
+		"version": "0.0.14",
+		"description": "Provide svelte compatible implementations of `readable`, `writable`, `derived`  and `get`.",
+		"date": "2023-02-17T08:03:39.659Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40crikey%2Fstores-svelte"
+		},
+		"publisher": {
+			"username": "whenderson-crikey",
+			"email": "npmjs.crikey@to.maily.dev"
+		},
+		"maintainers": [
+			{
+				"username": "whenderson-crikey",
+				"email": "npmjs.crikey@to.maily.dev"
+			},
+			{
+				"username": "whenderson",
+				"email": "crikey@to.maily.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24519569332387553,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0047540169827782934,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.7489909e-7
+}

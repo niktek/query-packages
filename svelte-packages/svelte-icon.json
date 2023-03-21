@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-icon",
+		"scope": "unscoped",
+		"version": "2.0.0",
+		"description": "[![npm version](https://badge.fury.io/js/svelte-icon.svg)](https://badge.fury.io/js/svelte-icon)",
+		"date": "2023-02-02T15:47:53.832Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-icon"
+		},
+		"publisher": {
+			"username": "cristovao-trevisan",
+			"email": "cristovao.trevisan@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cristovao-trevisan",
+				"email": "cristovao.trevisan@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24429357623791598,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.008023917169462266,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.944852e-7
+}

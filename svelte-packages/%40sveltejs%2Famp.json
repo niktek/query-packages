@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@sveltejs/amp",
+		"scope": "sveltejs",
+		"version": "1.0.2",
+		"date": "2023-01-15T07:00:55.682Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltejs%2Famp",
+			"homepage": "https://kit.svelte.dev",
+			"repository": "https://github.com/sveltejs/kit",
+			"bugs": "https://github.com/sveltejs/kit/issues"
+		},
+		"publisher": {
+			"username": "svelte-admin",
+			"email": "richard.a.harris+svelte@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			},
+			{
+				"username": "svelte-admin",
+				"email": "richard.a.harris+svelte@gmail.com"
+			},
+			{
+				"username": "conduitry",
+				"email": "npm@chor.date"
+			},
+			{
+				"username": "dominik_g",
+				"email": "dominik.goepel@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2788607490432257,
+		"detail": {
+			"quality": 0.5272075030985048,
+			"popularity": 0.011519888986968787,
+			"maintenance": 0.33333296276638635
+		}
+	},
+	"searchScore": 4.630412e-7
+}

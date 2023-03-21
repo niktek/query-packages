@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@ally-ui/svelte",
+		"scope": "ally-ui",
+		"version": "0.0.22",
+		"description": "Svelte utilities for Ally UI",
+		"date": "2022-10-03T15:03:53.530Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ally-ui%2Fsvelte",
+			"homepage": "https://github.com/ally-ui/ally-ui#readme",
+			"repository": "https://github.com/ally-ui/ally-ui",
+			"bugs": "https://github.com/ally-ui/ally-ui/issues"
+		},
+		"author": {
+			"name": "Bryan Lee"
+		},
+		"publisher": {
+			"username": "bryanmylee",
+			"email": "bryanmylee@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bryanmylee",
+				"email": "bryanmylee@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2212421189898505,
+		"detail": {
+			"quality": 0.3225776017021793,
+			"popularity": 0.022291919464371566,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.336932e-8
+}

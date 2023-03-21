@@ -1,0 +1,82 @@
+{
+	"package": {
+		"name": "@egjs/svelte-imready",
+		"scope": "egjs",
+		"version": "1.2.0",
+		"description": "This svelte module is used to wait for the image or video to be ready.",
+		"keywords": [
+			"svelte",
+			"svelte-hook",
+			"svelte-hooks",
+			"svelte-use",
+			"use-imready",
+			"lazyloading",
+			"ready",
+			"imready",
+			"image",
+			"video",
+			"egjs"
+		],
+		"date": "2023-02-24T03:41:05.704Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40egjs%2Fsvelte-imready",
+			"homepage": "https://github.com/naver/egjs-imready",
+			"repository": "https://github.com/naver/egjs-imready",
+			"bugs": "https://github.com/naver/egjs-imready/issues"
+		},
+		"author": {
+			"name": "NAVER Corp."
+		},
+		"publisher": {
+			"username": "braixen",
+			"email": "malangfox@naver.com"
+		},
+		"maintainers": [
+			{
+				"username": "braixen",
+				"email": "malangfox@naver.com"
+			},
+			{
+				"username": "ajaxpf",
+				"email": "ajaxpf@gmail.com"
+			},
+			{
+				"username": "jongmoon",
+				"email": "jongmoon.yoon@navercorp.com"
+			},
+			{
+				"username": "sculove",
+				"email": "sculove@gmail.com"
+			},
+			{
+				"username": "happyhj",
+				"email": "heejae.kim@navercorp.com"
+			},
+			{
+				"username": "mixed",
+				"email": "i.nevalose@gmail.com"
+			},
+			{
+				"username": "netil",
+				"email": "alberto.park@gmail.com"
+			},
+			{
+				"username": "younkue",
+				"email": "daybrush@gmail.com"
+			},
+			{
+				"username": "woodneck",
+				"email": "saiyu915@naver.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28711925148824907,
+		"detail": {
+			"quality": 0.5844315883939758,
+			"popularity": 0.01912717279510479,
+			"maintenance": 0.3002721842621991
+		}
+	},
+	"searchScore": 0.000002236536
+}

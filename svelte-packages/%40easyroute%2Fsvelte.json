@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@easyroute/svelte",
+		"scope": "easyroute",
+		"version": "3.2.2",
+		"description": "Config-based router for Svelte in style of Vue Router with SSR support",
+		"keywords": [
+			"svelte",
+			"router",
+			"route",
+			"framework",
+			"javascript",
+			"ssr"
+		],
+		"date": "2021-11-20T08:18:26.146Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40easyroute%2Fsvelte",
+			"homepage": "https://easyroute.lyoha.info",
+			"repository": "https://github.com/easyroute-router/easyroute",
+			"bugs": "https://github.com/easyroute-router/easyroute/issues"
+		},
+		"author": {
+			"name": "Alexey Solovyov",
+			"email": "plotinka@lyoha.info",
+			"username": "lyohaplotinka"
+		},
+		"publisher": {
+			"username": "lyohaplotinka",
+			"email": "plotinka@lyoha.info"
+		},
+		"maintainers": [
+			{
+				"username": "lyohaplotinka",
+				"email": "plotinka@lyoha.info"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2689069811825669,
+		"detail": {
+			"quality": 0.621149076937051,
+			"popularity": 0.02548351250343129,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 0.0000010986316
+}

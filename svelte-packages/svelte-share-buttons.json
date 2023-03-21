@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-share-buttons",
+		"scope": "unscoped",
+		"version": "0.1.4",
+		"description": "Shows Web API button if available, if not then shows fallback buttons specified in `<slot/>` for `<ShareButtons/>`.",
+		"date": "2022-11-01T14:09:34.066Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-share-buttons"
+		},
+		"author": {
+			"name": "Lee de Verteuil",
+			"email": "deverti@protonmail.com",
+			"username": "deverti"
+		},
+		"publisher": {
+			"username": "deverti",
+			"email": "deverti@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "deverti",
+				"email": "deverti@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2226749631480668,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0019541270447344357,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 4.008847e-8
+}

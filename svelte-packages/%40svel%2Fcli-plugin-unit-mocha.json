@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@svel/cli-plugin-unit-mocha",
+		"scope": "svel",
+		"version": "0.5.0",
+		"description": "mocha unit testing plugin for svelte-cli",
+		"keywords": [
+			"svelte",
+			"svelte-cli",
+			"mocha",
+			"webpack",
+			"unit-testing"
+		],
+		"date": "2019-05-30T02:51:29.376Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svel%2Fcli-plugin-unit-mocha",
+			"homepage": "https://github.com/wmzy/svelte-cli/tree/dev/packages/@svel/cli-plugin-unit-mocha#readme",
+			"repository": "https://github.com/wmzy/svelte-cli",
+			"bugs": "https://github.com/wmzy/svelte-cli/issues"
+		},
+		"author": {
+			"name": "Evan You"
+		},
+		"publisher": {
+			"username": "wmzy",
+			"email": "1256573276@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "wmzy",
+				"email": "1256573276@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22008905347686913,
+		"detail": {
+			"quality": 0.6074009009759982,
+			"popularity": 0.01845482584589333,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.8243208e-8
+}

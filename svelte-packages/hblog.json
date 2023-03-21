@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "hblog",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-12-14T09:10:08.648Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/hblog"
+		},
+		"publisher": {
+			"username": "huansock",
+			"email": "huan.sock@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "huansock",
+				"email": "huan.sock@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22260635518577276,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0030929636047105228,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.0721386e-8
+}

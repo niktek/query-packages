@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-switch-case",
+		"scope": "unscoped",
+		"version": "2.0.0",
+		"description": "Switch case syntax for Svelte",
+		"date": "2022-08-31T22:51:03.399Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-switch-case"
+		},
+		"publisher": {
+			"username": "l-portet",
+			"email": "lucasportet@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "l-portet",
+				"email": "lucasportet@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24870180666795674,
+		"detail": {
+			"quality": 0.4412719742964627,
+			"popularity": 0.00531201956480613,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 2.1993401e-7
+}

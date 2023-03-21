@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-web3",
+		"scope": "unscoped",
+		"version": "4.0.2",
+		"description": "web3.js as a collection of stores for Svelte, Sapper or SvelteKit.",
+		"keywords": [
+			"sveltekit",
+			"svelte",
+			"sapper",
+			"ethereum",
+			"web3",
+			"store"
+		],
+		"date": "2023-03-09T07:25:03.752Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-web3",
+			"homepage": "https://github.com/clbrge/svelte-web3#readme",
+			"repository": "https://github.com/clbrge/svelte-web3",
+			"bugs": "https://github.com/clbrge/svelte-web3/issues"
+		},
+		"author": {
+			"name": "Christophe Le Bars",
+			"email": "clb@toort.net"
+		},
+		"publisher": {
+			"username": "clbrge",
+			"email": "clb@rouge.network"
+		},
+		"maintainers": [
+			{
+				"username": "clbrge",
+				"email": "clb@rouge.network"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2845808117814167,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.03244820865095245,
+			"maintenance": 0.3333332496196853
+		}
+	},
+	"searchScore": 0.0000022762235
+}

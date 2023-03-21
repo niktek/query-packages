@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@nikolai-cc/test",
+		"scope": "nikolai-cc",
+		"version": "0.0.8",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-07-16T10:27:55.218Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nikolai-cc%2Ftest"
+		},
+		"publisher": {
+			"username": "nikolai-cc",
+			"email": "npm@nikolai.cc"
+		},
+		"maintainers": [
+			{
+				"username": "nikolai-cc",
+				"email": "npm@nikolai.cc"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22115447373579794,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.002317168056415612,
+			"maintenance": 0.32853380853478065
+		}
+	},
+	"searchScore": 9.750107e-9
+}

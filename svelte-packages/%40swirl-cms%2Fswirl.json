@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@swirl-cms/swirl",
+		"scope": "swirl-cms",
+		"version": "1.0.1-alpha",
+		"description": "_Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing._",
+		"date": "2022-06-03T14:21:58.548Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40swirl-cms%2Fswirl"
+		},
+		"publisher": {
+			"username": "epicbutterz",
+			"email": "ewbutterfield@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "epicbutterz",
+				"email": "ewbutterfield@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2478426748609763,
+		"detail": {
+			"quality": 0.487046316308575,
+			"popularity": 0.018664503940889834,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 1.5290414e-8
+}

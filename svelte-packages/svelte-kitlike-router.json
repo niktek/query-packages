@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "svelte-kitlike-router",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"date": "2022-01-07T23:42:27.600Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-kitlike-router"
+		},
+		"publisher": {
+			"username": "icalvin102",
+			"email": "calvin@icalvin.de"
+		},
+		"maintainers": [
+			{
+				"username": "icalvin102",
+				"email": "calvin@icalvin.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18744126753596915,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.002268738766514234,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 4.2172084e-9
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-react-player",
+		"scope": "unscoped",
+		"version": "1.4.1",
+		"description": "Svelte wrapper for react-player",
+		"keywords": [
+			"svelte",
+			"react-player",
+			"video",
+			"embed"
+		],
+		"date": "2022-10-05T12:18:58.861Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-react-player",
+			"homepage": "https://github.com/Perspective-Software/svelte-react-player"
+		},
+		"author": {
+			"name": "Christian Korndoerfer"
+		},
+		"publisher": {
+			"username": "alexdonets",
+			"email": "adonets1995@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "schnubor",
+				"email": "info@chko.org"
+			},
+			{
+				"username": "alexdonets",
+				"email": "adonets1995@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.282516227603036,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.021490927802183007,
+			"maintenance": 0.332409668079016
+		}
+	},
+	"searchScore": 0.0000017510552
+}

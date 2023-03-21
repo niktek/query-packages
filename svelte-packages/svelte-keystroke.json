@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-keystroke",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "A key-stroke observer for Svelte, focussed on simplicity",
+		"keywords": [
+			"keyboard",
+			"keystrokes",
+			"keydown",
+			"keyup",
+			"simple",
+			"svelte",
+			"svelte component",
+			"combo",
+			"shortcuts",
+			"escape",
+			"meta",
+			"enter"
+		],
+		"date": "2021-08-05T23:48:52.603Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-keystroke"
+		},
+		"author": {
+			"name": "Elbong Gearny",
+			"url": "https://github.com/navelgazer"
+		},
+		"publisher": {
+			"username": "nvlgzr",
+			"email": "elbong@navelgazer.club"
+		},
+		"maintainers": [
+			{
+				"username": "nvlgzr",
+				"email": "elbong@navelgazer.club"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2185795882022532,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0027404669913322307,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 5.5372745e-8
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "sveldaisy",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Welcome to Sveldaisy! This is a library of high-quality, easy-to-use components for building web applications with Svelte. Based on the popular DaisyUI design system, our components are designed to be intuitive, visually appealing, and responsive. ## Requ",
+		"date": "2022-12-31T01:17:34.088Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveldaisy"
+		},
+		"publisher": {
+			"username": "mergin",
+			"email": "osman.coskun95@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mergin",
+				"email": "osman.coskun95@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2234792609764872,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.004252120840221286,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 5.69133e-9
+}

@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "roots-router",
+		"scope": "unscoped",
+		"version": "0.3.3",
+		"description": "A client-side router for Svelte",
+		"keywords": [
+			"router",
+			"svelte",
+			"spa",
+			"front-end",
+			"single page application"
+		],
+		"date": "2021-11-29T23:58:12.565Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/roots-router",
+			"homepage": "https://github.com/PierBover/roots-svelte-router#readme",
+			"repository": "https://github.com/PierBover/roots-svelte-router",
+			"bugs": "https://github.com/PierBover/roots-svelte-router/issues"
+		},
+		"author": {
+			"name": "Pier Bover"
+		},
+		"publisher": {
+			"username": "pier25",
+			"email": "pierbover11@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pier25",
+				"email": "pierbover11@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20618617232330336,
+		"detail": {
+			"quality": 0.4397711452609957,
+			"popularity": 0.0017480000564400972,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 8.97285e-9
+}

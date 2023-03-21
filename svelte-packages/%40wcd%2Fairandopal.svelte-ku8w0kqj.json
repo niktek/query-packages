@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@wcd/airandopal.svelte-ku8w0kqj",
+		"scope": "wcd",
+		"version": "1.0.0",
+		"date": "2021-10-02T18:09:40.119Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40wcd%2Fairandopal.svelte-ku8w0kqj",
+			"homepage": "https://webcomponents.dev/edit/yoUyDKogWb3VV6qSQSFf/"
+		},
+		"author": {
+			"name": "airandopal"
+		},
+		"publisher": {
+			"username": "_divriots_",
+			"email": "admin+npm@divriots.com"
+		},
+		"maintainers": [
+			{
+				"username": "gluck",
+				"email": "francois.valdy@gmail.com"
+			},
+			{
+				"username": "gqio",
+				"email": "quinio.gregory@gmail.com"
+			},
+			{
+				"username": "georges-gomes",
+				"email": "georges.gomes@gmail.com"
+			},
+			{
+				"username": "_wcd_",
+				"email": "admin@divriots.com"
+			},
+			{
+				"username": "_divriots_",
+				"email": "admin+npm@divriots.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19984266942408532,
+		"detail": {
+			"quality": 0.44026696624568534,
+			"popularity": 0.022882583001154463,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 5.8160747e-9
+}

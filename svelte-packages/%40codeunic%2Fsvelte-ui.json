@@ -1,0 +1,32 @@
+{
+	"package": {
+		"name": "@codeunic/svelte-ui",
+		"scope": "codeunic",
+		"version": "1.12.4",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-09-02T11:32:54.122Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40codeunic%2Fsvelte-ui",
+			"homepage": "http://softlightwebinfo.github.io/svelte-ui"
+		},
+		"publisher": {
+			"username": "codeunic",
+			"email": "softlightwebinfo@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "codeunic",
+				"email": "softlightwebinfo@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24002114816590964,
+		"detail": {
+			"quality": 0.3854522111301822,
+			"popularity": 0.022053766171966693,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.600067e-7
+}

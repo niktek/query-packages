@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@sveltevk/vksui",
+		"scope": "sveltevk",
+		"version": "0.0.5",
+		"description": "VKSUI library",
+		"keywords": [
+			"vk",
+			"components",
+			"svelte"
+		],
+		"date": "2022-05-04T21:36:55.991Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltevk%2Fvksui",
+			"homepage": "https://sveltevk.github.io/VKSUI",
+			"repository": "https://github.com/sveltevk/VKSUI",
+			"bugs": "https://github.com/sveltevk/VKSUI/issues"
+		},
+		"author": {
+			"name": "Daniil Suvorov",
+			"url": "https://github.com/SevereCloud"
+		},
+		"publisher": {
+			"username": "severecloud",
+			"email": "severecloud@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "severecloud",
+				"email": "severecloud@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26477829673614195,
+		"detail": {
+			"quality": 0.508098520763788,
+			"popularity": 0.0016661692551382154,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 3.9366367e-7
+}

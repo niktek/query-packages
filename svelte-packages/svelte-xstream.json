@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-xstream",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Utilities for working with xstream in svelte components",
+		"keywords": [
+			"svelte",
+			"xstream"
+		],
+		"date": "2020-10-11T18:45:56.485Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-xstream"
+		},
+		"author": {
+			"name": "adrianmroz@gmail.com"
+		},
+		"publisher": {
+			"username": "adrianmroz",
+			"email": "adrianmroz@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "adrianmroz",
+				"email": "adrianmroz@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22441371736824772,
+		"detail": {
+			"quality": 0.6419406966976974,
+			"popularity": 0.0012054692026613517,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.9970676e-8
+}

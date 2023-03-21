@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@sveltejs/adapter-node",
+		"scope": "sveltejs",
+		"version": "1.2.3",
+		"description": "[Adapter](https://kit.svelte.dev/docs/adapters) for SvelteKit apps that generates a standalone Node server.",
+		"date": "2023-03-16T18:53:38.115Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltejs%2Fadapter-node",
+			"homepage": "https://kit.svelte.dev",
+			"repository": "https://github.com/sveltejs/kit",
+			"bugs": "https://github.com/sveltejs/kit/issues"
+		},
+		"publisher": {
+			"username": "svelte-admin",
+			"email": "richard.a.harris+svelte@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			},
+			{
+				"username": "svelte-admin",
+				"email": "richard.a.harris+svelte@gmail.com"
+			},
+			{
+				"username": "conduitry",
+				"email": "npm@chor.date"
+			},
+			{
+				"username": "dominik_g",
+				"email": "dominik.goepel@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3033874117420049,
+		"detail": {
+			"quality": 0.4893894636575902,
+			"popularity": 0.11401115993731767,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000003065318
+}

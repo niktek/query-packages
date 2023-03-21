@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-loading-bar",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "A Svelte component for showing a loading bar.",
+		"date": "2023-03-03T18:41:53.917Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-loading-bar",
+			"homepage": "https://github.com/babakfp/svelte-loading-bar#readme",
+			"repository": "https://github.com/babakfp/svelte-loading-bar",
+			"bugs": "https://github.com/babakfp/svelte-loading-bar/issues"
+		},
+		"publisher": {
+			"username": "babakfp",
+			"email": "babak.bxf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "babakfp",
+				"email": "babak.bxf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2532740083921785,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.005183181636913297,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.842254e-7
+}

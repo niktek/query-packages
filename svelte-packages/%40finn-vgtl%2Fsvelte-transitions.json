@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@finn-vgtl/svelte-transitions",
+		"scope": "finn-vgtl",
+		"version": "1.6.1",
+		"description": "![Test and Release](https://github.com/finn-vgtl/svelte-transitions/actions/workflows/main.yml/badge.svg) [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) ![NPM Version](h",
+		"keywords": [
+			"svelte",
+			"transition",
+			"collection",
+			"css"
+		],
+		"date": "2021-11-04T11:09:09.538Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40finn-vgtl%2Fsvelte-transitions",
+			"homepage": "https://github.com/finn-vgtl/svelte-transitions#readme",
+			"repository": "https://github.com/finn-vgtl/svelte-transitions",
+			"bugs": "https://github.com/finn-vgtl/svelte-transitions/issues"
+		},
+		"author": {
+			"name": "Finn Voigtländer",
+			"email": "finn.voigtlaender@googlemail.com",
+			"username": "finn-vgtl"
+		},
+		"publisher": {
+			"username": "finn-vgtl",
+			"email": "finn.voigtlaender@googlemail.com"
+		},
+		"maintainers": [
+			{
+				"username": "finn-vgtl",
+				"email": "finn.voigtlaender@googlemail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24213890705887878,
+		"detail": {
+			"quality": 0.5328975035838066,
+			"popularity": 0.02464750645281766,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 2.2213057e-7
+}

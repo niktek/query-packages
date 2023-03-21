@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "eazy-web-components",
+		"scope": "unscoped",
+		"version": "0.2.53",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-03-20T20:16:30.579Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/eazy-web-components"
+		},
+		"publisher": {
+			"username": "voolt",
+			"email": "roberto@bakup.com"
+		},
+		"maintainers": [
+			{
+				"username": "voolt",
+				"email": "roberto@bakup.com"
+			},
+			{
+				"username": "alina.pchelnikova",
+				"email": "alina.pchelnikova.jsn@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21980322260874977,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.025682794542746683,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.1432618e-8
+}

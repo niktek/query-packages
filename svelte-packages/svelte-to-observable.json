@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-to-observable",
+		"scope": "unscoped",
+		"version": "0.0.9",
+		"description": "Simple function to transform your Svelte Store into Observable",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"rxjs"
+		],
+		"date": "2023-01-07T15:06:22.597Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-to-observable",
+			"homepage": "https://github.com/Tommertom/svelte-to-observable",
+			"repository": "https://github.com/Tommertom/svelte-to-observable",
+			"bugs": "https://github.com/Tommertom/svelte-to-observable/issues"
+		},
+		"publisher": {
+			"username": "tommertom",
+			"email": "tom.gruintjes@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tommertom",
+				"email": "tom.gruintjes@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21347424872511614,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.007600012018079179,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.4185977e-8
+}

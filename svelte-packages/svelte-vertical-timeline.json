@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-vertical-timeline",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "![image](https://user-images.githubusercontent.com/32632542/161654928-d2d16ca2-ace5-48b7-bef4-e58d7e09109e.png)",
+		"keywords": [
+			"timeline",
+			"vertical-timeline",
+			"svelte-kit",
+			"svelte"
+		],
+		"date": "2023-01-29T00:34:00.408Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-vertical-timeline",
+			"homepage": "https://github.com/K-Sato1995/svelte-vertical-timeline#readme",
+			"repository": "https://github.com/K-Sato1995/svelte-vertical-timeline",
+			"bugs": "https://github.com/K-Sato1995/svelte-vertical-timeline/issues"
+		},
+		"author": {
+			"name": "K-Sato1995"
+		},
+		"publisher": {
+			"username": "sato0130",
+			"email": "satokatsuki0130@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sato0130",
+				"email": "satokatsuki0130@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.36403162876158535,
+		"detail": {
+			"quality": 0.8126730793631625,
+			"popularity": 0.012628291590590143,
+			"maintenance": 0.33088515113122874
+		}
+	},
+	"searchScore": 0.000048995975
+}

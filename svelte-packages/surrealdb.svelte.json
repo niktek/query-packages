@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "surrealdb.svelte",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"date": "2022-09-21T01:44:57.029Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/surrealdb.svelte"
+		},
+		"author": {
+			"name": "Tobie Morgan Hitchcock",
+			"url": "http://surrealdb.com/"
+		},
+		"publisher": {
+			"username": "tobiemh",
+			"email": "tobie@abcum.com"
+		},
+		"maintainers": [
+			{
+				"username": "tobiemh",
+				"email": "tobie@abcum.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2063746953196234,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.0013560514793417007,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 6.1572365e-9
+}

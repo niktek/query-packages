@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "svelte-scenejs",
+		"scope": "unscoped",
+		"version": "1.0.0-beta.8",
+		"description": "A React Component that create JavaScript & CSS timeline-based animation with Scene.js.",
+		"keywords": [
+			"svelte",
+			"reactive",
+			"use",
+			"scene",
+			"scene.js",
+			"scenejs",
+			"keyframes",
+			"timeline",
+			"animate",
+			"animation",
+			"css",
+			"requestAnimationFrame",
+			"motion"
+		],
+		"date": "2023-01-03T18:52:20.125Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-scenejs",
+			"homepage": "https://github.com/daybrush/scenejs",
+			"bugs": "https://github.com/daybrush/scenejs/issues"
+		},
+		"author": {
+			"name": "Daybrush"
+		},
+		"publisher": {
+			"username": "younkue",
+			"email": "daybrush@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "younkue",
+				"email": "daybrush@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26905532239662666,
+		"detail": {
+			"quality": 0.501194018059998,
+			"popularity": 0.005801286605601731,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.342394e-7
+}

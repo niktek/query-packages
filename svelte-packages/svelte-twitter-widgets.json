@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-twitter-widgets",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Svelte components for the official twitter widgets.",
+		"keywords": [
+			"svelte",
+			"twitter"
+		],
+		"date": "2017-09-25T15:43:59.638Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-twitter-widgets"
+		},
+		"author": {
+			"name": "Jeroen Coussement"
+		},
+		"publisher": {
+			"username": "coussej",
+			"email": "info@factry.io"
+		},
+		"maintainers": [
+			{
+				"username": "coussej",
+				"email": "info@factry.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16752246285060857,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0037704016000266,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.6112424e-9
+}

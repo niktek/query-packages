@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@material-svelte/svelte-preprocessor",
+		"scope": "material-svelte",
+		"version": "1.0.1",
+		"date": "2021-05-20T07:53:29.894Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40material-svelte%2Fsvelte-preprocessor",
+			"homepage": "https://material-svelte.dev",
+			"repository": "https://github.com/material-svelte/material-svelte",
+			"bugs": "https://github.com/material-svelte/material-svelte/issues"
+		},
+		"publisher": {
+			"username": "material-svelte-bot",
+			"email": "bot@material-svelte.dev"
+		},
+		"maintainers": [
+			{
+				"username": "betaboon",
+				"email": "betaboon@0x80.ninja"
+			},
+			{
+				"username": "material-svelte-bot",
+				"email": "bot@material-svelte.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20021838065059136,
+		"detail": {
+			"quality": 0.5023463566878152,
+			"popularity": 0.0013375093737225834,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.3421995e-8
+}

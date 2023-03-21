@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "immer-loves-svelte",
+		"scope": "unscoped",
+		"version": "2.2.4",
+		"description": "An easy to use lovechild between svelte stores and immerjs",
+		"keywords": [
+			"svelte",
+			"immer",
+			"immutable",
+			"html",
+			"store"
+		],
+		"date": "2022-11-14T09:58:56.200Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/immer-loves-svelte",
+			"homepage": "https://github.com/bradphelan/immer.loves.svelte#readme",
+			"repository": "https://github.com/bradphelan/immer.loves.svelte",
+			"bugs": "https://github.com/bradphelan/immer.loves.svelte/issues"
+		},
+		"publisher": {
+			"username": "bradphelan",
+			"email": "bradphelan@xtargets.com"
+		},
+		"maintainers": [
+			{
+				"username": "bradphelan",
+				"email": "bradphelan@xtargets.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3895073064632096,
+		"detail": {
+			"quality": 0.8999999999999999,
+			"popularity": 0.008467926044998521,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 0.0001255871
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@samhren/svelte-dropdown",
+		"scope": "samhren",
+		"version": "0.0.3",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-07-05T20:27:49.800Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40samhren%2Fsvelte-dropdown"
+		},
+		"publisher": {
+			"username": "samhren",
+			"email": "samaldenhren@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "samhren",
+				"email": "samaldenhren@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20950915321432817,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0016225565897266057,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 2.0323201e-8
+}

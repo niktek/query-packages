@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "oc-svelte-route",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "<div align=\"center\">   <img src='https://github.com/southorange1228/oc-svelte-route/blob/master/public/orange.svg' width='200px' height='200px'> </div>",
+		"date": "2022-05-05T03:44:02.975Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/oc-svelte-route"
+		},
+		"publisher": {
+			"username": "southorange1228",
+			"email": "southorange1228@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "southorange1228",
+				"email": "southorange1228@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19363805408340728,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.0010901173098212791,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 7.2659248e-9
+}

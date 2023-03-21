@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "twemoji-svelte",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "![banner](./banner.png)",
+		"date": "2022-05-01T17:45:37.252Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/twemoji-svelte"
+		},
+		"publisher": {
+			"username": "iogamaster",
+			"email": "iogamastercode@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "iogamaster",
+				"email": "iogamastercode@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2047407924898832,
+		"detail": {
+			"quality": 0.29727529535807634,
+			"popularity": 0.019740597502154143,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 1.7768713e-8
+}

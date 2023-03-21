@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-reveal.js",
+		"scope": "unscoped",
+		"version": "0.0.10",
+		"description": "Reveal.js Svelte wrapper",
+		"date": "2023-02-18T06:35:55.411Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-reveal.js",
+			"homepage": "https://github.com/Ennoriel/svelte-reveal.js#readme",
+			"repository": "https://github.com/Ennoriel/svelte-reveal.js",
+			"bugs": "https://github.com/Ennoriel/svelte-reveal.js/issues"
+		},
+		"author": {
+			"name": "Maxime Dupont",
+			"email": "m.dupont103@gmail.com",
+			"username": "ennoriel"
+		},
+		"publisher": {
+			"username": "ennoriel",
+			"email": "m.dupont103@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ennoriel",
+				"email": "m.dupont103@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25024197131323084,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.009928074824693484,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.7878758e-7
+}

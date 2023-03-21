@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "dsmgpos-pincode",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "DSMG POS pincode input for svelte",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"pincode",
+			"lockbox",
+			"input"
+		],
+		"date": "2021-10-16T15:41:21.985Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/dsmgpos-pincode",
+			"homepage": "https://github.com/dsmgpos/dsmgpos-pincode",
+			"repository": "https://github.com/dsmgpos/dsmgpos-pincode",
+			"bugs": "https://github.com/dsmgpos/dsmgpos-pincode/issues"
+		},
+		"author": {
+			"name": "Salvatore Cahyo",
+			"url": "salva@dsgroupmedia.com"
+		},
+		"publisher": {
+			"username": "salvacmp",
+			"email": "salvacmp18@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "salvacmp",
+				"email": "salvacmp18@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20448901310022602,
+		"detail": {
+			"quality": 0.5355947797183326,
+			"popularity": 0.0013375093737225834,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.1642432e-8
+}

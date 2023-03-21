@@ -1,0 +1,30 @@
+{
+	"package": {
+		"name": "sveltetip-component-library-components",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"date": "2021-07-12T03:55:40.401Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltetip-component-library-components"
+		},
+		"publisher": {
+			"username": "allenroyston",
+			"email": "allen.royston.uk@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "allenroyston",
+				"email": "allen.royston.uk@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2521740634146916,
+		"detail": {
+			"quality": 0.6754631075584867,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.1247383e-7
+}

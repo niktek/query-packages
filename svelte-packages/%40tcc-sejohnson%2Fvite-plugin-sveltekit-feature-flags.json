@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@tcc-sejohnson/vite-plugin-sveltekit-feature-flags",
+		"scope": "tcc-sejohnson",
+		"version": "0.0.0",
+		"description": "For use with SvelteKit. Turns static environment variables from `$env/static/*` into optional feature flags in `virtual:feature-flags/*`.",
+		"date": "2022-08-24T02:30:31.247Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tcc-sejohnson%2Fvite-plugin-sveltekit-feature-flags",
+			"homepage": "https://github.com/tcc-sejohnson/vite-plugin-sveltekit-feature-flags/tree/main/packages/vite-plugin-sveltekit-feature-flags#readme",
+			"repository": "https://github.com/tcc-sejohnson/vite-plugin-sveltekit-feature-flags",
+			"bugs": "https://github.com/tcc-sejohnson/vite-plugin-sveltekit-feature-flags/issues"
+		},
+		"author": {
+			"name": "tcc-sejohnson"
+		},
+		"publisher": {
+			"username": "tcc-sejohnson",
+			"email": "sejohnson@torchcloudconsulting.com"
+		},
+		"maintainers": [
+			{
+				"username": "tcc-sejohnson",
+				"email": "sejohnson@torchcloudconsulting.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.30919325867709546,
+		"detail": {
+			"quality": 0.7385374065735313,
+			"popularity": 0.018118456189217546,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 0.000001795112
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@kws3/ui",
+		"scope": "kws3",
+		"version": "2.0.5",
+		"description": "UI components for use with Svelte v3 applications.",
+		"keywords": [
+			"components",
+			"svelte3",
+			"ui"
+		],
+		"date": "2023-03-14T15:00:54.337Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kws3%2Fui",
+			"homepage": "https://github.com/kws3media/storybooks-frontend#readme",
+			"repository": "https://github.com/kws3media/storybooks-frontend",
+			"bugs": "https://github.com/kws3media/storybooks-frontend/issues"
+		},
+		"author": {
+			"name": "Khaled Ahmed",
+			"email": "me.khaled@gmail.com"
+		},
+		"publisher": {
+			"username": "kws3media",
+			"email": "info@kws3.media"
+		},
+		"maintainers": [
+			{
+				"username": "kws3media",
+				"email": "info@kws3.media"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20189927634515914,
+		"detail": {
+			"quality": 0.27959215767431234,
+			"popularity": 0.0038713210748536173,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.4242228e-9
+}

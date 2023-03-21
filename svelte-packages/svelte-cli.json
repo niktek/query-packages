@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-cli",
+		"scope": "unscoped",
+		"version": "3.0.0",
+		"description": "Command line interface for Svelte",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2018-04-21T17:01:51.671Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-cli",
+			"homepage": "https://github.com/sveltejs/svelte-cli#readme",
+			"repository": "https://github.com/sveltejs/svelte-cli",
+			"bugs": "https://github.com/sveltejs/svelte-cli/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "rich_harris",
+			"email": "richard.a.harris@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2259966469882908,
+		"detail": {
+			"quality": 0.5251388535893105,
+			"popularity": 0.10584399078140189,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.9162015e-7
+}

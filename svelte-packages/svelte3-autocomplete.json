@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte3-autocomplete",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Autocomplete text field using svelte3",
+		"keywords": [
+			"svelte",
+			"autocomplete",
+			"async autocomplete"
+		],
+		"date": "2019-09-06T10:51:34.350Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte3-autocomplete"
+		},
+		"author": {
+			"name": "Manoj Periathambi"
+		},
+		"publisher": {
+			"username": "manojp1988",
+			"email": "manojp1988@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "manojp1988",
+				"email": "manojp1988@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1885019995760176,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0015288687180486996,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.9409783e-9
+}

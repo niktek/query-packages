@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@nerdworks/svelte-pdfjs",
+		"scope": "nerdworks",
+		"version": "0.6.4",
+		"description": "A wrapper around Mozilla's PDFJS renderer. Only cares about loading and showing the PDF and nothing else, all the fancy stuff such as styling the viewer is left up to the consumer. Still in early stages so feel free to create an issue or a PR for any bugs",
+		"keywords": [
+			"svelte",
+			"pdf",
+			"pdfjs",
+			"pdf.js"
+		],
+		"date": "2023-02-14T05:04:06.919Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nerdworks%2Fsvelte-pdfjs",
+			"homepage": "https://github.com/gtm-nayan/svelte-pdfjs#readme",
+			"repository": "https://github.com/gtm-nayan/svelte-pdfjs",
+			"bugs": "https://github.com/gtm-nayan/svelte-pdfjs/issues"
+		},
+		"publisher": {
+			"username": "nerdworks",
+			"email": "elo-npmjs@nerdworks.de"
+		},
+		"maintainers": [
+			{
+				"username": "nerdworks",
+				"email": "elo-npmjs@nerdworks.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2540497292301818,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0073995268883513855,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.2858588e-7
+}

@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "svelte-visibility-change",
+		"scope": "unscoped",
+		"version": "0.6.0",
+		"description": "Detect browser page visibility changes using the Page Visibility API",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"page visibility",
+			"browser tab",
+			"focus",
+			"blur",
+			"api"
+		],
+		"date": "2022-06-28T16:07:55.643Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-visibility-change",
+			"homepage": "https://github.com/metonym/svelte-visibility-change",
+			"repository": "https://github.com/metonym/svelte-visibility-change",
+			"bugs": "https://github.com/metonym/svelte-visibility-change/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26477894574178557,
+		"detail": {
+			"quality": 0.5260551644706876,
+			"popularity": 0.009650771204384791,
+			"maintenance": 0.2959560756544132
+		}
+	},
+	"searchScore": 6.175455e-7
+}

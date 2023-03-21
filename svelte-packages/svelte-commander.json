@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-commander",
+		"scope": "unscoped",
+		"version": "1.4.0",
+		"description": "![bar](images/bar.png) This repo holds a command palette with robust interactions and predictable behavior backed by a finite state machine. A command palette (or command bar) is a user interface that receives user input and presents the user with a list",
+		"keywords": [
+			"svelte",
+			"palette",
+			"command"
+		],
+		"date": "2021-03-21T17:57:29.912Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-commander"
+		},
+		"author": {
+			"name": "Oskar Hane",
+			"url": "https://twitter.com/oskarhane"
+		},
+		"publisher": {
+			"username": "oskarhane",
+			"email": "oh@oskarhane.com"
+		},
+		"maintainers": [
+			{
+				"username": "oskarhane",
+				"email": "oh@oskarhane.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3597093420960647,
+		"detail": {
+			"quality": 0.8718576712889783,
+			"popularity": 0.0026228457541342893,
+			"maintenance": 0.2778115562726407
+		}
+	},
+	"searchScore": 0.0000434774
+}

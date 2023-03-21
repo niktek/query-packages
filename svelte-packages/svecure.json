@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svecure",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Secure your load functions with wrappers that will handle errorchecking for you.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"load",
+			"data-fetching"
+		],
+		"date": "2023-03-03T12:45:07.628Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svecure",
+			"homepage": "https://github.com/afroborg/svecure#readme",
+			"repository": "https://github.com/afroborg/svecure",
+			"bugs": "https://github.com/afroborg/svecure/issues"
+		},
+		"author": {
+			"name": "Axel Froborg",
+			"email": "axel.froborg@gmail.com",
+			"url": "https://axel.froborg.com",
+			"username": "afroborg"
+		},
+		"publisher": {
+			"username": "afroborg",
+			"email": "axel.froborg@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "afroborg",
+				"email": "axel.froborg@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25299607101618315,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.004389074848355056,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.2486267e-7
+}

@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "svelte-async",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"date": "2020-03-02T15:34:46.813Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-async"
+		},
+		"publisher": {
+			"username": "cristovao-trevisan",
+			"email": "cristovao.trevisan@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cristovao-trevisan",
+				"email": "cristovao.trevisan@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2267330288542454,
+		"detail": {
+			"quality": 0.6491096376886967,
+			"popularity": 0.0016872668846552522,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.5839935e-8
+}

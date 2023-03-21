@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "@steeze-ui/components",
+		"scope": "steeze-ui",
+		"version": "1.2.0",
+		"description": "> Need Icons for your next SvelteKit project (heroicons, feather icons and more) ? Check out [@steeze-ui/icons](https://github.com/steeze-ui/icons)!",
+		"keywords": [
+			"svelte",
+			"components",
+			"library",
+			"component library",
+			"design system",
+			"steeze",
+			"dark mode",
+			"select",
+			"popover",
+			"tooltip",
+			"toggle",
+			"button"
+		],
+		"date": "2022-10-06T12:20:44.564Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40steeze-ui%2Fcomponents",
+			"homepage": "https://steeze-ui.com",
+			"repository": "https://github.com/steeze-ui/components",
+			"bugs": "https://github.com/steeze-ui/components/issues"
+		},
+		"author": {
+			"name": "Justin Voitel",
+			"email": "mail@justinv.me",
+			"username": "justinvoitel"
+		},
+		"publisher": {
+			"username": "justinvoitel",
+			"email": "mail@justinv.me"
+		},
+		"maintainers": [
+			{
+				"username": "justinvoitel",
+				"email": "mail@justinv.me"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3097875040885613,
+		"detail": {
+			"quality": 0.6372988976093354,
+			"popularity": 0.005707777300994142,
+			"maintenance": 0.3331431792868935
+		}
+	},
+	"searchScore": 0.0000014006682
+}

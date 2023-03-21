@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-stack-router",
+		"scope": "unscoped",
+		"version": "2.4.6",
+		"description": "Bridging the gap between Native Apps and WebApps. A Svelte Router that caches page components and will make your WebApp feel more native",
+		"keywords": [
+			"spa",
+			"router",
+			"stack",
+			"svelte",
+			"cache"
+		],
+		"date": "2021-11-16T22:04:58.397Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-stack-router"
+		},
+		"author": {
+			"name": "Carlo Dell'Acqua"
+		},
+		"publisher": {
+			"username": "cdellacqua",
+			"email": "carlo.dellacqua97@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cdellacqua",
+				"email": "carlo.dellacqua97@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2664568261546777,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.003889121422517261,
+			"maintenance": 0.3162660568321895
+		}
+	},
+	"searchScore": 6.581607e-7
+}

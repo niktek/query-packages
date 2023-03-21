@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@bobthered/svelte-input",
+		"scope": "bobthered",
+		"version": "1.0.2",
+		"description": "Svelte component for inputs",
+		"date": "2021-03-04T14:01:02.740Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bobthered%2Fsvelte-input",
+			"homepage": "https://github.com/bobthered/svelte-input#readme",
+			"repository": "https://github.com/bobthered/svelte-input",
+			"bugs": "https://github.com/bobthered/svelte-input/issues"
+		},
+		"publisher": {
+			"username": "bobthered",
+			"email": "bobmcaleavey@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bobthered",
+				"email": "bobmcaleavey@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18487009896945694,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0015288687180486996,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.825895e-9
+}

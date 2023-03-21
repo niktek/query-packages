@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-schemaform",
+		"scope": "unscoped",
+		"version": "0.0.13",
+		"description": "A simple Svelte component capable of building HTML forms out of a JSON schema Rewrite / Svelte port of [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)",
+		"date": "2022-06-10T07:43:36.196Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-schemaform"
+		},
+		"publisher": {
+			"username": "xpluscal",
+			"email": "calvinhoenes@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "xpluscal",
+				"email": "calvinhoenes@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22228069760679225,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0026963673936996175,
+			"maintenance": 0.33137239168605176
+		}
+	},
+	"searchScore": 4.8518807e-8
+}

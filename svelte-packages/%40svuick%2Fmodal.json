@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@svuick/modal",
+		"scope": "svuick",
+		"version": "0.0.6",
+		"description": "[![npm (scoped)](https://img.shields.io/npm/v/@svuick/modal)](https://npmjs.com/package/@svuick/modal)",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"modal"
+		],
+		"date": "2022-07-29T15:05:28.470Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svuick%2Fmodal",
+			"homepage": "https://gitlab.com/david-plugge/svuick#readme",
+			"repository": "https://gitlab.com/david-plugge/svuick",
+			"bugs": "https://gitlab.com/david-plugge/svuick/issues"
+		},
+		"publisher": {
+			"username": "davidplugge",
+			"email": "npm@davidplugge.de"
+		},
+		"maintainers": [
+			{
+				"username": "davidplugge",
+				"email": "npm@davidplugge.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21407649582681415,
+		"detail": {
+			"quality": 0.4290909200922106,
+			"popularity": 0.0020381289711917687,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 1.50042e-8
+}

@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "sveltekit-static-sitemap",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Generate sitemap at buildtime for SvelteKit applications with prerendered routes. Works with any adapter.",
+		"keywords": [
+			"sveltekit",
+			"sitemap",
+			"static",
+			"prerender"
+		],
+		"date": "2023-02-07T21:38:29.703Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-static-sitemap"
+		},
+		"author": {
+			"name": "Tobias Lundal"
+		},
+		"publisher": {
+			"username": "totokaka",
+			"email": "ttotokaka@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "totokaka",
+				"email": "ttotokaka@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2811015208727865,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.007354275763950403,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.8919494e-7
+}

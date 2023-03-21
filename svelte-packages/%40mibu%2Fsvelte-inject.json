@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@mibu/svelte-inject",
+		"scope": "mibu",
+		"version": "1.0.0",
+		"description": "Svelte action to inject elements into the DOM",
+		"keywords": [
+			"svelte",
+			"dom",
+			"inject",
+			"insert"
+		],
+		"date": "2021-10-03T18:48:40.277Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mibu%2Fsvelte-inject",
+			"homepage": "https://github.com/MichaelBrunn3r/svelte-inject",
+			"repository": "https://github.com/MichaelBrunn3r/svelte-inject",
+			"bugs": "https://github.com/MichaelBrunn3r/svelte-inject/issues"
+		},
+		"author": {
+			"name": "Michael Brunner",
+			"email": "michaelbrunn3r@gmail.com",
+			"username": "mibu"
+		},
+		"publisher": {
+			"username": "mibu",
+			"email": "michaelbrunn3r@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mibu",
+				"email": "michaelbrunn3r@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20558484965109802,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0010901173098212791,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 2.352347e-8
+}

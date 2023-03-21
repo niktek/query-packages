@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svead",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "Svead, a component that allows you to set head meta information, canonical, title, Twitter and Facebook Open Graph tags.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"head",
+			"meta-tags"
+		],
+		"date": "2022-12-06T19:55:15.106Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svead",
+			"homepage": "https://github.com/spences10/svead#readme",
+			"repository": "https://github.com/spences10/svead",
+			"bugs": "https://github.com/spences10/svead/issues"
+		},
+		"author": {
+			"name": "Scott Spence",
+			"email": "yo@scottspence.dev",
+			"url": "https://scottspence.com"
+		},
+		"publisher": {
+			"username": "spences10",
+			"email": "spences10apps@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "spences10",
+				"email": "spences10apps@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2504888121152301,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.012410968821940854,
+			"maintenance": 0.33155569877036956
+		}
+	},
+	"searchScore": 1.17563445e-7
+}

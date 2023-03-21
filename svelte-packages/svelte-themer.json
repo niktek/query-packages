@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-themer",
+		"scope": "unscoped",
+		"version": "0.5.5",
+		"description": "A theming engine for your Svelte apps using CSS Variables, persisted.",
+		"keywords": [
+			"svelte",
+			"theme",
+			"theming"
+		],
+		"date": "2022-01-30T20:18:20.870Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-themer",
+			"homepage": "https://svelte-themer.vercel.app"
+		},
+		"publisher": {
+			"username": "garlicbred",
+			"email": "josef.aidt@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "garlicbred",
+				"email": "josef.aidt@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24791019082475796,
+		"detail": {
+			"quality": 0.43476815925336065,
+			"popularity": 0.005538276812515571,
+			"maintenance": 0.3301181318981981
+		}
+	},
+	"searchScore": 2.7802614e-7
+}

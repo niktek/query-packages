@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-apex",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Svelte Components for the ApexCharts library",
+		"keywords": [
+			"apex",
+			"apexcharts",
+			"charts",
+			"svelte",
+			"data-visualization"
+		],
+		"date": "2022-02-07T21:18:08.612Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-apex",
+			"homepage": "https://svelte-apex-examples.vercel.app/",
+			"repository": "https://github.com/AlexandreKempf/svelte-apex",
+			"bugs": "https://github.com/AlexandreKempf/svelte-apex/issues"
+		},
+		"author": {
+			"name": "AlexandreKempf"
+		},
+		"publisher": {
+			"username": "alexandrekempf",
+			"email": "alexandre.kempf@cri-paris.org"
+		},
+		"maintainers": [
+			{
+				"username": "alexandrekempf",
+				"email": "alexandre.kempf@cri-paris.org"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2604801212487313,
+		"detail": {
+			"quality": 0.5826528948366313,
+			"popularity": 0.002995366110023018,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 5.768796e-7
+}

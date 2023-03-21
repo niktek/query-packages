@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "uniroll-svelte-ssr",
+		"scope": "unscoped",
+		"version": "4.0.1-alpha.0",
+		"description": "svelte ssr to static content",
+		"date": "2021-05-13T10:58:42.418Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/uniroll-svelte-ssr"
+		},
+		"publisher": {
+			"username": "mizchi",
+			"email": "miz404@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mizchi",
+				"email": "miz404@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19464310525621548,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.001811789880645043,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 9.728453e-9
+}

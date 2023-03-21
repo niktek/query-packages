@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@6edesign/svelte-three",
+		"scope": "6edesign",
+		"version": "1.1.3",
+		"description": "[Demo](https://6edesign.github.io/svelte-three-mograph/)",
+		"keywords": [
+			"svelte",
+			"calendar",
+			"datepicker",
+			"svelte-datepicker",
+			"svelte-calendar"
+		],
+		"date": "2021-01-20T04:40:39.253Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%406edesign%2Fsvelte-three"
+		},
+		"publisher": {
+			"username": "6edesign",
+			"email": "jon@6eDesign.net"
+		},
+		"maintainers": [
+			{
+				"username": "6edesign",
+				"email": "jon@6eDesign.net"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1871871180771595,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.003928600496063044,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.339738e-9
+}

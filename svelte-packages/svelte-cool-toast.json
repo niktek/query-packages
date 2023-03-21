@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-cool-toast",
+		"scope": "unscoped",
+		"version": "1.5.0",
+		"description": "😎 Cool toast notifications for Svelte",
+		"keywords": [
+			"toast",
+			"notifications",
+			"svelte",
+			"svelte-cool-toast",
+			"svelte-toast"
+		],
+		"date": "2022-12-14T00:06:18.841Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-cool-toast",
+			"homepage": "https://svelte.dev/repl/46c3c3c8943e4752a380ce019fb99739?version=3.49.0",
+			"repository": "https://github.com/carlos-dubon/svelte-cool-toast",
+			"bugs": "https://github.com/carlos-dubon/svelte-cool-toast/issues"
+		},
+		"author": {
+			"name": "carlos-dubon"
+		},
+		"publisher": {
+			"username": "carlos-dubon",
+			"email": "holacarlosdubon@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "carlos-dubon",
+				"email": "holacarlosdubon@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3081287196709244,
+		"detail": {
+			"quality": 0.626599435462266,
+			"popularity": 0.009949206758794116,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000005515997
+}

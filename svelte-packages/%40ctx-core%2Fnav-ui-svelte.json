@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@ctx-core/nav-ui-svelte",
+		"scope": "ctx-core",
+		"version": "1.2.43",
+		"description": "ctx-core nav",
+		"keywords": [
+			"ctx-core",
+			"nav",
+			"yarn"
+		],
+		"date": "2023-03-17T16:42:16.733Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ctx-core%2Fnav-ui-svelte",
+			"homepage": "https://github.com/ctx-core/nav-ui-svelte#readme",
+			"repository": "https://github.com/ctx-core/nav-ui-svelte",
+			"bugs": "https://github.com/ctx-core/nav-ui-svelte/issues"
+		},
+		"author": {
+			"name": "Brian Takita"
+		},
+		"publisher": {
+			"username": "btakita",
+			"email": "brian.takita@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "btakita",
+				"email": "brian.takita@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26054266713277474,
+		"detail": {
+			"quality": 0.435425943981676,
+			"popularity": 0.03785204934744375,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.3570583e-7
+}

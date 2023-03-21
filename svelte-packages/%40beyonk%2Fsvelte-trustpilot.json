@@ -1,0 +1,61 @@
+{
+	"package": {
+		"name": "@beyonk/svelte-trustpilot",
+		"scope": "beyonk",
+		"version": "1.0.2",
+		"description": "<p align=\"center\">   <img width=\"186\" height=\"90\" src=\"https://user-images.githubusercontent.com/218949/44782765-377e7c80-ab80-11e8-9dd8-fce0e37c235b.png\" alt=\"Beyonk\" /> </p>",
+		"keywords": [
+			"svelte",
+			"trustpilot",
+			"widget",
+			"reviews",
+			"SEO"
+		],
+		"date": "2019-06-22T07:13:07.617Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40beyonk%2Fsvelte-trustpilot",
+			"homepage": "https://github.com/beyonk-adventures/svelte-trustpilot#readme",
+			"repository": "https://github.com/beyonk-adventures/svelte-trustpilot",
+			"bugs": "https://github.com/beyonk-adventures/svelte-trustpilot/issues"
+		},
+		"publisher": {
+			"username": "antony",
+			"email": "aj@desirableobjects.co.uk"
+		},
+		"maintainers": [
+			{
+				"username": "dextermb",
+				"email": "dexter.mb@outlook.com"
+			},
+			{
+				"username": "ghostsos",
+				"email": "ghostdevbusiness@gmail.com"
+			},
+			{
+				"username": "ahpercival",
+				"email": "adrian.percival@beyonk.com"
+			},
+			{
+				"username": "alex.dilley",
+				"email": "alex.dilley@gmail.com"
+			},
+			{
+				"username": "antony",
+				"email": "aj@desirableobjects.co.uk"
+			},
+			{
+				"username": "adampond",
+				"email": "adam@beyonk.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18653299660496203,
+		"detail": {
+			"quality": 0.5107336333076431,
+			"popularity": 0.005438035641891655,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.183212e-9
+}

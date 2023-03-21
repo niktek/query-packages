@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@radix-svelte/separator",
+		"scope": "radix-svelte",
+		"version": "0.1.1",
+		"description": "## Installation",
+		"date": "2022-08-27T13:07:39.852Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40radix-svelte%2Fseparator"
+		},
+		"publisher": {
+			"username": "symsym",
+			"email": "symeon.smith@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "symsym",
+				"email": "symeon.smith@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2026660319681569,
+		"detail": {
+			"quality": 0.40341530969597306,
+			"popularity": 0.0010024629158716884,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.2184937e-8
+}

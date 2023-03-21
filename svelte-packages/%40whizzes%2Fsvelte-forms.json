@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@whizzes/svelte-forms",
+		"scope": "whizzes",
+		"version": "0.1.4",
+		"description": "Svelte form handlers",
+		"keywords": [
+			"svelte",
+			"forms",
+			"utility"
+		],
+		"date": "2023-01-15T05:52:39.659Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40whizzes%2Fsvelte-forms",
+			"homepage": "https://github.com/whizzes/svelte-forms#readme",
+			"repository": "https://github.com/whizzes/svelte-forms",
+			"bugs": "https://github.com/whizzes/svelte-forms/issues"
+		},
+		"author": {
+			"name": "Esteban Borai",
+			"email": "estebanborai@gmail.com",
+			"url": "https://estebanborai.com",
+			"username": "estebanborai"
+		},
+		"publisher": {
+			"username": "estebanborai",
+			"email": "estebanborai@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "estebanborai",
+				"email": "estebanborai@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2786032073156632,
+		"detail": {
+			"quality": 0.5291399433073837,
+			"popularity": 0.009127307590804032,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000013461034
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-copy-to-clipboard",
+		"scope": "unscoped",
+		"version": "0.2.5",
+		"description": "Copy to clipboard component for Svelte",
+		"keywords": [
+			"svelte",
+			"copy",
+			"clipboard"
+		],
+		"date": "2020-05-25T23:57:15.498Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-copy-to-clipboard"
+		},
+		"author": {
+			"name": "Henrique Araujo",
+			"email": "henrique.004@hotmail.com"
+		},
+		"publisher": {
+			"username": "henriquecaraujo",
+			"email": "henrique004.rick@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "henriquecaraujo",
+				"email": "henrique004.rick@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19947031913771768,
+		"detail": {
+			"quality": 0.5091677549204802,
+			"popularity": 0.04374399578161878,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.555019e-8
+}

@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-parse-markup",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "Parse Svelte markup without parsing the script or style tags",
+		"keywords": [
+			"svelte",
+			"parse",
+			"markup",
+			"script",
+			"style"
+		],
+		"date": "2022-10-02T13:56:12.644Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-parse-markup",
+			"homepage": "https://github.com/bluwy/svelte-parse-markup",
+			"repository": "https://github.com/bluwy/svelte-parse-markup",
+			"bugs": "https://github.com/bluwy/svelte-parse-markup/issues"
+		},
+		"author": {
+			"name": "Bjorn Lu"
+		},
+		"publisher": {
+			"username": "bluwy",
+			"email": "bjornlu.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bluwy",
+				"email": "bjornlu.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26031394043459277,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.048300821068274706,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 7.152731e-7
+}

@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "bords-utils",
+		"scope": "unscoped",
+		"version": "2.1.1",
+		"description": "Helper/Utility functions for web development.",
+		"keywords": [
+			"bords-utils",
+			"utility",
+			"react utils",
+			"helpers",
+			"api",
+			"react",
+			"vue",
+			"solid",
+			"angular",
+			"svelte",
+			"fetch",
+			"axios"
+		],
+		"date": "2021-11-01T19:39:37.588Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/bords-utils",
+			"homepage": "https://github.com/jeffrequina/bords-utils#readme",
+			"repository": "https://github.com/jeffrequina/bords-utils",
+			"bugs": "https://github.com/jeffrequina/bords-utils/issues"
+		},
+		"author": {
+			"name": "Jefferson Requina"
+		},
+		"publisher": {
+			"username": "jrequina",
+			"email": "jeffrequina@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jrequina",
+				"email": "jeffrequina@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24412864364898554,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.002179119251619947,
+			"maintenance": 0.25840157465938773
+		}
+	},
+	"searchScore": 5.150957e-8
+}

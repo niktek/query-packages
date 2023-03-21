@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-gantt-event-custom-v2",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Interactive JavaScript Gantt chart/resource booking component",
+		"keywords": [
+			"svelte",
+			"gantt",
+			"booking",
+			"svelte-gantt",
+			"js-gantt",
+			"javascript-gantt",
+			"react-gantt",
+			"angular-gantt",
+			"vue-gantt",
+			"drag-n-drop"
+		],
+		"date": "2022-09-06T14:42:57.932Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-gantt-event-custom-v2"
+		},
+		"author": {
+			"name": "trongld232@gmail.com"
+		},
+		"publisher": {
+			"username": "thangnaozay",
+			"email": "trongld232@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thangnaozay",
+				"email": "trongld232@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2421633361022265,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.0022893291223682025,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 1.3638953e-7
+}

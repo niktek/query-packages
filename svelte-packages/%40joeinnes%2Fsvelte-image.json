@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@joeinnes/svelte-image",
+		"scope": "joeinnes",
+		"version": "0.0.4",
+		"description": "Svelte Component for using image CDNs to dynamically serve responsive images.",
+		"date": "2021-11-20T11:57:43.923Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40joeinnes%2Fsvelte-image",
+			"homepage": "https://github.com/joeinnes/svelte-image",
+			"bugs": "https://github.com/joeinnes/svelte-image"
+		},
+		"author": {
+			"name": "Joe Innes",
+			"email": "joe@joeinn.es",
+			"url": "https://joeinn.es",
+			"username": "joeinnes"
+		},
+		"publisher": {
+			"username": "joeinnes",
+			"email": "joe@joeinn.es"
+		},
+		"maintainers": [
+			{
+				"username": "joeinnes",
+				"email": "joe@joeinn.es"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19630504988054692,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.018431131207570745,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 1.1648203e-8
+}

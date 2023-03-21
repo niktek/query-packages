@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@gb-nx/svelte",
+		"scope": "gb-nx",
+		"version": "3.5.0",
+		"description": "This library was generated with [Nx](https://nx.dev).",
+		"date": "2023-03-07T20:20:41.394Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40gb-nx%2Fsvelte",
+			"homepage": "https://github.com/GaryB432/gb-nx/tree/master/packages/svelte",
+			"repository": "https://github.com/GaryB432/gb-nx",
+			"bugs": "https://github.com/GaryB432/gb-nx/issues"
+		},
+		"publisher": {
+			"username": "garyb432",
+			"email": "gary@bortosky.com"
+		},
+		"maintainers": [
+			{
+				"username": "garyb432",
+				"email": "gary@bortosky.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28050709021258546,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.031185779330817048,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000013179307
+}

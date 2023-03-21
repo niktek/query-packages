@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@pauly-kr/svelte-components",
+		"scope": "pauly-kr",
+		"version": "0.0.5",
+		"keywords": [
+			"svelte",
+			"DataTable"
+		],
+		"date": "2022-07-24T12:02:18.229Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40pauly-kr%2Fsvelte-components"
+		},
+		"publisher": {
+			"username": "cosmo-parker",
+			"email": "pauly.k@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "paul-krisada",
+				"email": "pauly.k@live.com"
+			},
+			{
+				"username": "cosmo-parker",
+				"email": "pauly.k@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18525847984981003,
+		"detail": {
+			"quality": 0.24298375083444657,
+			"popularity": 0.001707923805054072,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 3.8350847e-9
+}

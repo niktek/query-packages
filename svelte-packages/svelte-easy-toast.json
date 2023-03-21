@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-easy-toast",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "A pretty simple toast library for svelte",
+		"keywords": [
+			"svelte-easy-toast"
+		],
+		"date": "2022-12-22T03:55:35.397Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-easy-toast",
+			"homepage": "https://github.com/johndavedecano/svelte-easy-toast#readme",
+			"repository": "https://github.com/johndavedecano/svelte-easy-toast",
+			"bugs": "https://github.com/johndavedecano/svelte-easy-toast/issues"
+		},
+		"author": {
+			"name": "John Dave Decano",
+			"email": "johndavedecano@gmail.com",
+			"username": "johndavedecano"
+		},
+		"publisher": {
+			"username": "johndavedecano",
+			"email": "johndavedecano@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "johndavedecano",
+				"email": "johndavedecano@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26962146018381633,
+		"detail": {
+			"quality": 0.5039755837380318,
+			"popularity": 0.005126852311075224,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 8.1506613e-7
+}

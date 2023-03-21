@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "popper-svelte",
+		"scope": "unscoped",
+		"version": "1.4.2",
+		"date": "2022-08-11T08:45:38.823Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/popper-svelte",
+			"homepage": "https://github.com/togekk1/popper-svelte#readme",
+			"repository": "https://github.com/togekk1/popper-svelte",
+			"bugs": "https://github.com/togekk1/popper-svelte/issues"
+		},
+		"author": {
+			"name": "togekk1"
+		},
+		"publisher": {
+			"username": "togekk",
+			"email": "togekk@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "togekk",
+				"email": "togekk@protonmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2369769377681052,
+		"detail": {
+			"quality": 0.3993095725080851,
+			"popularity": 0.002317168056415612,
+			"maintenance": 0.33249444913124054
+		}
+	},
+	"searchScore": 1.0737431e-7
+}

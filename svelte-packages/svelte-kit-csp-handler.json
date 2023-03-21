@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-kit-csp-handler",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "Configurable CSP headers for SvelteKit",
+		"keywords": [
+			"SvelteKit",
+			"CSP",
+			"Content Security Policy",
+			"Svelte"
+		],
+		"date": "2021-09-13T08:16:35.540Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-kit-csp-handler"
+		},
+		"author": {
+			"name": "karlinator"
+		},
+		"publisher": {
+			"username": "karlinator",
+			"email": "kehofset@live.no"
+		},
+		"maintainers": [
+			{
+				"username": "karlinator",
+				"email": "kehofset@live.no"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17967318974922236,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.001503902651019941,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 3.3414644e-9
+}

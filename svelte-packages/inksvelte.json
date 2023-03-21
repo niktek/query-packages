@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "inksvelte",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "- Inksvelte is a helper library to be used in Svelte and Sveltekit apps built for Aldrin's Art Factory",
+		"date": "2022-06-29T10:12:39.561Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/inksvelte"
+		},
+		"publisher": {
+			"username": "aldrinmathew",
+			"email": "aldrinmathew79@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "aldrinmathew",
+				"email": "aldrinmathew79@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2153727960871551,
+		"detail": {
+			"quality": 0.3433648049589301,
+			"popularity": 0.001707923805054072,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 5.0206075e-9
+}

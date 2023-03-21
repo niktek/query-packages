@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "formsvelte",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "A complete form solution for Svelte",
+		"keywords": [
+			"form",
+			"forms",
+			"svelte",
+			"validation",
+			"formik"
+		],
+		"date": "2022-07-29T19:27:13.513Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/formsvelte"
+		},
+		"author": {
+			"name": "Zach Posten",
+			"email": "https://github.com/zposten"
+		},
+		"publisher": {
+			"username": "zposten",
+			"email": "zach@posten.io"
+		},
+		"maintainers": [
+			{
+				"username": "zposten",
+				"email": "zach@posten.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24016800078854572,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.018522559575941927,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 8.639989e-8
+}

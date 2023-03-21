@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-tiny-virtual-list",
+		"scope": "unscoped",
+		"version": "2.0.5",
+		"description": "A tiny but mighty list virtualization component for svelte, with zero dependencies 💪",
+		"keywords": [
+			"svelte",
+			"virtual",
+			"list",
+			"scroll",
+			"infinite",
+			"loading",
+			"component",
+			"plugin",
+			"svelte-components"
+		],
+		"date": "2022-05-18T20:51:33.006Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tiny-virtual-list"
+		},
+		"author": {
+			"name": "Skayo",
+			"email": "contact@skayo.dev",
+			"url": "https://skayo.dev"
+		},
+		"publisher": {
+			"username": "skayo",
+			"email": "jonas@skayo.dev"
+		},
+		"maintainers": [
+			{
+				"username": "skayo",
+				"email": "jonas@skayo.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.29068187388301764,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.05355779680904795,
+			"maintenance": 0.3145022494603246
+		}
+	},
+	"searchScore": 0.000003113598
+}

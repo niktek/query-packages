@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "eslint-config-redon-svelte",
+		"scope": "unscoped",
+		"version": "0.1.2",
+		"description": "@redon-web Svelte eslint config presets with prettier",
+		"date": "2023-02-01T16:10:50.016Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/eslint-config-redon-svelte",
+			"homepage": "https://github.com/redon-web/eslint-config",
+			"repository": "https://github.com/redon-web/eslint-config",
+			"bugs": "https://github.com/redon-web/eslint-config/issues"
+		},
+		"author": {
+			"name": "Redon",
+			"email": "chenzhaoyu1994@gmail.com",
+			"url": "https://github.com/chanzhaoyu",
+			"username": "chenzhaoyu1994"
+		},
+		"publisher": {
+			"username": "chenzhaoyu1994",
+			"email": "chenzhaoyu1994@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "chenzhaoyu1994",
+				"email": "chenzhaoyu1994@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24909262109436947,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.006644217056518211,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.0328659e-7
+}

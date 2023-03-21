@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "s-date-range-picker",
+		"scope": "unscoped",
+		"version": "0.3.0",
+		"description": "A date range picker built with Svelte",
+		"keywords": [
+			"svelte",
+			"rollup",
+			"date-picker",
+			"date-range-picker",
+			"datepicker",
+			"daterangepicker",
+			"date-time-picker",
+			"datetimepicker",
+			"svelte-components"
+		],
+		"date": "2019-12-14T15:42:07.264Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/s-date-range-picker",
+			"homepage": "https://github.com/onx2/svelte-date-range-picker#readme",
+			"repository": "https://github.com/onx2/svelte-date-range-picker",
+			"bugs": "https://github.com/onx2/svelte-date-range-picker/issues"
+		},
+		"author": {
+			"name": "Jeff Rooks",
+			"email": "rooksjj@gmail.com"
+		},
+		"publisher": {
+			"username": "jeffrooks",
+			"email": "rooksjj91@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jeffrooks",
+				"email": "rooksjj91@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2867004427285883,
+		"detail": {
+			"quality": 0.8450911343254072,
+			"popularity": 0.005038595122740426,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 9.811703e-7
+}

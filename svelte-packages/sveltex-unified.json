@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "sveltex-unified",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"date": "2020-01-27T10:57:11.191Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltex-unified"
+		},
+		"author": {
+			"name": "Ate Poorthuis"
+		},
+		"publisher": {
+			"username": "atepoorthuis",
+			"email": "ate_poorthuis@sutd.edu.sg"
+		},
+		"maintainers": [
+			{
+				"username": "atepoorthuis",
+				"email": "ate_poorthuis@sutd.edu.sg"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2379684713416737,
+		"detail": {
+			"quality": 0.6870054539398158,
+			"popularity": 0.0013064029192055117,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.7372823e-8
+}

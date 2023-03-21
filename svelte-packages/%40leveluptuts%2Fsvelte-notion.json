@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@leveluptuts/svelte-notion",
+		"scope": "leveluptuts",
+		"version": "0.0.7",
+		"description": "Svelte Notion Helpers",
+		"keywords": [
+			"svelte",
+			"component"
+		],
+		"date": "2020-05-13T00:05:05.061Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40leveluptuts%2Fsvelte-notion",
+			"homepage": "https://github.com/leveluptuts/svelte-notion#readme",
+			"repository": "https://github.com/leveluptuts/svelte-notion",
+			"bugs": "https://github.com/leveluptuts/svelte-notion/issues"
+		},
+		"author": {
+			"name": "Scott Tolinski"
+		},
+		"publisher": {
+			"username": "stolinski",
+			"email": "scott.tolinski@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "stolinski",
+				"email": "scott.tolinski@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1933981637806355,
+		"detail": {
+			"quality": 0.5353040515789205,
+			"popularity": 0.003992440482720957,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.1545969e-8
+}

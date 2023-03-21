@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-virtual-scroll-list",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Svelte lib for virtualizing lists",
+		"keywords": [
+			"svelte",
+			"virtual",
+			"virtual-list",
+			"virtual-scroll"
+		],
+		"date": "2022-06-25T12:07:51.213Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-virtual-scroll-list",
+			"homepage": "https://github.com/v1ack/svelte-virtual-scroll-list#readme",
+			"repository": "https://github.com/v1ack/svelte-virtual-scroll-list",
+			"bugs": "https://github.com/v1ack/svelte-virtual-scroll-list/issues"
+		},
+		"author": {
+			"name": "v1ack",
+			"url": "https://github.com/v1ack"
+		},
+		"publisher": {
+			"username": "v1ack",
+			"email": "kirilkin12@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "v1ack",
+				"email": "kirilkin12@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23584134650983393,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.01671975648042666,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 1.4003218e-7
+}

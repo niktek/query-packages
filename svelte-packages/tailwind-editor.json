@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "tailwind-editor",
+		"scope": "unscoped",
+		"version": "0.2.2",
+		"description": "Svelte component to generate tailwindcss html from a notion like wysiwyg editor.",
+		"keywords": [
+			"svelte",
+			"tailwind",
+			"wysiwyg",
+			"editor",
+			"fouita"
+		],
+		"date": "2023-01-01T09:24:08.840Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/tailwind-editor",
+			"homepage": "https://github.com/fouita/tailwind-editor#readme",
+			"repository": "https://github.com/fouita/tailwind-editor",
+			"bugs": "https://github.com/fouita/tailwind-editor/issues"
+		},
+		"author": {
+			"name": "fouita"
+		},
+		"publisher": {
+			"username": "fouita",
+			"email": "hq@fouita.com"
+		},
+		"maintainers": [
+			{
+				"username": "fouita",
+				"email": "hq@fouita.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25168357897658494,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.02329110504542353,
+			"maintenance": 0.3333330614212864
+		}
+	},
+	"searchScore": 1.5695643e-7
+}

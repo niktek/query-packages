@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@non25/svelte-loader",
+		"scope": "non25",
+		"version": "3.1.3",
+		"description": "Fork of a webpack loader for svelte with bugs fixed",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"webpack-loader"
+		],
+		"date": "2021-06-03T23:36:44.625Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40non25%2Fsvelte-loader",
+			"homepage": "https://github.com/non25/svelte-loader#readme",
+			"repository": "https://github.com/non25/svelte-loader",
+			"bugs": "https://github.com/non25/svelte-loader/issues"
+		},
+		"author": {
+			"name": "Nico Rehwaldt",
+			"email": "git_nikku@nixis.de"
+		},
+		"publisher": {
+			"username": "non25",
+			"email": "19non91@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "non25",
+				"email": "19non91@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1962953024796104,
+		"detail": {
+			"quality": 0.4694143030074844,
+			"popularity": 0.01835618918263201,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.510638e-8
+}

@@ -1,0 +1,75 @@
+{
+	"package": {
+		"name": "svelvet",
+		"scope": "unscoped",
+		"version": "6.0.12",
+		"description": "A lightweight Svelte component library for building interactive node-based flow diagrams",
+		"keywords": [
+			"svelte",
+			"svelvet",
+			"typescript"
+		],
+		"date": "2023-02-21T16:44:13.690Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelvet",
+			"homepage": "https://github.com/open-source-labs/Svelvet",
+			"repository": "https://github.com/open-source-labs/Svelvet",
+			"bugs": "https://github.com/open-source-labs/Svelvet/issues"
+		},
+		"publisher": {
+			"username": "svelvet.oslabs",
+			"email": "svelvet.oslabs@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "svelvet.oslabs",
+				"email": "svelvet.oslabs@gmail.com"
+			},
+			{
+				"username": "aaronwnyc",
+				"email": "awillettnyc@gmail.com"
+			},
+			{
+				"username": "limd96",
+				"email": "limd96@gmail.com"
+			},
+			{
+				"username": "tensioncoding",
+				"email": "wdd4services@gmail.com"
+			},
+			{
+				"username": "amadams",
+				"email": "amadams12336@gmail.com"
+			},
+			{
+				"username": "justinwouters",
+				"email": "justinwouters@gmail.com"
+			},
+			{
+				"username": "vongarcia97",
+				"email": "vongarcia97@gmail.com"
+			},
+			{
+				"username": "azambran21",
+				"email": "alexander.zambrano@protonmail.com"
+			},
+			{
+				"username": "anulepau",
+				"email": "anu.le.pau@gmail.com"
+			},
+			{
+				"username": "andrew-widjaja",
+				"email": "andrewdwidjaja@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2943059731764322,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.05425224990042617,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000018589897
+}

@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svast-stringify",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Turn svast nodes back into svelte code",
+		"keywords": [
+			"svelte",
+			"ast",
+			"svast",
+			"utils"
+		],
+		"date": "2020-12-06T18:28:56.383Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svast-stringify",
+			"homepage": "https://github.com/pngwn/MDsveX#readme",
+			"repository": "https://github.com/pngwn/MDsveX",
+			"bugs": "https://github.com/pngwn/MDsveX/issues"
+		},
+		"author": {
+			"name": "pngwn",
+			"email": "hello@pngwn.io",
+			"username": "evilpingwin"
+		},
+		"publisher": {
+			"username": "evilpingwin",
+			"email": "hello@pngwn.io"
+		},
+		"maintainers": [
+			{
+				"username": "evilpingwin",
+				"email": "hello@pngwn.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24211824421845984,
+		"detail": {
+			"quality": 0.6764362267811503,
+			"popularity": 0.022222234417450585,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.2879156e-7
+}

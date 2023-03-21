@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-component-library-template",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "My Svelte Components",
+		"keywords": [
+			"svelte",
+			"component",
+			"template"
+		],
+		"date": "2022-07-25T05:09:32.639Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-component-library-template"
+		},
+		"publisher": {
+			"username": "tant2012",
+			"email": "terrencetan2012@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tant2012",
+				"email": "terrencetan2012@gmail.com"
+			},
+			{
+				"username": "mingsterism",
+				"email": "mingerz.k@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28606537044788893,
+		"detail": {
+			"quality": 0.6346012702503161,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 0.0000017876503
+}

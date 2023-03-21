@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "sv-accordion",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "Cute Svelte accordion for your next small project.",
+		"keywords": [
+			"svelte",
+			"accordion",
+			"component"
+		],
+		"date": "2021-03-24T00:35:21.834Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sv-accordion"
+		},
+		"author": {
+			"name": "Onder Bakirtas",
+			"email": "onderb.dev@gmail.com",
+			"url": "https://onderb.dev"
+		},
+		"publisher": {
+			"username": "onderbakirtas",
+			"email": "onder.bakirtas@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "onderbakirtas",
+				"email": "onder.bakirtas@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18720195545251056,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0016661692551382154,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 2.9849958e-9
+}

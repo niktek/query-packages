@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-qrcode-scanner",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-11-11T16:53:22.644Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-qrcode-scanner"
+		},
+		"publisher": {
+			"username": "moura_cb",
+			"email": "cleophas.barwareng@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "moura_cb",
+				"email": "cleophas.barwareng@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22204859998845264,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0014993773266530482,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 4.351875e-8
+}

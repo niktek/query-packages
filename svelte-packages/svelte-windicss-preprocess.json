@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "svelte-windicss-preprocess",
+		"scope": "unscoped",
+		"version": "4.2.8",
+		"description": "A Svelte Preprocessor to compile tailwindcss at build time based on windicss compiler.",
+		"keywords": [
+			"compiler",
+			"css",
+			"preprocess",
+			"svelte",
+			"tailwindcss",
+			"windicss"
+		],
+		"date": "2022-06-03T09:13:07.764Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-windicss-preprocess",
+			"homepage": "https://windicss.org/",
+			"repository": "https://github.com/windicss/svelte-windicss-preprocess",
+			"bugs": "https://github.com/windicss/svelte-windicss-preprocess/issues"
+		},
+		"author": {
+			"name": "Veritas Raven"
+		},
+		"publisher": {
+			"username": "voorjaar",
+			"email": "felitas@zoho.com"
+		},
+		"maintainers": [
+			{
+				"username": "antfu",
+				"email": "anthonyfu117@hotmail.com"
+			},
+			{
+				"username": "voorjaar",
+				"email": "felitas@zoho.com"
+			},
+			{
+				"username": "hannoeru",
+				"email": "me@hanlee.co"
+			},
+			{
+				"username": "harlan_zw",
+				"email": "harlan@harlanzw.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2870325912133298,
+		"detail": {
+			"quality": 0.5567132006168198,
+			"popularity": 0.009964079962859878,
+			"maintenance": 0.33294629440366535
+		}
+	},
+	"searchScore": 0.0000019148824
+}

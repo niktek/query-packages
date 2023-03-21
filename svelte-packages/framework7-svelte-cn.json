@@ -1,0 +1,58 @@
+{
+	"package": {
+		"name": "framework7-svelte-cn",
+		"scope": "unscoped",
+		"version": "5.8.2",
+		"description": "Build full featured iOS & Android apps using Framework7 & Svelte",
+		"keywords": [
+			"svelte",
+			"mobile",
+			"framework",
+			"framework7",
+			"cordova",
+			"ios",
+			"iphone",
+			"ipad",
+			"apple",
+			"phonegap",
+			"native",
+			"touch",
+			"appstore",
+			"app",
+			"f7",
+			"material",
+			"android",
+			"google",
+			"googleplay"
+		],
+		"date": "2020-05-15T03:49:19.661Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/framework7-svelte-cn",
+			"homepage": "https://framework7.io/svelte/",
+			"repository": "https://github.com/179309463/framework7-cn",
+			"bugs": "https://github.com/179309463/framework7-cn/issues"
+		},
+		"author": {
+			"name": "Vladimir Kharlampidi"
+		},
+		"publisher": {
+			"username": "fengzhuojia",
+			"email": "179309463@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "fengzhuojia",
+				"email": "179309463@qq.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2141811895327414,
+		"detail": {
+			"quality": 0.6075140412473209,
+			"popularity": 0.0014782372015374357,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.005582e-8
+}

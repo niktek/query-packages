@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-intersection-tracker",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "This component uses IntersectionObserver to not only track if elements are intersecting but also monitors and compares the percentage they are visible. The elements with highest visiblity get flagged current.",
+		"keywords": [
+			"svelte",
+			"component",
+			"intersection observer",
+			"IntersectionObserver"
+		],
+		"date": "2022-07-06T09:20:28.471Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-intersection-tracker",
+			"homepage": "https://corrl.github.io/svelte-intersection-tracker/",
+			"repository": "https://github.com/Corrl/svelte-intersection-tracker",
+			"bugs": "https://github.com/Corrl/svelte-intersection-tracker/issues"
+		},
+		"publisher": {
+			"username": "corrl",
+			"email": "npm@corinnasteinhoff.de"
+		},
+		"maintainers": [
+			{
+				"username": "corrl",
+				"email": "npm@corinnasteinhoff.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3033185178162282,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.0026963673936996175,
+			"maintenance": 0.33282478927907566
+		}
+	},
+	"searchScore": 0.0000035623175
+}

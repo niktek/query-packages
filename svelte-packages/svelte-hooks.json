@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-hooks",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "Testing Wait until Version 1.0.0",
+		"keywords": [
+			"useReducer",
+			"useState",
+			"useState svelte",
+			"useReducer svelte"
+		],
+		"date": "2021-09-11T13:07:12.899Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-hooks"
+		},
+		"author": {
+			"name": "Emmanuel Ng'wandu",
+			"email": "iamhim.emmanuel@gmail.com",
+			"username": "namaki"
+		},
+		"publisher": {
+			"username": "namaki",
+			"email": "iamhim.emmanuel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "namaki",
+				"email": "iamhim.emmanuel@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17157921444953939,
+		"detail": {
+			"quality": 0.33792110462552083,
+			"popularity": 0.0024950759821276854,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 1.861393e-9
+}

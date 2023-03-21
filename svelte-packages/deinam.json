@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "deinam",
+		"scope": "unscoped",
+		"version": "0.0.11",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-07-12T08:53:26.272Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/deinam"
+		},
+		"publisher": {
+			"username": "matssom",
+			"email": "mats.sommervold@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "matssom",
+				"email": "mats.sommervold@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.228138566792994,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.019433136497133217,
+			"maintenance": 0.33137239168605176
+		}
+	},
+	"searchScore": 1.7834603e-8
+}

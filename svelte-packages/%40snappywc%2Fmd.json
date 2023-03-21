@@ -1,0 +1,60 @@
+{
+	"package": {
+		"name": "@snappywc/md",
+		"scope": "snappywc",
+		"version": "1.0.5",
+		"description": "The little markdown element that can.",
+		"keywords": [
+			"snappy",
+			"md",
+			"markdown",
+			"render",
+			"web component",
+			"web components",
+			"custom element",
+			"custom elements",
+			"react",
+			"vue",
+			"svelte",
+			"vanilla",
+			"small",
+			"fast",
+			"flexible",
+			"customizable",
+			"accessible",
+			"accessibility",
+			"slot",
+			"slots",
+			"shadow dom"
+		],
+		"date": "2022-07-28T01:46:05.090Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40snappywc%2Fmd",
+			"homepage": "https://github.com/jameslovallo/snappy/tree/main/packages/carousel#readme",
+			"repository": "https://github.com/jameslovallo/snappy",
+			"bugs": "https://github.com/jameslovallo/snappy/issues"
+		},
+		"author": {
+			"name": "James Lovallo"
+		},
+		"publisher": {
+			"username": "jameslovallo",
+			"email": "lovallo.james@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jameslovallo",
+				"email": "lovallo.james@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25810567870232987,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.0024944016505621344,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 7.6611244e-8
+}

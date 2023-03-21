@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-draw-border",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "<a href=\"https://www.npmjs.com/package/svelte-draw-border\">   <img src=\"https://img.shields.io/npm/dm/svelte-draw-border.svg\" alt=\"Downloads\"> </a>",
+		"date": "2022-10-24T16:10:20.662Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-draw-border",
+			"homepage": "https://github.com/stordahl/svelte-draw-border#readme",
+			"repository": "https://github.com/stordahl/svelte-draw-border",
+			"bugs": "https://github.com/stordahl/svelte-draw-border/issues"
+		},
+		"publisher": {
+			"username": "stordahl_",
+			"email": "jacob@stordahl.dev"
+		},
+		"maintainers": [
+			{
+				"username": "stordahl_",
+				"email": "jacob@stordahl.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24878570346206771,
+		"detail": {
+			"quality": 0.43747279230595615,
+			"popularity": 0.002598511476429654,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 2.0938953e-7
+}

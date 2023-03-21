@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "esbuild-svelte-inertia",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "Esbuild Plugin for running Inertia with Svelte",
+		"keywords": [
+			"esbuild",
+			"svelte",
+			"inertia"
+		],
+		"date": "2021-10-13T13:50:29.544Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/esbuild-svelte-inertia",
+			"homepage": "https://github.com/BilalBudhani/esbuild-svelte-inertia",
+			"repository": "https://github.com/BilalBudhani/esbuild-svelte-inertia",
+			"bugs": "https://github.com/BilalBudhani/esbuild-svelte-inertia/issues"
+		},
+		"author": {
+			"name": "Bilal Budhani",
+			"email": "bilal@bilalbudhani.com",
+			"username": "bilalbudhani"
+		},
+		"publisher": {
+			"username": "bilalbudhani",
+			"email": "bilal@bilalbudhani.com"
+		},
+		"maintainers": [
+			{
+				"username": "bilalbudhani",
+				"email": "bilal@bilalbudhani.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17279088912948187,
+		"detail": {
+			"quality": 0.3792891023433832,
+			"popularity": 0.028450894465780058,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 3.1236762e-9
+}

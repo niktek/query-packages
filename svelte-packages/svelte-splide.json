@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-splide",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "The Splide component for Svelte.",
+		"keywords": [
+			"splide",
+			"slider",
+			"carousel",
+			"slideshow",
+			"lightweight",
+			"touch",
+			"responsive",
+			"svelte",
+			"sveltejs",
+			"svelte-components"
+		],
+		"date": "2021-01-11T17:32:48.003Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-splide"
+		},
+		"author": {
+			"name": "Lorenzo Fiore",
+			"email": "fiorelorenzo.fl@gmail.com",
+			"url": "https://github.com/fiorelorenzo",
+			"username": "fiorelorenzo"
+		},
+		"publisher": {
+			"username": "fiorelorenzo",
+			"email": "fiorelorenzo.fl@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "fiorelorenzo",
+				"email": "fiorelorenzo.fl@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17852698904723802,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.0047152515780143015,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.1771275e-9
+}

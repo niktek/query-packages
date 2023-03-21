@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-logoipsum",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Svelte components for Logoipsum logo placeholders.",
+		"keywords": [
+			"Logo",
+			"Logoipsum",
+			"Svelte",
+			"Component",
+			"Placeholder",
+			"SVG"
+		],
+		"date": "2021-03-29T18:47:42.165Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-logoipsum"
+		},
+		"author": {
+			"name": "Sean Mullen",
+			"email": "sean@srmullen.com"
+		},
+		"publisher": {
+			"username": "srmullen",
+			"email": "srmullen13@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "srmullen",
+				"email": "srmullen13@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20039836524935353,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.7966814e-8
+}

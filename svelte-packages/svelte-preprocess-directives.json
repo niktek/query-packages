@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-preprocess-directives",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Svelte preprocessor that allows class and style directives to be used on Svelte components.",
+		"keywords": [
+			"svelte",
+			"svelte preprocessor",
+			"component",
+			"directive"
+		],
+		"date": "2023-01-07T22:33:21.987Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-preprocess-directives",
+			"homepage": "https://github.com/metonym/svelte-preprocess-directives",
+			"repository": "https://github.com/metonym/svelte-preprocess-directives",
+			"bugs": "https://github.com/metonym/svelte-preprocess-directives/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24181767149088818,
+		"detail": {
+			"quality": 0.4149099988503061,
+			"popularity": 0.0033642452587187483,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.8406237e-7
+}

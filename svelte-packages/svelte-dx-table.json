@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-dx-table",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "dx friendly svelte table component",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"svelte-components",
+			"svelte-dx-table",
+			"sveltejs"
+		],
+		"date": "2022-01-04T17:48:23.882Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dx-table"
+		},
+		"author": {
+			"name": "thecodejack"
+		},
+		"publisher": {
+			"username": "thecodejack",
+			"email": "aadisrikanth@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thecodejack",
+				"email": "aadisrikanth@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23198746547178165,
+		"detail": {
+			"quality": 0.6081416904986702,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.3016803e-7
+}

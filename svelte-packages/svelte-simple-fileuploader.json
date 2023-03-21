@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-simple-fileuploader",
+		"scope": "unscoped",
+		"version": "1.0.7",
+		"description": "A small file uploader lib for Svelte",
+		"keywords": [
+			"sveltekit",
+			"svelte",
+			"fileuploader",
+			"queenslab",
+			"happyatwork"
+		],
+		"date": "2021-07-15T16:06:48.514Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-simple-fileuploader"
+		},
+		"author": {
+			"name": "Nils Kjellman & Marcus Nordquist"
+		},
+		"publisher": {
+			"username": "cyspid",
+			"email": "marcus@ninc.org"
+		},
+		"maintainers": [
+			{
+				"username": "cyspid",
+				"email": "marcus@ninc.org"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23491540879775114,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.002082247683659026,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 1.3249041e-7
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@developedbyant/svelte-toasts",
+		"scope": "developedbyant",
+		"version": "0.0.1",
+		"description": "A simple svelte toasts module",
+		"date": "2022-10-01T22:24:47.841Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40developedbyant%2Fsvelte-toasts"
+		},
+		"publisher": {
+			"username": "developedbyant",
+			"email": "developedbyant@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "developedbyant",
+				"email": "developedbyant@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21094596819879868,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.0018034410040917235,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 2.163763e-8
+}

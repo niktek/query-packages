@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-lucide-icons",
+		"scope": "unscoped",
+		"version": "0.6.0",
+		"description": "Lucide icon as Svelte components",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"icon",
+			"svg",
+			"lucide"
+		],
+		"date": "2022-05-09T07:53:12.521Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-lucide-icons"
+		},
+		"author": {
+			"name": "Sri Aspari",
+			"email": "mail@siarie.me",
+			"url": "https://github.com/siarie",
+			"username": "siariee"
+		},
+		"publisher": {
+			"username": "siariee",
+			"email": "mail@siarie.me"
+		},
+		"maintainers": [
+			{
+				"username": "siariee",
+				"email": "mail@siarie.me"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23878843795386953,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.007219062842163999,
+			"maintenance": 0.3125618435596447
+		}
+	},
+	"searchScore": 1.6405059e-7
+}

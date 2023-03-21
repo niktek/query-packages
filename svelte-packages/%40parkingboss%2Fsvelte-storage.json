@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@parkingboss/svelte-storage",
+		"scope": "parkingboss",
+		"version": "1.0.5",
+		"description": "Cross Platform Permanent Storage stores (using store.js)",
+		"keywords": [
+			"svelte",
+			"storage",
+			"store"
+		],
+		"date": "2020-04-17T14:28:49.691Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40parkingboss%2Fsvelte-storage",
+			"homepage": "https://github.com/parkingboss/svelte-storage#readme",
+			"repository": "https://github.com/parkingboss/svelte-storage",
+			"bugs": "https://github.com/parkingboss/svelte-storage/issues"
+		},
+		"author": {
+			"name": "Parking Boss"
+		},
+		"publisher": {
+			"username": "crisfole",
+			"email": "cpfohl@parkingboss.com"
+		},
+		"maintainers": [
+			{
+				"username": "crisfole",
+				"email": "cpfohl@parkingboss.com"
+			},
+			{
+				"username": "jpfohl",
+				"email": "jpfohl@parkingboss.com"
+			},
+			{
+				"username": "nlemesurier",
+				"email": "nathan@parkingboss.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19152051077122234,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.020530045294521154,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.083925e-8
+}

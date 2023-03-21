@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@svel/router",
+		"scope": "svel",
+		"version": "1.0.0",
+		"description": "A router for Svelte.js",
+		"keywords": [
+			"svelte",
+			"router",
+			"routing"
+		],
+		"date": "2019-05-22T07:55:34.971Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svel%2Frouter",
+			"homepage": "https://github.com/wmzy/svelte-router#readme",
+			"repository": "https://github.com/wmzy/svelte-router",
+			"bugs": "https://github.com/wmzy/svelte-router/issues"
+		},
+		"author": {
+			"name": "Evan You"
+		},
+		"publisher": {
+			"username": "wmzy",
+			"email": "1256573276@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "wmzy",
+				"email": "1256573276@qq.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23027091319623144,
+		"detail": {
+			"quality": 0.6362840192096919,
+			"popularity": 0.022788895129476558,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.152433e-8
+}

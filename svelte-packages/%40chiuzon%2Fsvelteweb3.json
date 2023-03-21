@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@chiuzon/svelteweb3",
+		"scope": "chiuzon",
+		"version": "0.4.2",
+		"description": "A simple, dependency minimized package for building modern dApps with SvelteKit",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"web3",
+			"svelteweb3",
+			"web3provider",
+			"web3connector"
+		],
+		"date": "2021-12-30T12:36:21.482Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40chiuzon%2Fsvelteweb3",
+			"homepage": "https://github.com/chiuzon/svelteWeb3#readme",
+			"repository": "https://github.com/chiuzon/svelteWeb3",
+			"bugs": "https://github.com/chiuzon/svelteWeb3/issues"
+		},
+		"publisher": {
+			"username": "chiuzon",
+			"email": "chiuzon@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "chiuzon",
+				"email": "chiuzon@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18255452730064442,
+		"detail": {
+			"quality": 0.23926108599618262,
+			"popularity": 0.003941589302611426,
+			"maintenance": 0.3125618435596447
+		}
+	},
+	"searchScore": 2.3443196e-9
+}

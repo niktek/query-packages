@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "mapa-mundi",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-11-10T17:37:59.661Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/mapa-mundi"
+		},
+		"publisher": {
+			"username": "gerardfp",
+			"email": "gerardfp@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gerardfp",
+				"email": "gerardfp@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21132659001699589,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.001815656621182921,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 5.1351714e-9
+}

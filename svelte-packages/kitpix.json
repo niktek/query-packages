@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "kitpix",
+		"scope": "unscoped",
+		"version": "0.0.6",
+		"description": "SvelteKit image component with build-time and client-side optimizations. Supports various image delivery services.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"kit",
+			"image",
+			"component"
+		],
+		"date": "2022-03-15T01:30:03.374Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/kitpix"
+		},
+		"publisher": {
+			"username": "dayvista",
+			"email": "liamdavis@tuta.io"
+		},
+		"maintainers": [
+			{
+				"username": "dayvista",
+				"email": "liamdavis@tuta.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2564040597040374,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.02256642933063337,
+			"maintenance": 0.3248930893877815
+		}
+	},
+	"searchScore": 1.9475651e-7
+}

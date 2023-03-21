@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@beyond-js/svelte-widgets",
+		"scope": "beyond-js",
+		"version": "0.1.1",
+		"description": "`@beyond-js/svelte-widgets` is a package for [BeyondJS](https://beyondjs.com), a platform for creating web projects as independent microfrontends. This package, built on `@beyond-js/widgets`, allows developers to use the Svelte framework in BeyondJS proje",
+		"date": "2023-02-02T05:06:57.259Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40beyond-js%2Fsvelte-widgets"
+		},
+		"publisher": {
+			"username": "ftovar8",
+			"email": "felix.godo@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ftovar8",
+				"email": "felix.godo@gmail.com"
+			},
+			{
+				"username": "jircdev",
+				"email": "jircdev@gmail.com"
+			},
+			{
+				"username": "hello-beyond",
+				"email": "hello@beyondjs.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2471479220616576,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.026389087910768903,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.1830596e-7
+}

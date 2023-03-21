@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@bluishoul/indexea-widgets",
+		"scope": "bluishoul",
+		"version": "0.1.0-alpha.0",
+		"description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+		"date": "2022-10-30T15:49:23.224Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bluishoul%2Findexea-widgets"
+		},
+		"publisher": {
+			"username": "bluishoul",
+			"email": "bluishoul@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bluishoul",
+				"email": "bluishoul@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24422823913545705,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.002341674499315524,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 2.994048e-8
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "toastvelte",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "a simple toast system for svelte apps with no external dependencies",
+		"keywords": [
+			"toastvelte"
+		],
+		"date": "2022-12-08T21:04:09.127Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/toastvelte"
+		},
+		"author": {
+			"name": "cafecomcodigo"
+		},
+		"publisher": {
+			"username": "cafecomcodigo",
+			"email": "erivaldo@cafecomcodigo.com.br"
+		},
+		"maintainers": [
+			{
+				"username": "cafecomcodigo",
+				"email": "erivaldo@cafecomcodigo.com.br"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24204020924985598,
+		"detail": {
+			"quality": 0.3978848512430746,
+			"popularity": 0.018593051090539478,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 3.4332327e-8
+}

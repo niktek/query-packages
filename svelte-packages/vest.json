@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "vest",
+		"scope": "unscoped",
+		"version": "4.6.9",
+		"description": "A lightweight, extensible, and framework agnostic validation framework inspired by unit testing libraries.",
+		"keywords": [
+			"vest",
+			"enforce",
+			"validation",
+			"form",
+			"react-validation",
+			"vue-validation",
+			"angular-validation",
+			"validation-framework",
+			"svelte-validation",
+			"schema-validation"
+		],
+		"date": "2023-03-08T22:05:00.257Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vest",
+			"homepage": "https://vestjs.dev/",
+			"repository": "https://github.com/ealush/vest"
+		},
+		"author": {
+			"name": "ealush"
+		},
+		"publisher": {
+			"username": "ealush",
+			"email": "code@ealush.com"
+		},
+		"maintainers": [
+			{
+				"username": "ealush",
+				"email": "code@ealush.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.4351403987665028,
+		"detail": {
+			"quality": 0.9683738882075962,
+			"popularity": 0.07989018753587801,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00018763459
+}

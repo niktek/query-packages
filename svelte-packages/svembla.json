@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svembla",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Lightweight [Svelte](https://svelte.dev) (typescript) action wrapper around [Embla Carousel](https://www.embla-carousel.com). Add `use:embla` to any DOMnode structured as described in the [Embla docs](https://www.embla-carousel.com/get-started/module/) an",
+		"date": "2022-05-12T21:12:55.776Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svembla",
+			"homepage": "https://github.com/nikolai-cc/svembla#readme",
+			"repository": "https://github.com/nikolai-cc/svembla",
+			"bugs": "https://github.com/nikolai-cc/svembla/issues"
+		},
+		"author": {
+			"name": "nikolai-cc",
+			"url": "https://nikolai.cc"
+		},
+		"publisher": {
+			"username": "nikolai-cc",
+			"email": "npm@nikolai.cc"
+		},
+		"maintainers": [
+			{
+				"username": "nikolai-cc",
+				"email": "npm@nikolai.cc"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23571760905000855,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.00966654539595942,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 1.4632558e-8
+}

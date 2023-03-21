@@ -1,0 +1,60 @@
+{
+	"package": {
+		"name": "ts-retry",
+		"scope": "unscoped",
+		"version": "4.1.1",
+		"description": "A little retry tool to execute a function until the function is successful. Can also bind a timeout to a function. This lib is usable in typescript, in javascript, in node, in SPA tools (rest, Vue, Svelte...) and browser (available in ESM and common js fo",
+		"keywords": [
+			"typescript",
+			"javascript",
+			"retry",
+			"repeat",
+			"replay",
+			"node",
+			"nodejs",
+			"error",
+			"promise",
+			"async",
+			"await",
+			"asyncawait",
+			"trycatch",
+			"react",
+			"reactjs",
+			"angular",
+			"vue",
+			"svelte",
+			"deno"
+		],
+		"date": "2022-12-24T15:52:08.385Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/ts-retry",
+			"homepage": "https://github.com/franckLdx/ts-retry#readme",
+			"repository": "https://github.com/franckLdx/ts-retry",
+			"bugs": "https://github.com/franckLdx/ts-retry/issues"
+		},
+		"author": {
+			"name": "Franck Ledoux",
+			"email": "franck.ledoux.pro@gmail.com",
+			"username": "franckldx"
+		},
+		"publisher": {
+			"username": "franckldx",
+			"email": "franck.ledoux.pro@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "franckldx",
+				"email": "franck.ledoux.pro@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3050309480162482,
+		"detail": {
+			"quality": 0.5328975035838066,
+			"popularity": 0.08141437221268458,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000019323786
+}

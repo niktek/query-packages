@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@rpiotti/cdk-webapp-tools",
+		"scope": "rpiotti",
+		"version": "2.10.4",
+		"description": "A collection of CDK constructs to assist in working with single-page web applications deployed on AWS.",
+		"keywords": [
+			"angular",
+			"aws",
+			"cdk",
+			"config",
+			"deploy",
+			"react",
+			"svelte"
+		],
+		"date": "2022-02-23T20:28:46.062Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40rpiotti%2Fcdk-webapp-tools",
+			"homepage": "https://github.com/davidtucker/cdk-webapp-tools#readme",
+			"bugs": "https://github.com/davidtucker/cdk-webapp-tools/issues"
+		},
+		"author": {
+			"name": "David Tucker",
+			"url": "https://davidtucker.net/"
+		},
+		"publisher": {
+			"username": "rpiotti",
+			"email": "rpiotti@yahoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "rpiotti",
+				"email": "rpiotti@yahoo.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20245071097026168,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.0013064029192055117,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 6.1098286e-9
+}

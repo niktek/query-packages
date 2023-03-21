@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "svelte-filepond",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "A handy FilePond adapter component for Svelte",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"filepond",
+			"file",
+			"upload",
+			"drag",
+			"drop",
+			"browse",
+			"image",
+			"preview"
+		],
+		"date": "2021-05-10T07:29:56.870Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-filepond",
+			"homepage": "https://pqina.nl/filepond",
+			"repository": "https://github.com/pqina/svelte-filepond",
+			"bugs": "https://github.com/pqina/svelte-filepond/issues"
+		},
+		"author": {
+			"name": "PQINA",
+			"url": "https://pqina.nl"
+		},
+		"publisher": {
+			"username": "pqina",
+			"email": "info@pqina.nl"
+		},
+		"maintainers": [
+			{
+				"username": "pqina",
+				"email": "info@pqina.nl"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20534794919818827,
+		"detail": {
+			"quality": 0.520646441024333,
+			"popularity": 0.033435255655977686,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 3.597227e-8
+}

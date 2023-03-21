@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@dimm-city/dc-cyberwar",
+		"scope": "dimm-city",
+		"version": "0.0.5",
+		"description": "Everything you need to build a Svelte library, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-03-15T15:40:41.804Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40dimm-city%2Fdc-cyberwar"
+		},
+		"publisher": {
+			"username": "itlackey",
+			"email": "itlackey@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "itlackey",
+				"email": "itlackey@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23057740618509412,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.005556581520764356,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.7865712e-8
+}

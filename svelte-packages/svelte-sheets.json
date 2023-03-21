@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-sheets",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Run your excel sheet in the browser!",
+		"keywords": [
+			"svelte",
+			"xlsx",
+			"excel",
+			"spreadsheets"
+		],
+		"date": "2022-05-16T16:15:07.940Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-sheets"
+		},
+		"author": {
+			"name": "Thibaut Duchêne"
+		},
+		"publisher": {
+			"username": "ticruz38",
+			"email": "thib.duchene@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ticruz38",
+				"email": "thib.duchene@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21343103034231517,
+		"detail": {
+			"quality": 0.5039755837380318,
+			"popularity": 0.007099084916942761,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 3.9449294e-8
+}

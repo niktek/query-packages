@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "sveltekit-adapter-html-like",
+		"scope": "unscoped",
+		"version": "0.3.1",
+		"description": "SvelteKit adapter for HTML-like template engines such as PHP, Blade, Handlebars, etc.",
+		"keywords": [
+			"sveltekit-adapter",
+			"svelte",
+			"sveltekit",
+			"php",
+			"blade",
+			"embedded ruby",
+			"erb",
+			"moustache",
+			"handlebars",
+			"ejs"
+		],
+		"date": "2022-12-20T20:50:54.427Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-adapter-html-like",
+			"homepage": "https://github.com/idleberg/sveltekit-adapter-html-like#readme",
+			"repository": "https://github.com/idleberg/sveltekit-adapter-html-like",
+			"bugs": "https://github.com/idleberg/sveltekit-adapter-html-like/issues"
+		},
+		"publisher": {
+			"username": "idleberg",
+			"email": "npm@idleberg.com"
+		},
+		"maintainers": [
+			{
+				"username": "idleberg",
+				"email": "npm@idleberg.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22846765503603933,
+		"detail": {
+			"quality": 0.36872506351612505,
+			"popularity": 0.006692782029328696,
+			"maintenance": 0.3300218922026766
+		}
+	},
+	"searchScore": 4.4948784e-8
+}

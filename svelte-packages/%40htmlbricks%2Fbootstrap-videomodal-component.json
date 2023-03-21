@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@htmlbricks/bootstrap-videomodal-component",
+		"scope": "htmlbricks",
+		"version": "0.2.4",
+		"description": "Svelte-Bootstrap Video Modal WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2022-01-02T19:14:28.792Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fbootstrap-videomodal-component"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21782250521992047,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.003984291847636583,
+			"maintenance": 0.32950390540372254
+		}
+	},
+	"searchScore": 2.3805043e-8
+}

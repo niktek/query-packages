@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@svelte-add/create-kit",
+		"scope": "svelte-add",
+		"version": "2022.12.0-9.0",
+		"description": "Create a SvelteKit app with extra integrations",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"svelte-kit",
+			"svelte-add"
+		],
+		"date": "2022-12-10T03:52:40.933Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-add%2Fcreate-kit",
+			"homepage": "https://github.com/svelte-add/svelte-add",
+			"repository": "https://github.com/svelte-add/svelte-add",
+			"bugs": "https://github.com/svelte-add/svelte-add/issues"
+		},
+		"author": {
+			"name": "J / Jacob Babich",
+			"email": "jacobbabichpublic+git@gmail.com"
+		},
+		"publisher": {
+			"username": "babichjacob",
+			"email": "jacobbabichpublic+npm@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "babichjacob",
+				"email": "jacobbabichpublic+npm@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27096260866536953,
+		"detail": {
+			"quality": 0.5064882762472971,
+			"popularity": 0.0067127403557535655,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.502208e-7
+}

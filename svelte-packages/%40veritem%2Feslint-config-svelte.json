@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@veritem/eslint-config-svelte",
+		"scope": "veritem",
+		"version": "0.0.6",
+		"date": "2023-01-11T21:27:12.523Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40veritem%2Feslint-config-svelte"
+		},
+		"author": {
+			"name": "Makuza Mugabo Verite",
+			"email": "mugaboverite@gmail.com",
+			"url": "https://veritem.me/",
+			"username": "veritem"
+		},
+		"publisher": {
+			"username": "veritem",
+			"email": "mugaboverite@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "veritem",
+				"email": "mugaboverite@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2255132114160064,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.02214056168321556,
+			"maintenance": 0.3333210818426748
+		}
+	},
+	"searchScore": 5.31899e-8
+}

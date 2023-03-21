@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@spacepbnjam/sk-ui-library",
+		"scope": "spacepbnjam",
+		"version": "0.0.10",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-05-11T13:50:41.995Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40spacepbnjam%2Fsk-ui-library"
+		},
+		"publisher": {
+			"username": "spacepbnjam",
+			"email": "sandersd27@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "spacepbnjam",
+				"email": "sandersd27@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19905258852839097,
+		"detail": {
+			"quality": 0.28896411309638304,
+			"popularity": 0.001707923805054072,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 2.272634e-9
+}

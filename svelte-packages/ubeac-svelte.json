@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "ubeac-svelte",
+		"scope": "unscoped",
+		"version": "0.0.45",
+		"description": "uBeac's Opinionated Svelte Component library",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"bootstrap",
+			"tabler",
+			"svelte components",
+			"svelte-components",
+			"svelte-kit",
+			"sveltekit",
+			"ubeac",
+			"ubeac svelte",
+			"ubeac svelte components",
+			"ubeac svelte kit",
+			"tabler"
+		],
+		"date": "2023-01-23T14:10:45.867Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/ubeac-svelte",
+			"homepage": "https://svelte.ubeac.io/",
+			"repository": "https://github.com/ubeac/svelte",
+			"bugs": "https://github.com/ubeac/svelte/issues"
+		},
+		"author": {
+			"name": "Amir Pournasserian",
+			"email": "ap@ubeac.io"
+		},
+		"publisher": {
+			"username": "thehadihmadi",
+			"email": "TheHadiAhmadi@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thehadihmadi",
+				"email": "TheHadiAhmadi@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.27533251688544896,
+		"detail": {
+			"quality": 0.5088071151157153,
+			"popularity": 0.017210616240193495,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000013690715
+}

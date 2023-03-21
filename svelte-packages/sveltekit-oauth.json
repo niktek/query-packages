@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "sveltekit-oauth",
+		"scope": "unscoped",
+		"version": "0.1.5",
+		"description": "SvelteKit authentication library with built-in OAuth providers and unrestricted customization.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"auth",
+			"authentication",
+			"csrf",
+			"jwt",
+			"nodejs",
+			"oauth",
+			"oauth2",
+			"oidc",
+			"rbac"
+		],
+		"date": "2022-08-01T03:03:52.356Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-oauth"
+		},
+		"publisher": {
+			"username": "vhsdev",
+			"email": "vhsdev@tutanota.com"
+		},
+		"maintainers": [
+			{
+				"username": "vhsdev",
+				"email": "vhsdev@tutanota.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24976154507127568,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0035878160941713445,
+			"maintenance": 0.3248930893877815
+		}
+	},
+	"searchScore": 1.5989447e-7
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-transitions",
+		"scope": "unscoped",
+		"version": "1.2.0",
+		"description": "Officially supported transition plugins for Svelte",
+		"keywords": [
+			"svelte",
+			"transitions",
+			"css",
+			"animation"
+		],
+		"date": "2018-05-17T00:40:27.940Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-transitions",
+			"homepage": "https://github.com/sveltejs/svelte-transitions#readme",
+			"repository": "https://github.com/sveltejs/svelte-transitions",
+			"bugs": "https://github.com/sveltejs/svelte-transitions/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "rich_harris",
+			"email": "richard.a.harris@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20997198061911926,
+		"detail": {
+			"quality": 0.55,
+			"popularity": 0.03874967566032061,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.404624e-8
+}

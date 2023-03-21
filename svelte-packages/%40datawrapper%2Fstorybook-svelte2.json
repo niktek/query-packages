@@ -1,0 +1,109 @@
+{
+	"package": {
+		"name": "@datawrapper/storybook-svelte2",
+		"scope": "datawrapper",
+		"version": "5.0.13",
+		"description": "Storybook for Svelte: Develop Svelte Component in isolation with Hot Reloading.",
+		"keywords": [
+			"storybook"
+		],
+		"date": "2022-08-22T12:28:46.162Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40datawrapper%2Fstorybook-svelte2",
+			"homepage": "https://github.com/storybooks/storybook/tree/master/app/svelte",
+			"repository": "https://github.com/storybooks/storybook",
+			"bugs": "https://github.com/storybooks/storybook/issues"
+		},
+		"publisher": {
+			"username": "gka",
+			"email": "gregor@datawrapper.de"
+		},
+		"maintainers": [
+			{
+				"username": "gustavneustadt",
+				"email": "extinct-crests0g@icloud.com"
+			},
+			{
+				"username": "inga-datawrapper",
+				"email": "inga@datawrapper.de"
+			},
+			{
+				"username": "elliot_b",
+				"email": "elliot@datawrapper.de"
+			},
+			{
+				"username": "doceazedo",
+				"email": "eu@doceazedo.com"
+			},
+			{
+				"username": "pabueco",
+				"email": "pbue@proton.me"
+			},
+			{
+				"username": "msigwart",
+				"email": "marten@okamaja.de"
+			},
+			{
+				"username": "gka",
+				"email": "gregor@datawrapper.de"
+			},
+			{
+				"username": "ilokhov",
+				"email": "ilokhov.dev@gmail.com"
+			},
+			{
+				"username": "davidkokkelink",
+				"email": "david@datawrapper.de"
+			},
+			{
+				"username": "dw-deploy-bot",
+				"email": "hello@datawrapper.de"
+			},
+			{
+				"username": "elanals",
+				"email": "elana@hotmail.co.uk"
+			},
+			{
+				"username": "lisacrost",
+				"email": "lisacharlotterost@gmail.com"
+			},
+			{
+				"username": "jakubdatawrapper",
+				"email": "jakub@datawrapper.de"
+			},
+			{
+				"username": "exo_dw",
+				"email": "exo@datawrapper.de"
+			},
+			{
+				"username": "anna-dw",
+				"email": "anna@datawrapper.de"
+			},
+			{
+				"username": "aya-dw",
+				"email": "aya@datawrapper.de"
+			},
+			{
+				"username": "davidw-dw",
+				"email": "david.wendler@datawrapper.de"
+			},
+			{
+				"username": "danieladw",
+				"email": "daniela@datawrapper.de"
+			},
+			{
+				"username": "margauxbourdon",
+				"email": "margaux@datawrapper.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2497909093726287,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.022599321910395494,
+			"maintenance": 0.32323272863317754
+		}
+	},
+	"searchScore": 1.5778075e-7
+}

@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@yababay67/svelte-meets-pug",
+		"scope": "yababay67",
+		"version": "0.4.7",
+		"description": "Reusable pug components for svelte modules.",
+		"keywords": [
+			"svelte",
+			"web",
+			"template",
+			"pug"
+		],
+		"date": "2022-01-27T01:34:47.140Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40yababay67%2Fsvelte-meets-pug",
+			"homepage": "https://github.com/yababay/svelte-meets-pug#readme",
+			"repository": "https://github.com/yababay/svelte-meets-pug",
+			"bugs": "https://github.com/yababay/svelte-meets-pug/issues"
+		},
+		"author": {
+			"name": "Michael Belyakov"
+		},
+		"publisher": {
+			"username": "yababay67",
+			"email": "bigbelk@live.ru"
+		},
+		"maintainers": [
+			{
+				"username": "yababay67",
+				"email": "bigbelk@live.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21379868733738794,
+		"detail": {
+			"quality": 0.3211379723141067,
+			"popularity": 0.0051119994423530265,
+			"maintenance": 0.3304802738238068
+		}
+	},
+	"searchScore": 3.1419724e-8
+}

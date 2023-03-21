@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@rokkit/markdown",
+		"scope": "rokkit",
+		"version": "1.0.0-next.11",
+		"description": "Markdown based components for svelte apps.",
+		"date": "2023-03-20T10:02:51.243Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40rokkit%2Fmarkdown"
+		},
+		"author": {
+			"name": "Jerry Thomas",
+			"email": "me@jerrythomas.name",
+			"username": "jerrythomas"
+		},
+		"publisher": {
+			"username": "jerrythomas",
+			"email": "me@jerrythomas.name"
+		},
+		"maintainers": [
+			{
+				"username": "jerrythomas",
+				"email": "me@jerrythomas.name"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23130689618809608,
+		"detail": {
+			"quality": 0.36244315442682107,
+			"popularity": 0.016877951981094572,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.1644253e-8
+}

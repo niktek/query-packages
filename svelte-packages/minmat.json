@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "minmat",
+		"scope": "unscoped",
+		"version": "0.1.15",
+		"description": "Minimalistic material design svelte library",
+		"keywords": [
+			"material",
+			"svelte",
+			"components"
+		],
+		"date": "2021-12-01T22:34:04.719Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/minmat",
+			"homepage": "https://github.com/pvharmo/minmat#readme",
+			"repository": "https://github.com/pvharmo/minmat",
+			"bugs": "https://github.com/pvharmo/minmat/issues"
+		},
+		"author": {
+			"name": "Jonathan Caron-Roberge"
+		},
+		"publisher": {
+			"username": "pvharmo",
+			"email": "jonathan@sports-lamitis.com"
+		},
+		"maintainers": [
+			{
+				"username": "pvharmo",
+				"email": "jonathan@sports-lamitis.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23006088232653943,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0025352249249302335,
+			"maintenance": 0.2830659289854068
+		}
+	},
+	"searchScore": 4.581914e-8
+}

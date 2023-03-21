@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "@coriolis/coriolis-svelte",
+		"scope": "coriolis",
+		"version": "1.0.0-alpha2",
+		"description": "Coriolis wrapper for Svelte",
+		"keywords": [
+			"coriolis",
+			"event",
+			"eventsourcing",
+			"effect",
+			"aggregate",
+			"projection",
+			"reducer",
+			"predictable",
+			"functional",
+			"immutable",
+			"hot",
+			"live",
+			"replay",
+			"store",
+			"svelte"
+		],
+		"date": "2020-07-11T23:21:52.370Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40coriolis%2Fcoriolis-svelte",
+			"homepage": "https://github.com/coriolisjs/coriolis-svelte#readme",
+			"repository": "https://github.com/coriolisjs/coriolis-svelte",
+			"bugs": "https://github.com/coriolisjs/coriolis-svelte/issues"
+		},
+		"author": {
+			"name": "Nicolas Deveaud"
+		},
+		"publisher": {
+			"username": "nicolas.deveaud",
+			"email": "nicolas.deveaud@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nicolas.deveaud",
+				"email": "nicolas.deveaud@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17410107255632096,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.02256642933063337,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.27419e-9
+}

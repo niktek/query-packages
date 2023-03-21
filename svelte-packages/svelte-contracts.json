@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-contracts",
+		"scope": "unscoped",
+		"version": "1.1.25",
+		"description": "Svelte stores library to access contracts addresses on any Ethereum forked chain.",
+		"keywords": [
+			"svelte",
+			"web3",
+			"ethereum",
+			"blockchain",
+			"svelte-kit"
+		],
+		"date": "2022-01-05T04:23:09.034Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-contracts",
+			"homepage": "https://github.com/PythoniCode/svelte-contracts#readme",
+			"repository": "https://github.com/PythoniCode/svelte-contracts",
+			"bugs": "https://github.com/PythoniCode/svelte-contracts/issues"
+		},
+		"author": {
+			"name": "Anthony Riley"
+		},
+		"publisher": {
+			"username": "anthonyriley",
+			"email": "anthony.j.riley@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anthonyriley",
+				"email": "anthony.j.riley@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23964324835830306,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.0035352341706586863,
+			"maintenance": 0.26553959869041865
+		}
+	},
+	"searchScore": 1.8595252e-7
+}

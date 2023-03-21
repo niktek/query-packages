@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@svelte-studios/app-context-events",
+		"scope": "svelte-studios",
+		"version": "1.0.3",
+		"date": "2021-03-01T04:16:02.491Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-studios%2Fapp-context-events",
+			"homepage": "https://github.com/svelte-studios/app-context-events#readme",
+			"repository": "https://github.com/svelte-studios/app-context-events",
+			"bugs": "https://github.com/svelte-studios/app-context-events/issues"
+		},
+		"author": {
+			"name": "Svelte Studios",
+			"email": "info@sveltestudios.com"
+		},
+		"publisher": {
+			"username": "terencek",
+			"email": "terencejkruger@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sveltestudios",
+				"email": "support@sveltestudios.com"
+			},
+			{
+				"username": "terencek",
+				"email": "terencejkruger@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17870409460995107,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.01845482584589333,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 2.7148137e-9
+}

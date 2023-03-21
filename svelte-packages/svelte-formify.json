@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-formify",
+		"scope": "unscoped",
+		"version": "1.1.16",
+		"description": "A library to manage and validate the forms. This library uses decorators to define validations.",
+		"keywords": [
+			"svelte",
+			"svelte-forms",
+			"svelte validation"
+		],
+		"date": "2022-04-10T22:08:32.153Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-formify"
+		},
+		"author": {
+			"name": "Hasan Oezdemir",
+			"url": "https://github.com/nodify-at"
+		},
+		"publisher": {
+			"username": "nodify_at",
+			"email": "post@nodify.at"
+		},
+		"maintainers": [
+			{
+				"username": "nodify_at",
+				"email": "post@nodify.at"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3377722907651776,
+		"detail": {
+			"quality": 0.7460215191123266,
+			"popularity": 0.003746757005987222,
+			"maintenance": 0.3218699145125261
+		}
+	},
+	"searchScore": 0.000018860403
+}

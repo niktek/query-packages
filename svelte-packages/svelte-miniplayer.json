@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-miniplayer",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Lightweight, fast, resizable and draggable miniplayer for Svelte.",
+		"keywords": [
+			"miniplayer",
+			"pip",
+			"svelte",
+			"resizable",
+			"draggable"
+		],
+		"date": "2022-09-21T21:46:15.738Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-miniplayer",
+			"homepage": "https://github.com/ThaUnknown/svelte-miniplayer#readme",
+			"repository": "https://github.com/ThaUnknown/svelte-miniplayer",
+			"bugs": "https://github.com/ThaUnknown/svelte-miniplayer/issues"
+		},
+		"author": {
+			"name": "ThaUnknown"
+		},
+		"publisher": {
+			"username": "thaunknown",
+			"email": "casistaken@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thaunknown",
+				"email": "casistaken@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2700156992529878,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0029880111520730985,
+			"maintenance": 0.33155569877036956
+		}
+	},
+	"searchScore": 8.7144355e-7
+}

@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "menus-hbr-sapper",
+		"scope": "unscoped",
+		"version": "0.29.8",
+		"description": "The next small thing in web development, powered by Svelte...with Hash Based Routing...customized for menus.com",
+		"keywords": [
+			"svelte",
+			"isomorphic",
+			"universal",
+			"template",
+			"express"
+		],
+		"date": "2022-04-13T17:09:50.657Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/menus-hbr-sapper",
+			"homepage": "https://github.com/btakita/sapper#menus-hbr#readme",
+			"repository": "https://github.com/btakita/sapper/tree/menus-hbr",
+			"bugs": "https://github.com/btakita/sapper/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "btakita",
+			"email": "brian.takita@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "btakita",
+				"email": "brian.takita@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1987776002619291,
+		"detail": {
+			"quality": 0.2789709984822165,
+			"popularity": 0.0017865519597952627,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 4.8057465e-9
+}

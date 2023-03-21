@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-jester-mock",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "A VERY \"simple\"/primitive mock system and jest matchers for svelte-jester",
+		"date": "2020-09-27T21:32:59.918Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-jester-mock"
+		},
+		"author": {
+			"name": "IgnusG"
+		},
+		"publisher": {
+			"username": "ignusg",
+			"email": "ignus.gracia+npmjs.com@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ignusg",
+				"email": "ignus.gracia+npmjs.com@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18187054871497138,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.014268279200109622,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.3904897e-9
+}

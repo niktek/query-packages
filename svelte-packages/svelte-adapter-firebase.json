@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "svelte-adapter-firebase",
+		"scope": "unscoped",
+		"version": "0.15.0",
+		"description": "Adapter for Svelte apps that integrates a Firebase Hosting Website with Cloud Functions or Cloud Run for server side rendering.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"sveltekit-adapter",
+			"firebase",
+			"cloud-functions",
+			"cloud-run",
+			"serverless",
+			"ssr"
+		],
+		"date": "2023-01-17T02:32:22.230Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-adapter-firebase",
+			"homepage": "https://github.com/jthegedus/svelte-adapter-firebase#readme",
+			"repository": "https://github.com/jthegedus/svelte-adapter-firebase",
+			"bugs": "https://github.com/jthegedus/svelte-adapter-firebase/issues"
+		},
+		"author": {
+			"name": "James Hegedus",
+			"email": "jthegedus@hey.com",
+			"username": "jthegedus"
+		},
+		"publisher": {
+			"username": "jthegedus",
+			"email": "jthegedus@hey.com"
+		},
+		"maintainers": [
+			{
+				"username": "jthegedus",
+				"email": "jthegedus@hey.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2541588162663489,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.007863777111626261,
+			"maintenance": 0.33318076035625
+		}
+	},
+	"searchScore": 3.454002e-7
+}

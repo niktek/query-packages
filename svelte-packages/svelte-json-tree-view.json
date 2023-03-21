@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-json-tree-view",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "JSONTreeView action and component for Svelte 3",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-10-28T21:41:58.284Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-json-tree-view",
+			"bugs": "https://github.com/PaulMaly/svelte-json-tree-view/issues"
+		},
+		"author": {
+			"name": "PaulMaly"
+		},
+		"publisher": {
+			"username": "paulmaly",
+			"email": "paul.malys@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "paulmaly",
+				"email": "paul.malys@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19696149999068663,
+		"detail": {
+			"quality": 0.55,
+			"popularity": 0.0015768738647987575,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.33926745e-8
+}

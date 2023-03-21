@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@sveltejs/site-kit",
+		"scope": "sveltejs",
+		"version": "3.2.2",
+		"description": "Styles and components for use in *.svelte.dev websites",
+		"date": "2023-02-07T10:22:07.600Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltejs%2Fsite-kit",
+			"homepage": "https://github.com/sveltejs/site-kit#readme",
+			"repository": "https://github.com/sveltejs/site-kit",
+			"bugs": "https://github.com/sveltejs/site-kit/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "svelte-admin",
+			"email": "richard.a.harris+svelte@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			},
+			{
+				"username": "svelte-admin",
+				"email": "richard.a.harris+svelte@gmail.com"
+			},
+			{
+				"username": "conduitry",
+				"email": "npm@chor.date"
+			},
+			{
+				"username": "dominik_g",
+				"email": "dominik.goepel@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27326390098104636,
+		"detail": {
+			"quality": 0.4836381509983027,
+			"popularity": 0.03287368289968265,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.3997954e-7
+}

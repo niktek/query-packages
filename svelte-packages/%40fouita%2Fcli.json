@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@fouita/cli",
+		"scope": "fouita",
+		"version": "0.0.1",
+		"description": "fouita CLI to build custom svelte apps",
+		"keywords": [
+			"fouita",
+			"cli",
+			"svelte",
+			"tailwindcss"
+		],
+		"date": "2022-07-27T06:26:56.171Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40fouita%2Fcli"
+		},
+		"author": {
+			"name": "abdelhay"
+		},
+		"publisher": {
+			"username": "fouita",
+			"email": "hq@fouita.com"
+		},
+		"maintainers": [
+			{
+				"username": "fouita",
+				"email": "hq@fouita.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2551219253386642,
+		"detail": {
+			"quality": 0.5580848404924482,
+			"popularity": 0.018302560434627937,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 2.1894463e-7
+}

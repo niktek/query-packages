@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-avatar",
+		"scope": "unscoped",
+		"version": "1.2.0",
+		"description": "An avatar component for Svelte",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-10-02T20:44:08.102Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-avatar",
+			"homepage": "https://svelte-avatar.netlify.app/",
+			"repository": "https://github.com/wdtamagi/svelte-avatar",
+			"bugs": "https://github.com/wdtamagi/svelte-avatar/issues"
+		},
+		"author": {
+			"name": "Willian Dias Tamagi"
+		},
+		"publisher": {
+			"username": "wdtamagi",
+			"email": "will.tamagi@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wdtamagi",
+				"email": "will.tamagi@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3052976332960873,
+		"detail": {
+			"quality": 0.621149076937051,
+			"popularity": 0.012345638871044328,
+			"maintenance": 0.32751981888601844
+		}
+	},
+	"searchScore": 0.000005397534
+}

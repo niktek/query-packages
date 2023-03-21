@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@so1ve/eslint-config-svelte",
+		"scope": "so1ve",
+		"version": "0.47.2",
+		"description": "Ray's eslint config for svelte.",
+		"keywords": [
+			"eslint",
+			"eslint-config",
+			"eslint-svelte",
+			"svelte"
+		],
+		"date": "2023-03-20T10:06:12.824Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40so1ve%2Feslint-config-svelte",
+			"homepage": "https://github.com/so1ve/eslint-config#readme",
+			"repository": "https://github.com/so1ve/eslint-config",
+			"bugs": "https://github.com/so1ve/eslint-config/issues"
+		},
+		"author": {
+			"name": "Ray",
+			"email": "i@mk1.io",
+			"url": "https://github.com/so1ve/"
+		},
+		"publisher": {
+			"username": "so1ve",
+			"email": "nn_201312@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "so1ve",
+				"email": "nn_201312@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2291863949963124,
+		"detail": {
+			"quality": 0.3595566954747321,
+			"popularity": 0.013293484820646056,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.026309e-8
+}

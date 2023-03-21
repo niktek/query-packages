@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "firefighter",
+		"scope": "unscoped",
+		"version": "0.7.0",
+		"description": "Firestore REST API wrapper library worked on sveltekit + Cloudflare Workers",
+		"keywords": [
+			"rest-api",
+			"cloudflare",
+			"workers",
+			"cloudflare workers",
+			"firestore",
+			"sveltekit"
+		],
+		"date": "2022-10-11T15:02:28.873Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/firefighter",
+			"homepage": "https://github.com/koheing/firefighter#readme",
+			"repository": "https://github.com/koheing/firefighter",
+			"bugs": "https://github.com/koheing/firefighter/issues"
+		},
+		"author": {
+			"name": "koheing"
+		},
+		"publisher": {
+			"username": "koheing",
+			"email": "saandna111@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "koheing",
+				"email": "saandna111@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25254920700249545,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0031188085186687024,
+			"maintenance": 0.3333268453381977
+		}
+	},
+	"searchScore": 5.3871663e-8
+}

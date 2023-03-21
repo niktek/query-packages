@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "sotion",
+		"scope": "unscoped",
+		"version": "1.1.2",
+		"description": "Notion as a CMS for Svelte 🗂",
+		"keywords": [
+			"svelte",
+			"notion",
+			"cms",
+			"renderer",
+			"sapper",
+			"ssr",
+			"typescript"
+		],
+		"date": "2021-06-27T14:19:49.344Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sotion",
+			"homepage": "https://github.com/noahsalvi/sotion#readme",
+			"repository": "https://github.com/noahsalvi/sotion",
+			"bugs": "https://github.com/noahsalvi/sotion/issues"
+		},
+		"author": {
+			"name": "Noah Salvi"
+		},
+		"publisher": {
+			"username": "noahsalvi",
+			"email": "noahsalvi@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "noahsalvi",
+				"email": "noahsalvi@me.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19892619964888977,
+		"detail": {
+			"quality": 0.4969965248782887,
+			"popularity": 0.002231133777026417,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 6.2881518e-9
+}

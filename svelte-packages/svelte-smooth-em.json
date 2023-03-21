@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-smooth-em",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "svelte smooth",
+		"keywords": [
+			"svelte-router"
+		],
+		"date": "2022-09-28T09:51:23.734Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-smooth-em"
+		},
+		"author": {
+			"name": "Lv"
+		},
+		"publisher": {
+			"username": "em00me",
+			"email": "2306483837@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "em00me",
+				"email": "2306483837@qq.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24008215407628924,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.018362687365230924,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.9837809e-7
+}

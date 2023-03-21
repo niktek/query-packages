@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "@unovis/svelte",
+		"scope": "unovis",
+		"version": "1.0.3",
+		"description": "Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript",
+		"keywords": [
+			"svelte",
+			"data visualization",
+			"maps",
+			"charts",
+			"graphs"
+		],
+		"date": "2023-02-15T22:19:22.658Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40unovis%2Fsvelte",
+			"homepage": "https://unovis.dev",
+			"repository": "https://github.com/f5/unovis",
+			"bugs": "https://github.com/f5/unovis/issues"
+		},
+		"author": {
+			"name": "Rebecca Bol, F5 Inc.",
+			"email": "r.bol@f5.com"
+		},
+		"publisher": {
+			"username": "nikita-rokotyan-f5",
+			"email": "nikita@f5.com"
+		},
+		"maintainers": [
+			{
+				"username": "caabernathy",
+				"email": "c.abernathy@f5.com"
+			},
+			{
+				"username": "nikita-rokotyan-f5",
+				"email": "nikita@f5.com"
+			},
+			{
+				"username": "rokotyan",
+				"email": "nikita@rokotyan.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26937306531678706,
+		"detail": {
+			"quality": 0.4893894636575902,
+			"popularity": 0.01682731300812393,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.262475e-7
+}

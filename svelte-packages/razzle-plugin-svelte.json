@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "razzle-plugin-svelte",
+		"scope": "unscoped",
+		"version": "4.2.18",
+		"description": "## Installation",
+		"date": "2022-10-25T21:11:12.964Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/razzle-plugin-svelte",
+			"homepage": "https://github.com/jaredpalmer/razzle#readme",
+			"repository": "https://github.com/jaredpalmer/razzle",
+			"bugs": "https://github.com/jaredpalmer/razzle/issues"
+		},
+		"publisher": {
+			"username": "razzle-bot",
+			"email": "razzle@jaredpalmer.com"
+		},
+		"maintainers": [
+			{
+				"username": "jaredpalmer",
+				"email": "jared@palmer.net"
+			},
+			{
+				"username": "razzle-bot",
+				"email": "razzle@jaredpalmer.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3509799018188135,
+		"detail": {
+			"quality": 0.7574246810551215,
+			"popularity": 0.02057222392263331,
+			"maintenance": 0.33300634036958693
+		}
+	},
+	"searchScore": 0.000024086048
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@taylorzane/svelte",
+		"scope": "taylorzane",
+		"version": "3.31.0",
+		"description": "Cybernetically enhanced web apps",
+		"keywords": [
+			"UI",
+			"framework",
+			"templates",
+			"templating"
+		],
+		"date": "2020-12-17T15:47:03.402Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40taylorzane%2Fsvelte",
+			"homepage": "https://github.com/sveltejs/svelte#README",
+			"repository": "https://github.com/sveltejs/svelte",
+			"bugs": "https://github.com/sveltejs/svelte/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "taylorzane",
+			"email": "tzglaeser@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "taylorzane",
+				"email": "tzglaeser@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23154892527531312,
+		"detail": {
+			"quality": 0.6454716817809788,
+			"popularity": 0.018565218865749824,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.1938211e-7
+}

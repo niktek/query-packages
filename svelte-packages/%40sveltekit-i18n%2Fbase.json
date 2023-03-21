@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@sveltekit-i18n/base",
+		"scope": "sveltekit-i18n",
+		"version": "1.2.1",
+		"description": "Base functionality of sveltekit-i18n library with a support for external message parsers.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"i18n",
+			"l10n",
+			"internationalization",
+			"localization",
+			"translation"
+		],
+		"date": "2022-05-01T10:50:27.894Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltekit-i18n%2Fbase",
+			"homepage": "https://github.com/sveltekit-i18n/base#readme",
+			"repository": "https://github.com/sveltekit-i18n/base",
+			"bugs": "https://github.com/sveltekit-i18n/lib/issues"
+		},
+		"author": {
+			"name": "Jarda Svoboda"
+		},
+		"publisher": {
+			"username": "jarda-svoboda",
+			"email": "scarabs04_chirps@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "jarda-svoboda",
+				"email": "scarabs04_chirps@icloud.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.29497011788156957,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.052051179080639255,
+			"maintenance": 0.32826099289888183
+		}
+	},
+	"searchScore": 0.000002388163
+}

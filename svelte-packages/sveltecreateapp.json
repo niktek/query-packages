@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "sveltecreateapp",
+		"scope": "unscoped",
+		"version": "0.0.9",
+		"description": "A CLI Tool to easily create different kinds of Svelte apps based on your requirements.",
+		"keywords": [
+			"svelte",
+			"starter",
+			"boilerplate"
+		],
+		"date": "2021-10-06T04:14:55.623Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltecreateapp",
+			"homepage": "https://github.com/yajatvishwak/sveltecreateapp",
+			"repository": "https://github.com/yajatvishwak/sveltecreateapp",
+			"bugs": "https://github.com/yajatvishwak/sveltecreateapp"
+		},
+		"author": {
+			"name": "yajatvishwak"
+		},
+		"publisher": {
+			"username": "yajatvishwakk",
+			"email": "yajat472001@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "yajatvishwakk",
+				"email": "yajat472001@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19582096824152034,
+		"detail": {
+			"quality": 0.3792891023433832,
+			"popularity": 0.0021247442848442376,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 7.817823e-9
+}

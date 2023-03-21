@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-prism-action",
+		"scope": "unscoped",
+		"version": "1.1.2",
+		"description": "Svelte action for lazy render code blocks with prism.js.",
+		"keywords": [
+			"svelte",
+			"action",
+			"prism",
+			"prismjs"
+		],
+		"date": "2023-03-16T10:59:34.496Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-prism-action",
+			"homepage": "https://github.com/thurti/svelte-prism-action#readme",
+			"repository": "https://github.com/thurti/svelte-prism-action",
+			"bugs": "https://github.com/thurti/svelte-prism-action/issues"
+		},
+		"author": {
+			"name": "thurti"
+		},
+		"publisher": {
+			"username": "thurti",
+			"email": "account-npm@thomashurtig.de"
+		},
+		"maintainers": [
+			{
+				"username": "thurti",
+				"email": "account-npm@thomashurtig.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2706087207778142,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.002904723802899207,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.236519e-7
+}

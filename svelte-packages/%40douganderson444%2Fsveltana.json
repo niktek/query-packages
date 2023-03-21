@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@douganderson444/sveltana",
+		"scope": "douganderson444",
+		"version": "0.0.4",
+		"description": "Solana packaged into a Svelte Component for use in Svelte, Browsers, and REPLs",
+		"keywords": [
+			"solana",
+			"svelte",
+			"repl",
+			"browser",
+			"douganderson444"
+		],
+		"date": "2021-06-07T02:08:25.149Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40douganderson444%2Fsveltana",
+			"homepage": "https://github.com/DougAnderson444/sveltana",
+			"repository": "https://github.com/DougAnderson444/sveltana",
+			"bugs": "https://github.com/DougAnderson444/sveltana"
+		},
+		"author": {
+			"name": "Doug Anderson",
+			"email": "douganderson444@gmail.com",
+			"username": "douganderson444"
+		},
+		"publisher": {
+			"username": "douganderson444",
+			"email": "douganderson444@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "douganderson444",
+				"email": "douganderson444@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17487778836739473,
+		"detail": {
+			"quality": 0.39802258930009876,
+			"popularity": 0.01835618918263201,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.416568e-9
+}

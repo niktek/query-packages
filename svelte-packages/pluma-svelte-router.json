@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "pluma-svelte-router",
+		"scope": "unscoped",
+		"version": "0.0.12",
+		"description": "A client-side router for Svelte",
+		"date": "2021-05-03T19:10:07.427Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/pluma-svelte-router",
+			"homepage": "https://github.com/plumacloud/pluma-svelte-router#readme",
+			"repository": "https://github.com/plumacloud/pluma-svelte-router",
+			"bugs": "https://github.com/plumacloud/pluma-svelte-router/issues"
+		},
+		"author": {
+			"name": "Pier Bover"
+		},
+		"publisher": {
+			"username": "plumacloud",
+			"email": "hello@pluma.cloud"
+		},
+		"maintainers": [
+			{
+				"username": "plumacloud",
+				"email": "hello@pluma.cloud"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2233291712142271,
+		"detail": {
+			"quality": 0.4397711452609957,
+			"popularity": 0.0027350757289791574,
+			"maintenance": 0.25840157465938773
+		}
+	},
+	"searchScore": 5.2194526e-8
+}

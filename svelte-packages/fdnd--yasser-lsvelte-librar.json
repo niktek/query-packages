@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "fdnd--yasser-lsvelte-librar",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-12-19T21:04:32.766Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/fdnd--yasser-lsvelte-librar"
+		},
+		"publisher": {
+			"username": "yasseralsleiman",
+			"email": "yaserslyman0@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "yasseralsleiman",
+				"email": "yaserslyman0@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22250983982626404,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.002817205434685597,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.06259535e-8
+}

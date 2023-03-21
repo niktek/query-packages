@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-plotly.js",
+		"scope": "unscoped",
+		"version": "0.3.2",
+		"description": "Unoficial Plotly package for Svelte and SvelteKit",
+		"date": "2022-12-05T15:01:37.609Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-plotly.js",
+			"homepage": "https://github.com/m93a/svelte-plotly.js",
+			"bugs": "https://github.com/m93a/svelte-plotly.js/issues"
+		},
+		"author": {
+			"name": "Michal Grňo",
+			"url": "m93a"
+		},
+		"publisher": {
+			"username": "c.sha",
+			"email": "m93a.cz@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "c.sha",
+				"email": "m93a.cz@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24837451892549403,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.004594874226014906,
+			"maintenance": 0.3333309556813353
+		}
+	},
+	"searchScore": 2.3490661e-7
+}

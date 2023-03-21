@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-three-fluid",
+		"scope": "unscoped",
+		"version": "0.0.0",
+		"description": "A Svelte renderer for THREE.js",
+		"keywords": [
+			"svelte",
+			"three.js",
+			"renderer"
+		],
+		"date": "2022-10-07T05:05:22.382Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-three-fluid"
+		},
+		"author": {
+			"name": "geekpster",
+			"email": "hey@geekpster.dev",
+			"url": "https://github.com/geekpster",
+			"username": "geekpster-admin"
+		},
+		"publisher": {
+			"username": "geekpster-admin",
+			"email": "hey@geekpster.dev"
+		},
+		"maintainers": [
+			{
+				"username": "geekpster-admin",
+				"email": "hey@geekpster.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20825989125820693,
+		"detail": {
+			"quality": 0.3049984744090746,
+			"popularity": 0.0016947512578279218,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 2.2401467e-8
+}

@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "vite-plugin-svelte-md",
+		"scope": "unscoped",
+		"version": "0.1.7",
+		"description": "Vite plugin to convert markdown to svelte template",
+		"keywords": [
+			"vite",
+			"vite-plugin",
+			"svelte",
+			"markdown",
+			"markdown-it"
+		],
+		"date": "2022-12-11T08:40:25.432Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-plugin-svelte-md",
+			"homepage": "https://github.com/ota-meshi/vite-plugin-svelte-md#readme",
+			"repository": "https://github.com/ota-meshi/vite-plugin-svelte-md",
+			"bugs": "https://github.com/ota-meshi/vite-plugin-svelte-md/issues"
+		},
+		"author": {
+			"name": "Yosuke Ota"
+		},
+		"publisher": {
+			"username": "ota-meshi",
+			"email": "otameshiyo23@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ota-meshi",
+				"email": "otameshiyo23@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2918396823686166,
+		"detail": {
+			"quality": 0.5488521593795298,
+			"popularity": 0.03207492147817996,
+			"maintenance": 0.3313080343925563
+		}
+	},
+	"searchScore": 0.0000027287451
+}

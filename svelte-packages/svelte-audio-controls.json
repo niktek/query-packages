@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-audio-controls",
+		"scope": "unscoped",
+		"version": "1.0.5",
+		"description": "Audio tag wrapper with styled elements using svelte, to give the same experience across browsers.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-02-21T22:19:18.414Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-audio-controls",
+			"homepage": "https://github.com/Linkcube/svelte-audio-controls#readme",
+			"repository": "https://github.com/Linkcube/svelte-audio-controls",
+			"bugs": "https://github.com/Linkcube/svelte-audio-controls/issues"
+		},
+		"author": {
+			"name": "linkcube"
+		},
+		"publisher": {
+			"username": "linkcube",
+			"email": "linkcubecode@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "linkcube",
+				"email": "linkcubecode@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1887387875987135,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0022054059257512718,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.926841e-9
+}

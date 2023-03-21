@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@xec/svelte-todo",
+		"scope": "xec",
+		"version": "1.0.4",
+		"description": "Simple Todo svelte component based on [official svelte tutorial](https://svelte.dev/tutorial/animate)",
+		"keywords": [
+			"xec",
+			"svelte",
+			"todo"
+		],
+		"date": "2020-03-08T16:06:46.780Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40xec%2Fsvelte-todo",
+			"homepage": "https://xec.github.io/todo/",
+			"repository": "https://github.com/xec/svelte-todo",
+			"bugs": "https://github.com/xec/svelte-todo/issues"
+		},
+		"author": {
+			"name": "Eric Morton"
+		},
+		"publisher": {
+			"username": "xec",
+			"email": "ericbm@yahoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "xec",
+				"email": "ericbm@yahoo.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19015110474659197,
+		"detail": {
+			"quality": 0.5269283442548052,
+			"popularity": 0.0018943066632667645,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.889795e-9
+}

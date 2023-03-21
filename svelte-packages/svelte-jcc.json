@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-jcc",
+		"scope": "unscoped",
+		"version": "0.2.0-beta.0",
+		"description": "*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-09-29T17:43:12.620Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-jcc"
+		},
+		"author": {
+			"name": "José Calderón"
+		},
+		"publisher": {
+			"username": "jcald",
+			"email": "josecalderoncelis@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jcald",
+				"email": "josecalderoncelis@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1706417480900029,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.001240504208122975,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 2.0322604e-9
+}

@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "sk-auth",
+		"scope": "unscoped",
+		"version": "0.4.1",
+		"description": "Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization!",
+		"keywords": [
+			"auth",
+			"authentication",
+			"csrf",
+			"jwt",
+			"nodejs",
+			"oauth",
+			"oauth2",
+			"oidc",
+			"sveltejs",
+			"sveltekit",
+			"sveltekitauth"
+		],
+		"date": "2022-02-23T13:54:22.578Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sk-auth",
+			"homepage": "https://github.com/Dan6erbond/svelte-kit-auth#readme",
+			"repository": "https://github.com/Dan6erbond/svelte-kit-auth",
+			"bugs": "https://github.com/Dan6erbond/svelte-kit-auth/issues"
+		},
+		"author": {
+			"name": "RaviAnand Mohabir",
+			"email": "moravrav@gmail.com",
+			"url": "https://ravianand.web.app",
+			"username": "dan6erbond"
+		},
+		"publisher": {
+			"username": "dan6erbond",
+			"email": "moravrav@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dan6erbond",
+				"email": "moravrav@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2057527912403846,
+		"detail": {
+			"quality": 0.36872506351612505,
+			"popularity": 0.006275464696858789,
+			"maintenance": 0.26553959869041865
+		}
+	},
+	"searchScore": 4.3081183e-9
+}

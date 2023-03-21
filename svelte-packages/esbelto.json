@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "esbelto",
+		"scope": "unscoped",
+		"version": "2.1.4",
+		"description": "View engine for Express with a svelte-like syntax",
+		"keywords": [
+			"express",
+			"view-engine",
+			"svelte"
+		],
+		"date": "2021-09-03T14:32:24.801Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/esbelto",
+			"homepage": "https://github.com/Levyks/esbeltoJS#readme",
+			"repository": "https://github.com/Levyks/esbeltoJS",
+			"bugs": "https://github.com/Levyks/esbeltoJS/issues"
+		},
+		"author": {
+			"name": "Levy Barbosa",
+			"email": "marcio.levy20@gmail.com",
+			"url": "https://github.com/Levyks",
+			"username": "levyks"
+		},
+		"publisher": {
+			"username": "levyks",
+			"email": "marcio.levy20@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "levyks",
+				"email": "marcio.levy20@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26931056145555826,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0199671869415707,
+			"maintenance": 0.3125618435596447
+		}
+	},
+	"searchScore": 4.1836705e-7
+}

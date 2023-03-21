@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-preprocess-sass",
+		"scope": "unscoped",
+		"version": "2.0.1",
+		"description": "Svelte preprocessor for sass",
+		"keywords": [
+			"svelte",
+			"preprocess",
+			"sass"
+		],
+		"date": "2021-07-16T09:48:00.920Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-preprocess-sass"
+		},
+		"author": {
+			"name": "Lukas Hechenberger",
+			"email": "npm@ls-age.com",
+			"username": "lhechenberger"
+		},
+		"publisher": {
+			"username": "lhechenberger",
+			"email": "npm@ls-age.com"
+		},
+		"maintainers": [
+			{
+				"username": "lhechenberger",
+				"email": "npm@ls-age.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3529419922453282,
+		"detail": {
+			"quality": 0.9758202115054826,
+			"popularity": 0.04815279397074297,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 0.000051186493
+}

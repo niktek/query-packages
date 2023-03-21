@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "smoothdash-lib",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-08-31T03:36:14.933Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/smoothdash-lib"
+		},
+		"publisher": {
+			"username": "tsukhu",
+			"email": "tksukhu@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tsukhu",
+				"email": "tksukhu@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20104162130167338,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 2.760798e-9
+}

@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@cheshirecat/svgi",
+		"scope": "cheshirecat",
+		"version": "1.0.1",
+		"description": "A lightweight SVG icon maker with TypeScript support",
+		"keywords": [
+			"svg",
+			"icon",
+			"maker",
+			"js",
+			"javascript",
+			"typescript",
+			"vue",
+			"react",
+			"svelte"
+		],
+		"date": "2022-02-08T21:09:53.232Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cheshirecat%2Fsvgi",
+			"homepage": "https://github.com/zecheshirecat/svgi#readme",
+			"repository": "https://github.com/zecheshirecat/svgi",
+			"bugs": "https://github.com/zecheshirecat/svgi/issues"
+		},
+		"author": {
+			"name": "cheshirecat",
+			"email": "ca.leduc@me.com",
+			"username": "cheshirecat"
+		},
+		"publisher": {
+			"username": "cheshirecat",
+			"email": "ca.leduc@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "cheshirecat",
+				"email": "ca.leduc@me.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.202450379265908,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0013675232066606574,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 5.529784e-9
+}

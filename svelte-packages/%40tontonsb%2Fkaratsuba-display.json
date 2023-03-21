@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@tontonsb/karatsuba-display",
+		"scope": "tontonsb",
+		"version": "1.1.1",
+		"description": "Karatsuba algorithm visualization for Svelte",
+		"keywords": [
+			"karatsuba",
+			"svelte",
+			"math"
+		],
+		"date": "2023-01-08T10:03:56.078Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tontonsb%2Fkaratsuba-display",
+			"homepage": "https://github.com/tontonsb/karatsuba/tree/master/package",
+			"repository": "https://github.com/tontonsb/karatsuba",
+			"bugs": "https://github.com/tontonsb/karatsuba/issues"
+		},
+		"author": {
+			"name": "Juris Evertovskis",
+			"email": "juris@glaive.pro",
+			"url": "https://github.com/tontonsb/",
+			"username": "tontonsb"
+		},
+		"publisher": {
+			"username": "tontonsb",
+			"email": "juris@glaive.pro"
+		},
+		"maintainers": [
+			{
+				"username": "tontonsb",
+				"email": "juris@glaive.pro"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27146990819027544,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.005375308171137562,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 4.3822718e-7
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@szdytom/lab-ui",
+		"scope": "szdytom",
+		"version": "0.1.4",
+		"description": "A Svelte frontend UI library. [Demo](https://zhangtianli2006.github.io/LabUI/)",
+		"date": "2022-05-08T14:08:04.146Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40szdytom%2Flab-ui"
+		},
+		"publisher": {
+			"username": "szdytom",
+			"email": "szdytom@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "szdytom",
+				"email": "szdytom@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19152140638716997,
+		"detail": {
+			"quality": 0.3195235817242489,
+			"popularity": 0.0013375093737225834,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 1.238419e-9
+}

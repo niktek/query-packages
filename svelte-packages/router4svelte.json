@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "router4svelte",
+		"scope": "unscoped",
+		"version": "1.0.9",
+		"description": "client side routing for svelte",
+		"keywords": [
+			"router",
+			"svelte",
+			"client-side",
+			"spa"
+		],
+		"date": "2023-01-17T00:05:51.844Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/router4svelte",
+			"bugs": "https://gitea.oscarlundberg.com/oscarlundberg/router4svelte/issues"
+		},
+		"author": {
+			"name": "Oscar Lundberg"
+		},
+		"publisher": {
+			"username": "oscarlundberg",
+			"email": "info@oscarlundberg.com"
+		},
+		"maintainers": [
+			{
+				"username": "oscarlundberg",
+				"email": "info@oscarlundberg.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27566105343090935,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.006963101078712088,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.779937e-7
+}

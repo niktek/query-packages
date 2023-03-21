@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@astralsoft/svelte-kit-jwt-session",
+		"scope": "astralsoft",
+		"version": "0.0.3",
+		"description": "Svelte-kit jwt session hook",
+		"keywords": [
+			"session",
+			"svelte",
+			"sveltekit",
+			"sveltejs",
+			"jwt",
+			"jsonwebtoken",
+			"sveltekit-session",
+			"sveltekit-jwt-session"
+		],
+		"date": "2022-11-18T16:13:20.258Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40astralsoft%2Fsvelte-kit-jwt-session"
+		},
+		"publisher": {
+			"username": "pisinsi",
+			"email": "a.kerim.cetinbas@yandex.com"
+		},
+		"maintainers": [
+			{
+				"username": "pisinsi",
+				"email": "a.kerim.cetinbas@yandex.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21192801165598335,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.0032744201438030945,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 2.5467477e-8
+}

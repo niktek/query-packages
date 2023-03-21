@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "sveltekit-electron-boilerplate",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Electron+SvelteKit boilerplate",
+		"date": "2021-06-23T22:38:11.178Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-electron-boilerplate"
+		},
+		"author": {
+			"name": "takoyaro"
+		},
+		"publisher": {
+			"username": "takoyaro",
+			"email": "thetakoyaro@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "takochan",
+				"email": "thetakoyaro@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19671378858955757,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0012741054442895535,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 4.386508e-9
+}

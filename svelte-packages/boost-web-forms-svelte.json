@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "boost-web-forms-svelte",
+		"scope": "unscoped",
+		"version": "1.9.0",
+		"description": "Svelte component for boost-web-forms library.",
+		"keywords": [
+			"form",
+			"javascript",
+			"svelte",
+			"boost-web-forms"
+		],
+		"date": "2021-07-01T17:24:30.009Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/boost-web-forms-svelte"
+		},
+		"author": {
+			"name": "Leone"
+		},
+		"publisher": {
+			"username": "lgirma",
+			"email": "leeman2016@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lgirma",
+				"email": "leeman2016@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20604958365563875,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0012741054442895535,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 2.2161634e-8
+}

@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "fast-svelte-serve",
+		"scope": "unscoped",
+		"version": "0.1.0-3",
+		"description": "Serves the contents of public/",
+		"date": "2022-08-27T12:45:40.580Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/fast-svelte-serve",
+			"homepage": "https://github.com/prokopschield/fast-svelte-serve#readme",
+			"repository": "https://github.com/prokopschield/fast-svelte-serve",
+			"bugs": "https://github.com/prokopschield/fast-svelte-serve/issues"
+		},
+		"author": {
+			"name": "Prokop Schield"
+		},
+		"publisher": {
+			"username": "realprokopschield",
+			"email": "prokop.schield@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "realprokopschield",
+				"email": "prokop.schield@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19980796021833508,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.018544121236232787,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 1.1358058e-8
+}

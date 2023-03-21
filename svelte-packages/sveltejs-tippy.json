@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "sveltejs-tippy",
+		"scope": "unscoped",
+		"version": "3.0.0",
+		"description": "Tippy.js for Svelte",
+		"keywords": [
+			"svelte",
+			"tooltip",
+			"popover",
+			"tippy",
+			"tippy.js"
+		],
+		"date": "2020-03-08T21:13:56.595Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltejs-tippy"
+		},
+		"publisher": {
+			"username": "mdauner",
+			"email": "mdauner@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mdauner",
+				"email": "mdauner@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19739033405036016,
+		"detail": {
+			"quality": 0.5251388535893105,
+			"popularity": 0.02411166810159998,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.3101086e-8
+}

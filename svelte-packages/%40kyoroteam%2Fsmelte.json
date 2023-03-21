@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@kyoroteam/smelte",
+		"scope": "kyoroteam",
+		"version": "1.0.15",
+		"description": "UI framework for Svelte using Tailwind CSS (with unreleased TypeScript definitions)",
+		"date": "2020-09-05T00:48:51.374Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kyoroteam%2Fsmelte"
+		},
+		"publisher": {
+			"username": "jwaugh",
+			"email": "james.waugh.r@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jwaugh",
+				"email": "james.waugh.r@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18798019782820058,
+		"detail": {
+			"quality": 0.5208482675063898,
+			"popularity": 0.0009032098236473717,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.1845054e-9
+}

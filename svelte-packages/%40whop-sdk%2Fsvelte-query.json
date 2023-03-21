@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@whop-sdk/svelte-query",
+		"scope": "whop-sdk",
+		"version": "0.0.4",
+		"date": "2023-02-24T02:29:21.840Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40whop-sdk%2Fsvelte-query"
+		},
+		"publisher": {
+			"username": "baked-developer",
+			"email": "tristan@whop.com"
+		},
+		"maintainers": [
+			{
+				"username": "baked-developer",
+				"email": "tristan@whop.com"
+			},
+			{
+				"username": "sharkey",
+				"email": "jack@whop.com"
+			},
+			{
+				"username": "gkline",
+				"email": "gwkline23@gmail.com"
+			},
+			{
+				"username": "stevo2",
+				"email": "steven@whop.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21622944951306033,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.02808540439938479,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.2825668e-8
+}

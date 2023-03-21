@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "svantic",
+		"scope": "unscoped",
+		"version": "0.4.1",
+		"description": "A set of Fomantic-UI components for Svelte framework",
+		"keywords": [
+			"html",
+			"css",
+			"ui",
+			"framework",
+			"svelte",
+			"component",
+			"fomantic",
+			"semantic"
+		],
+		"date": "2022-02-16T09:57:27.941Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svantic",
+			"homepage": "https://github.com/ryu-man/svantic#readme",
+			"repository": "https://github.com/ryu-man/svantic",
+			"bugs": "https://github.com/ryu-man/svantic/issues"
+		},
+		"author": {
+			"name": "ryu-man"
+		},
+		"publisher": {
+			"username": "ryuman",
+			"email": "rioman19@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ryuman",
+				"email": "rioman19@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22893237248553694,
+		"detail": {
+			"quality": 0.5447824422896195,
+			"popularity": 0.002293188067134428,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 3.8205446e-8
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-reactive-preprocessor",
+		"scope": "unscoped",
+		"version": "0.8.3",
+		"description": "Wrap svelte reactive statements with custom events to allow devtools to detect them",
+		"keywords": [
+			"svelte",
+			"reactive",
+			"debugger"
+		],
+		"date": "2022-12-14T21:20:48.089Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-reactive-preprocessor",
+			"homepage": "https://github.com/unlocomqx/svelte-reactive-preprocessor#readme",
+			"repository": "https://github.com/unlocomqx/svelte-reactive-preprocessor",
+			"bugs": "https://github.com/unlocomqx/svelte-reactive-preprocessor/issues"
+		},
+		"author": {
+			"name": "unlocomqx"
+		},
+		"publisher": {
+			"username": "unlocomqx",
+			"email": "tunisoft.solutions@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "unlocomqx",
+				"email": "tunisoft.solutions@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3199951764408901,
+		"detail": {
+			"quality": 0.673564551761557,
+			"popularity": 0.008011399113882916,
+			"maintenance": 0.3289194892073257
+		}
+	},
+	"searchScore": 0.000008631625
+}

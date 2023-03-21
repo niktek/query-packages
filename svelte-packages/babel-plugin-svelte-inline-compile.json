@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "babel-plugin-svelte-inline-compile",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Babel plugin to replace tagged template strings with precompiled Svelte components",
+		"date": "2022-01-07T20:22:35.357Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/babel-plugin-svelte-inline-compile",
+			"homepage": "https://github.com/DockYard/svelte-inline-compile#readme",
+			"repository": "https://github.com/DockYard/svelte-inline-compile",
+			"bugs": "https://github.com/DockYard/svelte-inline-compile/issues"
+		},
+		"author": {
+			"name": "drew.chandler@dockyard.com"
+		},
+		"publisher": {
+			"username": "drewchan",
+			"email": "andrewschandler@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "drewchan",
+				"email": "andrewschandler@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26328909997223043,
+		"detail": {
+			"quality": 0.6491096376886967,
+			"popularity": 0.05574246657765018,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 7.3100875e-7
+}

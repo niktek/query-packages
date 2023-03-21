@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "@iuser/iuser",
+		"scope": "iuser",
+		"version": "0.0.9",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-08-03T16:47:51.788Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40iuser%2Fiuser"
+		},
+		"publisher": {
+			"username": "i-user",
+			"email": "iuser.link@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "i-user",
+				"email": "iuser.link@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19246809705848286,
+		"detail": {
+			"quality": 0.3225776017021793,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 3.5771006e-9
+}

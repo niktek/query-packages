@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-steer",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Router with lazy-loading and nested routes for svelte",
+		"keywords": [
+			"svelte",
+			"router",
+			"lazy",
+			"nested"
+		],
+		"date": "2022-03-28T15:15:32.344Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-steer"
+		},
+		"author": {
+			"name": "E Med Ware"
+		},
+		"publisher": {
+			"username": "eeddow",
+			"email": "eeddow@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "eeddow",
+				"email": "eeddow@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22527698413144448,
+		"detail": {
+			"quality": 0.49043426796376466,
+			"popularity": 0.0014782372015374357,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 7.991334e-8
+}

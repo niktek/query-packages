@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-loadable",
+		"scope": "unscoped",
+		"version": "2.0.1",
+		"description": "Dynamically load a svelte component",
+		"keywords": [
+			"svelte",
+			"async",
+			"dynamic-import",
+			"loadable"
+		],
+		"date": "2022-03-05T08:21:50.292Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-loadable",
+			"homepage": "https://github.com/kaisermann/svelte-loadable#readme",
+			"repository": "https://github.com/kaisermann/svelte-loadable",
+			"bugs": "https://github.com/kaisermann/svelte-loadable/issues"
+		},
+		"author": {
+			"name": "Christian Kaisermann",
+			"email": "christian@kaisermann.me",
+			"username": "kaisermann"
+		},
+		"publisher": {
+			"username": "kaisermann",
+			"email": "christian@kaisermann.me"
+		},
+		"maintainers": [
+			{
+				"username": "kaisermann",
+				"email": "christian@kaisermann.me"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21376725030568483,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.041299186301861135,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 6.8444706e-8
+}

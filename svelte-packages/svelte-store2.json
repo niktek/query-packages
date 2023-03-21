@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-store2",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Extended Svelte stores with additional methods.",
+		"keywords": [
+			"svelte",
+			"store"
+		],
+		"date": "2023-01-16T10:41:11.476Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-store2",
+			"homepage": "https://github.com/vkurko/svelte-store2#readme",
+			"repository": "https://github.com/vkurko/svelte-store2",
+			"bugs": "https://github.com/vkurko/svelte-store2/issues"
+		},
+		"author": {
+			"name": "vkurko"
+		},
+		"publisher": {
+			"username": "vkurko",
+			"email": "mr.vladimir.alexeev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vkurko",
+				"email": "mr.vladimir.alexeev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26907517109651596,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.003191047476806467,
+			"maintenance": 0.32866543914143104
+		}
+	},
+	"searchScore": 8.6541604e-7
+}

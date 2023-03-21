@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-simple-progressbar",
+		"scope": "unscoped",
+		"version": "1.0.9",
+		"description": "### Using in a Svelte app",
+		"date": "2023-02-23T00:09:22.698Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-simple-progressbar"
+		},
+		"publisher": {
+			"username": "omelette0901",
+			"email": "world.devband777@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "omelette0901",
+				"email": "world.devband777@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27765568473083324,
+		"detail": {
+			"quality": 0.524118451107963,
+			"popularity": 0.01072423637650767,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000010459196
+}

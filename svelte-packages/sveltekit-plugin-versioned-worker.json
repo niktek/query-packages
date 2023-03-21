@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "sveltekit-plugin-versioned-worker",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "A service worker plugin made specifically for SvelteKit apps using the static adapter",
+		"keywords": [
+			"sveltekit-plugin",
+			"pwa",
+			"service-worker",
+			"vite-plugin",
+			"sveltekit",
+			"svelte"
+		],
+		"date": "2022-12-29T15:13:37.756Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-plugin-versioned-worker",
+			"homepage": "https://github.com/hedgehog125/SvelteKit-Plugin-Versioned-Worker#readme",
+			"repository": "https://github.com/hedgehog125/SvelteKit-Plugin-Versioned-Worker",
+			"bugs": "https://github.com/hedgehog125/SvelteKit-Plugin-Versioned-Worker/issues"
+		},
+		"author": {
+			"name": "Nicholas Clack",
+			"url": "Hedgehog125"
+		},
+		"publisher": {
+			"username": "hedgehog125",
+			"email": "nicoclack@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hedgehog125",
+				"email": "nicoclack@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23930189853273706,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.003981926732202353,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 8.6224766e-8
+}

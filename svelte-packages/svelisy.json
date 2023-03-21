@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "svelisy",
+		"scope": "unscoped",
+		"version": "1.0.5",
+		"description": "svelisy - DaisyUI components built with Svelte 🌼",
+		"keywords": [
+			"design-system",
+			"tailwindcss",
+			"components",
+			"ui-library",
+			"component",
+			"framework",
+			"tailwind",
+			"theming",
+			"postcss",
+			"design",
+			"css",
+			"ui",
+			"Svelte",
+			"Sveltekit",
+			"UI",
+			"Component Library"
+		],
+		"date": "2023-01-29T19:03:11.489Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelisy",
+			"homepage": "https://github.com/brilyyy/svelisy#readme",
+			"repository": "https://github.com/brilyyy/svelisy",
+			"bugs": "https://github.com/brilyyy/svelisy/issues"
+		},
+		"author": {
+			"name": "Brilyan",
+			"email": "brilyyy.dev@gmail.com",
+			"username": "brilyyy"
+		},
+		"publisher": {
+			"username": "brilyyy",
+			"email": "brilyyy.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "brilyyy",
+				"email": "brilyyy.dev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27951634804906,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0028252105533031367,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.5910926e-7
+}

@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "apollo-server-svelte-kit",
+		"scope": "unscoped",
+		"version": "3.10.0",
+		"description": "An Apollo GraphQL Server integration for SvelteKit 🥳.",
+		"date": "2022-09-29T09:36:25.784Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/apollo-server-svelte-kit"
+		},
+		"publisher": {
+			"username": "alexanderschau",
+			"email": "alexander@schau.email"
+		},
+		"maintainers": [
+			{
+				"username": "alexanderschau",
+				"email": "alexander@schau.email"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2785746134068322,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.009661588055139728,
+			"maintenance": 0.33297725297976255
+		}
+	},
+	"searchScore": 9.259099e-7
+}

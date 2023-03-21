@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-modal-z",
+		"scope": "unscoped",
+		"version": "2.0.0-np",
+		"description": "Svelte modal (beauty & light)",
+		"keywords": [
+			"svelte",
+			"svelte-components",
+			"svelte-modal",
+			"svelte-simple-modal",
+			"svelte-modal-simple",
+			"modal-svelte",
+			"flowbite"
+		],
+		"date": "2023-02-03T07:57:30.563Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-modal-z"
+		},
+		"author": {
+			"name": "Delpi.Kye"
+		},
+		"publisher": {
+			"username": "delpikye",
+			"email": "tungvu.it@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "delpikye",
+				"email": "tungvu.it@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27764136869001443,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.006639094224946828,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000013336265
+}

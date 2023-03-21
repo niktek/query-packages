@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@ponymakers/sveltefire",
+		"scope": "ponymakers",
+		"version": "0.3.1",
+		"description": "A minimal, yet powerful library that puts realtime Firebase data into Svelte stores.",
+		"date": "2023-01-25T10:07:48.717Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ponymakers%2Fsveltefire"
+		},
+		"publisher": {
+			"username": "ponymakers",
+			"email": "jm@ponymakers.com"
+		},
+		"maintainers": [
+			{
+				"username": "ponymakers",
+				"email": "jm@ponymakers.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21199869454864667,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.003735955283042279,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 1.2636949e-8
+}

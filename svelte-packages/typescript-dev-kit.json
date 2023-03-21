@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "typescript-dev-kit",
+		"scope": "unscoped",
+		"version": "6.0.2",
+		"description": "Everything you need to develop front-end and back-end JavaScript/TypeScript projects with maximum productivity.",
+		"keywords": [
+			"frontend",
+			"backend",
+			"javascript",
+			"typescript",
+			"node",
+			"vue",
+			"react",
+			"svelte",
+			"js",
+			"ts",
+			"development",
+			"kit",
+			"starter",
+			"project"
+		],
+		"date": "2023-03-09T20:08:55.896Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/typescript-dev-kit",
+			"homepage": "https://github.com/matthieujabbour/typescript-dev-kit",
+			"repository": "https://github.com/matthieujabbour/typescript-dev-kit",
+			"bugs": "https://github.com/matthieujabbour/typescript-dev-kit/issues"
+		},
+		"publisher": {
+			"username": "openizr2",
+			"email": "matthieu.jabbour@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "openizr2",
+				"email": "matthieu.jabbour@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3005722861689949,
+		"detail": {
+			"quality": 0.605223017714755,
+			"popularity": 0.006853911989832664,
+			"maintenance": 0.3331614618803627
+		}
+	},
+	"searchScore": 8.928164e-7
+}

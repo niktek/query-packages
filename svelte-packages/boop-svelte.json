@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "boop-svelte",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Extremely simple and customizable toast notifications for Svelte.",
+		"keywords": [
+			"Svelte",
+			"Toast",
+			"Notifications",
+			"SvelteKit"
+		],
+		"date": "2021-06-29T06:00:30.987Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/boop-svelte",
+			"homepage": "https://github.com/tcc-sejohnson/boop-svelte#readme",
+			"repository": "https://github.com/tcc-sejohnson/boop-svelte",
+			"bugs": "https://github.com/tcc-sejohnson/boop-svelte/issues"
+		},
+		"author": {
+			"name": "S. Elliott Johnson"
+		},
+		"publisher": {
+			"username": "tcc-sejohnson",
+			"email": "sejohnson@torchcloudconsulting.com"
+		},
+		"maintainers": [
+			{
+				"username": "tcc-sejohnson",
+				"email": "sejohnson@torchcloudconsulting.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1844638832371364,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0017837420602865482,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 5.822968e-9
+}

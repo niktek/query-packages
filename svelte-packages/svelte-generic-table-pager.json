@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "svelte-generic-table-pager",
+		"scope": "unscoped",
+		"version": "0.2.73",
+		"description": "<table-pager> extracts a configurable number of lines an dispatches them as actual page data. As self-containing webcomponent or for Svelte in 21KB.",
+		"keywords": [
+			"webcomponent",
+			"svelte",
+			"table",
+			"generic",
+			"pager",
+			"self-contained",
+			"fancy icons",
+			"clean code",
+			"easy",
+			"21KB",
+			"flexible",
+			"fits svelte-generic-crud-table",
+			"<table-pager/>"
+		],
+		"date": "2021-06-30T13:14:36.152Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-generic-table-pager"
+		},
+		"author": {
+			"name": "Ivo Bozic"
+		},
+		"publisher": {
+			"username": "nologin",
+			"email": "ibozic@mail.de"
+		},
+		"maintainers": [
+			{
+				"username": "nologin",
+				"email": "ibozic@mail.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2206086335772316,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.006084326444530076,
+			"maintenance": 0.2778115562726407
+		}
+	},
+	"searchScore": 4.644726e-8
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-routing-in-memory",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "A declarative Svelte routing library with SSR support and support for in-memory routing",
+		"date": "2020-05-04T23:43:10.500Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-routing-in-memory"
+		},
+		"author": {
+			"name": "Farzad YZ @farskid"
+		},
+		"publisher": {
+			"username": "farskid",
+			"email": "farskid@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "farskid",
+				"email": "farskid@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21449673391935686,
+		"detail": {
+			"quality": 0.6081416904986702,
+			"popularity": 0.0018418075192822218,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.286693e-8
+}

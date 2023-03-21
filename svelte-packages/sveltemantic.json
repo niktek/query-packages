@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "sveltemantic",
+		"scope": "unscoped",
+		"version": "0.1.1-alpha.2",
+		"description": "Fomantic-UI components for Svelte 3",
+		"keywords": [
+			"sveltemantic",
+			"svelte",
+			"fomantic-ui",
+			"bindings",
+			"components",
+			"widgets"
+		],
+		"date": "2019-08-22T03:56:54.500Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltemantic"
+		},
+		"author": {
+			"name": "Devi Prasad",
+			"email": "deviprsd21@gmail.com",
+			"username": "deviprsd"
+		},
+		"publisher": {
+			"username": "deviprsd",
+			"email": "deviprsd21@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "deviprsd",
+				"email": "deviprsd21@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19565947291285885,
+		"detail": {
+			"quality": 0.5447824422896195,
+			"popularity": 0.002328988822759875,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.969331e-9
+}

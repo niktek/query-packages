@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@shop25/managers-service",
+		"scope": "shop25",
+		"version": "1.0.2",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2022-07-05T03:34:14.391Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40shop25%2Fmanagers-service"
+		},
+		"publisher": {
+			"username": "mdanon",
+			"email": "serjvid91@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "mdanon",
+				"email": "serjvid91@mail.ru"
+			},
+			{
+				"username": "ssipak",
+				"email": "crylove_const@mail.ru"
+			},
+			{
+				"username": "vovka25",
+				"email": "vovka@s25.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2539745132709776,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.01985857348502352,
+			"maintenance": 0.3206593839960776
+		}
+	},
+	"searchScore": 7.8327076e-8
+}

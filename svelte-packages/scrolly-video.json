@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "scrolly-video",
+		"scope": "unscoped",
+		"version": "0.0.14",
+		"description": "A component for scroll-based (or other externally controlled) playback.",
+		"keywords": [
+			"scroll",
+			"scrollytelling",
+			"video",
+			"svelte",
+			"react",
+			"vue"
+		],
+		"date": "2023-03-02T20:39:09.062Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/scrolly-video",
+			"homepage": "https://github.com/dkaoster/scrolly-video#readme",
+			"repository": "https://github.com/dkaoster/scrolly-video",
+			"bugs": "https://github.com/dkaoster/scrolly-video/issues"
+		},
+		"author": {
+			"name": "Daniel Kao"
+		},
+		"publisher": {
+			"username": "dkao",
+			"email": "dkao@diplateevo.com"
+		},
+		"maintainers": [
+			{
+				"username": "dkao",
+				"email": "dkao@diplateevo.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24337105797766168,
+		"detail": {
+			"quality": 0.4088071151157153,
+			"popularity": 0.01160644793222975,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.931552e-8
+}

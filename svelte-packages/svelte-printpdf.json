@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-printpdf",
+		"scope": "unscoped",
+		"version": "1.0.2-metadata",
+		"description": "Component Print PDF support color,flexbox and grid system because using window.print() and css print.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"printpdf",
+			"pdf",
+			"html2pdf"
+		],
+		"date": "2022-11-09T02:54:27.317Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-printpdf",
+			"homepage": "https://github.com/binsarjr/svelte-printpdf#readme",
+			"repository": "https://github.com/binsarjr/svelte-printpdf",
+			"bugs": "https://github.com/binsarjr/svelte-printpdf/issues"
+		},
+		"author": {
+			"name": "Binsar Dwi Jasuma",
+			"email": "binsarjr121@gmail.com",
+			"username": "binsarjr"
+		},
+		"publisher": {
+			"username": "binsarjr",
+			"email": "binsarjr121@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "binsarjr",
+				"email": "binsarjr121@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27681449981361306,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.0042766117209429135,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000011498805
+}

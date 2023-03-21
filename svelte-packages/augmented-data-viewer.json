@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "augmented-data-viewer",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Web component (Svelte-based) to visualize raw data with added informations",
+		"date": "2023-01-31T12:00:03.253Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/augmented-data-viewer"
+		},
+		"author": {
+			"name": "Emmanuel Raviart",
+			"email": "emmanuel@raviart.com",
+			"username": "eraviart"
+		},
+		"publisher": {
+			"username": "eraviart",
+			"email": "emmanuel@raviart.com"
+		},
+		"maintainers": [
+			{
+				"username": "eraviart",
+				"email": "emmanuel@raviart.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24621454971087553,
+		"detail": {
+			"quality": 0.403182122069108,
+			"popularity": 0.024552132638504195,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.582043e-8
+}

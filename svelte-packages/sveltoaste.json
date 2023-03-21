@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "sveltoaste",
+		"scope": "unscoped",
+		"version": "2.1.4",
+		"description": "<p align=\"center\">   <img width=\"186\" height=\"90\" src=\"https://user-images.githubusercontent.com/218949/44782765-377e7c80-ab80-11e8-9dd8-fce0e37c235b.png\" alt=\"Beyonk\" />   Forked by marvinody </p>",
+		"keywords": [
+			"svelte",
+			"notifications",
+			"toast",
+			"toastr",
+			"vanillajs",
+			"css",
+			"animation"
+		],
+		"date": "2020-06-27T17:31:40.624Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltoaste"
+		},
+		"publisher": {
+			"username": "marvinody",
+			"email": "marvinody@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "marvinody",
+				"email": "marvinody@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19860605016125188,
+		"detail": {
+			"quality": 0.5355947797183326,
+			"popularity": 0.0186229203078431,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.9299343e-9
+}

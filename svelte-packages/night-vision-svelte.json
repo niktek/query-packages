@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "night-vision-svelte",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "TBA",
+		"date": "2022-10-18T09:34:58.792Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/night-vision-svelte"
+		},
+		"author": {
+			"name": "ChartMaster"
+		},
+		"publisher": {
+			"username": "c451",
+			"email": "codeallright@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "c451",
+				"email": "codeallright@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2064939522454382,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.001696785553098289,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.4054709e-8
+}

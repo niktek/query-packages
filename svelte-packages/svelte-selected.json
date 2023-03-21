@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-selected",
+		"scope": "unscoped",
+		"version": "4.4.5",
+		"description": "A <Select> component for Svelte apps",
+		"keywords": [
+			"svelte",
+			"select"
+		],
+		"date": "2021-10-29T00:11:31.417Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-selected"
+		},
+		"author": {
+			"name": "rob-balfre"
+		},
+		"publisher": {
+			"username": "anakha",
+			"email": "basaran@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anakha",
+				"email": "basaran@protonmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18988107463647744,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.0015999886957733678,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 8.6065315e-9
+}

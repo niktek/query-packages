@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@inqling/svelte-portable-text",
+		"scope": "inqling",
+		"version": "0.0.6",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-07-25T14:11:24.091Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40inqling%2Fsvelte-portable-text",
+			"homepage": "https://github.com/OllieJT/svelte-portable-text#readme",
+			"repository": "https://github.com/OllieJT/svelte-portable-text",
+			"bugs": "https://github.com/OllieJT/svelte-portable-text/issues"
+		},
+		"author": {
+			"name": "OllieJT"
+		},
+		"publisher": {
+			"username": "olliejt",
+			"email": "contact@olliejt.com"
+		},
+		"maintainers": [
+			{
+				"username": "olliejt",
+				"email": "contact@olliejt.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20006838426554108,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0018237123985175437,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 1.449775e-8
+}

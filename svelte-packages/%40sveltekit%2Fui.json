@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@sveltekit/ui",
+		"scope": "sveltekit",
+		"version": "4.0.0",
+		"description": "Svelte UI Library",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-01-30T06:26:36.454Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltekit%2Fui",
+			"homepage": "https://github.com/sveltekit/ui",
+			"repository": "https://github.com/sveltekit/ui",
+			"bugs": "https://github.com/sveltekit/ui/issues"
+		},
+		"publisher": {
+			"username": "rob-balfre",
+			"email": "rob.balfre@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rob-balfre",
+				"email": "rob.balfre@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3049887438398728,
+		"detail": {
+			"quality": 0.8895361922957907,
+			"popularity": 0.019195120037510185,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.000004946129
+}

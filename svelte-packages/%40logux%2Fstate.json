@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "@logux/state",
+		"scope": "logux",
+		"version": "0.2.0",
+		"description": "A tiny (152 bytes) state manager for React/Preact/Vue/Svelte with many atomic tree-shakable stores",
+		"keywords": [
+			"logux",
+			"state manager",
+			"react",
+			"preact",
+			"vue",
+			"svelte",
+			"store"
+		],
+		"date": "2021-05-30T13:38:23.494Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40logux%2Fstate",
+			"homepage": "https://logux.io/",
+			"repository": "https://github.com/logux/state",
+			"bugs": "https://github.com/logux/state/issues"
+		},
+		"author": {
+			"name": "Andrey Sitnik",
+			"email": "andrey@sitnik.ru",
+			"username": "ai"
+		},
+		"publisher": {
+			"username": "ai",
+			"email": "andrey@sitnik.ru"
+		},
+		"maintainers": [
+			{
+				"username": "ai",
+				"email": "andrey@sitnik.ru"
+			},
+			{
+				"username": "euaaaio",
+				"email": "e@edaks.co"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2918268496708084,
+		"detail": {
+			"quality": 0.7857493032820585,
+			"popularity": 0.02015918092213422,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 0.0000011758797
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-mail",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "Renders Svelte components for emails: Inlines styles and renders additional plain text version",
+		"keywords": [
+			"svelte",
+			"email",
+			"mail",
+			"inline"
+		],
+		"date": "2019-06-17T06:53:31.338Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-mail"
+		},
+		"author": {
+			"name": "Lukas Hechenberger",
+			"email": "npm@ls-age.com",
+			"username": "lhechenberger"
+		},
+		"publisher": {
+			"username": "lhechenberger",
+			"email": "npm@ls-age.com"
+		},
+		"maintainers": [
+			{
+				"username": "lhechenberger",
+				"email": "npm@ls-age.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2759340066303064,
+		"detail": {
+			"quality": 0.8050090827258168,
+			"popularity": 0.008633393355869518,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000015270139
+}

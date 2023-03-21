@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@snowsvex/snowsvex-plugin",
+		"scope": "snowsvex",
+		"version": "0.1.7",
+		"description": "> Snowpack plugin for building svex-y static sites with svelte",
+		"date": "2021-03-05T19:46:35.658Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40snowsvex%2Fsnowsvex-plugin",
+			"homepage": "https://github.com/snowsvex/snowsvex-plugin#readme",
+			"repository": "https://github.com/snowsvex/snowsvex-plugin",
+			"bugs": "https://github.com/snowsvex/snowsvex-plugin/issues"
+		},
+		"author": {
+			"name": "Conor Sinclair"
+		},
+		"publisher": {
+			"username": "c-sinclair",
+			"email": "conor@sinclair.software"
+		},
+		"maintainers": [
+			{
+				"username": "c-sinclair",
+				"email": "conor@sinclair.software"
+			},
+			{
+				"username": "snowsvexer",
+				"email": "snowsvex@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21656904155550732,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.02323652765046999,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 9.312115e-9
+}

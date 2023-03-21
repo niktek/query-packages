@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "hbr-sapper",
+		"scope": "unscoped",
+		"version": "0.29.3",
+		"description": "The next small thing in web development, powered by Svelte",
+		"keywords": [
+			"svelte",
+			"isomorphic",
+			"universal",
+			"template",
+			"express"
+		],
+		"date": "2022-04-01T22:11:16.454Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/hbr-sapper",
+			"homepage": "https://github.com/btakita/hbr-sapper#hbr",
+			"repository": "https://github.com/sveltejs/sapper",
+			"bugs": "https://github.com/btakita/hbr-sapper/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "btakita",
+			"email": "brian.takita@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "btakita",
+				"email": "brian.takita@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2119597734541978,
+		"detail": {
+			"quality": 0.3595566954747321,
+			"popularity": 0.0014518238078102884,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 1.26278685e-8
+}

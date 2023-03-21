@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "sveltekit-modal",
+		"scope": "unscoped",
+		"version": "1.0.14",
+		"description": "Write Python endpoints in SvelteKit using Modal",
+		"keywords": [
+			"sveltekit-modal",
+			"svelte-kit",
+			"sveltekit",
+			"svelte",
+			"modal",
+			"python"
+		],
+		"date": "2023-02-15T21:20:49.177Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-modal",
+			"homepage": "https://github.com/semicognitive/sveltekit-modal#readme",
+			"repository": "https://github.com/semicognitive/sveltekit-modal",
+			"bugs": "https://github.com/semicognitive/sveltekit-modal/issues"
+		},
+		"author": {
+			"name": "semicognitive"
+		},
+		"publisher": {
+			"username": "conprogramming",
+			"email": "conner@semicognitive.com"
+		},
+		"maintainers": [
+			{
+				"username": "conprogramming",
+				"email": "conner@semicognitive.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2661145513097885,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.011373793674845376,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.90408e-7
+}

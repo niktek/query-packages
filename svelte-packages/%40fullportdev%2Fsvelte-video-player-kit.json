@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@fullportdev/svelte-video-player-kit",
+		"scope": "fullportdev",
+		"version": "1.0.0",
+		"description": "Basic video player component for svelte, SSR and sveltekit apps.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"ssr",
+			"video",
+			"player"
+		],
+		"date": "2022-11-10T13:37:19.879Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40fullportdev%2Fsvelte-video-player-kit",
+			"homepage": "https://github.com/FullPortDEV/svelte-video-player-kit",
+			"repository": "https://github.com/FullPortDEV/svelte-video-player-kit",
+			"bugs": "https://github.com/FullPortDEV/svelte-video-player-kit/issues"
+		},
+		"author": {
+			"name": "Meigo Kukk"
+		},
+		"publisher": {
+			"username": "fullportdev",
+			"email": "marc.frame@fullport.dev"
+		},
+		"maintainers": [
+			{
+				"username": "fullportdev",
+				"email": "marc.frame@fullport.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27337147102061293,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0018485246819274774,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 8.391766e-7
+}

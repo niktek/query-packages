@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@neodrag/svelte",
+		"scope": "neodrag",
+		"version": "2.0.3",
+		"description": "Svelte Action to add dragging to your apps 😉",
+		"keywords": [
+			"draggable",
+			"svelte",
+			"react-draggable",
+			"drag",
+			"svelte",
+			"small",
+			"tiny",
+			"performant",
+			"neodrag"
+		],
+		"date": "2023-01-16T04:34:45.057Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40neodrag%2Fsvelte",
+			"homepage": "https://neodrag.dev/docs/svelte",
+			"repository": "https://github.com/PuruVJ/neodrag",
+			"bugs": "https://github.com/PuruVJ/neodrag/issues"
+		},
+		"author": {
+			"name": "Puru Vijay"
+		},
+		"publisher": {
+			"username": "puruvj",
+			"email": "awesomepuruvj@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "puruvj",
+				"email": "awesomepuruvj@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.322184506202152,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.05609064729922423,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000014690256
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "sveltecms-init",
+		"scope": "unscoped",
+		"version": "1.0.0-next.4",
+		"description": "Add svelteCMS to your svelte kit project.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"cms"
+		],
+		"date": "2022-12-11T02:00:28.072Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltecms-init"
+		},
+		"author": {
+			"name": "DevelopedByAnt"
+		},
+		"publisher": {
+			"username": "developedbyant",
+			"email": "developedbyant@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "developedbyant",
+				"email": "developedbyant@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24451444353511737,
+		"detail": {
+			"quality": 0.39802258930009876,
+			"popularity": 0.024117143081203184,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.880995e-7
+}

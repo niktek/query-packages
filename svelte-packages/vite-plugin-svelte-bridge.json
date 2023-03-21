@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "vite-plugin-svelte-bridge",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Use your Svelte componentes from React & Vue.",
+		"date": "2022-08-09T21:03:37.641Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-plugin-svelte-bridge"
+		},
+		"publisher": {
+			"username": "joshnuss",
+			"email": "joshnuss@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "joshnuss",
+				"email": "joshnuss@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1821545152617042,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.01918960105935009,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 3.6549588e-9
+}

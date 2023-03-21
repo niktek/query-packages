@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-speech",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "1. npm install svelte-speech 2. in your script add: `import SvelteSpeech from \"svelte-speech\";` 3. In your HTML add: `<SvelteSpeech text={\"Hello World\"} bind:play />`",
+		"date": "2022-06-27T19:55:27.354Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-speech"
+		},
+		"author": {
+			"name": "NickRTR"
+		},
+		"publisher": {
+			"username": "nickrtrrtr",
+			"email": "nickrtrrtr@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nickrtrrtr",
+				"email": "nickrtrrtr@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23416786326293226,
+		"detail": {
+			"quality": 0.3912006487957689,
+			"popularity": 0.002363804383095768,
+			"maintenance": 0.33137239168605176
+		}
+	},
+	"searchScore": 1.0001506e-7
+}

@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@slick-for/svelte",
+		"scope": "slick-for",
+		"version": "1.2.4",
+		"description": "A Framework for Stitching together sick svelte Applications",
+		"keywords": [
+			"Svelte",
+			"Framework",
+			"BootStrap",
+			"decorators",
+			"typescript",
+			"route",
+			"routing"
+		],
+		"date": "2019-09-04T13:15:49.424Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40slick-for%2Fsvelte",
+			"homepage": "https://github.com/shavyg2/slick-for-svelte#readme",
+			"repository": "https://github.com/shavyg2/slick-for-svelte",
+			"bugs": "https://github.com/shavyg2/slick-for-svelte/issues"
+		},
+		"author": {
+			"name": "Shavauhn Gabay"
+		},
+		"publisher": {
+			"username": "shavyg2",
+			"email": "shavyg2@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shavyg2",
+				"email": "shavyg2@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2661123318158214,
+		"detail": {
+			"quality": 0.7791656389412605,
+			"popularity": 0.0027229885583892168,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.179352e-7
+}

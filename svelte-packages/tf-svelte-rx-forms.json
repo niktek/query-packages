@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "tf-svelte-rx-forms",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Reactive svelte forms inspired by angular reactive forms.",
+		"keywords": [
+			"rx-svelte-forms",
+			"rx-forms",
+			"svelte-forms"
+		],
+		"date": "2022-12-07T15:22:52.393Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/tf-svelte-rx-forms",
+			"homepage": "https://github.com/MohamedElmdary/rx-svelte-forms#readme",
+			"repository": "https://github.com/MohamedElmdary/rx-svelte-forms",
+			"bugs": "https://github.com/MohamedElmdary/rx-svelte-forms/issues"
+		},
+		"author": {
+			"name": "MohamedElmdary",
+			"email": "engm5081@gmail.com"
+		},
+		"publisher": {
+			"username": "threefolddev",
+			"email": "tfreleaser@threefold.io"
+		},
+		"maintainers": [
+			{
+				"username": "threefolddev",
+				"email": "tfreleaser@threefold.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.283540925784998,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.023505020543249208,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 0.0000018581657
+}

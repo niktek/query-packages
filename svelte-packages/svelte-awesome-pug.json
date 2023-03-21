@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-awesome-pug",
+		"scope": "unscoped",
+		"version": "0.1.3",
+		"description": "Enhances the usage of pug html-templates for Svelte",
+		"keywords": [
+			"pug",
+			"svelte",
+			"preprocessor"
+		],
+		"date": "2023-01-05T09:50:04.639Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-awesome-pug",
+			"homepage": "https://github.com/Refzlund/svelte-awesome-pug",
+			"repository": "https://github.com/refzlund/svelte-awesome-pug",
+			"bugs": "https://github.com/Refzlund/svelte-awesome-pug/issues"
+		},
+		"publisher": {
+			"username": "refzlund",
+			"email": "arthur@refzlund.com"
+		},
+		"maintainers": [
+			{
+				"username": "refzlund",
+				"email": "arthur@refzlund.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21944668393270472,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.02467416151525302,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 5.9604442e-8
+}

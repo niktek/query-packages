@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "typesvelte",
+		"scope": "unscoped",
+		"version": "1.0.8",
+		"description": "Experimental Svelte with types",
+		"keywords": [
+			"UI",
+			"framework",
+			"templates",
+			"templating"
+		],
+		"date": "2022-01-30T02:34:10.812Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/typesvelte",
+			"homepage": "https://github.com/sveltejs/svelte#README",
+			"repository": "https://github.com/sveltejs/svelte",
+			"bugs": "https://github.com/sveltejs/svelte/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "geometryzen",
+			"email": "david.geo.holmes@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "geometryzen",
+				"email": "david.geo.holmes@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27270092753690106,
+		"detail": {
+			"quality": 0.6350078740767695,
+			"popularity": 0.0025942522144579805,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 2.170837e-7
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-electron-forge",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Svelte + Electron Forge",
+		"date": "2020-05-21T10:26:22.763Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-electron-forge"
+		},
+		"author": {
+			"name": "jeffd23"
+		},
+		"publisher": {
+			"username": "vsamaru",
+			"email": "vsamaru@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dad22",
+				"email": "dad2vad@gmail.com"
+			},
+			{
+				"username": "zbndm",
+				"email": "zbndmt@gmail.com"
+			},
+			{
+				"username": "o6",
+				"email": "vsamaru@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2627329314046378,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.0022413752067151956,
+			"maintenance": 0.33280398064389005
+		}
+	},
+	"searchScore": 4.5844823e-7
+}

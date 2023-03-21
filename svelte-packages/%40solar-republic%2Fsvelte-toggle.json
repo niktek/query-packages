@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@solar-republic/svelte-toggle",
+		"scope": "solar-republic",
+		"version": "3.1.0",
+		"description": "Accessible toggle switch component",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"toggle",
+			"switch",
+			"button",
+			"accessible",
+			"a11y",
+			"wai-aria"
+		],
+		"date": "2022-08-12T03:56:27.537Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40solar-republic%2Fsvelte-toggle",
+			"homepage": "https://github.com/metonym/svelte-toggle",
+			"repository": "https://github.com/metonym/svelte-toggle",
+			"bugs": "https://github.com/metonym/svelte-toggle/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "blake.regalia",
+			"email": "blake.regalia@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "blake.regalia",
+				"email": "blake.regalia@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26438225581198344,
+		"detail": {
+			"quality": 0.6081416904986702,
+			"popularity": 0.001854776067349929,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 5.5261705e-7
+}

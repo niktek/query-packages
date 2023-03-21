@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@thegrommet/svelte-syncable",
+		"scope": "thegrommet",
+		"version": "2.0.0",
+		"description": "Syncable store for SvelteJS",
+		"keywords": [
+			"svelte",
+			"localStorage",
+			"syncable",
+			"sync",
+			"store",
+			"svelte-store"
+		],
+		"date": "2022-01-21T17:07:39.922Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40thegrommet%2Fsvelte-syncable",
+			"homepage": "https://github.com/chainlist/svelte-syncable#readme",
+			"repository": "https://github.com/chainlist/svelte-syncable",
+			"bugs": "https://github.com/chainlist/svelte-syncable/issues"
+		},
+		"author": {
+			"name": "Kevin Guillouard",
+			"email": "kevin.guillouard@gmail.com"
+		},
+		"publisher": {
+			"username": "aredridel",
+			"email": "aredridel@dinhe.net"
+		},
+		"maintainers": [
+			{
+				"username": "aredridel",
+				"email": "aredridel@dinhe.net"
+			}
+		]
+	},
+	"score": {
+		"final": 0.33919505621396334,
+		"detail": {
+			"quality": 0.9651207493584131,
+			"popularity": 0.018046801435760342,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 0.000023279532
+}

@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@splidejs/svelte-splide",
+		"scope": "splidejs",
+		"version": "0.2.9",
+		"description": "Svelte component for the Splide slider/carousel.",
+		"keywords": [
+			"splide",
+			"slider",
+			"carousel",
+			"slideshow",
+			"lightweight",
+			"touch",
+			"responsive",
+			"svelte"
+		],
+		"date": "2022-09-30T03:37:44.743Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40splidejs%2Fsvelte-splide",
+			"homepage": "https://github.com/Splidejs/svelte-splide#readme",
+			"repository": "https://github.com/Splidejs/svelte-splide",
+			"bugs": "https://github.com/Splidejs/svelte-splide/issues"
+		},
+		"author": {
+			"name": "Naotoshi Fujita"
+		},
+		"publisher": {
+			"username": "splidejs",
+			"email": "splideproject@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "splidejs",
+				"email": "splideproject@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3504394802088961,
+		"detail": {
+			"quality": 0.717504610740846,
+			"popularity": 0.05291837234278755,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000039871968
+}

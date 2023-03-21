@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-speech-recognition",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "A Svelte wrapper for the Sortable.js library",
+		"keywords": [
+			"svelte",
+			"svelte-kit",
+			"speech-recognition"
+		],
+		"date": "2022-06-13T02:15:08.286Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-speech-recognition",
+			"homepage": "https://github.com/jhubbardsf/svelte-speech-recognition#readme",
+			"repository": "https://github.com/jhubbardsf/svelte-speech-recognition",
+			"bugs": "https://github.com/jhubbardsf/svelte-speech-recognition/issues"
+		},
+		"author": {
+			"name": "Josh Hubbard",
+			"email": "josh@joshuahubbard.dev",
+			"url": "https://joshuahubbard.dev/",
+			"username": "jhubbardsf"
+		},
+		"publisher": {
+			"username": "jhubbardsf",
+			"email": "josh@joshuahubbard.dev"
+		},
+		"maintainers": [
+			{
+				"username": "jhubbardsf",
+				"email": "josh@joshuahubbard.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.245495720668271,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0026692419400392224,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 2.2680635e-7
+}

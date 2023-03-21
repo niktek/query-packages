@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "@small-tech/spinners",
+		"scope": "small-tech",
+		"version": "2.0.1",
+		"description": "Two indeterminate progress spinners, one with lines and the other with dots (available in animated SVG, animated PNG, JavaScript, and Svelte).",
+		"keywords": [
+			"spinner",
+			"indeterminate",
+			"progress",
+			"indicator",
+			"javascript",
+			"svg",
+			"animated svg",
+			"smil",
+			"svelte",
+			"apng",
+			"png"
+		],
+		"date": "2021-07-06T10:24:03.128Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40small-tech%2Fspinners",
+			"homepage": "https://github.com/small-tech/spinners",
+			"repository": "https://github.com/small-tech/spinners",
+			"bugs": "https://github.com/small-tech/spinners/issues"
+		},
+		"author": {
+			"name": "Aral Balkan",
+			"email": "aral@small-tech.org",
+			"url": "https://ar.al",
+			"username": "aral"
+		},
+		"publisher": {
+			"username": "aral",
+			"email": "aral@small-tech.org"
+		},
+		"maintainers": [
+			{
+				"username": "aral",
+				"email": "aral@small-tech.org"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2164127895076538,
+		"detail": {
+			"quality": 0.5328975035838066,
+			"popularity": 0.005759108548992179,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 1.5631574e-8
+}

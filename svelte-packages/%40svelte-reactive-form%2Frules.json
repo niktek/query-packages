@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@svelte-reactive-form/rules",
+		"scope": "svelte-reactive-form",
+		"version": "0.16.4",
+		"description": "Form validation rules of svelte-reactive-form.",
+		"date": "2022-02-08T09:30:03.270Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-reactive-form%2Frules",
+			"homepage": "https://github.com/wetix/svelte-reactive-form#readme",
+			"repository": "https://github.com/wetix/svelte-reactive-form",
+			"bugs": "https://github.com/wetix/svelte-reactive-form/issues"
+		},
+		"author": {
+			"name": "si3nloong",
+			"email": "sianloong90@gmail.com",
+			"url": "https://github.com/si3nloong"
+		},
+		"publisher": {
+			"username": "sianloong",
+			"email": "sianloong90@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bassemsab",
+				"email": "bassem.bme@gmail.com"
+			},
+			{
+				"username": "mohamadharith",
+				"email": "harith@revenuemonster.my"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24482495468418475,
+		"detail": {
+			"quality": 0.5183554174917671,
+			"popularity": 0.004681649323900405,
+			"maintenance": 0.25051357763796994
+		}
+	},
+	"searchScore": 1.7241891e-7
+}

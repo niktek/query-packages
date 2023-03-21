@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@htmlbricks/hb-checkout",
+		"scope": "htmlbricks",
+		"version": "0.19.31",
+		"description": "Svelte Payment WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents",
+			"html5-webcomponents"
+		],
+		"date": "2023-02-28T18:24:27.269Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fhb-checkout"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23576325703548928,
+		"detail": {
+			"quality": 0.3440461160313738,
+			"popularity": 0.04537930159831571,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.02173956e-7
+}

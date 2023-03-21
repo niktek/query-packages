@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@allmaps/ui-components",
+		"scope": "allmaps",
+		"version": "1.0.0-beta.1",
+		"description": "Allmaps UI components, build with Svelte",
+		"date": "2022-10-19T19:35:44.112Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40allmaps%2Fui-components",
+			"homepage": "https://github.com/allmaps/allmaps#readme",
+			"repository": "https://github.com/allmaps/allmaps",
+			"bugs": "https://github.com/allmaps/allmaps/issues"
+		},
+		"author": {
+			"name": "Bert Spaan",
+			"email": "hello@bertspaan.nl",
+			"url": "https://bertspaan.nl",
+			"username": "bertspaan"
+		},
+		"publisher": {
+			"username": "bertspaan",
+			"email": "hello@bertspaan.nl"
+		},
+		"maintainers": [
+			{
+				"username": "bertspaan",
+				"email": "hello@bertspaan.nl"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19035663888861562,
+		"detail": {
+			"quality": 0.23926108599618262,
+			"popularity": 0.00546184692312625,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.2984098e-9
+}

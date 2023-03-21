@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "asma-app-moderator",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-05-30T18:08:12.993Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/asma-app-moderator"
+		},
+		"publisher": {
+			"username": "avans",
+			"email": "igor@avans.no"
+		},
+		"maintainers": [
+			{
+				"username": "avans",
+				"email": "igor@avans.no"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2678934140908659,
+		"detail": {
+			"quality": 0.6206030761037485,
+			"popularity": 0.0012054692026613517,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.49685e-7
+}

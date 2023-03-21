@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@macfja/svelte-oauth2",
+		"scope": "macfja",
+		"version": "1.1.0",
+		"description": "OAuth2 authorization for Svelte",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"sveltekit",
+			"svelte-kit",
+			"oauth2",
+			"auth"
+		],
+		"date": "2021-09-23T11:37:47.583Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40macfja%2Fsvelte-oauth2",
+			"homepage": "https://github.com/macfja/svelte-oauth2#readme",
+			"repository": "https://github.com/macfja/svelte-oauth2",
+			"bugs": "https://github.com/macfja/svelte-oauth2/issues"
+		},
+		"author": {
+			"name": "MacFJA"
+		},
+		"publisher": {
+			"username": "macfja",
+			"email": "macfja@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "macfja",
+				"email": "macfja@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21172349212481414,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.023641808559542562,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 4.629287e-8
+}

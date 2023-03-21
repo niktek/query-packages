@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@diffx/svelte",
+		"scope": "diffx",
+		"version": "2.0.2",
+		"keywords": [
+			"state management",
+			"svelte",
+			"devtools"
+		],
+		"date": "2021-09-02T23:08:03.080Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40diffx%2Fsvelte",
+			"homepage": "https://github.com/jbjorge/diffx#readme",
+			"repository": "https://github.com/jbjorge/diffx",
+			"bugs": "https://github.com/jbjorge/diffx/issues"
+		},
+		"author": {
+			"name": "Joachim Bjørge",
+			"email": "jb@ground.no",
+			"url": "http://ground.no"
+		},
+		"publisher": {
+			"username": "jbjorge",
+			"email": "joachimbj@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jbjorge",
+				"email": "joachimbj@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2175360477497078,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.018431131207570745,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 5.8695022e-8
+}

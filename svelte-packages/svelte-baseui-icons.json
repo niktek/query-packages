@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-baseui-icons",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Uber Base UI SVG icons as Svelte components",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"base",
+			"baseui",
+			"base web",
+			"icons",
+			"svg"
+		],
+		"date": "2020-04-26T23:27:04.036Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-baseui-icons"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19557936357809774,
+		"detail": {
+			"quality": 0.5260551644706876,
+			"popularity": 0.018152057425384126,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.5395305e-8
+}

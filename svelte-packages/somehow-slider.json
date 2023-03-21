@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "somehow-slider",
+		"scope": "unscoped",
+		"version": "1.2.0",
+		"description": "handy svelte slider components",
+		"date": "2020-09-07T18:02:45.820Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/somehow-slider",
+			"homepage": "https://github.com/spencermountain/somehow-slider/"
+		},
+		"author": {
+			"name": "Spencer Kelly",
+			"url": "spencermountain"
+		},
+		"publisher": {
+			"username": "spencermountain",
+			"email": "spencermountain@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "spencermountain",
+				"email": "spencermountain@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21278982634148608,
+		"detail": {
+			"quality": 0.5832805440879806,
+			"popularity": 0.018274482791670935,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.0131988e-8
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "key-nav-board",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "Navigating blocks on page with keyboard(up,left,down,right). Easily integrate width React, Vue and Svelte",
+		"keywords": [
+			"keyboard",
+			"navigate",
+			"board"
+		],
+		"date": "2021-04-07T11:23:45.494Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/key-nav-board"
+		},
+		"author": {
+			"name": "William17"
+		},
+		"publisher": {
+			"username": "william17",
+			"email": "superbill2012@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "william17",
+				"email": "superbill2012@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2071862808999422,
+		"detail": {
+			"quality": 0.5447824422896195,
+			"popularity": 0.001168849454665771,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 3.6013348e-9
+}

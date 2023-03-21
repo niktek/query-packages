@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "material-svelte-table",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "A fully featured Svelte Material UI implementation of TanStack Svelte Table, written from the ground up in Typescript.",
+		"keywords": [
+			"svelte-table",
+			"material-ui",
+			"material-table",
+			"tanstack table",
+			"data table"
+		],
+		"date": "2022-07-09T17:04:24.173Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/material-svelte-table",
+			"homepage": "https://github.com/KevinVandy/material-svelte-table#readme",
+			"repository": "https://github.com/KevinVandy/material-svelte-table",
+			"bugs": "https://github.com/KevinVandy/material-svelte-table/issues"
+		},
+		"author": {
+			"name": "Kevin Vandy"
+		},
+		"publisher": {
+			"username": "kevinvandy",
+			"email": "kevinvandy656@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kevinvandy",
+				"email": "kevinvandy656@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2430720767042734,
+		"detail": {
+			"quality": 0.5355947797183326,
+			"popularity": 0.003151616428467722,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.990268e-7
+}

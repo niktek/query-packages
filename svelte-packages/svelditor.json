@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelditor",
+		"scope": "unscoped",
+		"version": "1.0.5",
+		"description": "tab base editor ui library with svelte",
+		"keywords": [
+			"svelte",
+			"javascript",
+			"typescript",
+			"editor",
+			"ui",
+			"tab"
+		],
+		"date": "2020-11-06T11:33:49.934Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelditor"
+		},
+		"author": {
+			"name": "Saki Komikado",
+			"email": "komietty@gmail.com",
+			"url": "http://sakikomikado.com",
+			"username": "komietty"
+		},
+		"publisher": {
+			"username": "komietty",
+			"email": "komietty@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "komietty",
+				"email": "komietty@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18652545304345453,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.0020381289711917687,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.852962e-9
+}

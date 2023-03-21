@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-navaid",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "Navaid-based routing components for Svelte. Does not work with Sapper. Yet. I don’t think. Contributions welcome.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-08-26T15:30:57.833Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-navaid"
+		},
+		"publisher": {
+			"username": "jacwright",
+			"email": "jacwright@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jacwright",
+				"email": "jacwright@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16513504404006285,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.019600940539483788,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.7835983e-9
+}

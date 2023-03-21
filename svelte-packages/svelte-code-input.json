@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-code-input",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "<img src=\"https://simplecodetips.com/wp-content/uploads/2017/01/Linux-Terminal-icon.png\" alt=\"A Terminal Icon\" width=\"150px\" align=\"center\"/>",
+		"date": "2022-03-23T20:22:13.805Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-code-input"
+		},
+		"author": {
+			"name": "@stordahl_"
+		},
+		"publisher": {
+			"username": "stordahl_",
+			"email": "jacob@stordahl.dev"
+		},
+		"maintainers": [
+			{
+				"username": "stordahl_",
+				"email": "jacob@stordahl.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18706912318862065,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0012054692026613517,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 4.0485126e-9
+}

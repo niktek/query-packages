@@ -1,0 +1,65 @@
+{
+	"package": {
+		"name": "@nanostores/persistent",
+		"scope": "nanostores",
+		"version": "0.7.0",
+		"description": "A tiny persistent store for Nano Stores state manager",
+		"keywords": [
+			"nano",
+			"persistent",
+			"react",
+			"preact",
+			"vue",
+			"svelte",
+			"store",
+			"localStorage",
+			"cross-tab"
+		],
+		"date": "2022-09-09T17:07:55.375Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nanostores%2Fpersistent",
+			"homepage": "https://github.com/nanostores/persistent#readme",
+			"repository": "https://github.com/nanostores/persistent",
+			"bugs": "https://github.com/nanostores/persistent/issues"
+		},
+		"author": {
+			"name": "Andrey Sitnik",
+			"email": "andrey@sitnik.ru",
+			"username": "ai"
+		},
+		"publisher": {
+			"username": "ai",
+			"email": "andrey@sitnik.ru"
+		},
+		"maintainers": [
+			{
+				"username": "dkzlv",
+				"email": "d.kzlv.ru@gmail.com"
+			},
+			{
+				"username": "ninoid",
+				"email": "ninatorgunakova@gmail.com"
+			},
+			{
+				"username": "wobsoriano",
+				"email": "sorianorobertc@gmail.com"
+			},
+			{
+				"username": "ai",
+				"email": "andrey@sitnik.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2587331150375245,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.061825959203592434,
+			"maintenance": 0.3309970134001296
+		}
+	},
+	"searchScore": 2.0906003e-7
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@svelte-drama/swr",
+		"scope": "svelte-drama",
+		"version": "0.2.8",
+		"description": "Keep your data on its toes",
+		"keywords": [
+			"cache",
+			"fetching",
+			"svelte",
+			"swr"
+		],
+		"date": "2022-10-06T20:10:27.133Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-drama%2Fswr",
+			"homepage": "https://github.com/svelte-drama/swr#readme",
+			"repository": "https://github.com/svelte-drama/swr",
+			"bugs": "https://github.com/svelte-drama/swr/issues"
+		},
+		"publisher": {
+			"username": "adantes",
+			"email": "b.keyes@blueglassmoon.com"
+		},
+		"maintainers": [
+			{
+				"username": "adantes",
+				"email": "b.keyes@blueglassmoon.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2482656775400291,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.004757344582917642,
+			"maintenance": 0.33285750993738983
+		}
+	},
+	"searchScore": 2.3866085e-7
+}

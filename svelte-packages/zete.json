@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "zete",
+		"scope": "unscoped",
+		"version": "0.1.2",
+		"description": "electron framework",
+		"keywords": [
+			"electron",
+			"svelte",
+			"frontend",
+			"backend"
+		],
+		"date": "2022-10-10T13:46:18.832Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/zete",
+			"homepage": "https://github.com/do4ng/zete#readme",
+			"repository": "https://github.com/do4ng/zete",
+			"bugs": "https://github.com/do4ng/zete/issues"
+		},
+		"publisher": {
+			"username": "do4ng",
+			"email": "kangdongmandoo08@naver.com"
+		},
+		"maintainers": [
+			{
+				"username": "do4ng",
+				"email": "kangdongmandoo08@naver.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24495080044612316,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.004054323046342834,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.790709e-8
+}

@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "storables",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Svelte's built-in stores are not always ergonomic when you have to mix them with imperative code. Storables remedy this by letting you to embed logic within a store's lifetime.",
+		"keywords": [
+			"checkable",
+			"derived",
+			"localStorage",
+			"persistable",
+			"readable",
+			"store",
+			"svelte",
+			"transformable",
+			"validation",
+			"writable"
+		],
+		"date": "2021-12-09T14:45:56.303Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/storables"
+		},
+		"publisher": {
+			"username": "kwangure",
+			"email": "kaf.wangure@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kwangure",
+				"email": "kaf.wangure@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19626985690414772,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.019070286274888066,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 4.0516257e-9
+}

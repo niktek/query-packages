@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-octicons",
+		"scope": "unscoped",
+		"version": "18.1.0",
+		"description": "GitHub Octicons as Svelte components",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"octicons",
+			"primer",
+			"github",
+			"icons",
+			"svg",
+			"typescript"
+		],
+		"date": "2023-03-11T20:46:34.428Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-octicons",
+			"homepage": "https://github.com/metonym/svelte-octicons",
+			"repository": "https://github.com/metonym/svelte-octicons",
+			"bugs": "https://github.com/metonym/svelte-octicons/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3162356489420132,
+		"detail": {
+			"quality": 0.6191815227934985,
+			"popularity": 0.03947007267799155,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000010318954
+}

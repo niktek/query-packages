@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@babeard/svelte-heroicons",
+		"scope": "babeard",
+		"version": "2.0.0-rc.0",
+		"description": "Svelte wrappers for the Heroicons v2 library.",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"sveltejs",
+			"heroicons",
+			"icons"
+		],
+		"date": "2022-09-23T16:58:08.684Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40babeard%2Fsvelte-heroicons",
+			"homepage": "https://github.com/babeard/svelte-heroicons",
+			"repository": "https://github.com/babeard/svelte-heroicons",
+			"bugs": "https://github.com/babeard/svelte-heroicons/issues"
+		},
+		"author": {
+			"name": "Brian Beard",
+			"email": "brian.a.beard@gmail.com",
+			"username": "babeard"
+		},
+		"publisher": {
+			"username": "babeard",
+			"email": "brian.a.beard@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "babeard",
+				"email": "brian.a.beard@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2778557608602427,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.008678730915375719,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 0.0000012718942
+}

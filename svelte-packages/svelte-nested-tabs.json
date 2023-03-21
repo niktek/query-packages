@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-nested-tabs",
+		"scope": "unscoped",
+		"version": "0.9.7",
+		"description": "*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*",
+		"keywords": [
+			"svelte",
+			"nested-tabs",
+			"tabs"
+		],
+		"date": "2021-09-07T20:11:48.553Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-nested-tabs",
+			"homepage": "https://github.com/copious-world/svelte-nested-tabs#readme",
+			"repository": "https://github.com/copious-world/svelte-nested-tabs",
+			"bugs": "https://github.com/copious-world/svelte-nested-tabs/issues"
+		},
+		"author": {
+			"name": "Richard Leddy"
+		},
+		"publisher": {
+			"username": "rleddy",
+			"email": "richardaleddy@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rleddy",
+				"email": "richardaleddy@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21122503123236175,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.019230256563852206,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 3.478354e-8
+}

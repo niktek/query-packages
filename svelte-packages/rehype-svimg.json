@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "rehype-svimg",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "A rehype plugin for preprocessing and lazy loading images using the svimg Svelte component",
+		"keywords": [
+			"rehype",
+			"rehype-plugin",
+			"svimg",
+			"svelte",
+			"image",
+			"unified"
+		],
+		"date": "2022-08-06T04:08:56.929Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/rehype-svimg",
+			"homepage": "https://github.com/xiphux/rehype-svimg",
+			"repository": "https://github.com/xiphux/rehype-svimg",
+			"bugs": "https://github.com/xiphux/rehype-svimg/issues"
+		},
+		"author": {
+			"name": "Chris Han",
+			"email": "christopher.f.han@gmail.com",
+			"url": "chris-han.com",
+			"username": "xiphux"
+		},
+		"publisher": {
+			"username": "xiphux",
+			"email": "christopher.f.han@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "xiphux",
+				"email": "christopher.f.han@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2204592795454841,
+		"detail": {
+			"quality": 0.4969965248782887,
+			"popularity": 0.01904370887669562,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 2.6606836e-8
+}

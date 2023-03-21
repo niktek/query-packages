@@ -1,0 +1,58 @@
+{
+	"package": {
+		"name": "@egman1/swiper_old",
+		"scope": "egman1",
+		"version": "6.8.6",
+		"description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
+		"keywords": [
+			"swiper",
+			"swipe",
+			"slider",
+			"touch",
+			"ios",
+			"mobile",
+			"cordova",
+			"phonegap",
+			"app",
+			"framework",
+			"framework7",
+			"carousel",
+			"gallery",
+			"plugin",
+			"react",
+			"vue",
+			"angular",
+			"svelte",
+			"slideshow"
+		],
+		"date": "2022-05-19T06:55:12.388Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40egman1%2Fswiper_old",
+			"homepage": "https://swiperjs.com",
+			"repository": "https://github.com/nolimits4web/Swiper",
+			"bugs": "https://github.com/nolimits4web/swiper/issues"
+		},
+		"author": {
+			"name": "Vladimir Kharlampidi"
+		},
+		"publisher": {
+			"username": "egman1",
+			"email": "troschand@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "egman1",
+				"email": "troschand@mail.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2543205107687595,
+		"detail": {
+			"quality": 0.5269283442548052,
+			"popularity": 0.0029880111520730985,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 7.748498e-8
+}

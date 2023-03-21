@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@maritime-fun-group/svelte-core",
+		"scope": "maritime-fun-group",
+		"version": "0.0.12",
+		"description": "## Component Theming",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-06-01T14:43:25.354Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40maritime-fun-group%2Fsvelte-core"
+		},
+		"publisher": {
+			"username": "isaacmfg",
+			"email": "isaac@maritimefun.com"
+		},
+		"maintainers": [
+			{
+				"username": "mfgdevelopment",
+				"email": "adam@maritimefun.com"
+			},
+			{
+				"username": "isaacmfg",
+				"email": "isaac@maritimefun.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21814875255362146,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0024088020274264928,
+			"maintenance": 0.25840157465938773
+		}
+	},
+	"searchScore": 3.8311786e-8
+}

@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-taphold",
+		"scope": "unscoped",
+		"version": "1.0.3-remake",
+		"description": "Svelte Action for handling tap and hold action",
+		"date": "2022-11-09T03:25:37.449Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-taphold",
+			"homepage": "https://github.com/binsarjr/svelte-taphold#readme",
+			"repository": "https://github.com/binsarjr/svelte-taphold",
+			"bugs": "https://github.com/binsarjr/svelte-taphold/issues"
+		},
+		"author": {
+			"name": "Binsar Dwi Jasuma",
+			"email": "binsarjr121@gmail.com",
+			"username": "binsarjr"
+		},
+		"publisher": {
+			"username": "binsarjr",
+			"email": "binsarjr121@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "binsarjr",
+				"email": "binsarjr121@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27653202699743756,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.0034695465318701005,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000010189167
+}

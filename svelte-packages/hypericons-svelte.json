@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "hypericons-svelte",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "Hyperio Icons in Svelte Component Form",
+		"date": "2022-08-16T05:30:58.783Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/hypericons-svelte"
+		},
+		"publisher": {
+			"username": "dazon",
+			"email": "npinales00@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dazon",
+				"email": "npinales00@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20098939620366335,
+		"detail": {
+			"quality": 0.2857108086145387,
+			"popularity": 0.002328988822759875,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 1.2361554e-8
+}

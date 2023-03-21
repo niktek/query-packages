@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "smoo",
+		"scope": "unscoped",
+		"version": "0.0.17",
+		"description": "Simple Modal or Outlet",
+		"keywords": [
+			"svelte",
+			"modal",
+			"search",
+			"svelte-modal",
+			"svelte-search",
+			"svelte3-modal",
+			"svelte3-search"
+		],
+		"date": "2022-08-12T20:20:28.814Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/smoo",
+			"homepage": "https://github.com/pateketrueke/smoo#readme",
+			"repository": "https://github.com/pateketrueke/smoo",
+			"bugs": "https://github.com/pateketrueke/smoo/issues"
+		},
+		"author": {
+			"name": "Alvaro Cabrera",
+			"email": "pateketrueke@gmail.com",
+			"username": "pateketrueke"
+		},
+		"publisher": {
+			"username": "pateketrueke",
+			"email": "pateketrueke@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pateketrueke",
+				"email": "pateketrueke@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24234568399459472,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0046785708418243714,
+			"maintenance": 0.30261416013532566
+		}
+	},
+	"searchScore": 8.385081e-8
+}

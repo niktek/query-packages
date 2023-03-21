@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-dynamic-iconify",
+		"scope": "unscoped",
+		"version": "1.6.6",
+		"description": "Dynamic icons for Svelte",
+		"keywords": [
+			"iconify",
+			"svelte",
+			"dynamic",
+			"simple",
+			"fontawesome",
+			"icons"
+		],
+		"date": "2021-06-22T09:09:16.307Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dynamic-iconify",
+			"homepage": "https://github.com/hazg/svelte-dynamic-iconify#readme",
+			"repository": "https://github.com/hazg/svelte-dynamic-iconify",
+			"bugs": "https://github.com/hazg/svelte-dynamic-iconify/issues"
+		},
+		"author": {
+			"name": "Aleksandr Alksandrov",
+			"email": "hazg@mail.ru",
+			"username": "hazg"
+		},
+		"publisher": {
+			"username": "hazg",
+			"email": "hazg@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "hazg",
+				"email": "hazg@mail.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2028070208719398,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0023864992238944067,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.9317604e-8
+}

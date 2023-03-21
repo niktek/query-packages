@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-docster",
+		"scope": "unscoped",
+		"version": "2.0.1",
+		"description": "Generate metadata about your Svelte files from jsdoc.",
+		"keywords": [
+			"svelte",
+			"jsdoc",
+			"doc"
+		],
+		"date": "2021-06-07T19:05:45.916Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-docster"
+		},
+		"author": {
+			"name": "TheComputerM"
+		},
+		"publisher": {
+			"username": "thecomputerm",
+			"email": "mudit.harshit99@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thecomputerm",
+				"email": "mudit.harshit99@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2464610378205102,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.01991674117141719,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 3.310997e-7
+}

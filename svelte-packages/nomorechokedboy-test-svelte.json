@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "nomorechokedboy-test-svelte",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+		"date": "2022-09-13T13:11:22.419Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/nomorechokedboy-test-svelte"
+		},
+		"publisher": {
+			"username": "nomorechokedboy",
+			"email": "lehohaiduong2001@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nomorechokedboy",
+				"email": "lehohaiduong2001@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2249657756422145,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.020564207981723065,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.1929896e-8
+}

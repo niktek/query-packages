@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "vite-plugin-svelte-svg",
+		"scope": "unscoped",
+		"version": "2.2.1",
+		"description": "Vite 3.x plugin to load SVG files as Svelte components",
+		"keywords": [
+			"vite-plugin"
+		],
+		"date": "2023-01-18T10:38:06.293Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-plugin-svelte-svg",
+			"homepage": "https://github.com/metafy-gg/vite-plugin-svelte-svg#readme",
+			"repository": "https://github.com/metafy-gg/vite-plugin-svelte-svg",
+			"bugs": "https://github.com/metafy-gg/vite-plugin-svelte-svg/issues"
+		},
+		"author": {
+			"name": "Metafy",
+			"email": "engineering@metafy.gg"
+		},
+		"publisher": {
+			"username": "vevix",
+			"email": "trmcniven@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vevix",
+				"email": "trmcniven@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28546420234442044,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.035111260738858924,
+			"maintenance": 0.33319417056893236
+		}
+	},
+	"searchScore": 0.0000016991044
+}

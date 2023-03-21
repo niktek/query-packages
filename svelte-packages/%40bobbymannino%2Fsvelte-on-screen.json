@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@bobbymannino/svelte-on-screen",
+		"scope": "bobbymannino",
+		"version": "1.1.0",
+		"description": "An element for controlling wether an element is in the viewport using intersection observer that's: TypeScript First, Customizable With Props, Easy To Use",
+		"keywords": [
+			"intersection-observer",
+			"svelte",
+			"sveltekit"
+		],
+		"date": "2022-12-12T22:16:01.832Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bobbymannino%2Fsvelte-on-screen",
+			"homepage": "https://github.com/bobbymannino/svelte-on-screen#readme",
+			"repository": "https://github.com/bobbymannino/svelte-on-screen",
+			"bugs": "https://github.com/bobbymannino/svelte-on-screen/issues"
+		},
+		"author": {
+			"name": "Bobby Mannino",
+			"email": "manninobobby@icloud.com",
+			"username": "bobbymannino"
+		},
+		"publisher": {
+			"username": "bobbymannino",
+			"email": "manninobobby@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "bobbymannino",
+				"email": "manninobobby@icloud.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2588039518097799,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.021334832313507406,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 4.5941275e-7
+}

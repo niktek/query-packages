@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "svelte-agnostic-draggable",
+		"scope": "unscoped",
+		"version": "0.1.13",
+		"description": "jQuery UI interactions draggable/droppable/sortable for Svelte",
+		"keywords": [
+			"svelte3",
+			"svelte-action",
+			"jquery-ui",
+			"draggable",
+			"droppable",
+			"sortable"
+		],
+		"date": "2023-01-15T05:19:41.524Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-agnostic-draggable",
+			"homepage": "https://github.com/rozek/svelte-agnostic-draggable#readme",
+			"repository": "https://github.com/rozek/svelte-agnostic-draggable",
+			"bugs": "https://github.com/rozek/svelte-agnostic-draggable/issues"
+		},
+		"author": {
+			"name": "Andreas Rozek",
+			"email": "a.rozek@gmx.de",
+			"url": "https://www.rozek.de/",
+			"username": "arozek"
+		},
+		"publisher": {
+			"username": "arozek",
+			"email": "a.rozek@gmx.de"
+		},
+		"maintainers": [
+			{
+				"username": "arozek",
+				"email": "a.rozek@gmx.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2413638246478807,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.010423848660569083,
+			"maintenance": 0.33277257997274207
+		}
+	},
+	"searchScore": 1.8031479e-7
+}

@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "slithe",
+		"scope": "unscoped",
+		"version": "0.2.6",
+		"description": "Snaky web components that moults",
+		"keywords": [
+			"slithe",
+			"snake",
+			"moult",
+			"svelte",
+			"web-components",
+			"custom-elements"
+		],
+		"date": "2023-03-03T14:26:32.186Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/slithe",
+			"homepage": "https://github.com/cadgerfeast/slithe#readme",
+			"repository": "https://github.com/cadgerfeast/slithe",
+			"bugs": "https://github.com/cadgerfeast/slithe/issues"
+		},
+		"author": {
+			"name": "Jérémie Pichon",
+			"email": "contact@cadgerfeast.com",
+			"username": "cadgerfeast"
+		},
+		"publisher": {
+			"username": "cadgerfeast",
+			"email": "contact@cadgerfeast.com"
+		},
+		"maintainers": [
+			{
+				"username": "cadgerfeast",
+				"email": "contact@cadgerfeast.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2530432231042789,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0271755306410736,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.2381354e-7
+}

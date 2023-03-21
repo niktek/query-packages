@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@miedzikd/svelte-store",
+		"scope": "miedzikd",
+		"version": "1.0.12",
+		"description": "Extension of svelte default stores for dead-simple handling of complex asynchronous behavior.",
+		"date": "2022-12-05T12:08:00.884Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40miedzikd%2Fsvelte-store",
+			"homepage": "https://github.com/miedzikd/svelte-store#readme",
+			"repository": "https://github.com/miedzikd/svelte-store",
+			"bugs": "https://github.com/miedzikd/svelte-store/issues"
+		},
+		"author": {
+			"name": "Square"
+		},
+		"publisher": {
+			"username": "miedzikd",
+			"email": "daniel.miedzik@w3center.pl"
+		},
+		"maintainers": [
+			{
+				"username": "miedzikd",
+				"email": "daniel.miedzik@w3center.pl"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2823881368154454,
+		"detail": {
+			"quality": 0.55,
+			"popularity": 0.002413155622815102,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 0.0000011881335
+}

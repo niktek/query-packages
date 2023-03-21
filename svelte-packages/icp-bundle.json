@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "icp-bundle",
+		"scope": "unscoped",
+		"version": "0.2.4",
+		"description": "Interactive Code Playgrounds Bundle is a plugin for embedding interactive code playgrounds in HTML pages.",
+		"keywords": [
+			"webcomponents",
+			"rollup",
+			"svelte",
+			"codemirror",
+			"codemirror6",
+			"playgrounds"
+		],
+		"date": "2023-02-09T10:18:32.251Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/icp-bundle",
+			"homepage": "https://github.com/lucademenego99/icp-bundle#readme",
+			"repository": "https://github.com/lucademenego99/icp-bundle",
+			"bugs": "https://github.com/lucademenego99/icp-bundle/issues"
+		},
+		"author": {
+			"name": "Luca De Menego",
+			"email": "lucademenego99@gmail.com",
+			"username": "lucademenego99"
+		},
+		"publisher": {
+			"username": "lucademenego99",
+			"email": "lucademenego99@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lucademenego99",
+				"email": "lucademenego99@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.30991690742100214,
+		"detail": {
+			"quality": 0.6193250789174554,
+			"popularity": 0.021293477368853956,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000020240593
+}

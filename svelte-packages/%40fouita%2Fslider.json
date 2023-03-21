@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@fouita/slider",
+		"scope": "fouita",
+		"version": "0.0.4",
+		"description": "Form range (slider) component built with svelte and tailwindcss",
+		"keywords": [
+			"svelte",
+			"tailwindcss",
+			"fouita",
+			"slider",
+			"input-range"
+		],
+		"date": "2021-04-10T08:57:13.703Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40fouita%2Fslider",
+			"homepage": "https://github.com/fouita/svelte-tw-slider#readme",
+			"repository": "https://github.com/fouita/svelte-tw-slider",
+			"bugs": "https://github.com/fouita/svelte-tw-slider/issues"
+		},
+		"author": {
+			"name": "fouita"
+		},
+		"publisher": {
+			"username": "fouita",
+			"email": "hq@fouita.com"
+		},
+		"maintainers": [
+			{
+				"username": "fouita",
+				"email": "hq@fouita.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17229897848438194,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.022806229599569253,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 1.2006017e-9
+}

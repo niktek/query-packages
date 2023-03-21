@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@shedali/multiselect",
+		"scope": "shedali",
+		"version": "0.0.2",
+		"description": "@shedali/multiselect",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-12-10T03:24:38.736Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40shedali%2Fmultiselect"
+		},
+		"publisher": {
+			"username": "franzi",
+			"email": "shedali@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "franzi",
+				"email": "shedali@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23722735616635288,
+		"detail": {
+			"quality": 0.6846955490640426,
+			"popularity": 0.001168849454665771,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.769673e-8
+}

@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@geostarters/icgc-svelte-components",
+		"scope": "geostarters",
+		"version": "0.0.21",
+		"description": "Svelte Components for webmapping",
+		"keywords": [
+			"Svelte",
+			"Components",
+			"npm",
+			"Maps",
+			"Vector Tiles"
+		],
+		"date": "2022-09-15T12:23:18.470Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40geostarters%2Ficgc-svelte-components"
+		},
+		"author": {
+			"name": "geostarters"
+		},
+		"publisher": {
+			"username": "icgcgeostarters",
+			"email": "geostarters@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "icgcgeostarters",
+				"email": "geostarters@gmail.com"
+			},
+			{
+				"username": "sfggeogis",
+				"email": "sfggeogis@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22643964964552227,
+		"detail": {
+			"quality": 0.3422980387182727,
+			"popularity": 0.02025142361635368,
+			"maintenance": 0.3333206850409048
+		}
+	},
+	"searchScore": 7.843646e-8
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "graphnav",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "UI navigation via the power of graphs",
+		"keywords": [
+			"navigation",
+			"graph",
+			"delaunay",
+			"svelte"
+		],
+		"date": "2022-06-12T07:37:52.390Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/graphnav"
+		},
+		"author": {
+			"name": "Pat Cavit",
+			"email": "npm@patcavit.com",
+			"username": "tivac"
+		},
+		"publisher": {
+			"username": "tivac",
+			"email": "npm@patcavit.com"
+		},
+		"maintainers": [
+			{
+				"username": "tivac",
+				"email": "npm@patcavit.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18700536307478455,
+		"detail": {
+			"quality": 0.35075333417424315,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 2.0552642e-9
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelthree",
+		"scope": "unscoped",
+		"version": "0.119.0-5",
+		"description": "Svelte powered three.js development",
+		"keywords": [
+			"svelte",
+			"svelte.js",
+			"three",
+			"three.js",
+			"svelthree"
+		],
+		"date": "2020-08-03T23:09:19.147Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelthree",
+			"homepage": "https://svelthree.dev"
+		},
+		"author": {
+			"name": "Vatroslav Vrbanic"
+		},
+		"publisher": {
+			"username": "vatro",
+			"email": "hi@cream.gmbh"
+		},
+		"maintainers": [
+			{
+				"username": "vatro",
+				"email": "hi@cream.gmbh"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19151996642336455,
+		"detail": {
+			"quality": 0.5222123194114958,
+			"popularity": 0.009847647034024952,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.0199933e-9
+}

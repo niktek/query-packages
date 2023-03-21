@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-tabler",
+		"scope": "unscoped",
+		"version": "0.3.2",
+		"description": "Tabler icon components for Svelte",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"tabler icons",
+			"svg icons",
+			"icons"
+		],
+		"date": "2023-03-07T09:19:38.065Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tabler",
+			"homepage": "https://svelte-tabler.codewithshin.com",
+			"repository": "https://github.com/shinokada/svelte-tabler",
+			"bugs": "https://github.com/shinokada/svelte-tabler/issues"
+		},
+		"author": {
+			"name": "Shinichi Okada",
+			"email": "connect@codewithshin.com",
+			"url": "https://blog.codewithshin.com"
+		},
+		"publisher": {
+			"username": "shinichiokada",
+			"email": "okada.shin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shinichiokada",
+				"email": "okada.shin@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2941595015704763,
+		"detail": {
+			"quality": 0.5486021661567133,
+			"popularity": 0.03689195730513051,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000037346274
+}

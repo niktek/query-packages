@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@svelte-on-solana/wallet-adapter-anchor",
+		"scope": "svelte-on-solana",
+		"version": "1.0.16-alpha.0",
+		"description": "`AnchorConnectionProvider` component and `workSpace` for Solana wallets using Svelte",
+		"keywords": [
+			"svelte",
+			"wallet",
+			"adapter",
+			"anchor",
+			"wallet-adapter",
+			"solana"
+		],
+		"date": "2022-08-25T09:29:01.458Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-on-solana%2Fwallet-adapter-anchor",
+			"homepage": "https://github.com/svelte-on-solana/wallet-adapter#readme",
+			"repository": "https://github.com/svelte-on-solana/wallet-adapter",
+			"bugs": "https://github.com/svelte-on-solana/wallet-adapter/issues"
+		},
+		"author": {
+			"name": "Svelte on Solana"
+		},
+		"publisher": {
+			"username": "silvestrevivo",
+			"email": "silvestrevivomillan@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "silvestrevivo",
+				"email": "silvestrevivomillan@gmail.com"
+			},
+			{
+				"username": "c_ogoo",
+				"email": "ogoo.colin@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24821252805169247,
+		"detail": {
+			"quality": 0.44117676171200826,
+			"popularity": 0.0043408597032307044,
+			"maintenance": 0.3266862818341693
+		}
+	},
+	"searchScore": 2.0633132e-7
+}

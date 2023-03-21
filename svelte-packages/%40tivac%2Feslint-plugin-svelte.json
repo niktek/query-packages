@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@tivac/eslint-plugin-svelte",
+		"scope": "tivac",
+		"version": "3.1.0",
+		"description": "Svelte.js focused ESLint rules",
+		"keywords": [
+			"eslint",
+			"eslintplugin",
+			"eslint-plugin",
+			"svelte"
+		],
+		"date": "2022-07-26T06:59:20.461Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tivac%2Feslint-plugin-svelte",
+			"homepage": "https://github.com/tivac/eslint-plugin-svelte#readme",
+			"repository": "https://github.com/tivac/eslint-plugin-svelte",
+			"bugs": "https://github.com/tivac/eslint-plugin-svelte/issues"
+		},
+		"author": {
+			"name": "Pat Cavit",
+			"email": "npm@patcavit.com",
+			"username": "tivac"
+		},
+		"publisher": {
+			"username": "tivac",
+			"email": "npm@patcavit.com"
+		},
+		"maintainers": [
+			{
+				"username": "tivac",
+				"email": "npm@patcavit.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.279384993385641,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.03982716919388333,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 0.0000015635956
+}

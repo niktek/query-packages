@@ -1,0 +1,102 @@
+{
+	"package": {
+		"name": "@testing-library/svelte",
+		"scope": "testing-library",
+		"version": "3.2.2",
+		"description": "Simple and complete Svelte testing utilities that encourage good testing practices.",
+		"keywords": [
+			"testing",
+			"svelte",
+			"ui",
+			"dom",
+			"jsdom",
+			"unit",
+			"integration",
+			"functional",
+			"end-to-end",
+			"e2e"
+		],
+		"date": "2022-10-06T13:29:45.249Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40testing-library%2Fsvelte",
+			"homepage": "https://github.com/testing-library/svelte-testing-library#readme",
+			"repository": "https://github.com/testing-library/svelte-testing-library",
+			"bugs": "https://github.com/testing-library/svelte-testing-library/issues"
+		},
+		"publisher": {
+			"username": "testing-library-bot",
+			"email": "testinglibraryoss@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "eps1lon",
+				"email": "silbermann.sebastian@gmail.com"
+			},
+			{
+				"username": "mdjastrzebski",
+				"email": "mdjastrzebski@gmail.com"
+			},
+			{
+				"username": "jdecroock",
+				"email": "decroockjovi@gmail.com"
+			},
+			{
+				"username": "testing-library-bot",
+				"email": "testinglibraryoss@gmail.com"
+			},
+			{
+				"username": "kentcdodds",
+				"email": "me@kentcdodds.com"
+			},
+			{
+				"username": "timdeschryver",
+				"email": "timdeschryver@outlook.com"
+			},
+			{
+				"username": "patrickhulce",
+				"email": "patrick.hulce@gmail.com"
+			},
+			{
+				"username": "dfcook",
+				"email": "dfcook@hotmail.com"
+			},
+			{
+				"username": "gpx",
+				"email": "polvara@gmail.com"
+			},
+			{
+				"username": "mpeyper",
+				"email": "mpeyper7@gmail.com"
+			},
+			{
+				"username": "mihar-22",
+				"email": "rahim.alwer@gmail.com"
+			},
+			{
+				"username": "pago",
+				"email": "patrick.gotthardt@trivago.com"
+			},
+			{
+				"username": "cmckinstry",
+				"email": "carson.mckinstry@gmail.com"
+			},
+			{
+				"username": "thymikee",
+				"email": "thymikee@gmail.com"
+			},
+			{
+				"username": "brrianalexis",
+				"email": "brrianalexis.dev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3386395641798973,
+		"detail": {
+			"quality": 0.6142164447559904,
+			"popularity": 0.10891223081172687,
+			"maintenance": 0.33215814276855954
+		}
+	},
+	"searchScore": 0.000034910467
+}

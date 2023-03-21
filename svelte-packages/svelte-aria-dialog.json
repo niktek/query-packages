@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-aria-dialog",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "A tiny svelte component that provides a mostly unstyled, WAI-ARIA accessible modal dialog with a few simple options.",
+		"keywords": [
+			"dialog",
+			"modal",
+			"alert",
+			"accessible",
+			"aria",
+			"wai-aria",
+			"svelte",
+			"svelte3",
+			"sveltejs",
+			"svelte-component"
+		],
+		"date": "2021-12-16T21:03:16.468Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-aria-dialog"
+		},
+		"author": {
+			"name": "tropix126",
+			"url": "https://github.com/tropix126/"
+		},
+		"publisher": {
+			"username": "tropix126",
+			"email": "nh126person@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tropix126",
+				"email": "nh126person@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16492354130623094,
+		"detail": {
+			"quality": 0.3912006487957689,
+			"popularity": 0.012059702181648327,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.325838e-9
+}

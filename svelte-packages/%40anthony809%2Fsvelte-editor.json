@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@anthony809/svelte-editor",
+		"scope": "anthony809",
+		"version": "0.0.4",
+		"description": "A Svelte editor powered by EditorJS.",
+		"keywords": [
+			"svelte",
+			"editor",
+			"editorjs"
+		],
+		"date": "2023-01-10T23:21:29.932Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40anthony809%2Fsvelte-editor"
+		},
+		"author": {
+			"name": "anthony809"
+		},
+		"publisher": {
+			"username": "anthony809",
+			"email": "anthonytoribio809@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anthony809",
+				"email": "anthonytoribio809@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24000807867513158,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.005989535377837387,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.6620201e-7
+}

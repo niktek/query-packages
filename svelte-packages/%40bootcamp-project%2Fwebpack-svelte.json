@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@bootcamp-project/webpack-svelte",
+		"scope": "bootcamp-project",
+		"version": "2.1.2",
+		"description": "Ready-to-use Webpack - Svelte Configuration with Svelte support by default",
+		"keywords": [
+			"Webpack",
+			"Svelte",
+			"Ready-to-use",
+			"Configuration",
+			"TBCP"
+		],
+		"date": "2022-02-13T08:13:32.626Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bootcamp-project%2Fwebpack-svelte",
+			"homepage": "https://configurations.bootcamp-project.com/#/bundling/webpack-svelte",
+			"repository": "https://gitlab.com/the-bootcamp-project/configurations/webpack-svelte",
+			"bugs": "https://gitlab.com/the-bootcamp-project/configurations/webpack-svelte/-/issues"
+		},
+		"author": {
+			"name": "Bootcamp contributors",
+			"email": "contributors@bootcamp-project.com",
+			"username": "bootcamp-project"
+		},
+		"publisher": {
+			"username": "bootcamp-project",
+			"email": "contributors@bootcamp-project.com"
+		},
+		"maintainers": [
+			{
+				"username": "bootcamp-project",
+				"email": "contributors@bootcamp-project.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25164605292050557,
+		"detail": {
+			"quality": 0.6372988976093354,
+			"popularity": 0.002007737536369273,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 3.2529198e-7
+}

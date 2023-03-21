@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@sandeep_yadav_0207/add-component",
+		"scope": "sandeep_yadav_0207",
+		"version": "1.1.7",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-06-17T10:00:41.188Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sandeep_yadav_0207%2Fadd-component"
+		},
+		"publisher": {
+			"username": "sandeep_yadav_0207",
+			"email": "yadavsandy.1020@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sandeep_yadav_0207",
+				"email": "yadavsandy.1020@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25624634885791175,
+		"detail": {
+			"quality": 0.4660379081226978,
+			"popularity": 0.0020230353861102296,
+			"maintenance": 0.3306483258170397
+		}
+	},
+	"searchScore": 7.437725e-8
+}

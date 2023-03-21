@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-breakpoints",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Svelte component and helper function for creating easy dynamic layouts with CSS media queries.",
+		"keywords": [
+			"svelte",
+			"breakpoints",
+			"media queries",
+			"responsive"
+		],
+		"date": "2022-12-02T17:43:06.733Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-breakpoints",
+			"homepage": "https://github.com/kiosion/svelte-breakpoints#readme",
+			"repository": "https://github.com/kiosion/svelte-breakpoints",
+			"bugs": "https://github.com/kiosion/svelte-breakpoints/issues"
+		},
+		"author": {
+			"name": "kiosion"
+		},
+		"publisher": {
+			"username": "kiosion",
+			"email": "npm@kio.dev"
+		},
+		"maintainers": [
+			{
+				"username": "kiosion",
+				"email": "npm@kio.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2600773073541361,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.024972991011668007,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 6.2117203e-7
+}

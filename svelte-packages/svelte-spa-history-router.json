@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-spa-history-router",
+		"scope": "unscoped",
+		"version": "2.1.0",
+		"description": "History base router for Svelte3 SPA",
+		"keywords": [
+			"router",
+			"svelte",
+			"svelte3",
+			"spa"
+		],
+		"date": "2021-04-29T14:33:49.461Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-spa-history-router"
+		},
+		"author": {
+			"name": "ykrods"
+		},
+		"publisher": {
+			"username": "ykrods",
+			"email": "ykrods@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "ykrods",
+				"email": "ykrods@icloud.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3208241984706228,
+		"detail": {
+			"quality": 0.8788367301487212,
+			"popularity": 0.007558082816119695,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 0.00000931345
+}

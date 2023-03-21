@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-lanyard",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "🏷️ A Lanyard API wrapper for Svelte",
+		"keywords": [
+			"typescript",
+			"svelte",
+			"lanyard",
+			"discord"
+		],
+		"date": "2021-11-21T11:15:44.238Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-lanyard",
+			"homepage": "https://github.com/iGalaxyYT/svelte-lanyard#readme",
+			"repository": "https://github.com/iGalaxyYT/svelte-lanyard",
+			"bugs": "https://github.com/iGalaxyYT/svelte-lanyard/issues"
+		},
+		"author": {
+			"name": "William Hayr",
+			"email": "contact@igalaxy.dev",
+			"username": "igalaxy"
+		},
+		"publisher": {
+			"username": "igalaxy",
+			"email": "contact@igalaxy.dev"
+		},
+		"maintainers": [
+			{
+				"username": "igalaxy",
+				"email": "contact@igalaxy.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2176582952514901,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0036273917782522914,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 5.564189e-8
+}

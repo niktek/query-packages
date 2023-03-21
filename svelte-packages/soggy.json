@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "soggy",
+		"scope": "unscoped",
+		"version": "0.1.18",
+		"description": "Filter floods of results into a soggy delight",
+		"keywords": [
+			"svelte",
+			"search",
+			"filter",
+			"match"
+		],
+		"date": "2022-09-18T15:11:57.694Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/soggy",
+			"homepage": "https://github.com/mvllow/soggy#readme",
+			"repository": "https://github.com/mvllow/soggy",
+			"bugs": "https://github.com/mvllow/soggy/issues"
+		},
+		"author": {
+			"name": "mvllow",
+			"email": "mvllow@icloud.com",
+			"username": "mvllow"
+		},
+		"publisher": {
+			"username": "mvllow",
+			"email": "mvllow@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "mvllow",
+				"email": "mvllow@icloud.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2317666784905601,
+		"detail": {
+			"quality": 0.3589748051826993,
+			"popularity": 0.021164486483096136,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.3146393e-8
+}

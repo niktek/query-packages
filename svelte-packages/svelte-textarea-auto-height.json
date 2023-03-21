@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-textarea-auto-height",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "svelte action to set the height of textareas based on their value",
+		"keywords": [
+			"svelte",
+			"action",
+			"textarea-height"
+		],
+		"date": "2022-07-07T21:57:35.449Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-textarea-auto-height",
+			"homepage": "https://github.com/sc00/svelte-textarea-auto-height#readme",
+			"repository": "https://github.com/sc00/svelte-textarea-auto-height",
+			"bugs": "https://github.com/sc00/svelte-textarea-auto-height/issues"
+		},
+		"author": {
+			"name": "sc00"
+		},
+		"publisher": {
+			"username": "sc00",
+			"email": "mail@julian-urabl.com"
+		},
+		"maintainers": [
+			{
+				"username": "sc00",
+				"email": "mail@julian-urabl.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26127578985196875,
+		"detail": {
+			"quality": 0.5058099937617444,
+			"popularity": 0.0025251341906831694,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 4.7750666e-7
+}

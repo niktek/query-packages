@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "hypns-svelte-component",
+		"scope": "unscoped",
+		"version": "2.9.1",
+		"description": "'>= 2.80 Supports HyPNS v2.0'",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-02-03T15:08:34.429Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/hypns-svelte-component",
+			"homepage": "https://github.com/DougAnderson444/HyPNS-Svelte-Component#readme",
+			"repository": "https://github.com/DougAnderson444/HyPNS-Svelte-Component",
+			"bugs": "https://github.com/DougAnderson444/HyPNS-Svelte-Component/issues"
+		},
+		"author": {
+			"name": "Doug S Anderson"
+		},
+		"publisher": {
+			"username": "douganderson444",
+			"email": "douganderson444@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "douganderson444",
+				"email": "douganderson444@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2329513939207143,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.02018424590252096,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 1.3674183e-7
+}

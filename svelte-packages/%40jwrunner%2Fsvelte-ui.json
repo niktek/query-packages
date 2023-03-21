@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@jwrunner/svelte-ui",
+		"scope": "jwrunner",
+		"version": "0.1.0",
+		"description": "Useful Svelte UI components shared across projects with some TW styles",
+		"date": "2021-08-21T22:09:23.243Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40jwrunner%2Fsvelte-ui",
+			"homepage": "https://github.com/jwrunner/runner-ui#readme",
+			"repository": "https://github.com/jwrunner/runner-ui",
+			"bugs": "https://github.com/jwrunner/runner-ui/issues"
+		},
+		"publisher": {
+			"username": "jwrunner",
+			"email": "jwrunner7@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jwrunner",
+				"email": "jwrunner7@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3065798700365173,
+		"detail": {
+			"quality": 0.717504610740846,
+			"popularity": 0.019121749014370495,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 0.000004648893
+}

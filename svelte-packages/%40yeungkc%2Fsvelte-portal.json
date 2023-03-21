@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@yeungkc/svelte-portal",
+		"scope": "yeungkc",
+		"version": "0.0.9",
+		"description": "A Portal library for Svelte. Supports SSR and Portal updates.",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"svelteKit",
+			"portal",
+			"SSR"
+		],
+		"date": "2022-12-19T06:15:24.052Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40yeungkc%2Fsvelte-portal",
+			"homepage": "https://github.com/YeungKC/svelte-portal/"
+		},
+		"author": {
+			"name": "YeungKC",
+			"email": "svelte-portal@YeungKC.com",
+			"url": "https://YeungKC.com/"
+		},
+		"publisher": {
+			"username": "yeungkc",
+			"email": "npm@YeungKC.com"
+		},
+		"maintainers": [
+			{
+				"username": "yeungkc",
+				"email": "npm@YeungKC.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24997089090474656,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.009153559371881295,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.9602876e-7
+}

@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "svelte-draggable-draw",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "A svelte draggable draw/modal just like what you had seen in any of the mobile app!",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-08-15T09:25:51.970Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-draggable-draw",
+			"homepage": "https://github.com/pupubird/svelte-draggable-draw"
+		},
+		"publisher": {
+			"username": "pupubird",
+			"email": "rainchai4240@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pupubird",
+				"email": "rainchai4240@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16980745714631446,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.010298956730614891,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.1026463e-9
+}

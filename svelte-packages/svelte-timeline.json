@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-timeline",
+		"scope": "unscoped",
+		"version": "0.1.2",
+		"description": "A Svelte Timeline component. This is what is looks like: ![image info](https://github.com/SumitBando/svelte-timeline/raw/main/static/timeline-sample.png \"Sample\")",
+		"date": "2021-12-19T11:28:33.195Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-timeline"
+		},
+		"publisher": {
+			"username": "sumitbando",
+			"email": "sumit@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sumitbando",
+				"email": "sumit@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19038051988575413,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.001503902651019941,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 6.938129e-9
+}

@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "@akylas/nativescript-audio",
+		"scope": "akylas",
+		"version": "6.3.2",
+		"description": "NativeScript plugin to record and play audio.",
+		"keywords": [
+			"NativeScript",
+			"JavaScript",
+			"Android",
+			"iOS",
+			"music",
+			"microphone",
+			"recorder",
+			"audio",
+			"nativescript-community",
+			"Angular",
+			"Vue",
+			"Svelte",
+			"React",
+			"preview|https://raw.githubusercontent.com/farfromrefug/nativescript-audio/master/images/demo-ios.gif|iOS Demo",
+			"preview|https://raw.githubusercontent.com/farfromrefug/nativescript-audio/master/images/demo-android.gif|Android Demo"
+		],
+		"date": "2022-10-10T12:35:35.064Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40akylas%2Fnativescript-audio",
+			"homepage": "https://github.com/farfromrefug/nativescript-audio#readme",
+			"repository": "https://github.com/farfromrefug/nativescript-audio",
+			"bugs": "https://github.com/farfromrefug/nativescript-audio/issues"
+		},
+		"author": {
+			"name": "Brad Martin",
+			"email": "bmartin@nstudio.io",
+			"url": "https://github.com/bradmartin"
+		},
+		"publisher": {
+			"username": "farfromrefuge",
+			"email": "martin.guillon@akylas.fr"
+		},
+		"maintainers": [
+			{
+				"username": "farfromrefuge",
+				"email": "martin.guillon@akylas.fr"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3033545905038116,
+		"detail": {
+			"quality": 0.6173293530699571,
+			"popularity": 0.004421513178494265,
+			"maintenance": 0.3331664427724328
+		}
+	},
+	"searchScore": 5.373313e-7
+}

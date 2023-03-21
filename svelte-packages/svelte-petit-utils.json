@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-petit-utils",
+		"scope": "unscoped",
+		"version": "0.3.7",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"keywords": [
+			"svelte",
+			"component",
+			"utility"
+		],
+		"date": "2022-11-23T15:21:05.899Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-petit-utils",
+			"homepage": "https://github.com/7korobi/svelte-petit-utils/blob/main/src/lib/"
+		},
+		"author": {
+			"name": "7korobi",
+			"email": "7korobi@gmail.com",
+			"username": "7korobi"
+		},
+		"publisher": {
+			"username": "7korobi",
+			"email": "7korobi@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "7korobi",
+				"email": "7korobi@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2611518898014535,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.04109927050532959,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.2369545e-7
+}

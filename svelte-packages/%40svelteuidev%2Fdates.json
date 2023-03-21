@@ -1,0 +1,60 @@
+{
+	"package": {
+		"name": "@svelteuidev/dates",
+		"scope": "svelteuidev",
+		"version": "0.10.0",
+		"description": "Calendars, date and time pickers based on SvelteUI components",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"svelteui",
+			"ui",
+			"components",
+			"ui-kit",
+			"library",
+			"frontend",
+			"calendar",
+			"date",
+			"time",
+			"picker"
+		],
+		"date": "2023-02-16T21:33:04.138Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelteuidev%2Fdates",
+			"homepage": "https://svelteui.org/",
+			"repository": "https://github.com/svelteuidev/svelteui",
+			"bugs": "https://github.com/svelteuidev/svelteui/issues"
+		},
+		"author": {
+			"name": "Kamell Perry",
+			"email": "kamellperry33@gmail.com",
+			"username": "uxtitan"
+		},
+		"publisher": {
+			"username": "lowkey_daisy",
+			"email": "just2playgg@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lowkey_daisy",
+				"email": "just2playgg@gmail.com"
+			},
+			{
+				"username": "uxtitan",
+				"email": "kamellperry33@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2761471854493883,
+		"detail": {
+			"quality": 0.5222123194114958,
+			"popularity": 0.00804806559792257,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.536655e-7
+}

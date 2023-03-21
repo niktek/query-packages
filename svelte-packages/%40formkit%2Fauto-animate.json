@@ -1,0 +1,59 @@
+{
+	"package": {
+		"name": "@formkit/auto-animate",
+		"scope": "formkit",
+		"version": "1.0.0-beta.6",
+		"description": "Add motion to your apps with a single line of code.",
+		"keywords": [
+			"animation",
+			"transition",
+			"react",
+			"vue",
+			"angular",
+			"svelte",
+			"solid"
+		],
+		"date": "2023-01-26T03:08:27.399Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40formkit%2Fauto-animate",
+			"homepage": "https://github.com/formkit/auto-animate#readme",
+			"repository": "https://github.com/formkit/auto-animate",
+			"bugs": "https://github.com/formkit/auto-animate/issues"
+		},
+		"author": {
+			"name": "Justin Schroeder",
+			"email": "justin@formkit.com",
+			"username": "justin-schroeder"
+		},
+		"publisher": {
+			"username": "justin-schroeder",
+			"email": "justin@formkit.com"
+		},
+		"maintainers": [
+			{
+				"username": "fenilli",
+				"email": "gustavofenilli@gmail.com"
+			},
+			{
+				"username": "justin-schroeder",
+				"email": "justin@formkit.com"
+			},
+			{
+				"username": "boyd",
+				"email": "andrew+npm@formkit.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2816730860572994,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.1250384079071653,
+			"maintenance": 0.3333273390387707
+		}
+	},
+	"searchScore": 0.0000012182576
+}

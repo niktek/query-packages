@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@svelte-put/shortcut",
+		"scope": "svelte-put",
+		"version": "2.0.0",
+		"description": "Action to move node on mousedown & mousemove",
+		"keywords": [
+			"svelte",
+			"action",
+			"keyboard",
+			"shortcut",
+			"keydown",
+			"keyup"
+		],
+		"date": "2023-02-17T05:56:15.712Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-put%2Fshortcut",
+			"homepage": "https://github.com/vnphanquang/svelte-put/tree/main/packages/actions/shortcut",
+			"repository": "https://github.com/vnphanquang/svelte-put",
+			"bugs": "https://github.com/vnphanquang/svelte-put/issues"
+		},
+		"author": {
+			"name": "Quang Phan"
+		},
+		"publisher": {
+			"username": "vnphanquang",
+			"email": "vnphanquang@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vnphanquang",
+				"email": "vnphanquang@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2845142547326312,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.03225796194077439,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000019079118
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@kronos-integration/svelte-components",
+		"scope": "kronos-integration",
+		"version": "2.4.93",
+		"description": "Svelte components for Kronos",
+		"keywords": [
+			"component",
+			"kronos-integration",
+			"svelte",
+			"vite",
+			"web"
+		],
+		"date": "2022-07-14T22:11:35.527Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kronos-integration%2Fsvelte-components",
+			"homepage": "https://github.com/Kronos-Integration/svelte-components#readme",
+			"repository": "https://github.com/Kronos-Integration/svelte-components",
+			"bugs": "https://github.com/Kronos-Integration/svelte-components/issues"
+		},
+		"publisher": {
+			"username": "arlac77",
+			"email": "markus.felten@gmx.de"
+		},
+		"maintainers": [
+			{
+				"username": "arlac77",
+				"email": "markus.felten@gmx.de"
+			},
+			{
+				"username": "darlenya",
+				"email": "torstenlink@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30552200553964753,
+		"detail": {
+			"quality": 0.5833367675165585,
+			"popularity": 0.0395837389086096,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000054015004
+}

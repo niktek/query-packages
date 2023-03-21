@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@bojit/noflo-svelte",
+		"scope": "bojit",
+		"version": "2.99.13",
+		"description": "Svelte port of NoFlo `fbp`/`the-graph` collection.",
+		"date": "2023-02-16T21:44:18.813Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bojit%2Fnoflo-svelte"
+		},
+		"publisher": {
+			"username": "bojit",
+			"email": "james@bojit.org"
+		},
+		"maintainers": [
+			{
+				"username": "bojit",
+				"email": "james@bojit.org"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1917287011140612,
+		"detail": {
+			"quality": 0.23844696452880884,
+			"popularity": 0.010079843110719675,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.2596883e-9
+}

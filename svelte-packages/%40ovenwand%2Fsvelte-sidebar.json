@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@ovenwand/svelte-sidebar",
+		"scope": "ovenwand",
+		"version": "0.0.5",
+		"description": "Sidebar component from Svelte",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-03-20T17:28:20.305Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ovenwand%2Fsvelte-sidebar"
+		},
+		"author": {
+			"name": "Sibbe Heijne",
+			"email": "sibbe@ovenwand.com",
+			"username": "sheijne"
+		},
+		"publisher": {
+			"username": "sheijne",
+			"email": "sibbe@ovenwand.com"
+		},
+		"maintainers": [
+			{
+				"username": "sheijne",
+				"email": "sibbe@ovenwand.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18066083070244582,
+		"detail": {
+			"quality": 0.39802258930009876,
+			"popularity": 0.01921772420586185,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 5.135568e-9
+}

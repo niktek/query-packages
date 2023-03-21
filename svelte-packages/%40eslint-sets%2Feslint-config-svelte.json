@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@eslint-sets/eslint-config-svelte",
+		"scope": "eslint-sets",
+		"version": "5.0.0",
+		"description": "Eslint config sets for svelte",
+		"keywords": [
+			"eslint-sets",
+			"eslint-config",
+			"eslint-plugin",
+			"eslint-config-svelte",
+			"eslint-svelte",
+			"svelte",
+			"eslint"
+		],
+		"date": "2023-02-14T05:19:33.652Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40eslint-sets%2Feslint-config-svelte",
+			"homepage": "https://github.com/saqqdy/eslint-sets/tree/master/packages/svelte#readme",
+			"repository": "https://github.com/saqqdy/eslint-sets",
+			"bugs": "https://github.com/saqqdy/eslint-sets/issues"
+		},
+		"author": {
+			"name": "saqqdy",
+			"email": "https://github.com/saqqdy"
+		},
+		"publisher": {
+			"username": "saqqdy",
+			"email": "saqqdy@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "saqqdy",
+				"email": "saqqdy@qq.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3094027369864025,
+		"detail": {
+			"quality": 0.6173317217110689,
+			"popularity": 0.02153301087547209,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000055386768
+}

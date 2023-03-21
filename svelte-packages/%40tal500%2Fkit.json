@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@tal500/kit",
+		"scope": "tal500",
+		"version": "1.8.3-legacy-builds-12",
+		"description": "This is the [SvelteKit](https://kit.svelte.dev) framework and CLI.",
+		"date": "2023-02-24T12:48:12.891Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tal500%2Fkit",
+			"homepage": "https://github.com/Tal500/kit/tree/legacy-builds-versioning/packages/kit",
+			"repository": "https://github.com/Tal500/kit",
+			"bugs": "https://github.com/Tal500/kit/issues"
+		},
+		"publisher": {
+			"username": "tal500",
+			"email": "tal_hd@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tal500",
+				"email": "tal_hd@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3764585262021211,
+		"detail": {
+			"quality": 0.8298198604058955,
+			"popularity": 0.030988289753388142,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000069412613
+}

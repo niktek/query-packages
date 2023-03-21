@@ -1,0 +1,67 @@
+{
+	"package": {
+		"name": "@web3-onboard/keystone",
+		"scope": "web3-onboard",
+		"version": "2.3.3",
+		"description": "Keystone hardware wallet module for connecting to Web3-Onboard. Web3-Onboard makes it simple to connect Ethereum hardware and software wallets to your dapp. Features standardised spec compliant web3 providers for all supported wallets, framework agnostic",
+		"keywords": [
+			"Ethereum",
+			"Web3",
+			"EVM",
+			"dapp",
+			"Multichain",
+			"Wallet",
+			"Transaction",
+			"Provider",
+			"Hardware Wallet",
+			"Notifications",
+			"React",
+			"Svelte",
+			"Vue",
+			"Next",
+			"Nuxt",
+			"MetaMask",
+			"Coinbase",
+			"WalletConnect",
+			"Ledger",
+			"Trezor",
+			"Connect Wallet",
+			"Ethereum Hooks",
+			"Blocknative",
+			"Mempool",
+			"pending",
+			"confirmed",
+			"Injected Wallet"
+		],
+		"date": "2023-01-26T16:18:13.650Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40web3-onboard%2Fkeystone",
+			"homepage": "https://onboard.blocknative.com",
+			"repository": "https://github.com/blocknative/web3-onboard",
+			"bugs": "https://github.com/blocknative/web3-onboard/issues"
+		},
+		"publisher": {
+			"username": "cmeisl",
+			"email": "chris@blocknative.com"
+		},
+		"maintainers": [
+			{
+				"username": "aaronbarnard1",
+				"email": "aaron@blocknative.com"
+			},
+			{
+				"username": "cmeisl",
+				"email": "chris@blocknative.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2636101009629053,
+		"detail": {
+			"quality": 0.4466218061059892,
+			"popularity": 0.03701969275554835,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.1682646e-7
+}

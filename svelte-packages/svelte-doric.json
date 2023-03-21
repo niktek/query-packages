@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-doric",
+		"scope": "unscoped",
+		"version": "1.9.1",
+		"description": "Collection of UI components for Svelte to help create Single Page Applications\r easily and reliably. It was written from the ground up to be a standalone\r library to keep installation and usage as simple as possible. Right now the\r components must be used",
+		"date": "2023-01-02T03:11:24.944Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-doric"
+		},
+		"author": {
+			"name": "Axel"
+		},
+		"publisher": {
+			"username": "axel669",
+			"email": "axel@axel669.net"
+		},
+		"maintainers": [
+			{
+				"username": "axel669",
+				"email": "axel@axel669.net"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24786899967305415,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.006768267631141342,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.1997751e-7
+}

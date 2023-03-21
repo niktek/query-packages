@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@responsive-ui/bottom-sheet",
+		"scope": "responsive-ui",
+		"version": "1.1.0-alpha.43",
+		"description": "A bottom sheet component of responsive-ui.",
+		"keywords": [
+			"svelte",
+			"ui-component",
+			"responsive-ui",
+			"bottom-sheet",
+			"svelte-bottom-sheet"
+		],
+		"date": "2022-10-25T06:14:44.423Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40responsive-ui%2Fbottom-sheet",
+			"homepage": "https://github.com/wetix/responsive-ui/blob/main/components/bottom-sheet#README.md",
+			"repository": "https://github.com/wetix/responsive-ui",
+			"bugs": "https://github.com/wetix/responsive-ui/issues"
+		},
+		"author": {
+			"name": "Si3nLoong",
+			"email": "sianloong90@gmail.com",
+			"url": "https://github.com/si3nloong"
+		},
+		"publisher": {
+			"username": "mohamadharith",
+			"email": "harith@revenuemonster.my"
+		},
+		"maintainers": [
+			{
+				"username": "mohamadharith",
+				"email": "harith@revenuemonster.my"
+			},
+			{
+				"username": "charu.yussuf",
+				"email": "yussuf@revenuemonster.my"
+			},
+			{
+				"username": "apacventure",
+				"email": "apacventure@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3129201637128618,
+		"detail": {
+			"quality": 0.6283691853647854,
+			"popularity": 0.02219369349102518,
+			"maintenance": 0.33326175823304965
+		}
+	},
+	"searchScore": 0.000002712976
+}

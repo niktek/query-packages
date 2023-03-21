@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@bojit/svelte-components",
+		"scope": "bojit",
+		"version": "1.4.4",
+		"description": "BOJIT styled component library built on top of [Smelte](https://smeltejs.com).",
+		"date": "2023-02-10T14:16:44.750Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bojit%2Fsvelte-components"
+		},
+		"publisher": {
+			"username": "bojit",
+			"email": "james@bojit.org"
+		},
+		"maintainers": [
+			{
+				"username": "bojit",
+				"email": "james@bojit.org"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23749381612881765,
+		"detail": {
+			"quality": 0.3912006487957689,
+			"popularity": 0.009905585209772364,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.05880815e-7
+}

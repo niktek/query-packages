@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@kizivat/svelte-autoscroll",
+		"scope": "kizivat",
+		"version": "0.2.2",
+		"description": "Svelte action to automatically scroll to the end of an element.",
+		"keywords": [
+			"svelte",
+			"autoscroll",
+			"action",
+			"svelte action",
+			"autoscroll action"
+		],
+		"date": "2022-12-18T00:55:15.091Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kizivat%2Fsvelte-autoscroll",
+			"homepage": "https://github.com/kizivat/svelte-autoscroll#readme",
+			"repository": "https://github.com/kizivat/svelte-autoscroll",
+			"bugs": "https://github.com/kizivat/svelte-autoscroll/issues"
+		},
+		"author": {
+			"name": "David Kizivat",
+			"email": "david.kizivat@gmail.com",
+			"url": "https://twitter.com/kizivat",
+			"username": "kizivat"
+		},
+		"publisher": {
+			"username": "kizivat",
+			"email": "david.kizivat@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kizivat",
+				"email": "david.kizivat@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24521767971648384,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.004816835247373444,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.2034934e-7
+}

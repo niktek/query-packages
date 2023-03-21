@@ -1,0 +1,69 @@
+{
+	"package": {
+		"name": "@web3-onboard/frontier",
+		"scope": "web3-onboard",
+		"version": "2.0.0",
+		"description": "Frontier Wallet SDK wallet module for connecting to Web3-Onboard. Web3-Onboard makes it simple to connect Ethereum hardware and software wallets to your dapp. Features standardized spec compliant web3 providers for all supported wallets, framework agnosti",
+		"keywords": [
+			"Ethereum",
+			"Web3",
+			"EVM",
+			"dapp",
+			"Multichain",
+			"Wallet",
+			"Transaction",
+			"Provider",
+			"Hardware Wallet",
+			"Notifications",
+			"React",
+			"Svelte",
+			"Vue",
+			"Next",
+			"Nuxt",
+			"MetaMask",
+			"Coinbase",
+			"WalletConnect",
+			"Ledger",
+			"Trezor",
+			"Connect Wallet",
+			"Ethereum Hooks",
+			"Blocknative",
+			"Mempool",
+			"Injected Wallet",
+			"Crypto",
+			"Crypto Wallet",
+			"Onboard",
+			"Frontier"
+		],
+		"date": "2023-01-20T19:54:56.694Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40web3-onboard%2Ffrontier",
+			"homepage": "https://www.blocknative.com/onboard",
+			"repository": "https://github.com/blocknative/web3-onboard",
+			"bugs": "https://github.com/blocknative/web3-onboard/issues"
+		},
+		"publisher": {
+			"username": "cmeisl",
+			"email": "chris@blocknative.com"
+		},
+		"maintainers": [
+			{
+				"username": "aaronbarnard1",
+				"email": "aaron@blocknative.com"
+			},
+			{
+				"username": "cmeisl",
+				"email": "chris@blocknative.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2839523118153778,
+		"detail": {
+			"quality": 0.5272075030985048,
+			"popularity": 0.027493928258804427,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 2.7778398e-7
+}

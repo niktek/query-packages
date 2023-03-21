@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-bootstrapjs-action",
+		"scope": "unscoped",
+		"version": "2.2.1",
+		"description": "A Svelte action plugin that enables Bootstrap JavaScript functionality on Bootstrap elements.",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"action",
+			"bootstrap",
+			"bootstrap5",
+			"bs",
+			"bs5",
+			"bootstrapjs",
+			"javascript"
+		],
+		"date": "2023-02-14T18:52:39.149Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-bootstrapjs-action",
+			"homepage": "https://github.com/DimitrisRK/svelte-bootstrapjs-action#readme",
+			"repository": "https://github.com/DimitrisRK/svelte-bootstrapjs-action",
+			"bugs": "https://github.com/DimitrisRK/svelte-bootstrapjs-action/issues"
+		},
+		"author": {
+			"name": "Dimitris - Rafail Katsampas",
+			"email": "DimitrisRK"
+		},
+		"publisher": {
+			"username": "dnr",
+			"email": "katsampasdr@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dnr",
+				"email": "katsampasdr@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31327074767421215,
+		"detail": {
+			"quality": 0.6243084119297001,
+			"popularity": 0.02660444979610128,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000007147945
+}

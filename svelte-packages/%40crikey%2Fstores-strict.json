@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@crikey/stores-strict",
+		"scope": "crikey",
+		"version": "0.0.14",
+		"description": "Provide [svelte](https://svelte.dev/docs#run-time-svelte-store) compatible implementations of `readable`, `writable`, `derived`  and `get` with strict inequality triggering semantics.",
+		"date": "2023-02-17T08:03:34.010Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40crikey%2Fstores-strict"
+		},
+		"publisher": {
+			"username": "whenderson-crikey",
+			"email": "npmjs.crikey@to.maily.dev"
+		},
+		"maintainers": [
+			{
+				"username": "whenderson-crikey",
+				"email": "npmjs.crikey@to.maily.dev"
+			},
+			{
+				"username": "whenderson",
+				"email": "crikey@to.maily.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2510151376647287,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.021381000813787337,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.576924e-8
+}

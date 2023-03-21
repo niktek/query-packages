@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "create-o7-app",
+		"scope": "unscoped",
+		"version": "0.1.7",
+		"description": "Create web applications with the o7 stack",
+		"keywords": [
+			"create-o7-app",
+			"o7",
+			"svelte",
+			"sveltekit",
+			"tailwind",
+			"tRPC",
+			"typescript",
+			"planetscale",
+			"prisma",
+			"kysely"
+		],
+		"date": "2023-03-06T00:06:55.098Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-o7-app",
+			"homepage": "https://github.com/ottomated/create-o7-app#readme",
+			"repository": "https://github.com/ottomated/create-o7-app",
+			"bugs": "https://github.com/ottomated/create-o7-app/issues"
+		},
+		"publisher": {
+			"username": "ottomated",
+			"email": "otto@ottomated.pw"
+		},
+		"maintainers": [
+			{
+				"username": "ottomated",
+				"email": "otto@ottomated.pw"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24092169161238797,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.008599858055712785,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.180404e-8
+}

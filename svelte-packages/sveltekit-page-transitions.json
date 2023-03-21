@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "sveltekit-page-transitions",
+		"scope": "unscoped",
+		"version": "0.0.8",
+		"description": "[Demo](https://konsta.vercel.app)",
+		"date": "2023-01-06T00:43:02.111Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-page-transitions",
+			"homepage": "https://github.com/myleftshoe/sveltekit-page-transitions"
+		},
+		"publisher": {
+			"username": "mls44",
+			"email": "myleftshoe@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mls44",
+				"email": "myleftshoe@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24634781303628062,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.024103062123977545,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.328081e-8
+}

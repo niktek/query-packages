@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@sinnerjoe/svelte-touch-datepicker",
+		"scope": "sinnerjoe",
+		"version": "2.1.1",
+		"description": "Native like touch datepicker for Svelte",
+		"keywords": [
+			"svelte",
+			"svelte.js",
+			"sveltejs",
+			"svelte-touch-datepicker",
+			"touch-datepicker",
+			"datepicker",
+			"native-datepicker",
+			"date-picker"
+		],
+		"date": "2021-05-15T12:45:52.595Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sinnerjoe%2Fsvelte-touch-datepicker",
+			"homepage": "https://github.com/sinnerJoe/svelte-touch-datepicker",
+			"repository": "https://github.com/sinnerJoe/svelte-touch-datepicker",
+			"bugs": "https://github.com/sinnerJoe/svelte-touch-datepicker/issues"
+		},
+		"author": {
+			"name": "Radu Cebotari",
+			"email": "ianknote@gmail.com",
+			"username": "sinnerjoe"
+		},
+		"publisher": {
+			"username": "sinnerjoe",
+			"email": "ianknote@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sinnerjoe",
+				"email": "ianknote@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23853407020298514,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0019605479356621046,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.5020767e-7
+}

@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@neesh-studio/svipe",
+		"scope": "neesh-studio",
+		"version": "1.8.5",
+		"description": "A custom fork of https://github.com/SharifClick/svelte-swipe",
+		"keywords": [
+			"svelte",
+			"svelte.js",
+			"sveltejs",
+			"svelte-swipe",
+			"svelte-slider",
+			"swipe",
+			"slider",
+			"carousel",
+			"svelte-carousel"
+		],
+		"date": "2021-04-12T09:13:35.457Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40neesh-studio%2Fsvipe",
+			"homepage": "https://github.com/neesh-studio/svelte-swipe",
+			"repository": "https://github.com/neesh-studio/svelte-swipe",
+			"bugs": "https://github.com/SharifClick/svelte-swipe/issues"
+		},
+		"author": {
+			"name": "IT",
+			"email": "it@neesh.de",
+			"url": "https://neesh.de"
+		},
+		"publisher": {
+			"username": "ocupe",
+			"email": "jonas.schell@neesh.de"
+		},
+		"maintainers": [
+			{
+				"username": "ocupe",
+				"email": "jonas.schell@neesh.de"
+			},
+			{
+				"username": "lksslr",
+				"email": "lukas.seiler@neesh.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24128213255724298,
+		"detail": {
+			"quality": 0.6203042492824502,
+			"popularity": 0.0018943066632667645,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 1.1224909e-7
+}

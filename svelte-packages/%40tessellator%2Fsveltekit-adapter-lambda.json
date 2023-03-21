@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@tessellator/sveltekit-adapter-lambda",
+		"scope": "tessellator",
+		"version": "0.1.1",
+		"description": "Adapter for SvelteKit applications that generates a handler for use on AWS Lambda",
+		"date": "2022-12-18T13:34:18.293Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tessellator%2Fsveltekit-adapter-lambda",
+			"homepage": "https://github.com/tessellator/sveltekit-adapter-lambda#readme",
+			"repository": "https://github.com/tessellator/sveltekit-adapter-lambda",
+			"bugs": "https://github.com/tessellator/sveltekit-adapter-lambda/issues"
+		},
+		"publisher": {
+			"username": "tessellator",
+			"email": "chadtaylor@hey.com"
+		},
+		"maintainers": [
+			{
+				"username": "tessellator",
+				"email": "chadtaylor@hey.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22074179347659356,
+		"detail": {
+			"quality": 0.3422980387182727,
+			"popularity": 0.00431099861043332,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 1.6040119e-8
+}

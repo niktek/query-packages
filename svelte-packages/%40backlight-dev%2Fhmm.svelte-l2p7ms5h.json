@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@backlight-dev/hmm.svelte-l2p7ms5h",
+		"scope": "backlight-dev",
+		"version": "2.0.5",
+		"date": "2022-05-02T21:07:01.066Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40backlight-dev%2Fhmm.svelte-l2p7ms5h",
+			"homepage": "https://studio.backlight.dev/edit/Ex80XEtztX2FavKu1dpP/"
+		},
+		"author": {
+			"name": "@hmm"
+		},
+		"publisher": {
+			"username": "_divriots_",
+			"email": "admin+npm@divriots.com"
+		},
+		"maintainers": [
+			{
+				"username": "_divriots_",
+				"email": "admin+npm@divriots.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23984849187468862,
+		"detail": {
+			"quality": 0.5272075030985048,
+			"popularity": 0.001130468303792204,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 4.8390884e-8
+}

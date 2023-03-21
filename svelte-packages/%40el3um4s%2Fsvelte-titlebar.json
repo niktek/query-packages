@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@el3um4s/svelte-titlebar",
+		"scope": "el3um4s",
+		"version": "0.1.0",
+		"description": "A Titlebar component for Svelte Projects",
+		"keywords": [
+			"svelte",
+			"svelte-kit",
+			"web-component",
+			"svelte-component",
+			"titlebar"
+		],
+		"date": "2022-08-09T09:55:27.681Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40el3um4s%2Fsvelte-titlebar",
+			"homepage": "https://github.com/el3um4s/svelte-titlebar#readme",
+			"repository": "https://github.com/el3um4s/svelte-titlebar",
+			"bugs": "https://github.com/el3um4s/svelte-titlebar/issues"
+		},
+		"author": {
+			"name": "Samuele C. De Tomasi"
+		},
+		"publisher": {
+			"username": "el3um4s",
+			"email": "el3um4s@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "el3um4s",
+				"email": "el3um4s@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2303149353301192,
+		"detail": {
+			"quality": 0.4088071151157153,
+			"popularity": 0.019828659754227894,
+			"maintenance": 0.2878079139469281
+		}
+	},
+	"searchScore": 1.17708645e-7
+}

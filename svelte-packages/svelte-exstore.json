@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-exstore",
+		"scope": "unscoped",
+		"version": "2.1.5",
+		"description": "A simple state management library for Svelte, able to connect with Redux DevTools",
+		"keywords": [
+			"svelte",
+			"redux",
+			"store"
+		],
+		"date": "2022-10-05T07:51:09.913Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-exstore",
+			"homepage": "https://github.com/noney1412/svelte-exstore",
+			"repository": "https://github.com/noney1412/svelte-exstore",
+			"bugs": "https://github.com/noney1412/svelte-exstore/issues"
+		},
+		"author": {
+			"name": "Chanon Panpila"
+		},
+		"publisher": {
+			"username": "nonpanpila",
+			"email": "nonpanpila@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nonpanpila",
+				"email": "nonpanpila@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2774019229502019,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.0059549635397680885,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000012999907
+}

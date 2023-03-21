@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@n-vh/svelte-writable",
+		"scope": "n-vh",
+		"version": "0.0.1",
+		"description": "Custom writables for Svelte",
+		"keywords": [
+			"svelte",
+			"store",
+			"writable",
+			"lib",
+			"utils",
+			"typescript"
+		],
+		"date": "2023-01-24T17:47:17.199Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40n-vh%2Fsvelte-writable"
+		},
+		"author": {
+			"name": "Nils Van Hée",
+			"email": "nils.vanhee@proton.me",
+			"url": "https://github.com/n-vh"
+		},
+		"publisher": {
+			"username": "n-vh",
+			"email": "nils.vanhee@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "n-vh",
+				"email": "nils.vanhee@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2439624001081498,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0026574097133385223,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.9099006e-7
+}

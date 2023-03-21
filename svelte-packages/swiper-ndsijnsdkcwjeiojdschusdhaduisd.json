@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "swiper-ndsijnsdkcwjeiojdschusdhaduisd",
+		"scope": "unscoped",
+		"version": "6.7.5",
+		"description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
+		"keywords": [
+			"swiper",
+			"swipe",
+			"slider",
+			"touch",
+			"ios",
+			"mobile",
+			"cordova",
+			"phonegap",
+			"app",
+			"framework",
+			"framework7",
+			"carousel",
+			"gallery",
+			"plugin",
+			"vue",
+			"angular",
+			"svelte",
+			"slideshow"
+		],
+		"date": "2021-07-15T14:23:07.886Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/swiper-ndsijnsdkcwjeiojdschusdhaduisd",
+			"homepage": "https://swiperjs.com"
+		},
+		"author": {
+			"name": "Vladimir Kharlampidi"
+		},
+		"publisher": {
+			"username": "mohsenmahadi",
+			"email": "mohsenmahade1000@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mohsenmahadi",
+				"email": "mohsenmahade1000@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31633055443434166,
+		"detail": {
+			"quality": 0.9067132006168198,
+			"popularity": 0.0027832667010639655,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 0.0000017884751
+}

@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@deboxsoft/bytemd-svelte",
+		"scope": "deboxsoft",
+		"version": "1.11.13",
+		"description": "ByteMD plugin to support breaks",
+		"date": "2022-01-18T20:45:14.301Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40deboxsoft%2Fbytemd-svelte",
+			"homepage": "https://github.com/bytedance/bytemd#readme",
+			"repository": "https://github.com/bytedance/bytemd",
+			"bugs": "https://github.com/bytedance/bytemd/issues"
+		},
+		"author": {
+			"name": "Rongjian Zhang",
+			"email": "pd4d10@gmail.com"
+		},
+		"publisher": {
+			"username": "nurdiansyah",
+			"email": "deboxserver@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nurdiansyah",
+				"email": "deboxserver@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2652693575986404,
+		"detail": {
+			"quality": 0.6506019611477971,
+			"popularity": 0.002169036531893658,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 5.142549e-7
+}

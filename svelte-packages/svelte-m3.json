@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-m3",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Svelte UI component library for Google's Material 3. Aims to be easily maintainable and well documented. Website preview @ [m3.afn.lol](https://m3.afn.lol)",
+		"date": "2022-12-31T23:10:46.338Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-m3"
+		},
+		"publisher": {
+			"username": "xafn",
+			"email": "afnzmn@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "xafn",
+				"email": "afnzmn@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19649688498485943,
+		"detail": {
+			"quality": 0.26198075879593363,
+			"popularity": 0.003883214281769245,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 8.988122e-9
+}

@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@threlte/gltf",
+		"scope": "threlte",
+		"version": "0.0.5",
+		"description": "GLTF to Threlte converter",
+		"keywords": [
+			"gltf",
+			"threlte",
+			"svelte",
+			"three",
+			"threejs",
+			"webp"
+		],
+		"date": "2023-02-03T11:07:09.762Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40threlte%2Fgltf",
+			"homepage": "https://github.com/threlte/threlte.git#readme",
+			"repository": "https://github.com/threlte/threlte"
+		},
+		"author": {
+			"name": "Grischa Erbe"
+		},
+		"publisher": {
+			"username": "grischaerbe",
+			"email": "grischa.erbe@googlemail.com"
+		},
+		"maintainers": [
+			{
+				"username": "grischaerbe",
+				"email": "grischa.erbe@googlemail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22209276704410083,
+		"detail": {
+			"quality": 0.3422980387182727,
+			"popularity": 0.007819110748435354,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.8702377e-8
+}

@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@thatconference/sveltejs-forms",
+		"scope": "thatconference",
+		"version": "2.1.4",
+		"description": "Declarative forms for Svelte",
+		"keywords": [
+			"svelte",
+			"forms",
+			"validation",
+			"javascript"
+		],
+		"date": "2022-10-27T03:02:13.727Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40thatconference%2Fsveltejs-forms",
+			"homepage": "https://mdauner.github.io/sveltejs-forms/",
+			"repository": "https://github.com/thatconference/sveltejs-forms",
+			"bugs": "https://github.com/thatconference/sveltejs-forms/issues"
+		},
+		"publisher": {
+			"username": "brettski",
+			"email": "brett@thatconference.com"
+		},
+		"maintainers": [
+			{
+				"username": "csell5",
+				"email": "clark.sell@csell.net"
+			},
+			{
+				"username": "brettski",
+				"email": "brett@thatconference.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30075368414001824,
+		"detail": {
+			"quality": 0.6124377511986459,
+			"popularity": 0.0024433508147991695,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 0.0000024936073
+}

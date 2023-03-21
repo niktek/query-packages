@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@ethan-jones-vizio/sveld",
+		"scope": "ethan-jones-vizio",
+		"version": "0.16.1-pr",
+		"description": "Generate TypeScript definitions for your Svelte components.",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"documentation",
+			"docgen",
+			"typescript",
+			"definitions",
+			"JSDocs"
+		],
+		"date": "2022-05-20T14:49:48.073Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ethan-jones-vizio%2Fsveld",
+			"homepage": "https://github.com/carbon-design-system/sveld",
+			"repository": "https://github.com/carbon-design-system/sveld",
+			"bugs": "https://github.com/carbon-design-system/sveld/issues"
+		},
+		"publisher": {
+			"username": "ethan-jones-vizio",
+			"email": "ethan.jones@vizio.com"
+		},
+		"maintainers": [
+			{
+				"username": "ethan-jones-vizio",
+				"email": "ethan.jones@vizio.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2457900189139326,
+		"detail": {
+			"quality": 0.45500908272581697,
+			"popularity": 0.0018237123985175437,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 1.1056814e-7
+}

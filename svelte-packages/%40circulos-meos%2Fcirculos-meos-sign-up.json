@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@circulos-meos/circulos-meos-sign-up",
+		"scope": "circulos-meos",
+		"version": "0.0.3",
+		"description": "*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*",
+		"date": "2020-09-12T12:27:32.334Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40circulos-meos%2Fcirculos-meos-sign-up"
+		},
+		"publisher": {
+			"username": "mightymoose",
+			"email": "mryan.morris@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mightymoose",
+				"email": "mryan.morris@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21729181268022785,
+		"detail": {
+			"quality": 0.6176886862800807,
+			"popularity": 0.0016446075948473565,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.6189576e-9
+}

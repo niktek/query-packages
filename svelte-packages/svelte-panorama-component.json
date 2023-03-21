@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-panorama-component",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Small footprint fast responsive 360 degree equirectangular image viewer",
+		"keywords": [
+			"svelte",
+			"web component",
+			"360 degree",
+			"equirectangular",
+			"image viewer"
+		],
+		"date": "2021-05-20T13:30:21.968Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-panorama-component",
+			"homepage": "https://vipero07.github.io/svelte-panorama/",
+			"repository": "https://github.com/vipero07/svelte-panorama",
+			"bugs": "https://github.com/vipero07/svelte-panorama/issues"
+		},
+		"author": {
+			"name": "Eitan Stadtlander-Miller"
+		},
+		"publisher": {
+			"username": "vipero07",
+			"email": "yodaissmart@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vipero07",
+				"email": "yodaissmart@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2443642124490511,
+		"detail": {
+			"quality": 0.6306602088973513,
+			"popularity": 0.0018237123985175437,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 2.1100504e-7
+}

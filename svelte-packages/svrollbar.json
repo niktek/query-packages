@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svrollbar",
+		"scope": "unscoped",
+		"version": "0.12.0",
+		"description": "simple custom scrollbar made by svelte",
+		"keywords": [
+			"svelte",
+			"custom",
+			"scrollbar",
+			"component"
+		],
+		"date": "2022-04-17T14:54:20.139Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svrollbar"
+		},
+		"author": {
+			"name": "daylilyfield"
+		},
+		"publisher": {
+			"username": "daylilyfield",
+			"email": "devlilyfield@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "daylilyfield",
+				"email": "devlilyfield@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3834274560008738,
+		"detail": {
+			"quality": 0.8855947797183326,
+			"popularity": 0.03697403840949752,
+			"maintenance": 0.29945173897728533
+		}
+	},
+	"searchScore": 0.00005840406
+}

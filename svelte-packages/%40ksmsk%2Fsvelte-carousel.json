@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@ksmsk/svelte-carousel",
+		"scope": "ksmsk",
+		"version": "0.1.1",
+		"description": "Super lightweight carousel component for svelte. The component uses new CSS snap feature. Native scrolling feel in mobile!",
+		"date": "2022-05-19T15:21:38.298Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ksmsk%2Fsvelte-carousel",
+			"homepage": "https://github.com/ksmsk/svelte-carousel#readme",
+			"repository": "https://github.com/ksmsk/svelte-carousel",
+			"bugs": "https://github.com/ksmsk/svelte-carousel/issues"
+		},
+		"publisher": {
+			"username": "ksmsk",
+			"email": "kubilensimsek@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ksmsk",
+				"email": "kubilensimsek@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22057092456320854,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0021522431514099773,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 3.8831548e-8
+}

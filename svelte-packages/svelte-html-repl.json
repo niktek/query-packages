@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-html-repl",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "An HTML REPL built in svelte.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-03-15T12:13:37.229Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-html-repl"
+		},
+		"publisher": {
+			"username": "nph",
+			"email": "carllegrone@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nph",
+				"email": "carllegrone@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1743033525629562,
+		"detail": {
+			"quality": 0.3973329648813169,
+			"popularity": 0.0016446075948473565,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 2.4900675e-9
+}

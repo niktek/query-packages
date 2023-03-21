@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@cookie-consent/svelte",
+		"scope": "cookie-consent",
+		"version": "1.10.20",
+		"description": "Svelte Bindings for CookieConsent",
+		"keywords": [
+			"Svelte",
+			"GDPR",
+			"Cookie",
+			"Consent"
+		],
+		"date": "2021-05-09T17:02:47.469Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cookie-consent%2Fsvelte"
+		},
+		"author": {
+			"name": "Doug Schamberg",
+			"email": "doug.schamberg@gmail.com",
+			"username": "polarpop"
+		},
+		"publisher": {
+			"username": "polarpop",
+			"email": "doug.schamberg@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "polarpop",
+				"email": "doug.schamberg@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19533401455987912,
+		"detail": {
+			"quality": 0.46527342594482446,
+			"popularity": 0.01915897546567962,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.4380341e-8
+}

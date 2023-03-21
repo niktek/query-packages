@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-popperjs",
+		"scope": "unscoped",
+		"version": "1.3.2",
+		"description": "Popper for Svelte with actions, no wrapper components required!",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"popper",
+			"popperjs",
+			"tooltip",
+			"positioning"
+		],
+		"date": "2022-08-30T04:12:00.943Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-popperjs",
+			"homepage": "https://github.com/bryanmylee/svelte-popperjs#readme",
+			"repository": "https://github.com/bryanmylee/svelte-popperjs",
+			"bugs": "https://github.com/bryanmylee/svelte-popperjs/issues"
+		},
+		"author": {
+			"name": "Bryan Lee"
+		},
+		"publisher": {
+			"username": "bryanmylee",
+			"email": "bryanmylee@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bryanmylee",
+				"email": "bryanmylee@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.32403519311323153,
+		"detail": {
+			"quality": 0.6379827702892626,
+			"popularity": 0.054079373544940565,
+			"maintenance": 0.3248930893877815
+		}
+	},
+	"searchScore": 0.000015530017
+}

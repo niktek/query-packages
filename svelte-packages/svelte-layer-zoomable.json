@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-layer-zoomable",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "A Svelte component that allows zooming with mouse scrollwheel and moving around by dragging.",
+		"date": "2022-03-22T16:28:33.010Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-layer-zoomable",
+			"homepage": "https://mvolfik.github.io/svelte-layer-zoomable/",
+			"repository": "https://github.com/mvolfik/svelte-layer-zoomable",
+			"bugs": "https://github.com/mvolfik/svelte-layer-zoomable/issues"
+		},
+		"publisher": {
+			"username": "mvolfik",
+			"email": "mat.volfik@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mvolfik",
+				"email": "mat.volfik@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21843217064610498,
+		"detail": {
+			"quality": 0.49528393719142794,
+			"popularity": 0.0014782372015374357,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 3.9447222e-8
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@ryanatkn/svelte-snake-sports",
+		"scope": "ryanatkn",
+		"version": "0.4.0",
+		"description": "games of snake in svelte and sveltekit",
+		"date": "2023-01-30T05:15:18.458Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ryanatkn%2Fsvelte-snake-sports",
+			"homepage": "https://ryanatkn.github.io/svelte-snake-sports",
+			"repository": "https://github.com/ryanatkn/svelte-snake-sports",
+			"bugs": "https://github.com/ryanatkn/svelte-snake-sports/issues"
+		},
+		"author": {
+			"name": "Ryan Atkinson",
+			"email": "mail@ryanatkn.com",
+			"url": "https://www.ryanatkn.com/",
+			"username": "ryanatkn"
+		},
+		"publisher": {
+			"username": "ryanatkn",
+			"email": "mail@ryanatkn.com"
+		},
+		"maintainers": [
+			{
+				"username": "ryanatkn",
+				"email": "mail@ryanatkn.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.286871723004147,
+		"detail": {
+			"quality": 0.560698708178667,
+			"popularity": 0.005701268239657846,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000014212649
+}

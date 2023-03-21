@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-toggle",
+		"scope": "unscoped",
+		"version": "3.1.0",
+		"description": "Accessible toggle switch component",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"toggle",
+			"switch",
+			"button",
+			"accessible",
+			"a11y",
+			"wai-aria"
+		],
+		"date": "2021-10-31T17:58:44.861Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-toggle"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24957367836816063,
+		"detail": {
+			"quality": 0.6191815227934985,
+			"popularity": 0.02654677454213296,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 4.0596836e-7
+}

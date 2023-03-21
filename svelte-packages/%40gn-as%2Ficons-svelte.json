@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "@gn-as/icons-svelte",
+		"scope": "gn-as",
+		"version": "1.4.5",
+		"description": "Gina Design System SVG icons as Svelte components",
+		"date": "2023-02-14T13:26:40.182Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40gn-as%2Ficons-svelte"
+		},
+		"publisher": {
+			"username": "tomkersten",
+			"email": "me@tomkersten.com"
+		},
+		"maintainers": [
+			{
+				"username": "wadsworth.featherbottom",
+				"email": "research.support@gnresound.com"
+			},
+			{
+				"username": "tomkersten",
+				"email": "me@tomkersten.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3023606019552325,
+		"detail": {
+			"quality": 0.6081416904986702,
+			"popularity": 0.009289794682756598,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000031371555
+}

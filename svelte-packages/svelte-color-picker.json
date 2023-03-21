@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-color-picker",
+		"scope": "unscoped",
+		"version": "1.0.7",
+		"description": "[![svelte-v3](https://img.shields.io/badge/svelte-v3-blueviolet.svg)](https://svelte.dev) ## Installation",
+		"date": "2019-10-12T13:34:22.928Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-color-picker"
+		},
+		"publisher": {
+			"username": "qintarp",
+			"email": "qintarp@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "qintarp",
+				"email": "qintarp@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16527230707851315,
+		"detail": {
+			"quality": 0.4244496140979512,
+			"popularity": 0.01865093917463076,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.3265036e-9
+}

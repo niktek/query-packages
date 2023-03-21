@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-design-vue",
+		"scope": "unscoped",
+		"version": "0.1.2-bate1",
+		"description": "## Project setup ``` npm install ```",
+		"date": "2022-12-05T05:57:10.985Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-design-vue"
+		},
+		"publisher": {
+			"username": "gfl13453001",
+			"email": "13453001@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "gfl13453001",
+				"email": "13453001@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21757735103863834,
+		"detail": {
+			"quality": 0.33640029293312296,
+			"popularity": 0.0014002204670190196,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 2.9755194e-8
+}

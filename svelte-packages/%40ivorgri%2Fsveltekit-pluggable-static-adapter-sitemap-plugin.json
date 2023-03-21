@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@ivorgri/sveltekit-pluggable-static-adapter-sitemap-plugin",
+		"scope": "ivorgri",
+		"version": "1.0.4",
+		"description": "Plugin for creating sitemap.xml after Sveltekit build. To be used with @ivorgri/sveltekit-pluggable-static-adapter",
+		"keywords": [
+			"sveltekit",
+			"static adapter",
+			"sitemap"
+		],
+		"date": "2022-03-23T21:06:53.246Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ivorgri%2Fsveltekit-pluggable-static-adapter-sitemap-plugin",
+			"homepage": "https://github.com/ivorgri/sveltekit-pluggable-static-adapter-sitemap-plugin#readme",
+			"repository": "https://github.com/ivorgri/sveltekit-pluggable-static-adapter-sitemap-plugin",
+			"bugs": "https://github.com/ivorgri/sveltekit-pluggable-static-adapter-sitemap-plugin/issues"
+		},
+		"author": {
+			"name": "Ivor Grisel",
+			"url": "@ivorgri"
+		},
+		"publisher": {
+			"username": "ivorgri",
+			"email": "ivorgrisel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ivorgri",
+				"email": "ivorgrisel@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2690914541731745,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.018565218865749824,
+			"maintenance": 0.2878079139469282
+		}
+	},
+	"searchScore": 3.2748056e-7
+}

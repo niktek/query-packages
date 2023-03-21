@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "eslint-svelte3-preprocess",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "svelte preprocess for eslint-plugin-svelte3",
+		"keywords": [
+			"svelte",
+			"preprocess",
+			"svelte-loader",
+			"svelte-loader-hot",
+			"svelte-preprocess",
+			"svelte-native-preprocessor",
+			"svelte-preprocess-chain",
+			"eslint",
+			"eslint-pllugin-svelte3",
+			"eslint-svelte3-preprocess",
+			"typescript",
+			"less",
+			"stylus",
+			"sass",
+			"scss"
+		],
+		"date": "2021-02-16T15:59:49.410Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/eslint-svelte3-preprocess",
+			"homepage": "https://github.com/NicoCevallos/eslint-svelte3-preprocess#readme",
+			"repository": "https://github.com/NicoCevallos/eslint-svelte3-preprocess",
+			"bugs": "https://github.com/NicoCevallos/eslint-svelte3-preprocess/issues"
+		},
+		"publisher": {
+			"username": "nicocevallos",
+			"email": "nicolas.cevallos@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nicocevallos",
+				"email": "nicolas.cevallos@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1769526417699847,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.030713769941101338,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.4379366e-9
+}

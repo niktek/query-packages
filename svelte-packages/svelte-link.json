@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-link",
+		"scope": "unscoped",
+		"version": "1.4.0",
+		"description": "Anchor link component for Svelte",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"link",
+			"noopener noreferrer"
+		],
+		"date": "2022-04-15T19:10:16.423Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-link"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2519561985843563,
+		"detail": {
+			"quality": 0.5328975035838066,
+			"popularity": 0.012591986674071007,
+			"maintenance": 0.25051357763796994
+		}
+	},
+	"searchScore": 4.1690413e-7
+}

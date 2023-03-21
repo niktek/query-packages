@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@sajuthankappan/sveltekit-google-analytics",
+		"scope": "sajuthankappan",
+		"version": "0.1.3",
+		"description": "Google analytics for svelte-kit",
+		"date": "2022-04-18T08:11:27.504Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sajuthankappan%2Fsveltekit-google-analytics"
+		},
+		"publisher": {
+			"username": "sajuthankappan",
+			"email": "sajuthankappan@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sajuthankappan",
+				"email": "sajuthankappan@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19280386470808597,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.009167451428997392,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 4.291076e-9
+}

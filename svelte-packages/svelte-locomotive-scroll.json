@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-locomotive-scroll",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "A locomotive-scroll Svelte wrapper",
+		"keywords": [
+			"svelte",
+			"locomotive-scroll",
+			"smooth-scroll",
+			"typescript",
+			"sveltekit"
+		],
+		"date": "2022-04-06T20:27:57.865Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-locomotive-scroll"
+		},
+		"author": {
+			"name": "Jason",
+			"email": "jasonxandrewth@gmail.com",
+			"username": "jasonandrew"
+		},
+		"publisher": {
+			"username": "jasonandrew",
+			"email": "jasonxandrewth@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jasonandrew",
+				"email": "jasonxandrewth@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24926952432824262,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.021152756007468517,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 3.2067075e-7
+}

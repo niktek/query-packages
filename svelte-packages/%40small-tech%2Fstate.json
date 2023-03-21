@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@small-tech/state",
+		"scope": "small-tech",
+		"version": "1.0.0",
+		"description": "A tiny JavaScript state management class that supports Svelte stores.",
+		"keywords": [
+			"state",
+			"javascript",
+			"svelte",
+			"store"
+		],
+		"date": "2021-06-13T18:07:19.893Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40small-tech%2Fstate",
+			"homepage": "https://github.com/small-tech/state",
+			"repository": "https://github.com/small-tech/state",
+			"bugs": "https://github.com/small-tech/state/issues"
+		},
+		"author": {
+			"name": "Aral Balkan",
+			"email": "aral@small-tech.org",
+			"url": "https://ar.al",
+			"username": "aral"
+		},
+		"publisher": {
+			"username": "aral",
+			"email": "aral@small-tech.org"
+		},
+		"maintainers": [
+			{
+				"username": "aral",
+				"email": "aral@small-tech.org"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30163449359094985,
+		"detail": {
+			"quality": 0.8597513359337761,
+			"popularity": 0.0010475483054105574,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 0.0000019564075
+}

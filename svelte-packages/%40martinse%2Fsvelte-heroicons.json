@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@martinse/svelte-heroicons",
+		"scope": "martinse",
+		"version": "0.1.4",
+		"description": "Svelte component for Heroicons",
+		"keywords": [
+			"svelte",
+			"heroicons"
+		],
+		"date": "2021-02-11T17:51:40.217Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40martinse%2Fsvelte-heroicons",
+			"homepage": "https://github.com/martinse/svelte-heroicons#readme",
+			"repository": "https://github.com/martinse/svelte-heroicons",
+			"bugs": "https://github.com/martinse/svelte-heroicons/issues"
+		},
+		"author": {
+			"name": "@martinse"
+		},
+		"publisher": {
+			"username": "martinse",
+			"email": "martin@ruzicka.se"
+		},
+		"maintainers": [
+			{
+				"username": "martinse",
+				"email": "martin@ruzicka.se"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16507283248419696,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.019423193237009757,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.6618874e-9
+}

@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@ctx-core/polarity-ui-svelte",
+		"scope": "ctx-core",
+		"version": "1.1.2",
+		"description": "ctx-core polarity",
+		"keywords": [
+			"ctx-core",
+			"polarity"
+		],
+		"date": "2023-03-15T18:48:01.651Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ctx-core%2Fpolarity-ui-svelte",
+			"homepage": "https://github.com/ctx-core/polarity-ui-svelte#readme",
+			"repository": "https://github.com/ctx-core/polarity-ui-svelte",
+			"bugs": "https://github.com/ctx-core/polarity-ui-svelte/issues"
+		},
+		"author": {
+			"name": "Brian Takita"
+		},
+		"publisher": {
+			"username": "btakita",
+			"email": "brian.takita@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "btakita",
+				"email": "brian.takita@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25622115284071706,
+		"detail": {
+			"quality": 0.4373637913783549,
+			"popularity": 0.023843853601554187,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.9684983e-7
+}

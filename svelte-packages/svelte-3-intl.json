@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-3-intl",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Internationalize your Svelte 3 apps",
+		"keywords": [
+			"svelte",
+			"3",
+			"svelte-3",
+			"svelte3",
+			"format-message",
+			"intl",
+			"i18n"
+		],
+		"date": "2019-06-07T19:24:55.762Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-3-intl",
+			"homepage": "https://github.com/cristovao-trevisan/svelte-intl",
+			"repository": "https://github.com/cristovao-trevisan/svelte-intl",
+			"bugs": "https://github.com/cristovao-trevisan/svelte-intl/issues"
+		},
+		"author": {
+			"name": "Cristóvão Trevisan",
+			"email": "cristovao.trevisan@gmail.com",
+			"username": "cristovao-trevisan"
+		},
+		"publisher": {
+			"username": "cristovao-trevisan",
+			"email": "cristovao.trevisan@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cristovao-trevisan",
+				"email": "cristovao.trevisan@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2165214316037276,
+		"detail": {
+			"quality": 0.6151207493584132,
+			"popularity": 0.0016446075948473565,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.2366204e-8
+}

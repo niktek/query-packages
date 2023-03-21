@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@g-roll/create-svelte",
+		"scope": "g-roll",
+		"version": "0.1.4",
+		"description": "Typescript and TailwindCSS enabled SvelteKit skeleton app.",
+		"keywords": [
+			"SvelteKit",
+			"Svelte",
+			"Typescript",
+			"Tailwind",
+			"TailwindCss"
+		],
+		"date": "2022-08-04T05:53:46.898Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40g-roll%2Fcreate-svelte"
+		},
+		"author": {
+			"name": "Gareth Roll"
+		},
+		"publisher": {
+			"username": "g-roll",
+			"email": "LuNDcjCjBAMGAYNajEhoQLE63TSkQaOVvHcx02ny@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "g-roll",
+				"email": "LuNDcjCjBAMGAYNajEhoQLE63TSkQaOVvHcx02ny@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20736525411755058,
+		"detail": {
+			"quality": 0.316496046427745,
+			"popularity": 0.0018595969186283715,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 1.8785602e-8
+}

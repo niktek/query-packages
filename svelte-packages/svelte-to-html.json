@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-to-html",
+		"scope": "unscoped",
+		"version": "1.0.9",
+		"description": "svelte-to-html is a command to quickly transform a Svelte file into static html.",
+		"keywords": [
+			"svelte",
+			"html",
+			"transform"
+		],
+		"date": "2022-04-03T22:48:37.487Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-to-html",
+			"homepage": "https://github.com/sidx1024/svelte-template-cli#readme",
+			"repository": "https://github.com/sidx1024/svelte-template-cli",
+			"bugs": "https://github.com/sidx1024/svelte-template-cli/issues"
+		},
+		"author": {
+			"name": "sidx1024"
+		},
+		"publisher": {
+			"username": "sidx1024",
+			"email": "vistax86live@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sidx1024",
+				"email": "vistax86live@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.36390436480902827,
+		"detail": {
+			"quality": 0.7982510331562056,
+			"popularity": 0.024863259503436336,
+			"maintenance": 0.3306483258170397
+		}
+	},
+	"searchScore": 0.00005803974
+}

@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-router-spa-webpack",
+		"scope": "unscoped",
+		"version": "5.5.4",
+		"description": "A full featured router component for Svelte and your Single Page Applications.",
+		"keywords": [
+			"svelte",
+			"router",
+			"spa"
+		],
+		"date": "2020-04-11T19:01:08.754Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-router-spa-webpack"
+		},
+		"author": {
+			"name": "Jorge Alvarez",
+			"email": "jorge@alvareznavarro.es"
+		},
+		"publisher": {
+			"username": "httpsomkar",
+			"email": "httpsomkar@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "httpsomkar",
+				"email": "httpsomkar@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2229753261101397,
+		"detail": {
+			"quality": 0.6362840192096919,
+			"popularity": 0.0019443605977859507,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.0597565e-8
+}

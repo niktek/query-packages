@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "wykres-svelte",
+		"scope": "unscoped",
+		"version": "0.0.24",
+		"description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+		"date": "2022-09-24T21:53:58.106Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/wykres-svelte"
+		},
+		"publisher": {
+			"username": "pezdel",
+			"email": "adam.pezdel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pezdel",
+				"email": "adam.pezdel@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21132584557951042,
+		"detail": {
+			"quality": 0.31214430752912636,
+			"popularity": 0.0029025332974453215,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.4110872e-8
+}

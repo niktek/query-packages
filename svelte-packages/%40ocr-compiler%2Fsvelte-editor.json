@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@ocr-compiler/svelte-editor",
+		"scope": "ocr-compiler",
+		"version": "0.0.5",
+		"description": "A svelte component with WASM bindings to a rust compiler for the OCR Reference Language",
+		"date": "2022-06-11T14:20:09.860Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ocr-compiler%2Fsvelte-editor"
+		},
+		"author": {
+			"name": "DrBracewell",
+			"email": "doctorbracewell@gmail.com",
+			"url": "https://brace.dev",
+			"username": "drbracewell"
+		},
+		"publisher": {
+			"username": "drbracewell",
+			"email": "doctorbracewell@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "drbracewell",
+				"email": "doctorbracewell@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22326573347773396,
+		"detail": {
+			"quality": 0.3970440406409502,
+			"popularity": 0.0016225565897266057,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 4.460944e-8
+}

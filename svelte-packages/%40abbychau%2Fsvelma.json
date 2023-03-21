@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@abbychau/svelma",
+		"scope": "abbychau",
+		"version": "0.4.1",
+		"description": "Bulma components for Svelte",
+		"keywords": [
+			"svelte",
+			"svelte.js",
+			"sveltejs",
+			"bulma",
+			"component",
+			"components"
+		],
+		"date": "2021-03-17T17:12:53.189Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40abbychau%2Fsvelma",
+			"homepage": "https://github.com/c0bra/svelma#readme",
+			"repository": "https://github.com/abbychau/svelma",
+			"bugs": "https://github.com/abbychau/svelma/issues"
+		},
+		"author": {
+			"name": "Abby Chau, Brian Hann"
+		},
+		"publisher": {
+			"username": "abbychau",
+			"email": "abbychau@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "abbychau",
+				"email": "abbychau@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20042214172735423,
+		"detail": {
+			"quality": 0.5613825808585942,
+			"popularity": 0.001707923805054072,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.389157e-9
+}

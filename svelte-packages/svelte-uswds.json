@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-uswds",
+		"scope": "unscoped",
+		"version": "1.2.1",
+		"description": "Svelte component library that implements the U.S. Web Design System",
+		"keywords": [
+			"svelte",
+			"U.S. Web Design System",
+			"uswds",
+			"design system",
+			"component library"
+		],
+		"date": "2020-11-23T20:49:43.406Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-uswds"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22296957564856734,
+		"detail": {
+			"quality": 0.6362840192096919,
+			"popularity": 0.0019279307075792103,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.736582e-8
+}

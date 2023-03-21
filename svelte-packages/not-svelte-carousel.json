@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "not-svelte-carousel",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "<p align=\"center\">   <img width=\"186\" height=\"90\" src=\"https://user-images.githubusercontent.com/218949/44782765-377e7c80-ab80-11e8-9dd8-fce0e37c235b.png\" alt=\"Beyonk\" /> </p>",
+		"keywords": [
+			"svelte",
+			"carousel",
+			"slider",
+			"glidejs",
+			"slick",
+			"flickity",
+			"siema"
+		],
+		"date": "2021-04-01T09:51:43.008Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/not-svelte-carousel",
+			"homepage": "https://github.com/mzaini30/not-svelte-carousel#readme",
+			"repository": "https://github.com/mzaini30/not-svelte-carousel",
+			"bugs": "https://github.com/mzaini30/not-svelte-carousel/issues"
+		},
+		"publisher": {
+			"username": "mzaini30",
+			"email": "muhzaini30@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mzaini30",
+				"email": "muhzaini30@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21047098059530894,
+		"detail": {
+			"quality": 0.5355947797183326,
+			"popularity": 0.002132003761043618,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 2.8849138e-8
+}

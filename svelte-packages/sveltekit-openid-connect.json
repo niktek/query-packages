@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "sveltekit-openid-connect",
+		"scope": "unscoped",
+		"version": "1.4.3",
+		"description": "SvelteKit module to protect web applications using OpenID Connect.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"openid",
+			"auth0",
+			"session",
+			"cookies",
+			"auth"
+		],
+		"date": "2023-01-25T20:15:37.377Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-openid-connect",
+			"homepage": "https://github.com/starbasehq/sveltekit-openid-connect#readme",
+			"repository": "https://github.com/starbasehq/sveltekit-openid-connect",
+			"bugs": "https://github.com/starbasehq/sveltekit-openid-connect/issues"
+		},
+		"author": {
+			"name": "ChrisOgden",
+			"email": "13042897+ChrisOgden@users.noreply.github.com",
+			"username": "chrisogden"
+		},
+		"publisher": {
+			"username": "chrisogden",
+			"email": "13042897+ChrisOgden@users.noreply.github.com"
+		},
+		"maintainers": [
+			{
+				"username": "chrisogden",
+				"email": "13042897+ChrisOgden@users.noreply.github.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.36734844430210895,
+		"detail": {
+			"quality": 0.829070863727408,
+			"popularity": 0.0059087990071791975,
+			"maintenance": 0.33302601580392527
+		}
+	},
+	"searchScore": 0.00003370935
+}

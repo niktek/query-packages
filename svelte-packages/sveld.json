@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "sveld",
+		"scope": "unscoped",
+		"version": "0.18.0",
+		"description": "Generate TypeScript definitions for your Svelte components.",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"documentation",
+			"docgen",
+			"typescript",
+			"definitions",
+			"JSDocs"
+		],
+		"date": "2022-10-22T20:33:34.471Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveld",
+			"homepage": "https://github.com/carbon-design-system/sveld",
+			"repository": "https://github.com/carbon-design-system/sveld",
+			"bugs": "https://github.com/carbon-design-system/sveld/issues"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.27436112081617725,
+		"detail": {
+			"quality": 0.46863432508229863,
+			"popularity": 0.048926849505784645,
+			"maintenance": 0.3332755027556087
+		}
+	},
+	"searchScore": 7.3489815e-7
+}

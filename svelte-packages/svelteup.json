@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelteup",
+		"scope": "unscoped",
+		"version": "2.0.1",
+		"description": "A command line is used to bundle svelte components as web component default.",
+		"keywords": [
+			"svelte",
+			"esbuild",
+			"web component"
+		],
+		"date": "2022-02-04T07:43:34.043Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelteup",
+			"homepage": "https://github.com/brandonxiang/svelteup#readme",
+			"repository": "https://github.com/brandonxiang/svelteup",
+			"bugs": "https://github.com/brandonxiang/svelteup/issues"
+		},
+		"author": {
+			"name": "brandonxiang"
+		},
+		"publisher": {
+			"username": "brandonxiang",
+			"email": "1132500533@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "brandonxiang",
+				"email": "1132500533@qq.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22335640736208054,
+		"detail": {
+			"quality": 0.45895049530327514,
+			"popularity": 0.0029582403196117837,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 4.6799762e-8
+}

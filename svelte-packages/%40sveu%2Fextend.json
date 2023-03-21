@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@sveu/extend",
+		"scope": "sveu",
+		"version": "0.4.0",
+		"description": "A collection of 3rd party integrations for Svelte",
+		"keywords": [
+			"svelte",
+			"integration"
+		],
+		"date": "2023-03-17T07:58:16.459Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveu%2Fextend",
+			"homepage": "https://github.com/svelte-u/extend#readme",
+			"repository": "https://github.com/svelte-u/extend",
+			"bugs": "https://github.com/svelte-u/extend/issues"
+		},
+		"author": {
+			"name": "Mohamed Nesredin",
+			"email": "https://github.com/Mohamed-Kaizen"
+		},
+		"publisher": {
+			"username": "mohamed-kaizen",
+			"email": "mohamednesredin19@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mohamed-kaizen",
+				"email": "mohamednesredin19@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2502953926147905,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.010080707114863974,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.5526344e-7
+}

@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@dexlib/svelte-matomo",
+		"scope": "dexlib",
+		"version": "0.1.4",
+		"description": "This component loads the matomo script and exposes an asynchronous matomo api.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-05-19T08:26:34.526Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40dexlib%2Fsvelte-matomo",
+			"homepage": "https://gitlab.com/dexterlabs/dexlib/-/tree/master/packages/svelte-matomo",
+			"repository": "https://gitlab.com/dexterlabs/dexlib",
+			"bugs": "https://gitlab.com/dexterlabs/dexlib/issues"
+		},
+		"publisher": {
+			"username": "dexterlabs",
+			"email": "dexter@nerdalize.com"
+		},
+		"maintainers": [
+			{
+				"username": "dexterlabs",
+				"email": "dexter@nerdalize.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1675808473125217,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.02658894988936623,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.0427477e-9
+}

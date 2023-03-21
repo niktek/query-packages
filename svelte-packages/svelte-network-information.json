@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-network-information",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "A store implementation for Svelte to use the Network Information API in PWAs",
+		"keywords": [
+			"svelte network information api",
+			"network information pwa api sveltekit"
+		],
+		"date": "2022-11-19T10:31:14.470Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-network-information",
+			"homepage": "https://github.com/flaming-codes/svelte-network-information",
+			"repository": "https://github.com/flaming-codes/svelte-network-information",
+			"bugs": "https://github.com/flaming-codes/svelte-network-information/issues"
+		},
+		"publisher": {
+			"username": "flaming-codes",
+			"email": "tom@flaming.codes"
+		},
+		"maintainers": [
+			{
+				"username": "flaming-codes",
+				"email": "tom@flaming.codes"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2812775725552816,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.018805882688673784,
+			"maintenance": 0.33155569877036956
+		}
+	},
+	"searchScore": 0.0000015608715
+}

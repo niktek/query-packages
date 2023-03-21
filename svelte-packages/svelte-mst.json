@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-mst",
+		"scope": "unscoped",
+		"version": "1.0.10",
+		"description": "creates mobx-state-tree store to be used in svelte",
+		"date": "2022-05-15T19:37:26.130Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-mst"
+		},
+		"author": {
+			"name": "Relaxe111"
+		},
+		"publisher": {
+			"username": "avans",
+			"email": "igor@avans.no"
+		},
+		"maintainers": [
+			{
+				"username": "avans",
+				"email": "igor@avans.no"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2402523011819784,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.01938267596756189,
+			"maintenance": 0.33137239168605176
+		}
+	},
+	"searchScore": 1.7419133e-7
+}

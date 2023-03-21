@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@shop25/search-suggestions",
+		"scope": "shop25",
+		"version": "0.1.7",
+		"description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+		"date": "2022-04-08T06:45:08.637Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40shop25%2Fsearch-suggestions"
+		},
+		"publisher": {
+			"username": "mdanon",
+			"email": "serjvid91@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "mdanon",
+				"email": "serjvid91@mail.ru"
+			},
+			{
+				"username": "ssipak",
+				"email": "crylove_const@mail.ru"
+			},
+			{
+				"username": "vovka25",
+				"email": "vovka@s25.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1993388391409032,
+		"detail": {
+			"quality": 0.2564197569473003,
+			"popularity": 0.020957200289535204,
+			"maintenance": 0.3287939770153594
+		}
+	},
+	"searchScore": 2.2470998e-9
+}

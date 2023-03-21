@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-blueprint",
+		"scope": "unscoped",
+		"version": "2.0.2",
+		"description": "Create documentation of svelete components",
+		"keywords": [
+			"svelte",
+			"documentation",
+			"component",
+			"document",
+			"blueprint"
+		],
+		"date": "2023-03-07T05:27:02.804Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-blueprint"
+		},
+		"author": {
+			"name": "everitosan"
+		},
+		"publisher": {
+			"username": "evesan",
+			"email": "everardo.ipn@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "evesan",
+				"email": "everardo.ipn@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.35705902300699893,
+		"detail": {
+			"quality": 0.7935876851482173,
+			"popularity": 0.006617287988191698,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000037923266
+}

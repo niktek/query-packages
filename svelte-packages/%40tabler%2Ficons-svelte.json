@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@tabler/icons-svelte",
+		"scope": "tabler",
+		"version": "2.11.0",
+		"description": "A set of free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+		"date": "2023-03-19T12:10:43.530Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tabler%2Ficons-svelte",
+			"homepage": "https://tabler-icons.io",
+			"repository": "https://github.com/tabler/tabler-icons",
+			"bugs": "https://github.com/tabler/tabler-icons/issues"
+		},
+		"author": {
+			"name": "codecalm"
+		},
+		"publisher": {
+			"username": "codecalm",
+			"email": "codecalm@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "codecalm",
+				"email": "codecalm@gmail.com"
+			},
+			{
+				"username": "freexd",
+				"email": "michalwoln@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31919306062499386,
+		"detail": {
+			"quality": 0.621149076937051,
+			"popularity": 0.04623334536346263,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000007969083
+}

@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-echart-template",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "```js\r <!-- 主题 -->\r export let theme;\r <!-- echarts库 -->\r export let echarts;\r // 配置\r export let options;\r // class类名 必填\r export let className; //require\r // 样式 例如：width:10rem;height:10rem\r export let styleOption; \r ```\r ### 安装\r ```js\r npm install svelte-",
+		"date": "2022-01-14T06:28:21.692Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-echart-template"
+		},
+		"publisher": {
+			"username": "andydear",
+			"email": "1686048631@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "andydear",
+				"email": "1686048631@qq.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16948802065140486,
+		"detail": {
+			"quality": 0.4187914380491597,
+			"popularity": 0.0014518238078102884,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.3083468e-9
+}

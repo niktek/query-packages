@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@bosticka/svelte-icons-pack",
+		"scope": "bosticka",
+		"version": "1.5.1",
+		"description": "Svg icons as Svelte components with props",
+		"date": "2022-07-17T22:28:40.997Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bosticka%2Fsvelte-icons-pack",
+			"homepage": "https://github.com/leshak/svelte-icons-pack#readme",
+			"repository": "https://github.com/leshak/svelte-icons-pack",
+			"bugs": "https://github.com/leshak/svelte-icons-pack/issues"
+		},
+		"publisher": {
+			"username": "bouki",
+			"email": "aaron@bouki.com"
+		},
+		"maintainers": [
+			{
+				"username": "bouki",
+				"email": "aaron@bouki.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24868949917562957,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0016225565897266057,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 2.0314623e-7
+}

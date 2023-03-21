@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-infinite-list",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "A Svelte component for infinite scrolling lists",
+		"keywords": [
+			"svelte",
+			"infinite",
+			"list"
+		],
+		"date": "2021-12-19T15:20:11.649Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-infinite-list"
+		},
+		"author": {
+			"name": "Olyno"
+		},
+		"publisher": {
+			"username": "olyno",
+			"email": "olyno.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "olyno",
+				"email": "olyno.dev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20038853807431858,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.6857058e-8
+}

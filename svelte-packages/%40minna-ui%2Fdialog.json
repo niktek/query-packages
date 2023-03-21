@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "@minna-ui/dialog",
+		"scope": "minna-ui",
+		"version": "0.22.0-next.20",
+		"description": "😸 A fast, friendly, and fun web UI kit for everyone.",
+		"keywords": [
+			"component",
+			"design-system",
+			"minna-ui",
+			"postcss",
+			"svelte",
+			"svelte-components",
+			"ui-components",
+			"wearegenki",
+			"web-components"
+		],
+		"date": "2019-04-14T19:53:59.669Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40minna-ui%2Fdialog",
+			"homepage": "https://wearegenki.github.io/minna-ui",
+			"repository": "https://github.com/WeAreGenki/minna-ui",
+			"bugs": "https://github.com/WeAreGenki/minna-ui/issues"
+		},
+		"author": {
+			"name": "Max Milton",
+			"email": "max@wearegenki.com",
+			"username": "maxmilton"
+		},
+		"publisher": {
+			"username": "maxmilton",
+			"email": "max@wearegenki.com"
+		},
+		"maintainers": [
+			{
+				"username": "maxmilton",
+				"email": "max@wearegenki.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2812587900862663,
+		"detail": {
+			"quality": 0.8065533143120099,
+			"popularity": 0.02252343329901793,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.107548e-7
+}

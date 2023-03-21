@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@ptkdev/svelte-spa-boilerplate",
+		"scope": "ptkdev",
+		"version": "2.0.0",
+		"description": "Create single page application with this user-friendly Svelte boilerplate made with typescript and love",
+		"keywords": [
+			"ptkdev",
+			"svelte",
+			"svelte-spa",
+			"single-page-app",
+			"spa",
+			"spa-boilerplate",
+			"svelte-spa-boilerplate",
+			"boilerplate"
+		],
+		"date": "2022-02-07T22:38:32.725Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ptkdev%2Fsvelte-spa-boilerplate",
+			"homepage": "https://github.com/ptkdev-boilerplate/svelte-spa-boilerplate",
+			"repository": "https://github.com/ptkdev-boilerplate/svelte-spa-boilerplate",
+			"bugs": "https://github.com/ptkdev-boilerplate/svelte-spa-boilerplate/issues"
+		},
+		"author": {
+			"name": "Patryk Rzucidło [@ptkdev]",
+			"email": "support@ptkdev.io",
+			"url": "https://ptk.dev"
+		},
+		"publisher": {
+			"username": "ptkdevio",
+			"email": "ptkdev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ptkdevio",
+				"email": "ptkdev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2716773480387505,
+		"detail": {
+			"quality": 0.47466485451177404,
+			"popularity": 0.03603207148157614,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000010996664
+}

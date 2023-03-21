@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "creditdesign-svelte-components",
+		"scope": "unscoped",
+		"version": "2.0.6",
+		"description": "Collection fo svelte compontents for layout",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-06-14T20:40:35.608Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/creditdesign-svelte-components",
+			"homepage": "https://serene-albattani-31205c.netlify.app/",
+			"repository": "https://github.com/chris-creditdesign/creditdesign-svelte-components",
+			"bugs": "https://github.com/chris-creditdesign/creditdesign-svelte-components/issues"
+		},
+		"author": {
+			"name": "chris-creditdesign"
+		},
+		"publisher": {
+			"username": "chris-creditdesign",
+			"email": "creditdesign@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "chris-creditdesign",
+				"email": "creditdesign@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2864321632818664,
+		"detail": {
+			"quality": 0.5638006134362424,
+			"popularity": 0.0036237517434405085,
+			"maintenance": 0.3314961889736842
+		}
+	},
+	"searchScore": 0.0000019173513
+}

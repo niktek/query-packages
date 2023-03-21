@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@htmlbricks/formhostcomponent",
+		"scope": "htmlbricks",
+		"version": "0.0.59",
+		"description": "Svelte-Bootstrap Text Input WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2021-10-11T04:47:41.702Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fformhostcomponent"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18653156940945864,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.002268738766514234,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 3.0553928e-9
+}

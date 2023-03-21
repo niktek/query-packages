@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@ethercorps/sveltekit-og",
+		"scope": "ethercorps",
+		"version": "1.2.2",
+		"description": "About Generate Open Graph Images dynamically from HTML/CSS without a browser in SvelteKit.",
+		"keywords": [
+			"open graph image",
+			"open graph",
+			"og image",
+			"og:image",
+			"social",
+			"card",
+			"sveltekit og",
+			"sveltekit-og",
+			"@ethercorps/sveltekit-og"
+		],
+		"date": "2023-03-17T17:58:41.444Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ethercorps%2Fsveltekit-og",
+			"homepage": "https://github.com/etherCorps/sveltekit-og#readme",
+			"repository": "https://github.com/etherCorps/sveltekit-og",
+			"bugs": "https://github.com/etherCorps/sveltekit-og/issues"
+		},
+		"publisher": {
+			"username": "ethercorps.io",
+			"email": "shivam@theether.in"
+		},
+		"maintainers": [
+			{
+				"username": "ethercorps.io",
+				"email": "shivam@theether.in"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27862187853361836,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.009440550920958083,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.685054e-7
+}

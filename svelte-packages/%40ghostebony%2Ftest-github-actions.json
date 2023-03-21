@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@ghostebony/test-github-actions",
+		"scope": "ghostebony",
+		"version": "1.0.0-next.0",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-12-14T18:51:38.270Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ghostebony%2Ftest-github-actions",
+			"homepage": "https://github.com/ghostebony/test-github-actions#readme",
+			"repository": "https://github.com/ghostebony/test-github-actions",
+			"bugs": "https://github.com/ghostebony/test-github-actions/issues"
+		},
+		"publisher": {
+			"username": "ghostebony",
+			"email": "pedroamericolouzada@uol.com.br"
+		},
+		"maintainers": [
+			{
+				"username": "ghostebony",
+				"email": "pedroamericolouzada@uol.com.br"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19024255523547373,
+		"detail": {
+			"quality": 0.23926108599618262,
+			"popularity": 0.005135893628435176,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.2408194e-9
+}

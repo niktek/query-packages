@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-localstorage-writable",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "svelte localstorage writable store",
+		"keywords": [
+			"svelte",
+			"localstorage",
+			"writable",
+			"store"
+		],
+		"date": "2022-06-20T11:45:48.739Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-localstorage-writable",
+			"homepage": "https://github.com/nathanfaucett/svelte-localstorage-writable#readme",
+			"repository": "https://github.com/nathanfaucett/svelte-localstorage-writable",
+			"bugs": "https://github.com/nathanfaucett/svelte-localstorage-writable/issues"
+		},
+		"author": {
+			"name": "Nathan Faucett"
+		},
+		"publisher": {
+			"username": "nathanfaucett",
+			"email": "nathanfaucett@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nathanfaucett",
+				"email": "nathanfaucett@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21873364131668935,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.020978816628451344,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 6.0500945e-8
+}

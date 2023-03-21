@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "create-capacitor-svelte-app",
+		"scope": "unscoped",
+		"version": "0.0.17",
+		"description": "Use this CLI app to setup a new Capacitor application in a new SvelteKit project.",
+		"keywords": [
+			"capacitor",
+			"ionic",
+			"svelte",
+			"sveltekit",
+			"svelte-kit"
+		],
+		"date": "2023-03-03T13:41:41.790Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-capacitor-svelte-app",
+			"homepage": "https://ionicsvelte.firebaseapp.com",
+			"repository": "https://github.com/Tommertom/svelte-ionic-npm",
+			"bugs": "https://github.com/Tommertom/svelte-ionic-npm/issues"
+		},
+		"author": {
+			"name": "Tommertom"
+		},
+		"publisher": {
+			"username": "tommertom",
+			"email": "tom.gruintjes@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tommertom",
+				"email": "tom.gruintjes@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2599637687106724,
+		"detail": {
+			"quality": 0.4664877688296697,
+			"popularity": 0.00957363255744243,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.7062514e-7
+}

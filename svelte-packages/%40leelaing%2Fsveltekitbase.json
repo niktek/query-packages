@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@leelaing/sveltekitbase",
+		"scope": "leelaing",
+		"version": "0.0.3",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-02-27T15:08:14.198Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40leelaing%2Fsveltekitbase"
+		},
+		"publisher": {
+			"username": "leelaing",
+			"email": "lcharleslaing@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "leelaing",
+				"email": "lcharleslaing@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18984239439995085,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 3.136084e-9
+}

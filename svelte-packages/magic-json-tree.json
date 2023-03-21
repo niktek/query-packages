@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "magic-json-tree",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "<div align=\"center\">   <h1>magic-json-tree</h1>   <p>Svelte component to render interactive JSON trees.</p>   <p>     <a href=\"https://npmjs.com/package/magic-json-tree\"><img src=\"https://img.shields.io/npm/v/magic-json-tree\" alt=\"npm version\" /></a>",
+		"keywords": [
+			"svelte",
+			"json"
+		],
+		"date": "2022-11-20T18:52:50.435Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/magic-json-tree",
+			"homepage": "https://github.com/rlaffers/xstate-ninja#readme",
+			"repository": "https://github.com/rlaffers/xstate-ninja",
+			"bugs": "https://github.com/rlaffers/xstate-ninja/issues"
+		},
+		"author": {
+			"name": "Richard Laffers"
+		},
+		"publisher": {
+			"username": "rlaffers",
+			"email": "rlaffers@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rlaffers",
+				"email": "rlaffers@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2739584685690109,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.002450385242449367,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 4.6020497e-7
+}

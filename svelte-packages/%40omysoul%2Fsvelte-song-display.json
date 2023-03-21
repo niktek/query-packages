@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@omysoul/svelte-song-display",
+		"scope": "omysoul",
+		"version": "0.4.7",
+		"description": "```bash npm install @omysoul/svelte-song-display ```",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-09-05T06:23:08.112Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40omysoul%2Fsvelte-song-display",
+			"homepage": "https://github.com/philholden/svelte-song-display#readme",
+			"repository": "https://github.com/philholden/svelte-song-display",
+			"bugs": "https://github.com/philholden/svelte-song-display/issues"
+		},
+		"publisher": {
+			"username": "omysoul",
+			"email": "phil.m.holden@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "omysoul",
+				"email": "phil.m.holden@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17051831112803162,
+		"detail": {
+			"quality": 0.4397711452609957,
+			"popularity": 0.020506781176359692,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.4316222e-9
+}

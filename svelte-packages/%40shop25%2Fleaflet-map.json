@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@shop25/leaflet-map",
+		"scope": "shop25",
+		"version": "1.0.0",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2022-06-21T10:03:20.078Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40shop25%2Fleaflet-map"
+		},
+		"publisher": {
+			"username": "mdanon",
+			"email": "serjvid91@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "mdanon",
+				"email": "serjvid91@mail.ru"
+			},
+			{
+				"username": "ssipak",
+				"email": "crylove_const@mail.ru"
+			},
+			{
+				"username": "vovka25",
+				"email": "vovka@s25.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23196186298669907,
+		"detail": {
+			"quality": 0.44117676171200826,
+			"popularity": 0.01905707123271452,
+			"maintenance": 0.26553959869041865
+		}
+	},
+	"searchScore": 2.3946132e-8
+}

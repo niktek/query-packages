@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-repository-provider",
+		"scope": "unscoped",
+		"version": "1.7.71",
+		"description": "Svelte components for repository providers",
+		"keywords": [
+			"component",
+			"repository",
+			"svelte",
+			"vite",
+			"web"
+		],
+		"date": "2023-03-17T08:55:12.356Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-repository-provider",
+			"homepage": "https://github.com/arlac77/svelte-repository-provider#readme",
+			"repository": "https://github.com/arlac77/svelte-repository-provider",
+			"bugs": "https://github.com/arlac77/svelte-repository-provider/issues"
+		},
+		"publisher": {
+			"username": "arlac77",
+			"email": "markus.felten@gmx.de"
+		},
+		"maintainers": [
+			{
+				"username": "arlac77",
+				"email": "markus.felten@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30138017862250543,
+		"detail": {
+			"quality": 0.6081979139272481,
+			"popularity": 0.006727699438407023,
+			"maintenance": 0.3330460275453959
+		}
+	},
+	"searchScore": 0.0000037707614
+}

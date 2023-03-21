@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "konsum-frontend-svelte",
+		"scope": "unscoped",
+		"version": "1.30.3",
+		"description": "svelte web frontend for konsum",
+		"keywords": [
+			"konsum",
+			"svelte",
+			"web"
+		],
+		"date": "2021-09-21T13:43:50.041Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/konsum-frontend-svelte",
+			"homepage": "https://github.com/konsumation/konsum-frontend-svelte#readme",
+			"repository": "https://github.com/konsumation/konsum-frontend-svelte",
+			"bugs": "https://github.com/konsumation/konsum-frontend-svelte/issues"
+		},
+		"publisher": {
+			"username": "arlac77",
+			"email": "markus.felten@gmx.de"
+		},
+		"maintainers": [
+			{
+				"username": "arlac77",
+				"email": "markus.felten@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25433817200483666,
+		"detail": {
+			"quality": 0.5276122169347324,
+			"popularity": 0.002452295243784464,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 3.8257363e-7
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@pierogis/svelte-tweakpane",
+		"scope": "pierogis",
+		"version": "0.0.1",
+		"description": "## installation",
+		"keywords": [
+			"svelte",
+			"tweakpane",
+			"components"
+		],
+		"date": "2022-09-06T13:26:14.933Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40pierogis%2Fsvelte-tweakpane",
+			"homepage": "https://github.com/pierogis/svelte-tweakpane#readme",
+			"repository": "https://github.com/pierogis/svelte-tweakpane",
+			"bugs": "https://github.com/pierogis/svelte-tweakpane/issues"
+		},
+		"publisher": {
+			"username": "ksmoore17",
+			"email": "kyle@pierogis.live"
+		},
+		"maintainers": [
+			{
+				"username": "ksmoore17",
+				"email": "kyle@pierogis.live"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2529821095727035,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.019184128912963564,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 3.5010234e-7
+}

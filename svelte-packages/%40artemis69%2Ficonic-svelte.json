@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "@artemis69/iconic-svelte",
+		"scope": "artemis69",
+		"version": "1.5.0-next.2",
+		"description": "[Iconic Icons](https://github.com/Make-Lemonade/iconicicons)",
+		"keywords": [
+			"svelte",
+			"icons",
+			"iconicicons"
+		],
+		"date": "2021-06-24T11:43:29.160Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40artemis69%2Ficonic-svelte"
+		},
+		"publisher": {
+			"username": "artemis69",
+			"email": "snsoonnoos@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "artemis69",
+				"email": "snsoonnoos@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2224141060516805,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.028547306220889572,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 7.518679e-8
+}

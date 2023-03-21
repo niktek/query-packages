@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@jarecsni/nodez",
+		"scope": "jarecsni",
+		"version": "0.0.3",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2021-07-23T15:47:59.073Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40jarecsni%2Fnodez"
+		},
+		"publisher": {
+			"username": "jarecsni",
+			"email": "janos.jarecsni@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "jarecsni",
+				"email": "janos.jarecsni@me.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23171568699177944,
+		"detail": {
+			"quality": 0.5013802825393029,
+			"popularity": 0.07649643368464007,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 4.6486768e-8
+}

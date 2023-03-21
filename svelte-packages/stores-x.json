@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "stores-x",
+		"scope": "unscoped",
+		"version": "0.0.872",
+		"description": "This is minimal vueX implementation.",
+		"keywords": [
+			"store",
+			"svelte"
+		],
+		"date": "2021-08-08T15:15:20.204Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/stores-x",
+			"homepage": "https://github.com/Anyass3/stores-x#readme",
+			"repository": "https://github.com/Anyass3/stores-x",
+			"bugs": "https://github.com/Anyass3/stores-x/issues"
+		},
+		"author": {
+			"name": "Abdoulie Nyass"
+		},
+		"publisher": {
+			"username": "anyass",
+			"email": "nyassabu@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anyass",
+				"email": "nyassabu@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21936783984459252,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.01984368848635246,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 2.6050467e-8
+}

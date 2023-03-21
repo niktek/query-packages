@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-observe-resize",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Svelte action to use Resize Observer API on an element",
+		"keywords": [
+			"svelte",
+			"plugin",
+			"action",
+			"resize",
+			"observer"
+		],
+		"date": "2020-06-27T19:47:25.105Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-observe-resize"
+		},
+		"author": {
+			"name": "Joe Ruel"
+		},
+		"publisher": {
+			"username": "jruel",
+			"email": "contact@jruel.com"
+		},
+		"maintainers": [
+			{
+				"username": "jruel",
+				"email": "contact@jruel.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18931216650721544,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0038436313786139346,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.11787e-9
+}

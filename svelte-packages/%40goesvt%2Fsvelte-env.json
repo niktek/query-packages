@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@goesvt/svelte-env",
+		"scope": "goesvt",
+		"version": "1.0.5",
+		"description": "using environment variables with svelte",
+		"keywords": [
+			"svelte",
+			"env",
+			"environment",
+			"variables"
+		],
+		"date": "2021-02-15T14:34:06.303Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40goesvt%2Fsvelte-env"
+		},
+		"author": {
+			"name": "1seok2"
+		},
+		"publisher": {
+			"username": "goesnow",
+			"email": "unos@khu.ac.kr"
+		},
+		"maintainers": [
+			{
+				"username": "goesnow",
+				"email": "unos@khu.ac.kr"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16681054782007737,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.01900360571340623,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.882336e-9
+}

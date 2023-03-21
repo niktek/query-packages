@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "rx-svelte-forms",
+		"scope": "unscoped",
+		"version": "1.0.11",
+		"description": "Reactive svelte forms inspired by angular reactive forms.",
+		"keywords": [
+			"rx-svelte-forms",
+			"rx-forms",
+			"svelte-forms"
+		],
+		"date": "2022-11-01T14:00:00.506Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/rx-svelte-forms",
+			"homepage": "https://github.com/MohamedElmdary/rx-svelte-forms#readme",
+			"repository": "https://github.com/MohamedElmdary/rx-svelte-forms",
+			"bugs": "https://github.com/MohamedElmdary/rx-svelte-forms/issues"
+		},
+		"author": {
+			"name": "MohamedElmdary",
+			"email": "engm5081@gmail.com",
+			"username": "elmdary"
+		},
+		"publisher": {
+			"username": "elmdary",
+			"email": "engm5081@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "elmdary",
+				"email": "engm5081@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28255628825164325,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.02068172154388633,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000018239806
+}

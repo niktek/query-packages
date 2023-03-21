@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "mclock",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "It is stylish clock of Web Components. Use Svelte.",
+		"date": "2022-10-15T12:45:31.927Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/mclock",
+			"homepage": "https://github.com/mirko-san/mclock#readme",
+			"repository": "https://github.com/mirko-san/mclock",
+			"bugs": "https://github.com/mirko-san/mclock/issues"
+		},
+		"publisher": {
+			"username": "mirko-san",
+			"email": "43f2b061@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mirko-san",
+				"email": "43f2b061@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23234657601406647,
+		"detail": {
+			"quality": 0.3824604666756759,
+			"popularity": 0.00278299787952342,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 1.845846e-8
+}

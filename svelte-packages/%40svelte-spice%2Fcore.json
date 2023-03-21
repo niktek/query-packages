@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@svelte-spice/core",
+		"scope": "svelte-spice",
+		"version": "1.0.0-next.4",
+		"description": "Core components, actions and stores for svelte apps.",
+		"date": "2022-12-22T04:13:18.213Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-spice%2Fcore"
+		},
+		"author": {
+			"name": "Jerry Thomas",
+			"email": "me@jerrythomas.name",
+			"username": "jerrythomas"
+		},
+		"publisher": {
+			"username": "jerrythomas",
+			"email": "me@jerrythomas.name"
+		},
+		"maintainers": [
+			{
+				"username": "jerrythomas",
+				"email": "me@jerrythomas.name"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3411949239127914,
+		"detail": {
+			"quality": 0.7095566954747321,
+			"popularity": 0.033317853153443225,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000020148445
+}

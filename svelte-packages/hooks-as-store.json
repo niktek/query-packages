@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "hooks-as-store",
+		"scope": "unscoped",
+		"version": "0.3.0",
+		"description": "Use React custom hooks in Svelte Apps.",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"sveltekit",
+			"react",
+			"reactjs",
+			"react-hooks",
+			"hooks",
+			"interop"
+		],
+		"date": "2023-01-24T19:55:38.203Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/hooks-as-store",
+			"homepage": "https://github.com/micha-lmxt/hooks-as-store#readme",
+			"repository": "https://github.com/micha-lmxt/hooks-as-store",
+			"bugs": "https://github.com/micha-lmxt/hooks-as-store/issues"
+		},
+		"author": {
+			"name": "micha-lmxt",
+			"email": "micha-lmxt@gradientdescent.de",
+			"url": "https://gradientdescent.de"
+		},
+		"publisher": {
+			"username": "micha-lmxt",
+			"email": "npm@lucht-familie.de"
+		},
+		"maintainers": [
+			{
+				"username": "micha-lmxt",
+				"email": "npm@lucht-familie.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2565952093171556,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.028090232311399226,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 2.1447748e-7
+}

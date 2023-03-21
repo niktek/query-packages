@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "svelte-webext-stores",
+		"scope": "unscoped",
+		"version": "0.0.13",
+		"description": "Svelte stores that synchronizes to WebExtension storage.",
+		"keywords": [
+			"svelte",
+			"store",
+			"webextension",
+			"webext",
+			"firefox",
+			"chrome",
+			"chrome-extension",
+			"mv3",
+			"browser"
+		],
+		"date": "2022-10-14T13:06:33.667Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-webext-stores",
+			"homepage": "https://github.com/ChrRubin/svelte-webext-stores",
+			"repository": "https://github.com/ChrRubin/svelte-webext-stores",
+			"bugs": "https://github.com/ChrRubin/svelte-webext-stores/issues"
+		},
+		"author": {
+			"name": "ChrRubin",
+			"url": "https://github.com/ChrRubin"
+		},
+		"publisher": {
+			"username": "chrrubin",
+			"email": "chrrubinmc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "chrrubin",
+				"email": "chrrubinmc@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.356602556563497,
+		"detail": {
+			"quality": 0.7993107605086407,
+			"popularity": 0.003175592225320367,
+			"maintenance": 0.3305653460915505
+		}
+	},
+	"searchScore": 0.00003532848
+}

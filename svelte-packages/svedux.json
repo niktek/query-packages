@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svedux",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "An easy way to integrate Redux with Svelte.",
+		"date": "2022-07-06T18:38:24.428Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svedux",
+			"homepage": "https://github.com/wobsoriano/svedux#readme",
+			"repository": "https://github.com/wobsoriano/svedux",
+			"bugs": "https://github.com/wobsoriano/svedux/issues"
+		},
+		"publisher": {
+			"username": "wobsoriano",
+			"email": "sorianorobertc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wobsoriano",
+				"email": "sorianorobertc@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23906963006530152,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0019765012390421327,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 2.8711511e-8
+}

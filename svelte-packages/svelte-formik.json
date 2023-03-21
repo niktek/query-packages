@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-formik",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Formik inspired library for building forms easily in a Svelte project.",
+		"keywords": [
+			"svelte",
+			"formik",
+			"forms"
+		],
+		"date": "2020-12-01T18:11:26.431Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-formik"
+		},
+		"author": {
+			"name": "h1b9b"
+		},
+		"publisher": {
+			"username": "h1b9b",
+			"email": "h1b9b@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "h1b9b",
+				"email": "h1b9b@protonmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19045627708895074,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.001130468303792204,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 9.468472e-9
+}

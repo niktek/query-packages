@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "zasifer",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "a simple svelte ui kit.",
+		"date": "2021-10-01T06:46:11.186Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/zasifer",
+			"homepage": "https://github.com/FarizInk/zasifer#readme",
+			"repository": "https://github.com/FarizInk/zasifer",
+			"bugs": "https://github.com/FarizInk/zasifer/issues"
+		},
+		"author": {
+			"name": "Nizar Alfarizi Akbar",
+			"email": "nizaralfariziakbar10@gmail.com",
+			"url": "http://fariz.dev",
+			"username": "farizink"
+		},
+		"publisher": {
+			"username": "farizink",
+			"email": "nizaralfariziakbar10@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "farizink",
+				"email": "nizaralfariziakbar10@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18986470312390508,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0015532129455666035,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 1.6224249e-9
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "mollify-lms",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-03-13T06:54:30.738Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/mollify-lms"
+		},
+		"publisher": {
+			"username": "fermain",
+			"email": "ogdipple@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "fermain",
+				"email": "ogdipple@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21035663192887927,
+		"detail": {
+			"quality": 0.7011887730962643,
+			"popularity": 0,
+			"maintenance": 0
+		}
+	},
+	"searchScore": 7.0369826e-9
+}

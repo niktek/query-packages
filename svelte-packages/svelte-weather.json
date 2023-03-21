@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-weather",
+		"scope": "unscoped",
+		"version": "0.3.1",
+		"description": "SVG weather icons for Svelte",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"weather icons",
+			"icons",
+			"svg"
+		],
+		"date": "2023-03-07T10:41:18.934Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-weather",
+			"homepage": "https://svelte-weather.codewithshin.com",
+			"repository": "https://github.com/shinokada/svelte-weather",
+			"bugs": "https://github.com/shinokada/svelte-weather/issues"
+		},
+		"author": {
+			"name": "Shinichi Okada",
+			"email": "connect@codewithshin.com",
+			"url": "https://blog.codewithshin.com"
+		},
+		"publisher": {
+			"username": "shinichiokada",
+			"email": "okada.shin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shinichiokada",
+				"email": "okada.shin@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28707238509897715,
+		"detail": {
+			"quality": 0.5486021661567133,
+			"popularity": 0.016643053100847155,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000023001787
+}

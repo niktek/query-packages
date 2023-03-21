@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@global-state/core",
+		"scope": "global-state",
+		"version": "1.2.1",
+		"description": "the core, framework-agnostic implementation of the global store.",
+		"keywords": [
+			"flux",
+			"global state",
+			"svelte",
+			"simple"
+		],
+		"date": "2023-02-17T02:43:46.353Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40global-state%2Fcore",
+			"homepage": "https://github.com/LQR471814/global-state#readme",
+			"repository": "https://github.com/LQR471814/global-state",
+			"bugs": "https://github.com/LQR471814/global-state/issues"
+		},
+		"author": {
+			"name": "LQR471814"
+		},
+		"publisher": {
+			"username": "lqr471814",
+			"email": "bramblefern1013@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lqr471814",
+				"email": "bramblefern1013@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2717549767587626,
+		"detail": {
+			"quality": 0.482727519752145,
+			"popularity": 0.029343011904149896,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.8249237e-7
+}

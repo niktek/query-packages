@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "svelte-file-dropzone",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Svelte component for fileupload and file dropzone",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"svelte-components",
+			"upload",
+			"dropzone",
+			"svelte-file-dropzone",
+			"svelte-dropzone",
+			"sveltejs"
+		],
+		"date": "2022-08-07T12:22:20.234Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-file-dropzone",
+			"homepage": "https://github.com/thecodejack/svelte-file-dropzone#readme",
+			"repository": "https://github.com/thecodejack/svelte-file-dropzone",
+			"bugs": "https://github.com/thecodejack/svelte-file-dropzone/issues"
+		},
+		"author": {
+			"name": "thecodejack"
+		},
+		"publisher": {
+			"username": "thecodejack",
+			"email": "aadisrikanth@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thecodejack",
+				"email": "aadisrikanth@gmail.com"
+			},
+			{
+				"username": "arackaf",
+				"email": "adamrackis@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24293287426702112,
+		"detail": {
+			"quality": 0.5832805440879806,
+			"popularity": 0.0703036003905817,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 4.595045e-7
+}

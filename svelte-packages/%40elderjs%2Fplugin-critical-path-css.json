@@ -1,0 +1,61 @@
+{
+	"package": {
+		"name": "@elderjs/plugin-critical-path-css",
+		"scope": "elderjs",
+		"version": "1.8.0-beta.7",
+		"description": "Easily generate critical path css for your Elder.js powered website.",
+		"keywords": [
+			"elder.js",
+			"elderjs",
+			"svelte",
+			"ssg",
+			"critical",
+			"path",
+			"css",
+			"critical",
+			"path",
+			"static",
+			"site",
+			"generator"
+		],
+		"date": "2022-07-15T10:12:25.686Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40elderjs%2Fplugin-critical-path-css",
+			"homepage": "https://elderguide.com/tech/elderjs/",
+			"repository": "https://github.com/Elderjs/plugins",
+			"bugs": "https://github.com/Elderjs/plugins/issues"
+		},
+		"author": {
+			"name": "Nick Reese",
+			"email": "npm@nicholasreese.com",
+			"username": "nickreese"
+		},
+		"publisher": {
+			"username": "nickreese",
+			"email": "npm@nicholasreese.com"
+		},
+		"maintainers": [
+			{
+				"username": "eight04",
+				"email": "eight04@gmail.com"
+			},
+			{
+				"username": "vonadz",
+				"email": "alex.zdanov@gmail.com"
+			},
+			{
+				"username": "nickreese",
+				"email": "npm@nicholasreese.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27635285989497727,
+		"detail": {
+			"quality": 0.5269283442548052,
+			"popularity": 0.004940982137178897,
+			"maintenance": 0.3329857510586374
+		}
+	},
+	"searchScore": 2.9068573e-7
+}

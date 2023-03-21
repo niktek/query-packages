@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@studiobear/designspek-components",
+		"scope": "studiobear",
+		"version": "0.4.4",
+		"description": "System UI components for Svelte",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"svelte3",
+			"svelte-components"
+		],
+		"date": "2020-09-12T00:02:20.091Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40studiobear%2Fdesignspek-components"
+		},
+		"author": {
+			"name": "Barry Low",
+			"email": "barry@studiobear.co",
+			"username": "studiobear-co"
+		},
+		"publisher": {
+			"username": "bearcanrun",
+			"email": "bearcanrun@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "studiobear-co",
+				"email": "barry@studiobear.co"
+			},
+			{
+				"username": "bearcanrun",
+				"email": "bearcanrun@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25837002771301065,
+		"detail": {
+			"quality": 0.7529978719590564,
+			"popularity": 0.0030316342493905504,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.1819272e-7
+}

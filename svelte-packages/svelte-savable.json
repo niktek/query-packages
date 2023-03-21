@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-savable",
+		"scope": "unscoped",
+		"version": "1.2.0",
+		"description": "This is a svelte lib used for saving writables",
+		"date": "2022-03-17T00:22:38.318Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-savable"
+		},
+		"publisher": {
+			"username": "maverickquill55",
+			"email": "vscode@toxik.cf"
+		},
+		"maintainers": [
+			{
+				"username": "maverickquill55",
+				"email": "vscode@toxik.cf"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2508628972021946,
+		"detail": {
+			"quality": 0.48923377463472145,
+			"popularity": 0.0014518238078102884,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 2.698497e-7
+}

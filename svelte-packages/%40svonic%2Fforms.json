@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@svonic/forms",
+		"scope": "svonic",
+		"version": "1.0.0-next.35",
+		"description": "Testing",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"ionic"
+		],
+		"date": "2022-12-26T06:31:50.467Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svonic%2Fforms"
+		},
+		"author": {
+			"name": "Robert"
+		},
+		"publisher": {
+			"username": "daimyo",
+			"email": "robusa8818@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "daimyo",
+				"email": "robusa8818@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2007099374596667,
+		"detail": {
+			"quality": 0.2789709984822165,
+			"popularity": 0.0027832667010639655,
+			"maintenance": 0.33155569877036956
+		}
+	},
+	"searchScore": 5.557551e-9
+}

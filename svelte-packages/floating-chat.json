@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "floating-chat",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "A framework-agnostic floating chat window web component written in Svelte",
+		"date": "2021-08-10T12:12:02.999Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/floating-chat",
+			"homepage": "https://github.com/mishushakov/floating-chat#readme",
+			"repository": "https://github.com/mishushakov/floating-chat",
+			"bugs": "https://github.com/mishushakov/floating-chat/issues"
+		},
+		"author": {
+			"name": "Mish Ushakov"
+		},
+		"publisher": {
+			"username": "mishushakov",
+			"email": "hello@ushakov.co"
+		},
+		"maintainers": [
+			{
+				"username": "mishushakov",
+				"email": "hello@ushakov.co"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2192155730647029,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0045575665983313566,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 9.033416e-9
+}

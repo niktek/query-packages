@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "@unovis/angular",
+		"scope": "unovis",
+		"version": "1.0.3",
+		"description": "Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript",
+		"keywords": [
+			"angular",
+			"data visualization",
+			"maps",
+			"charts",
+			"graphs"
+		],
+		"date": "2023-02-15T22:19:01.762Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40unovis%2Fangular",
+			"homepage": "https://unovis.dev",
+			"repository": "https://github.com/f5/unovis",
+			"bugs": "https://github.com/f5/unovis/issues"
+		},
+		"author": {
+			"name": "Nikita Rokotyan, F5 Inc.",
+			"email": "nikita@f5.com",
+			"url": "https://rokotyan.com",
+			"username": "nikita-rokotyan-f5"
+		},
+		"publisher": {
+			"username": "nikita-rokotyan-f5",
+			"email": "nikita@f5.com"
+		},
+		"maintainers": [
+			{
+				"username": "caabernathy",
+				"email": "c.abernathy@f5.com"
+			},
+			{
+				"username": "nikita-rokotyan-f5",
+				"email": "nikita@f5.com"
+			},
+			{
+				"username": "rokotyan",
+				"email": "nikita@rokotyan.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28160156192406344,
+		"detail": {
+			"quality": 0.5272075030985048,
+			"popularity": 0.019350412365272407,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.5164687e-7
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "here-maps-svelte",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "Svelte Wrapper for Here Maps",
+		"keywords": [
+			"svelte",
+			"here maps",
+			"maps"
+		],
+		"date": "2021-03-05T09:29:38.959Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/here-maps-svelte",
+			"homepage": "https://github.com/peopledrivemecrazy/here-maps-svelte#readme",
+			"repository": "https://github.com/peopledrivemecrazy/here-maps-svelte",
+			"bugs": "https://github.com/peopledrivemecrazy/here-maps-svelte/issues"
+		},
+		"author": {
+			"name": "Shriji Kondan"
+		},
+		"publisher": {
+			"username": "shriji",
+			"email": "shriji@anoram.com"
+		},
+		"maintainers": [
+			{
+				"username": "shriji",
+				"email": "shriji@anoram.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18436270677783198,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.00848495892637407,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 5.636935e-9
+}

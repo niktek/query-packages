@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@slimkit-ui/svelte-elements",
+		"scope": "slimkit-ui",
+		"version": "0.0.16",
+		"description": "*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*",
+		"keywords": [
+			"svelte",
+			"typeahead",
+			"autocomplete",
+			"sidebar"
+		],
+		"date": "2022-08-31T10:32:45.999Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40slimkit-ui%2Fsvelte-elements"
+		},
+		"author": {
+			"name": "Thilanka N. Liyanaarachchi",
+			"email": "thilanka.nuwan89@gmail.com",
+			"url": "https://zirconlabz.com",
+			"username": "zirconlabz"
+		},
+		"publisher": {
+			"username": "zirconlabz",
+			"email": "thilanka.nuwan89@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "zirconlabz",
+				"email": "thilanka.nuwan89@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22018768843986108,
+		"detail": {
+			"quality": 0.3595566954747321,
+			"popularity": 0.0030459120856052087,
+			"maintenance": 0.31787031590708464
+		}
+	},
+	"searchScore": 4.3472753e-8
+}

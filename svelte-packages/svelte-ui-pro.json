@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-ui-pro",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "仿element-ui的一款基于svelte的UI库",
+		"keywords": [
+			"svelte",
+			"svelte-ui",
+			"ui"
+		],
+		"date": "2022-12-05T13:32:52.357Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ui-pro"
+		},
+		"author": {
+			"name": "smart-os"
+		},
+		"publisher": {
+			"username": "smart-os",
+			"email": "1014417486@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "smart-os",
+				"email": "1014417486@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23851546725859868,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0020767436711907022,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 1.5679608e-7
+}

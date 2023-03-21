@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@markuplint/svelte-parser",
+		"scope": "markuplint",
+		"version": "3.4.0",
+		"description": "Svelte parser for markuplint",
+		"date": "2023-03-12T13:16:39.375Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40markuplint%2Fsvelte-parser",
+			"homepage": "https://github.com/markuplint/markuplint#readme",
+			"repository": "https://github.com/markuplint/markuplint",
+			"bugs": "https://github.com/markuplint/markuplint/issues"
+		},
+		"author": {
+			"name": "Yusuke Hirao",
+			"email": "yusukehirao@me.com",
+			"username": "yusukehirao"
+		},
+		"publisher": {
+			"username": "yusukehirao",
+			"email": "yusukehirao@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "yusukehirao",
+				"email": "yusukehirao@me.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28095329399101643,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.03246064726919121,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000014772522
+}

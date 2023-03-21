@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@novacbn/svelte-stork",
+		"scope": "novacbn",
+		"version": "0.0.6",
+		"description": "Minimalist wrapper Svelte Stores around Stork Search, also provides customizable Components.",
+		"keywords": [
+			"search",
+			"stork",
+			"svelte",
+			"svelte-components",
+			"svelte-stores"
+		],
+		"date": "2021-08-09T08:30:59.154Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40novacbn%2Fsvelte-stork",
+			"homepage": "https://github.com/novacbn/svelte-stork#readme",
+			"repository": "https://github.com/novacbn/svelte-stork",
+			"bugs": "https://github.com/novacbn/svelte-stork/issues"
+		},
+		"author": {
+			"name": "novacbn"
+		},
+		"publisher": {
+			"username": "novacbn",
+			"email": "novacbn@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "novacbn",
+				"email": "novacbn@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1745583979979279,
+		"detail": {
+			"quality": 0.3941765747802062,
+			"popularity": 0.020740229144063316,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 3.3158314e-9
+}

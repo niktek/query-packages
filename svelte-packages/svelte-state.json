@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "svelte-state",
+		"scope": "unscoped",
+		"version": "0.0.0",
+		"date": "2022-08-26T07:02:48.446Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-state"
+		},
+		"author": {
+			"name": "我"
+		},
+		"publisher": {
+			"username": "vanilla-vue",
+			"email": "getemail@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "vanilla-react",
+				"email": "getemail@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20099331496270562,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.0012054692026613517,
+			"maintenance": 0.3166814555290432
+		}
+	},
+	"searchScore": 1.1023821e-8
+}

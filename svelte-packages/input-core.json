@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "input-core",
+		"scope": "unscoped",
+		"version": "2.1.0",
+		"description": "Core abilities of masked-input. Usefull to create custom input processors",
+		"keywords": [
+			"masked-input",
+			"core-input",
+			"input",
+			"number-input",
+			"react-masked-input",
+			"svelte-mask-input",
+			"input-mask",
+			"credit-card",
+			"phone",
+			"phone-input"
+		],
+		"date": "2020-10-03T08:34:57.316Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/input-core",
+			"homepage": "https://github.com/xnimorz/masked-input#readme",
+			"repository": "https://github.com/xnimorz/masked-input",
+			"bugs": "https://github.com/xnimorz/masked-input/issues"
+		},
+		"author": {
+			"name": "Nik Mostovoy",
+			"email": "nik.mostovoy@gmail.com",
+			"url": "http://xnim.ru",
+			"username": "xnimorz"
+		},
+		"publisher": {
+			"username": "xnimorz",
+			"email": "nik.mostovoy@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "xnimorz",
+				"email": "nik.mostovoy@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3188107834366357,
+		"detail": {
+			"quality": 0.8788367301487212,
+			"popularity": 0.06785762929717813,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000029693863
+}

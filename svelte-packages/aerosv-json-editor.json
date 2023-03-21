@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "aerosv-json-editor",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0. This library is a simple wrap of the library  (https://www.npmjs.com/package/svelte-jsoneditor) You can tested online at (https://jsoneditoronline.org/)",
+		"date": "2022-12-02T00:29:12.770Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/aerosv-json-editor",
+			"homepage": "https://github.com/aeromeme/aeroJsonEditor#readme",
+			"repository": "https://github.com/aeromeme/aeroJsonEditor",
+			"bugs": "https://github.com/aeromeme/aeroJsonEditor/issues"
+		},
+		"publisher": {
+			"username": "aeromeme",
+			"email": "aeromeme90@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "aeromeme",
+				"email": "aeromeme90@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23930926981912368,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.003992938646386314,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.5691356e-8
+}

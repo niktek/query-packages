@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "sveltejscms",
+		"scope": "unscoped",
+		"version": "0.17.0",
+		"description": "Add svelteCMS to your svelte kit project.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"cms"
+		],
+		"date": "2023-02-22T23:17:33.392Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltejscms",
+			"homepage": "https://sveltecms.dev",
+			"repository": "https://github.com/sveltecms/cms",
+			"bugs": "https://github.com/sveltecms/cms/issues"
+		},
+		"author": {
+			"name": "anthony809"
+		},
+		"publisher": {
+			"username": "anthony809",
+			"email": "anthonytoribio809@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anthony809",
+				"email": "anthonytoribio809@gmail.com"
+			},
+			{
+				"username": "sveltejscms",
+				"email": "sveltejscms@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2690266111204042,
+		"detail": {
+			"quality": 0.4957852946136434,
+			"popularity": 0.010355303056127346,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.312027e-7
+}

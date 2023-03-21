@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "sveltewind",
+		"scope": "unscoped",
+		"version": "1.6.11",
+		"description": "Svelte UI framework focusing on Tailwindcss integration",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"ui",
+			"framework",
+			"tailwind",
+			"tailwindcss",
+			"sveltewind"
+		],
+		"date": "2023-03-18T13:16:43.267Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltewind",
+			"homepage": "https://github.com/sveltewind/sveltewind#readme",
+			"repository": "https://github.com/sveltewind/sveltewind",
+			"bugs": "https://github.com/sveltewind/sveltewind/issues"
+		},
+		"author": {
+			"name": "Bob McAleavey",
+			"email": "bobmcaleavey@gmail.com",
+			"username": "bobthered"
+		},
+		"publisher": {
+			"username": "bobthered",
+			"email": "bobmcaleavey@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bobthered",
+				"email": "bobmcaleavey@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2548535787288886,
+		"detail": {
+			"quality": 0.4542161601407246,
+			"popularity": 0.005491611485727363,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.6299668e-7
+}

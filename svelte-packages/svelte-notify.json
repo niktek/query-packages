@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-notify",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Add notifications in svelte app.",
+		"keywords": [
+			"svelte",
+			"notification",
+			"notify",
+			"alert",
+			"message",
+			"javascript"
+		],
+		"date": "2020-07-22T09:10:16.056Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-notify"
+		},
+		"author": {
+			"name": "shaanu1404"
+		},
+		"publisher": {
+			"username": "shaanu1404",
+			"email": "shanu14tnt@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shaanu1404",
+				"email": "shanu14tnt@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1666984234964648,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.018683250503084548,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.952084e-9
+}

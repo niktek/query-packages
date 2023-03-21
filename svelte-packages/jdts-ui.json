@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "jdts-ui",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2022-06-13T06:50:16.432Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/jdts-ui"
+		},
+		"publisher": {
+			"username": "jiangzimao",
+			"email": "jiangzimao@126.com"
+		},
+		"maintainers": [
+			{
+				"username": "jiangzimao",
+				"email": "jiangzimao@126.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18820181802052344,
+		"detail": {
+			"quality": 0.28896411309638304,
+			"popularity": 0.018046801435760342,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 1.3635245e-9
+}

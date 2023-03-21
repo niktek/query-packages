@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-lightweight-charts",
+		"scope": "unscoped",
+		"version": "2.1.0",
+		"description": "Svelte wrapper for financial lightweight charts built with HTML5 canvas",
+		"keywords": [
+			"svelte",
+			"lightweight-charts",
+			"financial-charting-library",
+			"charting-library",
+			"html5-charts",
+			"canvas",
+			"typescript",
+			"charting",
+			"charts"
+		],
+		"date": "2023-03-12T19:29:00.197Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-lightweight-charts",
+			"homepage": "https://github.com/trash-and-fire/svelte-lightweight-charts#readme",
+			"repository": "https://github.com/trash-and-fire/svelte-lightweight-charts",
+			"bugs": "https://github.com/trash-and-fire/svelte-lightweight-charts/issues"
+		},
+		"publisher": {
+			"username": "trash-and-fire",
+			"email": "trashandfire@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "trash-and-fire",
+				"email": "trashandfire@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2864089349327619,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.02251831593530875,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000019647498
+}

@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@typhonjs-utils/dynamic-reducer",
+		"scope": "typhonjs-utils",
+		"version": "0.0.5",
+		"description": "Provides managed reducing / filtering / sorting capabilities with subscription support / Svelte store support for arrays and Maps.",
+		"keywords": [
+			"typhonjs",
+			"utils",
+			"dynamic",
+			"array",
+			"map",
+			"reducer",
+			"svelte"
+		],
+		"date": "2022-08-19T00:30:24.837Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40typhonjs-utils%2Fdynamic-reducer",
+			"homepage": "https://github.com/typhonjs-node-utils/dynamic-reducer#readme",
+			"repository": "https://github.com/typhonjs-node-utils/dynamic-reducer",
+			"bugs": "https://github.com/typhonjs-node-utils/dynamic-reducer/issues"
+		},
+		"author": {
+			"name": "Michael Leahy",
+			"email": "support@typhonjs.io",
+			"url": "https://github.com/typhonrt",
+			"username": "typhonrt"
+		},
+		"publisher": {
+			"username": "typhonrt",
+			"email": "support@typhonjs.io"
+		},
+		"maintainers": [
+			{
+				"username": "typhonrt",
+				"email": "support@typhonjs.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2710585289988795,
+		"detail": {
+			"quality": 0.5213303137042602,
+			"popularity": 0.002705296005365493,
+			"maintenance": 0.3248930893877815
+		}
+	},
+	"searchScore": 3.295674e-7
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "react-svelte-kareer",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "Use Svelte components inside a React app",
+		"keywords": [
+			"react",
+			"svelte",
+			"components"
+		],
+		"date": "2020-12-23T17:45:47.130Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/react-svelte-kareer",
+			"homepage": "https://github.com/Rich-Harris/react-svelte#readme",
+			"repository": "https://github.com/lacepek/react-svelte",
+			"bugs": "https://github.com/Rich-Harris/react-svelte/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "ladislavek_kareer",
+			"email": "ladislav@kareer.cloud"
+		},
+		"maintainers": [
+			{
+				"username": "ladislavek_kareer",
+				"email": "ladislav@kareer.cloud"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16672918821845623,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.001503902651019941,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.4451663e-9
+}

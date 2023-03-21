@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-pn-progressbar",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2022-04-20T15:09:01.650Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-pn-progressbar"
+		},
+		"publisher": {
+			"username": "pratikway90",
+			"email": "pratikway.90@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pratikway90",
+				"email": "pratikway.90@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17586006911186314,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.0012054692026613517,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 2.001215e-9
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@magidoc/plugin-svelte-carbon-commons",
+		"scope": "magidoc",
+		"version": "2.5.2",
+		"description": "A component library shared between Carbon templates.",
+		"keywords": [
+			"svelte",
+			"svelte-kit",
+			"prism",
+			"prismjs",
+			"magidoc",
+			"browser",
+			"internal"
+		],
+		"date": "2022-07-13T18:47:24.070Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40magidoc%2Fplugin-svelte-carbon-commons",
+			"homepage": "https://github.com/magidoc-org/magidoc#readme",
+			"repository": "https://github.com/magidoc-org/magidoc",
+			"bugs": "https://github.com/magidoc-org/magidoc/issues"
+		},
+		"publisher": {
+			"username": "pelletier197",
+			"email": "sunnypelletier01@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pelletier197",
+				"email": "sunnypelletier01@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24850117373783942,
+		"detail": {
+			"quality": 0.43472241327434447,
+			"popularity": 0.004050808825341214,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.0615907e-7
+}

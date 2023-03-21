@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@windmill-labs/svelte-grid",
+		"scope": "windmill-labs",
+		"version": "5.1.6",
+		"description": "A responsive, draggable and resizable grid layout, for Svelte.",
+		"keywords": [
+			"svelte",
+			"grid",
+			"drag",
+			"draggable",
+			"resize",
+			"resizable",
+			"fluid",
+			"responsive"
+		],
+		"date": "2023-03-02T21:21:17.600Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40windmill-labs%2Fsvelte-grid",
+			"homepage": "https://github.com/vaheqelyan/svelte-grid#readme",
+			"repository": "https://github.com/vaheqelyan/svelte-grid",
+			"bugs": "https://github.com/vaheqelyan/svelte-grid/issues"
+		},
+		"author": {
+			"name": "Vahe Araqelyan",
+			"email": "vahe.araqelyan.2013@hotmail.com"
+		},
+		"publisher": {
+			"username": "rubenfiszel",
+			"email": "npm@rubenfiszel.com"
+		},
+		"maintainers": [
+			{
+				"username": "fatonr-windmill",
+				"email": "faton@windmill.dev"
+			},
+			{
+				"username": "rubenfiszel",
+				"email": "npm@rubenfiszel.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.282643063478833,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.011758683209797408,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000014460195
+}

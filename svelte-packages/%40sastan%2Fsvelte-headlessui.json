@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@sastan/svelte-headlessui",
+		"scope": "sastan",
+		"version": "1.0.2",
+		"description": "A complete, full-featured, unofficial Svelte port of Headless UI, an unstyled, fully accessible UI component library.",
+		"keywords": [
+			"svelte",
+			"headlessui",
+			"svelte3",
+			"svelte-components",
+			"headless",
+			"sveltejs"
+		],
+		"date": "2022-11-08T09:42:37.837Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sastan%2Fsvelte-headlessui",
+			"homepage": "https://svelte-headlessui-git-fork-noeloconnell-combob-d68663-rgossiaux.vercel.app",
+			"repository": "https://github.com/rgossiaux/svelte-headlessui",
+			"bugs": "https://github.com/rgossiaux/svelte-headlessui/issues"
+		},
+		"publisher": {
+			"username": "sastan",
+			"email": "s.tandel@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "sastan",
+				"email": "s.tandel@me.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3068050156051194,
+		"detail": {
+			"quality": 0.626599435462266,
+			"popularity": 0.007594282774842355,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 0.0000049089795
+}

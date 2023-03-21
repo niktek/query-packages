@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-grommet-icons",
+		"scope": "unscoped",
+		"version": "0.4.0",
+		"description": "Grommet SVG icons as Svelte components",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"grommet",
+			"icon",
+			"svg"
+		],
+		"date": "2023-03-11T20:39:10.827Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-grommet-icons",
+			"homepage": "https://github.com/metonym/svelte-grommet-icons",
+			"repository": "https://github.com/metonym/svelte-grommet-icons",
+			"bugs": "https://github.com/metonym/svelte-grommet-icons/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3442765657340643,
+		"detail": {
+			"quality": 0.8760551644706875,
+			"popularity": 0.02233425047887834,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 0.00002949524
+}

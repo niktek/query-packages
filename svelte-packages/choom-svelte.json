@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "choom-svelte",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "UI building blocks for your next Svelte 3 prototype",
+		"keywords": [
+			"svelte",
+			"svelte 3",
+			"ui",
+			"design-system",
+			"components",
+			"presentational"
+		],
+		"date": "2022-02-12T17:53:00.283Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/choom-svelte",
+			"homepage": "https://github.com/XOP/choom#readme",
+			"repository": "https://github.com/XOP/choom",
+			"bugs": "https://github.com/XOP/choom/issues"
+		},
+		"author": {
+			"name": "XOP"
+		},
+		"publisher": {
+			"username": "stewiekillslois",
+			"email": "stewiekillsloiss@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "stewiekillslois",
+				"email": "stewiekillsloiss@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18562773152690906,
+		"detail": {
+			"quality": 0.39802258930009876,
+			"popularity": 0.018477940676867942,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 7.531059e-9
+}

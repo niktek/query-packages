@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@svelte-put/copy",
+		"scope": "svelte-put",
+		"version": "2.0.0",
+		"description": "Svelte action & utilities for copying text to clipboard",
+		"keywords": [
+			"svelte",
+			"action",
+			"copy",
+			"clipboard",
+			"text"
+		],
+		"date": "2023-02-17T05:56:15.760Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-put%2Fcopy",
+			"homepage": "https://svelte-put.vnphanquang.com/docs/copy",
+			"repository": "https://github.com/vnphanquang/svelte-put",
+			"bugs": "https://github.com/vnphanquang/svelte-put/issues"
+		},
+		"author": {
+			"name": "Quang Phan"
+		},
+		"publisher": {
+			"username": "vnphanquang",
+			"email": "vnphanquang@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vnphanquang",
+				"email": "vnphanquang@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31117263365410014,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.02462815430479024,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000067291217
+}

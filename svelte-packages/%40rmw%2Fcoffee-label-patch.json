@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@rmw/coffee-label-patch",
+		"scope": "rmw",
+		"version": "0.0.17",
+		"description": "Make coffeescript support :label syntax (similar to [livescript](https://livescript.net)) so that it can be used for [svelte](https://svelte.dev).",
+		"date": "2022-07-04T06:28:53.035Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40rmw%2Fcoffee-label-patch",
+			"homepage": "https://github.com/rmw-lib/coffee-label-patch#readme",
+			"repository": "https://github.com/rmw-lib/coffee-label-patch",
+			"bugs": "https://github.com/rmw-lib/coffee-label-patch/issues"
+		},
+		"author": {
+			"name": "gcxfd",
+			"email": "i@rmw.link",
+			"username": "gcxfd"
+		},
+		"publisher": {
+			"username": "gcxfd",
+			"email": "i@rmw.link"
+		},
+		"maintainers": [
+			{
+				"username": "gcxfd",
+				"email": "i@rmw.link"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2500181958709128,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.019510200183156457,
+			"maintenance": 0.3323557288387759
+		}
+	},
+	"searchScore": 4.3529877e-8
+}

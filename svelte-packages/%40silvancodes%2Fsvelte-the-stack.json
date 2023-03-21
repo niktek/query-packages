@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@silvancodes/svelte-the-stack",
+		"scope": "silvancodes",
+		"version": "1.0.0",
+		"description": "*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-07-14T17:29:35.593Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40silvancodes%2Fsvelte-the-stack",
+			"homepage": "https://github.com/SilvanCodes/svelte-the-stack#readme",
+			"repository": "https://github.com/SilvanCodes/svelte-the-stack",
+			"bugs": "https://github.com/SilvanCodes/svelte-the-stack/issues"
+		},
+		"author": {
+			"name": "Silvan Buedenbender"
+		},
+		"publisher": {
+			"username": "silvancodes",
+			"email": "silvancodes@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "silvancodes",
+				"email": "silvancodes@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1883625594310278,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.001130468303792204,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.9422406e-9
+}

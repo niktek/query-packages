@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@abdelh2o/adapter-supabase",
+		"scope": "abdelh2o",
+		"version": "0.3.5",
+		"description": "Supabase adapter for Lucia",
+		"keywords": [
+			"sveltekit",
+			"lucia",
+			"supabase"
+		],
+		"date": "2022-10-01T17:16:11.730Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40abdelh2o%2Fadapter-supabase",
+			"homepage": "https://github.com/pilcrowOnPaper/lucia-sveltekit#readme",
+			"repository": "https://github.com/pilcrowOnPaper/lucia-sveltekit",
+			"bugs": "https://github.com/pilcrowOnPaper/lucia-sveltekit/issues"
+		},
+		"author": {
+			"name": "pilcrowonpaper"
+		},
+		"publisher": {
+			"username": "abdelh2o",
+			"email": "a.hana@aui.ma"
+		},
+		"maintainers": [
+			{
+				"username": "abdelh2o",
+				"email": "a.hana@aui.ma"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2145627293292024,
+		"detail": {
+			"quality": 0.3224490358877332,
+			"popularity": 0.0035279556781166324,
+			"maintenance": 0.33312352593011885
+		}
+	},
+	"searchScore": 5.0411604e-9
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@damillora/plachta",
+		"scope": "damillora",
+		"version": "2.0.2",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-12-17T10:36:31.072Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40damillora%2Fplachta",
+			"homepage": "https://github.com/Damillora/Plachta#readme",
+			"repository": "https://github.com/Damillora/Plachta",
+			"bugs": "https://github.com/Damillora/Plachta/issues"
+		},
+		"publisher": {
+			"username": "damillora",
+			"email": "developer@damillora.com"
+		},
+		"maintainers": [
+			{
+				"username": "damillora",
+				"email": "developer@damillora.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2412563650494926,
+		"detail": {
+			"quality": 0.3854522111301822,
+			"popularity": 0.025582957267918018,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.0542158e-8
+}

@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@bitmachina/highlighter",
+		"scope": "bitmachina",
+		"version": "1.0.0-alpha.5",
+		"description": "Highlight MDsveX files with the Shiki highlighter",
+		"keywords": [
+			"mdsvex",
+			"shiki",
+			"highlight",
+			"svelte",
+			"markdown"
+		],
+		"date": "2023-01-02T16:31:16.228Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bitmachina%2Fhighlighter",
+			"homepage": "https://github.com/johnhooks/highlighter",
+			"repository": "https://github.com/johnhooks/highlighter",
+			"bugs": "https://github.com/johnhooks/highlighter/issues"
+		},
+		"author": {
+			"name": "John Hooks",
+			"url": "https://johnhooks.io"
+		},
+		"publisher": {
+			"username": "bitmachina",
+			"email": "bitmachina@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "bitmachina",
+				"email": "bitmachina@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21532529381759574,
+		"detail": {
+			"quality": 0.3006359051077207,
+			"popularity": 0.02419387319603685,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.53981e-8
+}

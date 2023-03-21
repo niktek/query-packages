@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@mateoroldos/svelte.bones",
+		"scope": "mateoroldos",
+		"version": "1.3.0",
+		"description": "A minimalistic component library for accelerating Svelte development.",
+		"date": "2022-09-28T13:26:29.705Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mateoroldos%2Fsvelte.bones",
+			"homepage": "https://github.com/mateoroldos/svelte.bones#readme",
+			"repository": "https://github.com/mateoroldos/svelte.bones",
+			"bugs": "https://github.com/mateoroldos/svelte.bones/issues"
+		},
+		"publisher": {
+			"username": "mateoroldos",
+			"email": "mateoroldos19@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mateoroldos",
+				"email": "mateoroldos19@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22340410167635996,
+		"detail": {
+			"quality": 0.32646518514523154,
+			"popularity": 0.025136798474639538,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.313701e-8
+}

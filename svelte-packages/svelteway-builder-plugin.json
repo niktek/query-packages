@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelteway-builder-plugin",
+		"scope": "unscoped",
+		"version": "1.0.75",
+		"description": "Svelteway Builder Plugin Advanced from - GrapesJS Plugin Webpage Preset",
+		"keywords": [
+			"svelteway",
+			"grapesjs",
+			"plugin",
+			"webpage",
+			"preset",
+			"wysiwyg"
+		],
+		"date": "2023-03-16T00:08:07.723Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelteway-builder-plugin",
+			"homepage": "https://github.com/elikelierpolite/svelteway-builder-plugin#readme",
+			"repository": "https://github.com/elikelierpolite/svelteway-builder-plugin",
+			"bugs": "https://github.com/elikelierpolite/svelteway-builder-plugin/issues"
+		},
+		"author": {
+			"name": "Elikelier Polite"
+		},
+		"publisher": {
+			"username": "elikelierpolite",
+			"email": "elikelierpolite@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "elikelierpolite",
+				"email": "elikelierpolite@outlook.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2761819271355983,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.00845131166353762,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.6388075e-7
+}

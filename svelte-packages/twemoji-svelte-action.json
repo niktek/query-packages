@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "twemoji-svelte-action",
+		"scope": "unscoped",
+		"version": "1.0.5",
+		"description": "Svelte wrapper for twemoji using actions",
+		"keywords": [
+			"twemoji",
+			"svelte",
+			"emoji",
+			"emojis",
+			"twitter"
+		],
+		"date": "2022-12-21T01:31:00.343Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/twemoji-svelte-action",
+			"homepage": "https://github.com/IsraPerez98/twemoji-svelte-actions#readme",
+			"repository": "https://github.com/IsraPerez98/twemoji-svelte-actions",
+			"bugs": "https://github.com/IsraPerez98/twemoji-svelte-actions/issues"
+		},
+		"author": {
+			"name": "Israel Perez"
+		},
+		"publisher": {
+			"username": "israperez98",
+			"email": "isra1998isra@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "israperez98",
+				"email": "isra1998isra@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27983843259870694,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0037454521237230303,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000013184896
+}

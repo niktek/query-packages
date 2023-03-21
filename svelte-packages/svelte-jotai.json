@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-jotai",
+		"scope": "unscoped",
+		"version": "0.0.0",
+		"description": ":p",
+		"date": "2022-12-06T18:58:01.226Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-jotai"
+		},
+		"publisher": {
+			"username": "wobsoriano",
+			"email": "sorianorobertc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wobsoriano",
+				"email": "sorianorobertc@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2068133337375879,
+		"detail": {
+			"quality": 0.2999521917803636,
+			"popularity": 0.0018871148806686435,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.6205526e-8
+}

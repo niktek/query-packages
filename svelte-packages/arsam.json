@@ -1,0 +1,67 @@
+{
+	"package": {
+		"name": "arsam",
+		"scope": "unscoped",
+		"version": "2.0.3",
+		"description": "Arsam Sarabi's portfolio in an interactive terminal dist",
+		"keywords": [
+			"arsam",
+			"sarabi",
+			"frontend",
+			"backend",
+			"fullstack",
+			"engineer",
+			"web developer",
+			"react",
+			"freelance",
+			"node",
+			"graphql",
+			"redux",
+			"next",
+			"nextjs",
+			"react native",
+			"react-native",
+			"svelte",
+			"sveltekit",
+			"typescript",
+			"javascript",
+			"terminal",
+			"cli",
+			"portfolio",
+			"styled-components",
+			"tailwind"
+		],
+		"date": "2023-02-06T09:14:24.927Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/arsam",
+			"homepage": "https://github.com/arsamsarabi/arsam-cli#readme",
+			"repository": "https://github.com/arsamsarabi/arsam-cli",
+			"bugs": "https://github.com/arsamsarabi/arsam-cli/issues"
+		},
+		"author": {
+			"name": "Arsam Sarabi",
+			"email": "arsamsarabi@me.com",
+			"url": "https://arsam.dev",
+			"username": "arsamsarabi"
+		},
+		"publisher": {
+			"username": "arsamsarabi",
+			"email": "arsamsarabi@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "arsamsarabi",
+				"email": "arsamsarabi@me.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28730356812318497,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.025074410765088796,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.434931e-7
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "flux-blocks",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Cloud connected web application build blocks built upon carbon-components-svelte",
+		"date": "2022-03-30T21:04:33.876Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/flux-blocks"
+		},
+		"publisher": {
+			"username": "ogseapeople",
+			"email": "OGSeaPeople@duck.com"
+		},
+		"maintainers": [
+			{
+				"username": "ogseapeople",
+				"email": "OGSeaPeople@duck.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2145751143935773,
+		"detail": {
+			"quality": 0.34835864020984353,
+			"popularity": 0.018522559575941927,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 6.8158488e-9
+}

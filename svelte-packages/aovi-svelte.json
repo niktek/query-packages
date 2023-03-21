@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "aovi-svelte",
+		"scope": "unscoped",
+		"version": "0.2.5",
+		"description": "Easy using Aovi in your Svelte apps.",
+		"keywords": [
+			"svelte",
+			"aovi",
+			"validation",
+			"form",
+			"validator"
+		],
+		"date": "2021-11-06T20:29:42.356Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/aovi-svelte",
+			"homepage": "https://github.com/AlexxNB/aovi-svelte#readme",
+			"repository": "https://github.com/AlexxNB/aovi-svelte",
+			"bugs": "https://github.com/AlexxNB/aovi-svelte/issues"
+		},
+		"author": {
+			"name": "Alexey Schebelev"
+		},
+		"publisher": {
+			"username": "alexxnb",
+			"email": "alexxnb@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "alexxnb",
+				"email": "alexxnb@mail.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18269169778802402,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.004836993319504297,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 4.9875477e-9
+}

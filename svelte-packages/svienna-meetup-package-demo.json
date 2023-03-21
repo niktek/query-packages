@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svienna-meetup-package-demo",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "This package is the result of a talk by [Ivan Hofer](https://github.com/ivanhofer) at the first [Svelte Society Austria](https://austria.sveltesociety.dev/) Meetup on July 4th 2022.",
+		"date": "2022-07-05T15:46:35.959Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svienna-meetup-package-demo"
+		},
+		"publisher": {
+			"username": "ivanhofer",
+			"email": "ivan.hofer@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "ivanhofer",
+				"email": "ivan.hofer@outlook.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2289295309688391,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.001503902651019941,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 9.767944e-9
+}

@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@mankins/svelte-adapter-express",
+		"scope": "mankins",
+		"version": "0.1.2",
+		"description": "Adapter for Svelte apps that builds an Express server.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"sveltekit-adapter",
+			"ssr",
+			"adapter",
+			"express"
+		],
+		"date": "2022-07-20T13:26:33.396Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mankins%2Fsvelte-adapter-express",
+			"homepage": "https://github.com/mankins/svelte-adapter-express#readme",
+			"repository": "https://github.com/mankins/svelte-adapter-express",
+			"bugs": "https://github.com/mankins/svelte-adapter-express/issues"
+		},
+		"author": {
+			"name": "Matt Mankins"
+		},
+		"publisher": {
+			"username": "mankins",
+			"email": "mankins@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mankins",
+				"email": "mankins@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23350742646898848,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.005240563182006044,
+			"maintenance": 0.29945173897728533
+		}
+	},
+	"searchScore": 1.0569308e-7
+}

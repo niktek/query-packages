@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@banduco/components",
+		"scope": "banduco",
+		"version": "0.0.33",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-07-06T02:27:11.971Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40banduco%2Fcomponents"
+		},
+		"publisher": {
+			"username": "bandu",
+			"email": "abhijeetmalamkar@bandu.co"
+		},
+		"maintainers": [
+			{
+				"username": "bandu",
+				"email": "abhijeetmalamkar@bandu.co"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21140587831788948,
+		"detail": {
+			"quality": 0.2926340896280175,
+			"popularity": 0.019993404943879734,
+			"maintenance": 0.33319417056893236
+		}
+	},
+	"searchScore": 6.3196643e-9
+}

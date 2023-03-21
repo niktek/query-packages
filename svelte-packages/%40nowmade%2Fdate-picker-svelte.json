@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@nowmade/date-picker-svelte",
+		"scope": "nowmade",
+		"version": "2.3.4",
+		"description": "Date and time picker for Svelte",
+		"keywords": [
+			"date",
+			"time",
+			"date-picker",
+			"datepicker",
+			"date-time-picker",
+			"calendar",
+			"svelte",
+			"front-end"
+		],
+		"date": "2023-03-16T04:47:13.547Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nowmade%2Fdate-picker-svelte",
+			"homepage": "https://date-picker-svelte.kasper.space",
+			"repository": "https://github.com/probablykasper/date-picker-svelte",
+			"bugs": "https://github.com/probablykasper/date-picker-svelte/issues"
+		},
+		"author": {
+			"name": "Kasper Henningsen",
+			"url": "https://kasper.space"
+		},
+		"publisher": {
+			"username": "plcharriere",
+			"email": "plcharriere@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "plcharriere",
+				"email": "plcharriere@gmail.com"
+			},
+			{
+				"username": "aderbey",
+				"email": "a.derbey@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19185570577754055,
+		"detail": {
+			"quality": 0.6395190192584685,
+			"popularity": 0,
+			"maintenance": 0
+		}
+	},
+	"searchScore": 9.326032e-9
+}

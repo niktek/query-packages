@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@akifo/studio-store-auth-sandbox",
+		"scope": "akifo",
+		"version": "0.0.5",
+		"description": "これを参考にしている https://github.com/akifo/svelte-web-components-example",
+		"date": "2022-11-07T14:20:38.563Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40akifo%2Fstudio-store-auth-sandbox"
+		},
+		"publisher": {
+			"username": "akifo",
+			"email": "akiho.nagao@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "akifo",
+				"email": "akiho.nagao@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20361549602082385,
+		"detail": {
+			"quality": 0.2648008638010092,
+			"popularity": 0.021453057753869888,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.012914e-9
+}

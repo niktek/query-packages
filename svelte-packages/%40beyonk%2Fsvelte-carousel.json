@@ -1,0 +1,63 @@
+{
+	"package": {
+		"name": "@beyonk/svelte-carousel",
+		"scope": "beyonk",
+		"version": "2.9.0",
+		"description": "<a href=\"https://beyonk.com\">   <img src=\"https://user-images.githubusercontent.com/218949/144224348-1b3a20d5-d68e-4a7a-b6ac-6946f19f4a86.png\" width=\"198\" /> </a>",
+		"keywords": [
+			"svelte",
+			"carousel",
+			"slider",
+			"glidejs",
+			"slick",
+			"flickity",
+			"siema"
+		],
+		"date": "2022-01-13T16:20:23.849Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40beyonk%2Fsvelte-carousel",
+			"homepage": "https://github.com/beyonk-adventures/svelte-carousel#readme",
+			"repository": "https://github.com/beyonk-adventures/svelte-carousel",
+			"bugs": "https://github.com/beyonk-adventures/svelte-carousel/issues"
+		},
+		"publisher": {
+			"username": "antony",
+			"email": "aj@desirableobjects.co.uk"
+		},
+		"maintainers": [
+			{
+				"username": "dextermb",
+				"email": "dexter.mb@outlook.com"
+			},
+			{
+				"username": "ghostsos",
+				"email": "ghostdevbusiness@gmail.com"
+			},
+			{
+				"username": "ahpercival",
+				"email": "adrian.percival@beyonk.com"
+			},
+			{
+				"username": "alex.dilley",
+				"email": "alex.dilley@gmail.com"
+			},
+			{
+				"username": "antony",
+				"email": "aj@desirableobjects.co.uk"
+			},
+			{
+				"username": "adampond",
+				"email": "adam@beyonk.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20251766944348557,
+		"detail": {
+			"quality": 0.5355947797183326,
+			"popularity": 0.012535880333398825,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 1.95673e-8
+}

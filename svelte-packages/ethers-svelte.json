@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "ethers-svelte",
+		"scope": "unscoped",
+		"version": "3.0.0",
+		"description": "Ethers.js library as a collection of stores for Svelte, Sapper or SvelteKit & related UX components.",
+		"keywords": [
+			"sveltekit",
+			"svelte",
+			"sapper",
+			"ethereum",
+			"ethers",
+			"store"
+		],
+		"date": "2023-02-23T15:17:10.892Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/ethers-svelte",
+			"homepage": "https://github.com/clbrge/ethers-svelte#readme",
+			"repository": "https://github.com/clbrge/ethers-svelte",
+			"bugs": "https://github.com/clbrge/ethers-svelte/issues"
+		},
+		"author": {
+			"name": "Christophe Le Bars",
+			"email": "clb@toort.net"
+		},
+		"publisher": {
+			"username": "clbrge",
+			"email": "clb@rouge.network"
+		},
+		"maintainers": [
+			{
+				"username": "clbrge",
+				"email": "clb@rouge.network"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2757306538668358,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.007161959467073282,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000001189643
+}

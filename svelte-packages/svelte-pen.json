@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-pen",
+		"scope": "unscoped",
+		"version": "1.2.2",
+		"description": "Create Svelte component demo quickly",
+		"keywords": [
+			"svelte",
+			"codepen"
+		],
+		"date": "2022-10-31T08:54:23.564Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-pen",
+			"homepage": "https://github.com/yuanchuan/svelte-pen#readme",
+			"repository": "https://github.com/yuanchuan/svelte-pen",
+			"bugs": "https://github.com/yuanchuan/svelte-pen/issues"
+		},
+		"author": {
+			"name": "yuanchuan"
+		},
+		"publisher": {
+			"username": "yuanchuan",
+			"email": "yuanchuan23@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "yuanchuan",
+				"email": "yuanchuan23@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27264192206658544,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.00871387034224547,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000011102422
+}

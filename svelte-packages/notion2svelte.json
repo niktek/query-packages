@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "notion2svelte",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "A command-line tool to transform Notion pages into .svelte files.",
+		"keywords": [
+			"notion",
+			"svelte",
+			"cli",
+			"command-line"
+		],
+		"date": "2022-12-08T23:39:42.319Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/notion2svelte",
+			"homepage": "https://notion2svelte.vercel.app/",
+			"repository": "https://github.com/nvlgzr/notion2svelte",
+			"bugs": "https://github.com/nvlgzr/notion2svelte/issues"
+		},
+		"author": {
+			"name": "Elbong Gearny"
+		},
+		"publisher": {
+			"username": "nvlgzr",
+			"email": "elbong@navelgazer.club"
+		},
+		"maintainers": [
+			{
+				"username": "nvlgzr",
+				"email": "elbong@navelgazer.club"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24885409893720672,
+		"detail": {
+			"quality": 0.4400607440318174,
+			"popularity": 0.0019105420926191531,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.7613097e-7
+}

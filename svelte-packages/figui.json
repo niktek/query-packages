@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "figui",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "UI library for Figma",
+		"keywords": [
+			"component",
+			"svelte"
+		],
+		"date": "2022-06-01T19:23:33.062Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/figui",
+			"homepage": "https://github.com/grigoriymashkovtsev/figui#readme",
+			"repository": "https://github.com/grigoriymashkovtsev/figui",
+			"bugs": "https://github.com/grigoriymashkovtsev/figui/issues"
+		},
+		"publisher": {
+			"username": "gregoryma",
+			"email": "grigoriymashkovtsev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gregoryma",
+				"email": "grigoriymashkovtsev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1824800975832476,
+		"detail": {
+			"quality": 0.2241725768302803,
+			"popularity": 0.002192334293793494,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 1.480945e-9
+}

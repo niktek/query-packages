@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "turbo-storage",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "<h1 align='center'>Turbo Storage</h1> <p align='center'>Shared storage cross domain for svelte in static applications</p>",
+		"date": "2022-09-19T21:15:25.617Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/turbo-storage"
+		},
+		"publisher": {
+			"username": "davidponc-softengy",
+			"email": "david.softengy@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "davidponc-softengy",
+				"email": "david.softengy@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2228713671265295,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0025152812689135558,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 7.776341e-9
+}

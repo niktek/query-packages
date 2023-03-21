@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@hanmotec/tsui-tree-view",
+		"scope": "hanmotec",
+		"version": "0.1.0",
+		"description": "[中文文档](https://github.com/hanmo-chn/svelte-tree-view/blob/main/README-CN.md)",
+		"date": "2023-02-24T07:27:22.865Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40hanmotec%2Ftsui-tree-view"
+		},
+		"author": {
+			"name": "Henry Feng"
+		},
+		"publisher": {
+			"username": "henry.feng",
+			"email": "henry.feng@ticatec.com"
+		},
+		"maintainers": [
+			{
+				"username": "henry.feng",
+				"email": "henry.feng@ticatec.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24061388015873278,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.007720396759555161,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.542144e-8
+}

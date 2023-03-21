@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "bomaapp",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-02-03T04:16:09.762Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/bomaapp"
+		},
+		"publisher": {
+			"username": "simasona123",
+			"email": "bomaanjang12@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "simasona123",
+				"email": "bomaanjang12@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2123504207157127,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.004389074848355056,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.6489515e-9
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "create-skrapi",
+		"scope": "unscoped",
+		"version": "0.11.2",
+		"description": "Create Skrapi - SvelteKit REST API (and CMS)",
+		"keywords": [
+			"Svelte",
+			"SvelteKit",
+			"API"
+		],
+		"date": "2022-03-23T21:08:46.550Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-skrapi"
+		},
+		"author": {
+			"name": "Codepilot, Inc."
+		},
+		"publisher": {
+			"username": "codepilotsf",
+			"email": "hello@codepilot.com"
+		},
+		"maintainers": [
+			{
+				"username": "codepilotsf",
+				"email": "hello@codepilot.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.29936742186893883,
+		"detail": {
+			"quality": 0.6074009009759982,
+			"popularity": 0.0038979622106917406,
+			"maintenance": 0.33080818514970645
+		}
+	},
+	"searchScore": 0.0000015496199
+}

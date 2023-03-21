@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "@volar-examples/svelte-tsc",
+		"scope": "volar-examples",
+		"version": "1.0.22",
+		"date": "2023-01-05T01:51:36.571Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40volar-examples%2Fsvelte-tsc",
+			"homepage": "https://github.com/johnsoncodehk/volar#readme",
+			"repository": "https://github.com/johnsoncodehk/volar",
+			"bugs": "https://github.com/johnsoncodehk/volar/issues"
+		},
+		"publisher": {
+			"username": "johnsoncodehk",
+			"email": "johnsoncodehk@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "johnsoncodehk",
+				"email": "johnsoncodehk@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2542566021937817,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.025018560547505734,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.879472e-7
+}

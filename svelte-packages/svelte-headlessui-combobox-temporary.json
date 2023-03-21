@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-headlessui-combobox-temporary",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "A fork of rgossiaux/svelte-headlessui with some updates",
+		"keywords": [
+			"svelte",
+			"headlessui",
+			"svelte3",
+			"svelte-components",
+			"headless",
+			"sveltejs"
+		],
+		"date": "2023-01-25T15:41:18.398Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-headlessui-combobox-temporary",
+			"homepage": "https://svelte-headlessui.goss.io",
+			"repository": "https://github.com/NoelOConnell/svelte-headlessui",
+			"bugs": "https://github.com/NoelOConnell/svelte-headlessui/issues"
+		},
+		"publisher": {
+			"username": "noeloconnell",
+			"email": "noeloconnell88@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "noeloconnell",
+				"email": "noeloconnell88@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.27941945775133076,
+		"detail": {
+			"quality": 0.5314309668399496,
+			"popularity": 0.009495717236226376,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000013071498
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@svackages/sveltekit-hook-redirect",
+		"scope": "svackages",
+		"version": "0.0.1",
+		"description": "![svackage logo](https://raw.githubusercontent.com/svackages/persistent-store/main/logo.png)",
+		"date": "2022-11-10T22:38:35.714Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svackages%2Fsveltekit-hook-redirect",
+			"homepage": "https://github.com/svackages/sveltekit-hook-redirect#readme",
+			"repository": "https://github.com/svackages/sveltekit-hook-redirect",
+			"bugs": "https://github.com/svackages/sveltekit-hook-redirect/issues"
+		},
+		"publisher": {
+			"username": "d.reitzner",
+			"email": "domenik@reitzner.at"
+		},
+		"maintainers": [
+			{
+				"username": "d.reitzner",
+				"email": "domenik@reitzner.at"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24709704222483164,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.002369650776186799,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 6.6532735e-8
+}

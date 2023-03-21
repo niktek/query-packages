@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@vnphanquang/eslint-config-svelte",
+		"scope": "vnphanquang",
+		"version": "1.0.1",
+		"keywords": [
+			"eslint",
+			"config",
+			"vnphanquang"
+		],
+		"date": "2022-12-19T06:14:21.368Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40vnphanquang%2Feslint-config-svelte",
+			"homepage": "https://github.com/vnphanquang/jsconfig#readme",
+			"repository": "https://github.com/vnphanquang/jsconfig",
+			"bugs": "https://github.com/vnphanquang/jsconfig/issues"
+		},
+		"author": {
+			"name": "Quang Phan"
+		},
+		"publisher": {
+			"username": "vnphanquang",
+			"email": "vnphanquang@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vnphanquang",
+				"email": "vnphanquang@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2610573920116966,
+		"detail": {
+			"quality": 0.47466485451177404,
+			"popularity": 0.006041152316297904,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 3.3864418e-7
+}

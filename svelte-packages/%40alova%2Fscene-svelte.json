@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@alova/scene-svelte",
+		"scope": "alova",
+		"version": "1.0.1",
+		"description": "scenario svelte hooks with alova.js",
+		"date": "2023-03-02T10:01:53.471Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40alova%2Fscene-svelte",
+			"homepage": "https://github.com/alovajs/scene",
+			"repository": "https://github.com/alovajs/scene",
+			"bugs": "https://github.com/alovajs/scene/issues"
+		},
+		"author": {
+			"name": "JOU-amjs"
+		},
+		"publisher": {
+			"username": "zz4780452",
+			"email": "huzhen555@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "zz4780452",
+				"email": "huzhen555@qq.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3028086960092866,
+		"detail": {
+			"quality": 0.6081416904986702,
+			"popularity": 0.010570063408625478,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000034132763
+}

@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "@snappywc/typer",
+		"scope": "snappywc",
+		"version": "1.0.8",
+		"description": "A very lightweight typing element. .73kb (brotli)",
+		"keywords": [
+			"snappy",
+			"typer",
+			"typed",
+			"typing effect",
+			"web component",
+			"web components",
+			"custom element",
+			"custom elements",
+			"react",
+			"vue",
+			"svelte",
+			"vanilla",
+			"small",
+			"fast",
+			"flexible",
+			"customizable",
+			"shadow dom"
+		],
+		"date": "2022-08-02T17:29:06.731Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40snappywc%2Ftyper",
+			"homepage": "https://github.com/jameslovallo/snappy/tree/main/packages/carousel#readme",
+			"repository": "https://github.com/jameslovallo/snappy",
+			"bugs": "https://github.com/jameslovallo/snappy/issues"
+		},
+		"author": {
+			"name": "James Lovallo"
+		},
+		"publisher": {
+			"username": "jameslovallo",
+			"email": "lovallo.james@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jameslovallo",
+				"email": "lovallo.james@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2703311802165024,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0057264119400166425,
+			"maintenance": 0.3297186721638963
+		}
+	},
+	"searchScore": 1.5749433e-7
+}

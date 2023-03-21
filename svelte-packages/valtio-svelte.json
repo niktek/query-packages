@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "valtio-svelte",
+		"scope": "unscoped",
+		"version": "1.1.1",
+		"description": "Combines the power of valtio and svelte stores",
+		"keywords": [
+			"svelte",
+			"valtio"
+		],
+		"date": "2022-05-06T18:41:46.551Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/valtio-svelte",
+			"homepage": "https://github.com/pedeEli/valtio-svelte#readme",
+			"repository": "https://github.com/pedeEli/valtio-svelte",
+			"bugs": "https://github.com/pedeEli/valtio-svelte/issues"
+		},
+		"author": {
+			"name": "Elias Gerster"
+		},
+		"publisher": {
+			"username": "pedeeli",
+			"email": "elias.gerster@aol.de"
+		},
+		"maintainers": [
+			{
+				"username": "pedeeli",
+				"email": "elias.gerster@aol.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2678519196540023,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.0015768738647987575,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 8.1162835e-7
+}

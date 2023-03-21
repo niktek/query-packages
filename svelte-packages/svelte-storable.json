@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-storable",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "extending 'writable' from 'svelte/store' with localStorage",
+		"keywords": [
+			"svelte",
+			"storable",
+			"store",
+			"localStorage",
+			"writable"
+		],
+		"date": "2020-11-17T14:11:41.332Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-storable"
+		},
+		"author": {
+			"name": "Mats Sommervold",
+			"email": "mats@sommervold.net",
+			"url": "https://matssommervold.com"
+		},
+		"publisher": {
+			"username": "matssom",
+			"email": "mats.sommervold@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "matssom",
+				"email": "mats.sommervold@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18881382955520543,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.002419811515728193,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.436482e-9
+}

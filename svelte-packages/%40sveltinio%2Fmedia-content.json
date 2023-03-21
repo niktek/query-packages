@@ -1,0 +1,64 @@
+{
+	"package": {
+		"name": "@sveltinio/media-content",
+		"scope": "sveltinio",
+		"version": "0.4.1",
+		"description": "A collection of type-safe Svelte components to easily embed media contents in your Svelte and SvelteKit projects.",
+		"keywords": [
+			"svelte",
+			"components",
+			"svelte components",
+			"sveltekit",
+			"embed",
+			"media",
+			"media content",
+			"content",
+			"youtube",
+			"youtube list",
+			"youtube playlist",
+			"facebook post",
+			"facebook videos",
+			"twitter",
+			"tweet",
+			"codepen",
+			"stackblitz",
+			"codesandbox",
+			"vimeo",
+			"slideshare"
+		],
+		"date": "2023-03-17T12:07:42.348Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltinio%2Fmedia-content",
+			"homepage": "https://components.sveltin.io",
+			"repository": "https://github.com/sveltinio/components-library",
+			"bugs": "https://github.com/sveltinio/components-library/issues"
+		},
+		"author": {
+			"name": "dev",
+			"email": "dev@sveltin.io",
+			"username": "sveltinio"
+		},
+		"publisher": {
+			"username": "sveltinio",
+			"email": "dev@sveltin.io"
+		},
+		"maintainers": [
+			{
+				"username": "sveltinio",
+				"email": "dev@sveltin.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28405868075628793,
+		"detail": {
+			"quality": 0.5486021661567133,
+			"popularity": 0.008032469264592232,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.203367e-7
+}

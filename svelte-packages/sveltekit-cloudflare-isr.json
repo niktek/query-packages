@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "sveltekit-cloudflare-isr",
+		"scope": "unscoped",
+		"version": "1.0.6",
+		"description": "Similar to what next-13 does with its overload of globalThis.fetch, this hooks make available an ISR fetcher under your app.locals.",
+		"date": "2023-01-13T15:48:18.514Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-cloudflare-isr"
+		},
+		"author": {
+			"name": "beynar"
+		},
+		"publisher": {
+			"username": "aderbey",
+			"email": "a.derbey@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "aderbey",
+				"email": "a.derbey@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2810743281797065,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0328064592368772,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.74208e-7
+}

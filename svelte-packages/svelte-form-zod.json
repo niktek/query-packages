@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-form-zod",
+		"scope": "unscoped",
+		"version": "1.0.14",
+		"description": "<p align=\"center\">   <img src=\"https://raw.githubusercontent.com/viniribeirodev/svelte-form-zod/c86220e09830eba1771d06c7f6727ca96202ed62/svelte-forms-zod-b.svg\" width=\"200px\" align=\"center\" alt=\"Zod logo\" /> </p>",
+		"keywords": [
+			"svelte",
+			"form",
+			"zod",
+			"validation",
+			"typescript",
+			"javascript"
+		],
+		"date": "2023-03-20T23:10:23.948Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-form-zod",
+			"homepage": "https://github.com/viniribeirodev/svelte-form-zod",
+			"repository": "https://github.com/viniribeirodev/svelte-form-zod",
+			"bugs": "https://github.com/viniribeirodev/svelte-form-zod/issues"
+		},
+		"author": {
+			"name": "Vini Ribeiro"
+		},
+		"publisher": {
+			"username": "viniciusdev",
+			"email": "my@viniribeiro.dev"
+		},
+		"maintainers": [
+			{
+				"username": "viniciusdev",
+				"email": "my@viniribeiro.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30802470528048975,
+		"detail": {
+			"quality": 0.6258202115054826,
+			"popularity": 0.010319929034795235,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000051410166
+}

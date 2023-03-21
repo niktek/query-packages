@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@macfja/svelte-expirable",
+		"scope": "macfja",
+		"version": "1.0.1",
+		"description": "A Svelte store with items that expire",
+		"keywords": [
+			"store",
+			"expiration",
+			"svelte",
+			"sveltejs"
+		],
+		"date": "2021-12-03T20:10:22.053Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40macfja%2Fsvelte-expirable",
+			"homepage": "https://github.com/macfja/svelte-expirable#readme",
+			"repository": "https://github.com/macfja/svelte-expirable",
+			"bugs": "https://github.com/macfja/svelte-expirable/issues"
+		},
+		"author": {
+			"name": "MacFJA"
+		},
+		"publisher": {
+			"username": "macfja",
+			"email": "macfja@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "macfja",
+				"email": "macfja@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2176668757824847,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.019313350658010202,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 6.188396e-8
+}

@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "svelte-drag-drop-touch",
+		"scope": "unscoped",
+		"version": "0.1.9",
+		"description": "HTML5 Drag-and-Drop support for mobile devices",
+		"keywords": [
+			"html5-drag",
+			"polyfill",
+			"touch-events",
+			"mouse-emulation",
+			"mobile"
+		],
+		"date": "2021-07-05T10:01:12.966Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-drag-drop-touch",
+			"homepage": "https://github.com/rozek/svelte-drag-drop-touch#readme",
+			"repository": "https://github.com/rozek/svelte-drag-drop-touch",
+			"bugs": "https://github.com/rozek/svelte-drag-drop-touch/issues"
+		},
+		"author": {
+			"name": "Andreas Rozek",
+			"email": "a.rozek@gmx.de",
+			"url": "https://www.rozek.de/",
+			"username": "arozek"
+		},
+		"publisher": {
+			"username": "arozek",
+			"email": "a.rozek@gmx.de"
+		},
+		"maintainers": [
+			{
+				"username": "arozek",
+				"email": "a.rozek@gmx.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2118858404353313,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.017156831856787434,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 2.3971939e-8
+}

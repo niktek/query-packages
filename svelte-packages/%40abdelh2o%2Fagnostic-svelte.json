@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@abdelh2o/agnostic-svelte",
+		"scope": "abdelh2o",
+		"version": "1.1.291",
+		"description": "AgnosticUI (svelte)",
+		"keywords": [
+			"agnosticui",
+			"agnostic",
+			"component",
+			"components",
+			"ui",
+			"svelte-components",
+			"svelte ui",
+			"svelte",
+			"framework",
+			"frontend"
+		],
+		"date": "2022-08-31T19:26:45.451Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40abdelh2o%2Fagnostic-svelte",
+			"homepage": "https://github.com/AgnosticUI/agnosticui#readme",
+			"repository": "https://github.com/AgnosticUI/agnosticui",
+			"bugs": "https://github.com/AgnosticUI/agnosticui/issues"
+		},
+		"author": {
+			"name": "Rob Levin",
+			"email": "roblevinillustration@gmail.com"
+		},
+		"publisher": {
+			"username": "abdelh2o",
+			"email": "a.hana@aui.ma"
+		},
+		"maintainers": [
+			{
+				"username": "abdelh2o",
+				"email": "a.hana@aui.ma"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3533725420733213,
+		"detail": {
+			"quality": 0.8126730793631625,
+			"popularity": 0.002633210021903522,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 0.000034721576
+}

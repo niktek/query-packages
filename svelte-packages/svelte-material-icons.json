@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-material-icons",
+		"scope": "unscoped",
+		"version": "3.0.4",
+		"description": "Material Design Icons for Svelte",
+		"keywords": [
+			"svelte",
+			"material",
+			"design",
+			"icons",
+			"material design",
+			"material design icons",
+			"material icons",
+			"svelte material icons",
+			"svelte material design icons"
+		],
+		"date": "2023-01-30T22:39:49.133Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-material-icons",
+			"homepage": "https://github.com/ramiroaisen/svelte-material-icons#readme",
+			"repository": "https://github.com/ramiroaisen/svelte-material-icons",
+			"bugs": "https://github.com/ramiroaisen/svelte-material-icons/issues"
+		},
+		"author": {
+			"name": "ramiroaisen@gmail.com"
+		},
+		"publisher": {
+			"username": "ramiroaisen",
+			"email": "ramiroaisen@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ramiroaisen",
+				"email": "ramiroaisen@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2963120142609728,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.06596584630746473,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000004777044
+}

@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "progress-up",
+		"scope": "unscoped",
+		"version": "0.0.21",
+		"description": "progress.up is HTML5 multi file upload progress bar plugin for the web and the mobile",
+		"keywords": [
+			"JavaScript",
+			"TypeScript",
+			"react",
+			"vue",
+			"svelte",
+			"angular",
+			"progress",
+			"upload"
+		],
+		"date": "2022-12-09T09:04:15.676Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/progress-up",
+			"homepage": "https://www.progress-up.live/",
+			"repository": "https://github.com/girish1729/progress-up",
+			"bugs": "https://github.com/girish1729/progress-up/issues"
+		},
+		"author": {
+			"name": "Girish Venkatachalam",
+			"email": "girish@spamcheetah.com",
+			"url": "https://girish1729.github.io"
+		},
+		"publisher": {
+			"username": "girish1729",
+			"email": "girish@gayatri-hitech.com"
+		},
+		"maintainers": [
+			{
+				"username": "girish1729",
+				"email": "girish@gayatri-hitech.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26915360760585977,
+		"detail": {
+			"quality": 0.5019129540676174,
+			"popularity": 0.005465870625451211,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.3149963e-7
+}

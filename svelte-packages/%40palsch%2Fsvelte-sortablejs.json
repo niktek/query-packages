@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@palsch/svelte-sortablejs",
+		"scope": "palsch",
+		"version": "1.2.1",
+		"description": "Basic version of https://sortablejs.github.io/Sortable",
+		"date": "2021-08-09T16:39:19.809Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40palsch%2Fsvelte-sortablejs",
+			"homepage": "https://github.com/pal03377/svelte-sortablejs#readme",
+			"repository": "https://github.com/pal03377/svelte-sortablejs",
+			"bugs": "https://github.com/pal03377/svelte-sortablejs/issues"
+		},
+		"author": {
+			"name": "Paul Schwind"
+		},
+		"publisher": {
+			"username": "palsch",
+			"email": "npm@pschwind.de"
+		},
+		"maintainers": [
+			{
+				"username": "palsch",
+				"email": "npm@pschwind.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2062646099909827,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.02856216659121851,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 2.4134641e-8
+}

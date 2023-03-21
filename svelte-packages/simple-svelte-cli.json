@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "simple-svelte-cli",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "A simple CLI for bootstrapping Svelte appplications.",
+		"keywords": [
+			"svelte",
+			"cli"
+		],
+		"date": "2019-11-22T15:37:34.784Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/simple-svelte-cli",
+			"homepage": "https://github.com/anthonypenna/svelte-cli#readme",
+			"repository": "https://github.com/anthonypenna/svelte-cli",
+			"bugs": "https://github.com/anthonypenna/svelte-cli/issues"
+		},
+		"author": {
+			"name": "anthonypenna"
+		},
+		"publisher": {
+			"username": "anthonypenna",
+			"email": "anthonypenna.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anthonypenna",
+				"email": "anthonypenna.dev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28242855684761253,
+		"detail": {
+			"quality": 0.8348901895230866,
+			"popularity": 0.0015768738647987575,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000019319032
+}

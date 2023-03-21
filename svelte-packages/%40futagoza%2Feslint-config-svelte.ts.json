@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@futagoza/eslint-config-svelte.ts",
+		"scope": "futagoza",
+		"version": "16.1.0",
+		"description": "Futago-za Ryuu's ESLint configurations for .svelte files that contain TypeScript code blocks.",
+		"keywords": [
+			"configuration",
+			"eslint",
+			"javascript",
+			"svelte",
+			"typescript"
+		],
+		"date": "2021-05-23T02:39:44.220Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40futagoza%2Feslint-config-svelte.ts",
+			"homepage": "https://github.com/futagoza/eslint-config-futagozaryuu#readme",
+			"repository": "https://github.com/futagoza/eslint-config-futagozaryuu",
+			"bugs": "https://github.com/futagoza/eslint-config-futagozaryuu/issues"
+		},
+		"author": {
+			"name": "Futago-za Ryuu"
+		},
+		"publisher": {
+			"username": "ryuu",
+			"email": "futagoza.ryuu@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ryuu",
+				"email": "futagoza.ryuu@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2284047330248663,
+		"detail": {
+			"quality": 0.5960353551434681,
+			"popularity": 0.0015650889096628694,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 6.176668e-8
+}

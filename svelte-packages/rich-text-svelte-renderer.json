@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "rich-text-svelte-renderer",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Svelte port of Hygraph Rich Text React renderer",
+		"keywords": [
+			"svelte",
+			"rich-text",
+			"renderer",
+			"hygraph"
+		],
+		"date": "2023-02-11T08:02:39.193Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/rich-text-svelte-renderer",
+			"homepage": "https://github.com/bertybot/svelte-renderer#readme",
+			"repository": "https://github.com/bertybot/svelte-renderer",
+			"bugs": "https://github.com/bertybot/svelte-renderer/issues"
+		},
+		"author": {
+			"name": "Bert Bengtson"
+		},
+		"publisher": {
+			"username": "bertybot",
+			"email": "bertbengtsona@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bertybot",
+				"email": "bertbengtsona@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24836029688077005,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.004551862160519841,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.3602414e-7
+}

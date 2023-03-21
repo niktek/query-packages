@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@cautionyourblast/svelte-calendar",
+		"scope": "cautionyourblast",
+		"version": "1.5.0",
+		"description": "A small date picker built with Svelte 3. Demo available here: [demo page].",
+		"date": "2020-11-04T08:52:48.981Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cautionyourblast%2Fsvelte-calendar",
+			"homepage": "https://github.com/6eDesign/svelte-calendar#readme",
+			"repository": "https://github.com/6eDesign/svelte-calendar",
+			"bugs": "https://github.com/6eDesign/svelte-calendar/issues"
+		},
+		"publisher": {
+			"username": "superafroman",
+			"email": "max.stewart@superafroman.com"
+		},
+		"maintainers": [
+			{
+				"username": "jenbutonnpm",
+				"email": "jen@cautionyourblast.com"
+			},
+			{
+				"username": "superafroman",
+				"email": "max.stewart@superafroman.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2987490849490754,
+		"detail": {
+			"quality": 0.8895361922957907,
+			"popularity": 0.0013675232066606574,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000031416673
+}

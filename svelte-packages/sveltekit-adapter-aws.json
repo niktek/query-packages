@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "sveltekit-adapter-aws",
+		"scope": "unscoped",
+		"version": "4.5.1",
+		"description": "SvelteKit to deploy your project using AWS CDK.",
+		"keywords": [
+			"sveltekit",
+			"adapter",
+			"aws",
+			"cdk"
+		],
+		"date": "2023-02-22T15:36:34.796Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-adapter-aws",
+			"homepage": "https://github.com/MikeBild/sveltekit-adapter-aws#readme",
+			"repository": "https://github.com/MikeBild/sveltekit-adapter-aws",
+			"bugs": "https://github.com/MikeBild/sveltekit-adapter-aws/issues"
+		},
+		"author": {
+			"name": "mike.bild@gmail.com"
+		},
+		"publisher": {
+			"username": "mikebild",
+			"email": "mike.bild@googlemail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mikebild",
+				"email": "mike.bild@googlemail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2542214088977716,
+		"detail": {
+			"quality": 0.4482510331562057,
+			"popularity": 0.008798377954980863,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.6088124e-7
+}

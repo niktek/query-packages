@@ -1,0 +1,30 @@
+{
+	"package": {
+		"name": "sveltestrap-popper",
+		"scope": "unscoped",
+		"version": "2.9.3",
+		"date": "2022-10-04T04:02:30.084Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltestrap-popper"
+		},
+		"publisher": {
+			"username": "bestguy",
+			"email": "7zark7@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bestguy",
+				"email": "7zark7@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19126951019835703,
+		"detail": {
+			"quality": 0.2483002422810951,
+			"popularity": 0.0017492900536677661,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 2.1490183e-9
+}

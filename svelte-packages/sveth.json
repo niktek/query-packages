@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "sveth",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "eth hook for svelte in typescript",
+		"keywords": [
+			"ethers.js",
+			"svelte",
+			"frontend",
+			"blockchain",
+			"evm"
+		],
+		"date": "2022-02-16T16:26:10.255Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveth"
+		},
+		"author": {
+			"name": "maxwill"
+		},
+		"publisher": {
+			"username": "eazyreal",
+			"email": "0312fs3@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "eazyreal",
+				"email": "0312fs3@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1979304120924201,
+		"detail": {
+			"quality": 0.39802258930009876,
+			"popularity": 0.0025551845160386435,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 5.6849303e-9
+}

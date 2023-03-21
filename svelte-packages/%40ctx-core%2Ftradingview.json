@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@ctx-core/tradingview",
+		"scope": "ctx-core",
+		"version": "9.1.75",
+		"description": "ctx-core tradingview svelte library",
+		"keywords": [
+			"ctx-core",
+			"tradingview",
+			"svelte",
+			"component"
+		],
+		"date": "2023-03-19T18:07:46.170Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ctx-core%2Ftradingview",
+			"homepage": "https://github.com/ctx-core/tradingview#readme",
+			"repository": "https://github.com/ctx-core/tradingview",
+			"bugs": "https://github.com/ctx-core/tradingview/issues"
+		},
+		"author": {
+			"name": "Brian Takita"
+		},
+		"publisher": {
+			"username": "btakita",
+			"email": "brian.takita@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "btakita",
+				"email": "brian.takita@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26097061608060723,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.044201457367007216,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.3028914e-7
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@jfix/svelte-heatmap",
+		"scope": "jfix",
+		"version": "0.0.3",
+		"description": "A fork of scottbedard's light weight and customizable version of GitHub's contribution graph",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-01-19T18:20:18.935Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40jfix%2Fsvelte-heatmap",
+			"homepage": "https://github.com/jfix/svelte-heatmap",
+			"repository": "https://github.com/jfix/svelte-heatmap",
+			"bugs": "https://github.com/jfix/svelte-heatmap/issues"
+		},
+		"author": {
+			"name": "Scott Bedard / Jakob Fix"
+		},
+		"publisher": {
+			"username": "jfix",
+			"email": "jakob.fix@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jfix",
+				"email": "jakob.fix@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26431785936724483,
+		"detail": {
+			"quality": 0.7497454775199046,
+			"popularity": 0.02281320563790403,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.533931e-7
+}

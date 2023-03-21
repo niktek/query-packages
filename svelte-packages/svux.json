@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svux",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Make Svelte stores from Svelte components",
+		"keywords": [
+			"svelte",
+			"store",
+			"component"
+		],
+		"date": "2021-09-28T22:45:43.368Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svux"
+		},
+		"author": {
+			"name": "rixo",
+			"email": "rixo@rixo.fr",
+			"username": "rixo"
+		},
+		"publisher": {
+			"username": "rixo",
+			"email": "rixo@rixo.fr"
+		},
+		"maintainers": [
+			{
+				"username": "rixo",
+				"email": "rixo@rixo.fr"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17668748896675054,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.018274482791670935,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.8550148e-9
+}

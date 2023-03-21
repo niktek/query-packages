@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "ticatec-svelte-components",
+		"scope": "unscoped",
+		"version": "0.5.7",
+		"description": "a group of svelte components for Web UI",
+		"keywords": [
+			"svelte",
+			"components",
+			"UI",
+			"web"
+		],
+		"date": "2023-01-11T10:20:32.707Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/ticatec-svelte-components"
+		},
+		"publisher": {
+			"username": "henry.feng",
+			"email": "henry.feng@ticatec.com"
+		},
+		"maintainers": [
+			{
+				"username": "henry.feng",
+				"email": "henry.feng@ticatec.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18337054034843764,
+		"detail": {
+			"quality": 0.2147315929872388,
+			"popularity": 0.006661732823942475,
+			"maintenance": 0.3331984456111033
+		}
+	},
+	"searchScore": 3.991419e-9
+}

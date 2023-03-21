@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@casual-ui/eslint-config-svelte",
+		"scope": "casual-ui",
+		"version": "0.1.0",
+		"description": "The svelte eslint config of casual ui",
+		"keywords": [
+			"eslint",
+			"eslint config",
+			"eslint config svelte",
+			"eslint config svelte typescript"
+		],
+		"date": "2023-02-16T02:43:53.219Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40casual-ui%2Feslint-config-svelte"
+		},
+		"publisher": {
+			"username": "philadelphia",
+			"email": "1197160272@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "philadelphia",
+				"email": "1197160272@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21788648929935364,
+		"detail": {
+			"quality": 0.3225776017021793,
+			"popularity": 0.012704406062951992,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.1339764e-8
+}

@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "@bscotch/gamemaker-releases-ui",
+		"scope": "bscotch",
+		"version": "0.4.0",
+		"description": "An unofficial Svelte UI for displaying GameMaker release change logs.",
+		"keywords": [
+			"gamemaker",
+			"game-maker",
+			"release",
+			"release-notes",
+			"patchnotes",
+			"patch-notes",
+			"changelog",
+			"yoyo",
+			"bscotch",
+			"stitch",
+			"rss",
+			"feed",
+			"ui",
+			"svelte"
+		],
+		"date": "2023-02-13T22:46:28.930Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bscotch%2Fgamemaker-releases-ui",
+			"homepage": "https://github.com/bscotch/gamemaker-info/blob/develop/packages/releases-ui/README.md",
+			"repository": "https://github.com/bscotch/gamemaker-info",
+			"bugs": "https://github.com/bscotch/gamemaker-info/issues"
+		},
+		"author": {
+			"name": "Butterscotch Shenanigans"
+		},
+		"publisher": {
+			"username": "bscotchadam",
+			"email": "npm@bscotch.net"
+		},
+		"maintainers": [
+			{
+				"username": "bscotchadam",
+				"email": "npm@bscotch.net"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.245537523266883,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.005730673962799561,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.7283885e-8
+}

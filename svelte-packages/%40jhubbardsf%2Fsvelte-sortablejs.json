@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@jhubbardsf/svelte-sortablejs",
+		"scope": "jhubbardsf",
+		"version": "1.1.0",
+		"description": "A Svelte wrapper for the Sortable.js library",
+		"keywords": [
+			"sortable",
+			"reorder",
+			"drag",
+			"svelte-sortable",
+			"sveltre",
+			"sortablejs"
+		],
+		"date": "2022-05-05T21:06:33.520Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40jhubbardsf%2Fsvelte-sortablejs",
+			"homepage": "https://github.com/jhubbardsf/svelte-sortablejs#readme",
+			"repository": "https://github.com/jhubbardsf/svelte-sortablejs",
+			"bugs": "https://github.com/jhubbardsf/svelte-sortablejs/issues"
+		},
+		"author": {
+			"name": "Josh Hubbard",
+			"email": "josh@joshuahubbard.dev",
+			"url": "https://joshuahubbard.dev/",
+			"username": "jhubbardsf"
+		},
+		"publisher": {
+			"username": "jhubbardsf",
+			"email": "josh@joshuahubbard.dev"
+		},
+		"maintainers": [
+			{
+				"username": "jhubbardsf",
+				"email": "josh@joshuahubbard.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27153895472840184,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.026580883442116662,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 0.00000107608
+}

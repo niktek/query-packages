@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "vite-plugin-svelte-compiler",
+		"scope": "unscoped",
+		"version": "0.0.0",
+		"date": "2022-06-03T13:07:37.038Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-plugin-svelte-compiler"
+		},
+		"author": {
+			"name": "我"
+		},
+		"publisher": {
+			"username": "vanilla-vue",
+			"email": "getemail@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "vanilla-react",
+				"email": "getemail@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20108088562981133,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.001455671108677741,
+			"maintenance": 0.3166814555290432
+		}
+	},
+	"searchScore": 8.910516e-9
+}

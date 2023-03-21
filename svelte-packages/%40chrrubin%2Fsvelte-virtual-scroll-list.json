@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@chrrubin/svelte-virtual-scroll-list",
+		"scope": "chrrubin",
+		"version": "1.1.3",
+		"description": "Svelte lib for virtualizing lists",
+		"keywords": [
+			"svelte",
+			"virtual",
+			"virtual-list",
+			"virtual-scroll"
+		],
+		"date": "2021-11-13T10:13:02.497Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40chrrubin%2Fsvelte-virtual-scroll-list",
+			"homepage": "https://github.com/chrrubin/svelte-virtual-scroll-list#readme",
+			"repository": "https://github.com/chrrubin/svelte-virtual-scroll-list",
+			"bugs": "https://github.com/chrrubin/svelte-virtual-scroll-list/issues"
+		},
+		"author": {
+			"name": "ChrRubin",
+			"url": "https://github.com/chrrubin"
+		},
+		"publisher": {
+			"username": "chrrubin",
+			"email": "chrrubinmc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "chrrubin",
+				"email": "chrrubinmc@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19522742986179298,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.0019443605977859507,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 9.528661e-9
+}

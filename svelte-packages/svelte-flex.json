@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-flex",
+		"scope": "unscoped",
+		"version": "1.3.0",
+		"description": "A reusable flexbox component for Svelte",
+		"keywords": [
+			"svelte",
+			"svelte-component",
+			"flexbox",
+			"svelte-flexbox",
+			"ui-component",
+			"layout-component"
+		],
+		"date": "2022-01-25T18:40:24.994Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-flex",
+			"homepage": "https://github.com/himynameisdave/svelte-flex",
+			"repository": "https://github.com/himynameisdave/svelte-flex",
+			"bugs": "https://github.com/himynameisdave/svelte-flex/issues"
+		},
+		"author": {
+			"name": "himynameisdave",
+			"email": "d@velunny.com",
+			"username": "himynameisdave"
+		},
+		"publisher": {
+			"username": "himynameisdave",
+			"email": "d@velunny.com"
+		},
+		"maintainers": [
+			{
+				"username": "himynameisdave",
+				"email": "d@velunny.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3062127827947766,
+		"detail": {
+			"quality": 0.8718576712889783,
+			"popularity": 0.0037515157261707086,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 0.0000061575656
+}

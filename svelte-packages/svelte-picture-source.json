@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-picture-source",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "Svelte picture <source> optimization preprocessor",
+		"keywords": [
+			"svelte",
+			"preprocessor",
+			"image",
+			"resize",
+			"optimize",
+			"responsive"
+		],
+		"date": "2020-09-14T16:41:56.077Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-picture-source"
+		},
+		"author": {
+			"name": "Peter-Paul van Gemerden",
+			"email": "mail@ppvg.nl",
+			"username": "ppvg"
+		},
+		"publisher": {
+			"username": "ppvg",
+			"email": "mail@ppvg.nl"
+		},
+		"maintainers": [
+			{
+				"username": "ppvg",
+				"email": "mail@ppvg.nl"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16654188656899366,
+		"detail": {
+			"quality": 0.4482510331562057,
+			"popularity": 0.0018770928117855673,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.3938193e-9
+}

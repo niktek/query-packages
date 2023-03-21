@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "nobleedingtr",
+		"scope": "unscoped",
+		"version": "1.0.9",
+		"description": "Internationalization without bleeding on JS and TypeScript projects!",
+		"keywords": [
+			"internationalization",
+			"translation",
+			"intl",
+			"i18n",
+			"locale",
+			"localization",
+			"rtl",
+			"right-to-left",
+			"persian",
+			"arabic",
+			"hebrew",
+			"japanese",
+			"thai",
+			"english",
+			"react",
+			"svelte"
+		],
+		"date": "2023-03-01T16:38:56.223Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/nobleedingtr",
+			"homepage": "https://github.com/raminkhatami/nobleedingtr",
+			"repository": "https://github.com/raminkhatami/nobleedingtr",
+			"bugs": "https://github.com/raminkhatami/nobleedingtr/issues"
+		},
+		"author": {
+			"name": "Ramin Khatami"
+		},
+		"publisher": {
+			"username": "raminkhatami",
+			"email": "ramin@khatami.me"
+		},
+		"maintainers": [
+			{
+				"username": "raminkhatami",
+				"email": "ramin@khatami.me"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27177984542927774,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.006250794235652134,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.9083969e-7
+}

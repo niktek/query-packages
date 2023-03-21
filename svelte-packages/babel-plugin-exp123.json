@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "babel-plugin-exp123",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Reactivars is a Babel plugin that lets you use a Svelte like syntax with Solid (a React version is a WIP).",
+		"keywords": [
+			"babel",
+			"babel-plugin",
+			"solid",
+			"solid-js",
+			"react",
+			"reactivars",
+			"reactive variables"
+		],
+		"date": "2022-01-08T23:21:35.054Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/babel-plugin-exp123"
+		},
+		"author": {
+			"name": "Oren Elbaum"
+		},
+		"publisher": {
+			"username": "orenelb",
+			"email": "elbaumoren@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "orenelb",
+				"email": "elbaumoren@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2814862702065035,
+		"detail": {
+			"quality": 0.7541502487540728,
+			"popularity": 0.0020381289711917687,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 2.1873439e-7
+}

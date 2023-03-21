@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "snowpack-svelte-ts-tw",
+		"scope": "unscoped",
+		"version": "1.3.0",
+		"description": "Community template for Snowpack + Svelte + Typescript + TailwindCSS",
+		"keywords": [
+			"csa-template",
+			"snowpack",
+			"svelte",
+			"typescript",
+			"tailwindcss"
+		],
+		"date": "2021-02-04T20:04:55.383Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/snowpack-svelte-ts-tw",
+			"homepage": "https://github.com/GarrettCannon/snowpack-svelte-ts-tw"
+		},
+		"author": {
+			"name": "Garrett Cannon",
+			"email": "garrett@gcannon.net"
+		},
+		"publisher": {
+			"username": "gcannonkjp",
+			"email": "gcannonkjp@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gcannonkjp",
+				"email": "gcannonkjp@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19112095775147775,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.003029555911012242,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.834708e-9
+}

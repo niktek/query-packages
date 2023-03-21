@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@shop25/managers-panel",
+		"scope": "shop25",
+		"version": "1.0.16",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2022-07-05T03:39:11.459Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40shop25%2Fmanagers-panel"
+		},
+		"publisher": {
+			"username": "mdanon",
+			"email": "serjvid91@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "mdanon",
+				"email": "serjvid91@mail.ru"
+			},
+			{
+				"username": "ssipak",
+				"email": "crylove_const@mail.ru"
+			},
+			{
+				"username": "vovka25",
+				"email": "vovka@s25.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2538979322100069,
+		"detail": {
+			"quality": 0.44117676171200826,
+			"popularity": 0.020239703328767397,
+			"maintenance": 0.327031450089531
+		}
+	},
+	"searchScore": 7.7787334e-8
+}

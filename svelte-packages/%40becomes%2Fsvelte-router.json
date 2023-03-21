@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@becomes/svelte-router",
+		"scope": "becomes",
+		"version": "1.0.1",
+		"description": "Simple and easy to use Svelte router.",
+		"date": "2021-02-09T13:21:14.759Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40becomes%2Fsvelte-router",
+			"homepage": "https://github.com/becomesco/svelte-router#readme",
+			"repository": "https://github.com/becomesco/svelte-router",
+			"bugs": "https://github.com/becomesco/svelte-router/issues"
+		},
+		"author": {
+			"name": "Branislav Vajagić"
+		},
+		"publisher": {
+			"username": "becomes",
+			"email": "tools@becomes.co"
+		},
+		"maintainers": [
+			{
+				"username": "becomes",
+				"email": "tools@becomes.co"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1774366470384537,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.0015999886957733678,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.7248295e-9
+}

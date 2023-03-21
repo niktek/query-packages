@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-dropzone-textarea",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Drag and drop a file into a `<textarea>` Svelte component and load the file's content into the textarea.",
+		"date": "2022-10-22T18:58:45.773Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dropzone-textarea",
+			"homepage": "https://github.com/andygock/svelte-dropzone-textarea#readme",
+			"repository": "https://github.com/andygock/svelte-dropzone-textarea",
+			"bugs": "https://github.com/andygock/svelte-dropzone-textarea/issues"
+		},
+		"publisher": {
+			"username": "andygock",
+			"email": "andy.gock@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "andygock",
+				"email": "andy.gock@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24963881785936443,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.018875746145380373,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 2.5149097e-7
+}

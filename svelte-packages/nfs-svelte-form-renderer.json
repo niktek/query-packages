@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "nfs-svelte-form-renderer",
+		"scope": "unscoped",
+		"version": "1.0.0-beta.7",
+		"description": "A Svelte component library template with TypeScript support",
+		"keywords": [
+			"component",
+			"svelte"
+		],
+		"date": "2021-07-15T13:51:25.697Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/nfs-svelte-form-renderer",
+			"homepage": "https://github.com/patrickroberts/svelte-ts-component-template#readme",
+			"repository": "https://github.com/patrickroberts/svelte-ts-component-template",
+			"bugs": "https://github.com/patrickroberts/svelte-ts-component-template/issues"
+		},
+		"author": {
+			"name": "Patrick Roberts"
+		},
+		"publisher": {
+			"username": "xavhan",
+			"email": "xavier.haniquaut@decathlon.com"
+		},
+		"maintainers": [
+			{
+				"username": "xavhan",
+				"email": "xavier.haniquaut@decathlon.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21955619348727573,
+		"detail": {
+			"quality": 0.5670025027156627,
+			"popularity": 0.001168849454665771,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 5.4808037e-8
+}

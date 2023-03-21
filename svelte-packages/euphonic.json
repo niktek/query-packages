@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "euphonic",
+		"scope": "unscoped",
+		"version": "0.0.6",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-05-29T14:33:44.796Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/euphonic"
+		},
+		"publisher": {
+			"username": "greggfinedev",
+			"email": "gregg@greggfinedev.com"
+		},
+		"maintainers": [
+			{
+				"username": "greggfinedev",
+				"email": "gregg@greggfinedev.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.32672801819821784,
+		"detail": {
+			"quality": 0.6883679346244744,
+			"popularity": 0.018585875786148644,
+			"maintenance": 0.3248930893877815
+		}
+	},
+	"searchScore": 0.0000023901512
+}

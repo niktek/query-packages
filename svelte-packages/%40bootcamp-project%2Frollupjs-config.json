@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@bootcamp-project/rollupjs-config",
+		"scope": "bootcamp-project",
+		"version": "0.12.2",
+		"description": "Ready-to-use Rollup Configuration with TypeScript, Svelte, Tailwind CSS support by default, for AMD, UMD, CJS, ESM",
+		"keywords": [
+			"Rollup",
+			"JavaScript",
+			"TypeScript",
+			"Svelte",
+			"Tailwind CSS",
+			"Ready-to-use",
+			"Configuration",
+			"TBCP"
+		],
+		"date": "2021-11-29T20:04:35.340Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bootcamp-project%2Frollupjs-config",
+			"homepage": "https://configurations.bootcamp-project.com/#/bundling/rollup",
+			"repository": "https://gitlab.com/the-bootcamp-project/configurations/rollup",
+			"bugs": "https://gitlab.com/the-bootcamp-project/configurations/rollup/-/issues"
+		},
+		"author": {
+			"name": "Bootcamp contributors",
+			"email": "contributors@bootcamp-project.com",
+			"username": "bootcamp-project"
+		},
+		"publisher": {
+			"username": "bootcamp-project",
+			"email": "contributors@bootcamp-project.com"
+		},
+		"maintainers": [
+			{
+				"username": "bootcamp-project",
+				"email": "contributors@bootcamp-project.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2635510974057913,
+		"detail": {
+			"quality": 0.520646441024333,
+			"popularity": 0.02366882843885435,
+			"maintenance": 0.2830659289854068
+		}
+	},
+	"searchScore": 2.4324046e-7
+}

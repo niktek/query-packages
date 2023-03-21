@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "nature-graphic-svelte-components",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Collection of svelte components to build nature infographics.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-11-18T18:54:19.520Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/nature-graphic-svelte-components"
+		},
+		"author": {
+			"name": "chris-creditdesign"
+		},
+		"publisher": {
+			"username": "chris-creditdesign",
+			"email": "creditdesign@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "chris-creditdesign",
+				"email": "creditdesign@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2518425128386333,
+		"detail": {
+			"quality": 0.7331471097230817,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.7541596e-7
+}

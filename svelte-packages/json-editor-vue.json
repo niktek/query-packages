@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "json-editor-vue",
+		"scope": "unscoped",
+		"version": "0.10.5",
+		"description": "JSON editor & viewer for Vue 2.6 / 2.7 / 3 & Nuxt 2 / 3.",
+		"keywords": [
+			"jsoneditor",
+			"svelte-jsoneditor",
+			"json",
+			"json-editor",
+			"vue",
+			"vue-demi",
+			"vue-json-viewer",
+			"nuxt",
+			"nuxtjs",
+			"ssr"
+		],
+		"date": "2022-12-18T11:09:06.026Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/json-editor-vue",
+			"homepage": "https://github.com/cloydlau/json-editor-vue#readme",
+			"repository": "https://github.com/cloydlau/json-editor-vue",
+			"bugs": "https://github.com/cloydlau/json-editor-vue/issues"
+		},
+		"author": {
+			"name": "cloydlau"
+		},
+		"publisher": {
+			"username": "cloydlau",
+			"email": "253055734@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "cloydlau",
+				"email": "253055734@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26760135112211203,
+		"detail": {
+			"quality": 0.4244496140979511,
+			"popularity": 0.06742800064588585,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.9456282e-7
+}

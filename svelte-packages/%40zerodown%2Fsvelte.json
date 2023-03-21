@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@zerodown/svelte",
+		"scope": "zerodown",
+		"version": "3.32.3",
+		"description": "Cybernetically enhanced web apps",
+		"keywords": [
+			"UI",
+			"framework",
+			"templates",
+			"templating"
+		],
+		"date": "2021-08-12T13:19:30.842Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40zerodown%2Fsvelte"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "ankitstarski",
+			"email": "ankitstarski@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sunnymittal",
+				"email": "sunny@zerodown.com"
+			},
+			{
+				"username": "lakssrini",
+				"email": "laks@zerodown.com"
+			},
+			{
+				"username": "zd-ankit",
+				"email": "ankit@zerodown.com"
+			},
+			{
+				"username": "ankitstarski",
+				"email": "ankitstarski@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24004891127133113,
+		"detail": {
+			"quality": 0.6350078740767695,
+			"popularity": 0.01772599469821976,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.8543908e-7
+}

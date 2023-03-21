@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@pentcloud/svelte-utils",
+		"scope": "pentcloud",
+		"version": "0.2.0",
+		"description": "*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-06-15T16:02:52.939Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40pentcloud%2Fsvelte-utils"
+		},
+		"author": {
+			"name": "Pentcloud Team"
+		},
+		"publisher": {
+			"username": "erick.ruano",
+			"email": "erick.ruano@pentcloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "william.chanchavac",
+				"email": "william.chanchavac@pentcloud.com"
+			},
+			{
+				"username": "diegofcornejo",
+				"email": "diegof.cornejo@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1697280960600404,
+		"detail": {
+			"quality": 0.4397711452609957,
+			"popularity": 0.018249023839241957,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.2435196e-9
+}

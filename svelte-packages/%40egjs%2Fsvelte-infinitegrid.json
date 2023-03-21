@@ -1,0 +1,83 @@
+{
+	"package": {
+		"name": "@egjs/svelte-infinitegrid",
+		"scope": "egjs",
+		"version": "4.9.0",
+		"description": "A Svelte component that can arrange items infinitely according to the type of grids",
+		"keywords": [
+			"svelte",
+			"lazyloading",
+			"ready",
+			"grid",
+			"image",
+			"video",
+			"egjs",
+			"masonry",
+			"justified",
+			"packing",
+			"frame",
+			"layout"
+		],
+		"date": "2023-03-17T03:37:33.326Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40egjs%2Fsvelte-infinitegrid",
+			"homepage": "https://github.com/naver/egjs-infinitegrid",
+			"repository": "https://github.com/naver/egjs-infinitegrid",
+			"bugs": "https://github.com/naver/egjs-infinitegrid/issues"
+		},
+		"author": {
+			"name": "NAVER Corp."
+		},
+		"publisher": {
+			"username": "younkue",
+			"email": "daybrush@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "braixen",
+				"email": "malangfox@naver.com"
+			},
+			{
+				"username": "ajaxpf",
+				"email": "ajaxpf@gmail.com"
+			},
+			{
+				"username": "jongmoon",
+				"email": "jongmoon.yoon@navercorp.com"
+			},
+			{
+				"username": "sculove",
+				"email": "sculove@gmail.com"
+			},
+			{
+				"username": "happyhj",
+				"email": "heejae.kim@navercorp.com"
+			},
+			{
+				"username": "mixed",
+				"email": "i.nevalose@gmail.com"
+			},
+			{
+				"username": "netil",
+				"email": "alberto.park@gmail.com"
+			},
+			{
+				"username": "younkue",
+				"email": "daybrush@gmail.com"
+			},
+			{
+				"username": "woodneck",
+				"email": "saiyu915@naver.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31539892622229576,
+		"detail": {
+			"quality": 0.6283691853647854,
+			"popularity": 0.02920429698912424,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000007671692
+}

@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "@ubeac/svelte-preprocessors",
+		"scope": "ubeac",
+		"version": "0.0.3",
+		"description": "Collection of some useful svelte pre-processors",
+		"keywords": [
+			"ubeac",
+			"svelte",
+			"sveltejs",
+			"sveltekit",
+			"svelte-kit",
+			"ubeac svelte",
+			"preprocessor",
+			"if preprocessor",
+			"svelte preprocessor",
+			"preview preprocessor",
+			"ubeac svelte preprocessors"
+		],
+		"date": "2023-01-15T21:07:09.620Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ubeac%2Fsvelte-preprocessors",
+			"homepage": "https://github.com/ubeac/svelte-preprocessors",
+			"repository": "https://github.com/ubeac/svelte-preprocessors",
+			"bugs": "https://github.com/ubeac/svelte-preprocessors/issues"
+		},
+		"author": {
+			"name": "Amir Pournasserian",
+			"email": "ap@ubeac.io",
+			"username": "ubeac-owner"
+		},
+		"publisher": {
+			"username": "ubeac-owner",
+			"email": "ap@ubeac.io"
+		},
+		"maintainers": [
+			{
+				"username": "ubeac-owner",
+				"email": "ap@ubeac.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3433126959219913,
+		"detail": {
+			"quality": 0.7292891023433832,
+			"popularity": 0.022547367044131055,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 0.00002611533
+}

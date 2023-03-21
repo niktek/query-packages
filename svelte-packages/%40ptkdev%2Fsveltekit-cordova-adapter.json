@@ -1,0 +1,58 @@
+{
+	"package": {
+		"name": "@ptkdev/sveltekit-cordova-adapter",
+		"scope": "ptkdev",
+		"version": "0.3.1",
+		"description": "Adapter for SvelteKit apps that prerenders your entire site as a collection of static files for use with Cordova or Ionic Capacitor (android/ios)",
+		"keywords": [
+			"ptkdev",
+			"svelte",
+			"sveltekit",
+			"cordova",
+			"cordovajs",
+			"capacitor",
+			"ionic capacitor",
+			"capacitorjs",
+			"sveltekit adapter",
+			"sveltekit cordova",
+			"sveltekit capacitor",
+			"sveltekit mobile app",
+			"sveltekit android",
+			"sveltekit ios"
+		],
+		"date": "2023-02-11T20:28:16.646Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ptkdev%2Fsveltekit-cordova-adapter",
+			"homepage": "https://github.com/ptkdev/sveltekit-cordova-adapter",
+			"repository": "https://github.com/ptkdev/sveltekit-cordova-adapter",
+			"bugs": "https://github.com/ptkdev/sveltekit-cordova-adapter/issues"
+		},
+		"author": {
+			"name": "Patryk Rzucidło [@ptkdev]",
+			"email": "support@ptkdev.io",
+			"url": "https://ptk.dev"
+		},
+		"publisher": {
+			"username": "ptkdevio",
+			"email": "ptkdev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ptkdevio",
+				"email": "ptkdev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23022986301503187,
+		"detail": {
+			"quality": 0.3595566954747321,
+			"popularity": 0.01627482201698737,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.0486236e-8
+}

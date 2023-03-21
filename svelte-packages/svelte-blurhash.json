@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-blurhash",
+		"scope": "unscoped",
+		"version": "1.2.1",
+		"description": "Blurhash implementation for svelte",
+		"keywords": [
+			"svelte",
+			"blurhash",
+			"image"
+		],
+		"date": "2021-04-30T05:00:20.927Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-blurhash"
+		},
+		"author": {
+			"name": "h416"
+		},
+		"publisher": {
+			"username": "h416",
+			"email": "h416@aol.jp"
+		},
+		"maintainers": [
+			{
+				"username": "h416",
+				"email": "h416@aol.jp"
+			}
+		]
+	},
+	"score": {
+		"final": 0.248213469508577,
+		"detail": {
+			"quality": 0.6173293530699571,
+			"popularity": 0.024248037563500958,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 4.1135155e-7
+}

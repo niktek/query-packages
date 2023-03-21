@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@maaizelahi/svelte-poc",
+		"scope": "maaizelahi",
+		"version": "1.0.1",
+		"description": "*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*",
+		"date": "2021-06-15T09:01:19.708Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40maaizelahi%2Fsvelte-poc",
+			"homepage": "https://github.com/maaizelahi/svelte-poc#readme",
+			"repository": "https://github.com/maaizelahi/svelte-poc",
+			"bugs": "https://github.com/maaizelahi/svelte-poc/issues"
+		},
+		"publisher": {
+			"username": "maaizelahi",
+			"email": "maaizelahi@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "maaizelahi",
+				"email": "maaizelahi@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20089931853608423,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.01824547518775523,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.5921849e-8
+}

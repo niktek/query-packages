@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "pty-create-webcomponent",
+		"scope": "unscoped",
+		"version": "1.1.9",
+		"description": "CLI tool to generate Web Component modules for PTY projects",
+		"keywords": [
+			"Svelte",
+			"Web",
+			"Components",
+			"Custom",
+			"Elements"
+		],
+		"date": "2020-06-04T09:20:17.416Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/pty-create-webcomponent",
+			"homepage": "https://github.com/vbence86/pty-create-webcomponent#readme",
+			"repository": "https://github.com/vbence86/pty-create-webcomponent",
+			"bugs": "https://github.com/vbence86/pty-create-webcomponent/issues"
+		},
+		"author": {
+			"name": "Bence Varga"
+		},
+		"publisher": {
+			"username": "vbence86",
+			"email": "vbence86@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vbence86",
+				"email": "vbence86@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1850786554178354,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0021247442848442376,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.0850826e-9
+}

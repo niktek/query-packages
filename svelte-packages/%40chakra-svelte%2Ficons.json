@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@chakra-svelte/icons",
+		"scope": "chakra-svelte",
+		"version": "0.0.2",
+		"description": "Chakra UI icons",
+		"keywords": [
+			"icons"
+		],
+		"date": "2023-02-12T12:51:44.286Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40chakra-svelte%2Ficons"
+		},
+		"publisher": {
+			"username": "alexanderkrust",
+			"email": "work@alexanderrust.de"
+		},
+		"maintainers": [
+			{
+				"username": "alexanderkrust",
+				"email": "work@alexanderrust.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21606252519542407,
+		"detail": {
+			"quality": 0.3225776017021793,
+			"popularity": 0.007493080051724641,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.8040162e-8
+}

@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-carousel-flickity",
+		"scope": "unscoped",
+		"version": "2.0.2",
+		"description": "## Demo",
+		"date": "2021-04-01T06:31:31.461Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-carousel-flickity"
+		},
+		"publisher": {
+			"username": "mzaini30",
+			"email": "muhzaini30@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mzaini30",
+				"email": "muhzaini30@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18576814680405176,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.0034169506918244152,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 4.111934e-9
+}

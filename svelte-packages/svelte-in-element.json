@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-in-element",
+		"scope": "unscoped",
+		"version": "0.1.4",
+		"description": "Render parts of a Svelte component in arbitrary elements",
+		"keywords": [
+			"svelte",
+			"in-element",
+			"wormhole",
+			"portal",
+			"stargate",
+			"elsewhere",
+			"teleport"
+		],
+		"date": "2022-07-29T22:26:18.693Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-in-element",
+			"homepage": "https://github.com/ravenstine/svelte-in-element"
+		},
+		"author": {
+			"name": "Ten Bitcomb"
+		},
+		"publisher": {
+			"username": "ravenstine",
+			"email": "tenbitcomb@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ravenstine",
+				"email": "tenbitcomb@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3386489552334101,
+		"detail": {
+			"quality": 0.7541502487540728,
+			"popularity": 0.0018237123985175437,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 0.00001787417
+}

@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "create-untitled-app",
+		"scope": "unscoped",
+		"version": "1.1.8",
+		"description": "My personal template for creating SvelteKit apps.",
+		"keywords": [
+			"typescript",
+			"postcss",
+			"tailwindcss",
+			"sveltekit"
+		],
+		"date": "2022-12-16T12:48:24.447Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-untitled-app"
+		},
+		"author": {
+			"name": "j4cegh"
+		},
+		"publisher": {
+			"username": "rosen2419",
+			"email": "rosenishere123@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rosen2419",
+				"email": "rosenishere123@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24745671313561107,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.005829585104475031,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.5262333e-8
+}

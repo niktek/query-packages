@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "at-html",
+		"scope": "unscoped",
+		"version": "0.2.1",
+		"description": "Use `{@html }` tags with slots in Svelte apps",
+		"date": "2022-11-11T12:36:44.941Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/at-html"
+		},
+		"publisher": {
+			"username": "micha-lmxt",
+			"email": "npm@lucht-familie.de"
+		},
+		"maintainers": [
+			{
+				"username": "micha-lmxt",
+				"email": "npm@lucht-familie.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22323424156276656,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0034698859532653866,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 1.0726136e-8
+}

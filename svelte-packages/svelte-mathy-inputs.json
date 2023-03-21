@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-mathy-inputs",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "just some inputs for quickly editing vector3 and rotation values",
+		"date": "2023-01-04T20:31:39.520Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-mathy-inputs"
+		},
+		"publisher": {
+			"username": "a_warnes",
+			"email": "alex.s.warnes@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "a_warnes",
+				"email": "alex.s.warnes@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20655283235172436,
+		"detail": {
+			"quality": 0.2939569013491443,
+			"popularity": 0.004864606847819047,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 1.4609069e-8
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-easyforms",
+		"scope": "unscoped",
+		"version": "1.0.5",
+		"description": "A very opinionated form library for Svelte. Currently only supports inputs and textarea.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-12-05T16:04:21.334Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-easyforms",
+			"homepage": "https://github.com/kevmodrome/svelte-easyforms#readme",
+			"repository": "https://github.com/kevmodrome/svelte-easyforms",
+			"bugs": "https://github.com/kevmodrome/svelte-easyforms/issues"
+		},
+		"publisher": {
+			"username": "kevmodrome",
+			"email": "npm@kevmodro.me"
+		},
+		"maintainers": [
+			{
+				"username": "kevmodrome",
+				"email": "npm@kevmodro.me"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1680126245136953,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.005170863494560136,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.8575009e-9
+}

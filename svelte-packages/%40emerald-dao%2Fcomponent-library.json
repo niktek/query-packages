@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@emerald-dao/component-library",
+		"scope": "emerald-dao",
+		"version": "3.57.0",
+		"description": "Reusable Svelte components for creating dapps in the Flow Blockchain.",
+		"date": "2023-03-20T20:09:11.926Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40emerald-dao%2Fcomponent-library",
+			"homepage": "http://emerald-dao.github.io/component-library",
+			"repository": "https://github.com/emerald-dao/component-library",
+			"bugs": "https://github.com/emerald-dao/component-library/issues"
+		},
+		"publisher": {
+			"username": "jacob-tucker",
+			"email": "jacobtucker818@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mateoroldos",
+				"email": "mateoroldos19@gmail.com"
+			},
+			{
+				"username": "jacob-tucker",
+				"email": "jacobtucker818@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25343138721045594,
+		"detail": {
+			"quality": 0.4335361838063596,
+			"popularity": 0.01915390114823262,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.702168e-8
+}

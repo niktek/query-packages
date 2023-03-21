@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@todesktop/kit-docs",
+		"scope": "todesktop",
+		"version": "0.24.4",
+		"description": "Documentation integration for SvelteKit.",
+		"keywords": [
+			"docs",
+			"documentation",
+			"kit-docs",
+			"svelte-kit",
+			"svelte"
+		],
+		"date": "2022-12-07T00:06:28.217Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40todesktop%2Fkit-docs",
+			"homepage": "https://github.com/svelteness/kit-docs#readme",
+			"repository": "https://github.com/svelteness/kit-docs",
+			"bugs": "https://github.com/svelteness/kit-docs/issues"
+		},
+		"publisher": {
+			"username": "davej",
+			"email": "dave@davejeffery.com"
+		},
+		"maintainers": [
+			{
+				"username": "davej",
+				"email": "dave@davejeffery.com"
+			},
+			{
+				"username": "isaacaderogba",
+				"email": "isaacaderogba1@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2443481490205972,
+		"detail": {
+			"quality": 0.39802258930009876,
+			"popularity": 0.023642015896859856,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.1434781e-7
+}

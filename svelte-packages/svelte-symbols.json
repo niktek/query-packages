@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-symbols",
+		"scope": "unscoped",
+		"version": "3.0.0",
+		"description": "Most popular icon pack for svelte",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"All icons",
+			"svg icons",
+			"icons",
+			"popular icons"
+		],
+		"date": "2023-02-07T03:30:38.483Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-symbols",
+			"homepage": "https://github.com/IllustriousLoop/svelte-symbols#readme",
+			"repository": "https://github.com/IllustriousLoop/svelte-symbols",
+			"bugs": "https://github.com/IllustriousLoop/svelte-symbols/issues"
+		},
+		"author": {
+			"name": "IllustriousLoop",
+			"email": "illustriousloop@gmail.com",
+			"url": "https://jhairparis.com",
+			"username": "illustriousloop"
+		},
+		"publisher": {
+			"username": "illustriousloop",
+			"email": "illustriousloop@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "illustriousloop",
+				"email": "illustriousloop@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27805092549284843,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.007809256518758261,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000001348642
+}

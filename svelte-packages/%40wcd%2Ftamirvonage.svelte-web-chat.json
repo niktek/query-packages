@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "@wcd/tamirvonage.svelte-web-chat",
+		"scope": "wcd",
+		"version": "0.0.13",
+		"date": "2022-04-07T08:30:22.378Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40wcd%2Ftamirvonage.svelte-web-chat",
+			"homepage": "https://webcomponents.dev/edit/ZsQW8ILfqwfnN391JoAQ/"
+		},
+		"author": {
+			"name": "TamirVonage"
+		},
+		"publisher": {
+			"username": "_divriots_",
+			"email": "admin+npm@divriots.com"
+		},
+		"maintainers": [
+			{
+				"username": "gluck",
+				"email": "francois.valdy@gmail.com"
+			},
+			{
+				"username": "gqio",
+				"email": "quinio.gregory@gmail.com"
+			},
+			{
+				"username": "georges-gomes",
+				"email": "georges.gomes@gmail.com"
+			},
+			{
+				"username": "_wcd_",
+				"email": "admin@divriots.com"
+			},
+			{
+				"username": "_divriots_",
+				"email": "admin+npm@divriots.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19725392019004073,
+		"detail": {
+			"quality": 0.2419919047096637,
+			"popularity": 0.023805267667343043,
+			"maintenance": 0.3323557288387759
+		}
+	},
+	"searchScore": 4.0216035e-9
+}

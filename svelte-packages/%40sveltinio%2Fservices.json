@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@sveltinio/services",
+		"scope": "sveltinio",
+		"version": "0.4.1",
+		"description": "Type-safe Svelte components to easily use GoogleFonts, GoogleAnalytics and Umami in your Svelte and SvelteKit projects.",
+		"keywords": [
+			"sveltekit",
+			"svelte",
+			"svelte components",
+			"components",
+			"umami",
+			"umami analytics",
+			"google fonts",
+			"google analytics"
+		],
+		"date": "2023-03-17T12:08:18.882Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltinio%2Fservices",
+			"homepage": "https://components.sveltin.io",
+			"repository": "https://github.com/sveltinio/components-library",
+			"bugs": "https://github.com/sveltinio/components-library/issues"
+		},
+		"author": {
+			"name": "dev",
+			"email": "dev@sveltin.io",
+			"username": "sveltinio"
+		},
+		"publisher": {
+			"username": "sveltinio",
+			"email": "dev@sveltin.io"
+		},
+		"maintainers": [
+			{
+				"username": "sveltinio",
+				"email": "dev@sveltin.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28372798099565927,
+		"detail": {
+			"quality": 0.5486021661567133,
+			"popularity": 0.0070876128056532525,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.632513e-7
+}

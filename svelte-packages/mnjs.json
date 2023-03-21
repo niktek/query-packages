@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "mnjs",
+		"scope": "unscoped",
+		"version": "4.4.0",
+		"description": "MATH NODE JS (MNJS): A tiny math library for node.js & JavaScript on browser",
+		"keywords": [
+			"math",
+			"js",
+			"ts",
+			"javascript",
+			"typescript",
+			"nodejs",
+			"next.js",
+			"react",
+			"svelte",
+			"library",
+			"npm",
+			"yarn",
+			"jsdelivr",
+			"data science",
+			"data analysis"
+		],
+		"date": "2023-01-22T22:54:57.478Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/mnjs",
+			"homepage": "https://github.com/dr-montasir/mnjs#readme",
+			"repository": "https://github.com/dr-montasir/mnjs",
+			"bugs": "https://github.com/dr-montasir/mnjs/issues"
+		},
+		"author": {
+			"name": "Montasir Mirghani"
+		},
+		"publisher": {
+			"username": "dr-montasir",
+			"email": "montasir1400@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dr-montasir",
+				"email": "montasir1400@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3066442162284538,
+		"detail": {
+			"quality": 0.6272833081421932,
+			"popularity": 0.0051300268596435545,
+			"maintenance": 0.3333248982426302
+		}
+	},
+	"searchScore": 0.0000010364802
+}

@@ -1,0 +1,67 @@
+{
+	"package": {
+		"name": "@cafebazaar/async-actions",
+		"scope": "cafebazaar",
+		"version": "0.4.4",
+		"description": "<p align=\"center\">   <img src=\"https://user-images.githubusercontent.com/2771377/95751339-57fbe900-0cab-11eb-8eda-39d8e2807fca.png\" /> </p>",
+		"keywords": [
+			"vue",
+			"svelte",
+			"async",
+			"promise",
+			"loading"
+		],
+		"date": "2021-01-01T12:03:11.456Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cafebazaar%2Fasync-actions",
+			"homepage": "https://github.com/cafebazaar/async-actions#readme",
+			"repository": "https://github.com/cafebazaar/async-actions",
+			"bugs": "https://github.com/cafebazaar/async-actions/issues"
+		},
+		"author": {
+			"name": "Bazaar Front-End Chapter"
+		},
+		"publisher": {
+			"username": "me.majidi",
+			"email": "me.majiidii@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "_mahdude",
+				"email": "MMahmoudiMehrizi@gmail.com"
+			},
+			{
+				"username": "amir_mousavi",
+				"email": "amirhossein.mousavi@cafebazaar.ir"
+			},
+			{
+				"username": "manjav",
+				"email": "mansurjavadi@gmail.com"
+			},
+			{
+				"username": "arash16",
+				"email": "arash.shakery@gmail.com"
+			},
+			{
+				"username": "me.majidi",
+				"email": "me.majiidii@gmail.com"
+			},
+			{
+				"username": "nainemom",
+				"email": "nainemom@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23870319165552412,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.021373989037516583,
+			"maintenance": 0.28891947724134814
+		}
+	},
+	"searchScore": 6.468896e-8
+}

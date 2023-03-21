@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-swiper",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "swiper.js for svelte",
+		"keywords": [
+			"svelte",
+			"swiperjs"
+		],
+		"date": "2020-08-14T07:33:44.956Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-swiper"
+		},
+		"author": {
+			"name": "Hyo Bum Lee",
+			"email": "beomyhlee@gmail.com",
+			"username": "beomy"
+		},
+		"publisher": {
+			"username": "beomy",
+			"email": "beomyhlee@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "beomy",
+				"email": "beomyhlee@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18048555114412268,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.010311143283398973,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.3348703e-9
+}

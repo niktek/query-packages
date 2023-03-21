@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@douganderson444/svelte-fillvert",
+		"scope": "douganderson444",
+		"version": "1.0.1",
+		"description": "Fills app to visible height, even on mobile.",
+		"keywords": [
+			"svelte",
+			"fillvert",
+			"fill",
+			"vertical",
+			"flex",
+			"flexbox"
+		],
+		"date": "2023-01-07T17:37:46.702Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40douganderson444%2Fsvelte-fillvert",
+			"homepage": "https://github.com/DougAnderson444/svelte-fillvert",
+			"repository": "https://github.com/DougAnderson444/svelte-fillvert",
+			"bugs": "https://github.com/DougAnderson444/svelte-fillvert"
+		},
+		"author": {
+			"name": "Doug Anderson"
+		},
+		"publisher": {
+			"username": "douganderson444",
+			"email": "douganderson444@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "douganderson444",
+				"email": "douganderson444@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2766357628256144,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.0038581629356215664,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 0.0000010039757
+}

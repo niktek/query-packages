@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "stylelint-config-svelte-roboleary",
+		"scope": "unscoped",
+		"version": "0.4.0",
+		"description": "My stylelint config for linting Svelte files. This can be used along side Prettier (which is used by the VS Code Svelte plugin), all conflicting rules are disabled.",
+		"keywords": [
+			"css",
+			"scss",
+			"sass",
+			"less",
+			"svelte",
+			"stylelint",
+			"css lint",
+			"config",
+			"prettier"
+		],
+		"date": "2021-12-04T06:33:23.289Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/stylelint-config-svelte-roboleary",
+			"homepage": "https://github.com/robole/stylelint-config-svelte-roboleary#readme",
+			"repository": "https://github.com/robole/stylelint-config-svelte-roboleary",
+			"bugs": "https://github.com/robole/stylelint-config-svelte-roboleary/issues"
+		},
+		"author": {
+			"name": "rob oleary"
+		},
+		"publisher": {
+			"username": "robjoeol",
+			"email": "robjoeol@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "robjoeol",
+				"email": "robjoeol@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17554562028074897,
+		"detail": {
+			"quality": 0.32356455176155713,
+			"popularity": 0.002419811515728193,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 2.0805175e-9
+}

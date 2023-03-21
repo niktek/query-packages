@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@svelte-press/create",
+		"scope": "svelte-press",
+		"version": "0.13.1",
+		"description": "The helper for creating sveltepress projects",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"sveltepress"
+		],
+		"date": "2023-02-01T06:58:20.706Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-press%2Fcreate",
+			"homepage": "https://sveltepress.site/",
+			"repository": "https://github.com/Blackman99/sveltepress",
+			"bugs": "https://github.com/Blackman99/sveltepress/issues"
+		},
+		"author": {
+			"name": "Dongsheng Zhao",
+			"email": "1197160272@qq.com",
+			"username": "philadelphia"
+		},
+		"publisher": {
+			"username": "philadelphia",
+			"email": "1197160272@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "philadelphia",
+				"email": "1197160272@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2601628249890035,
+		"detail": {
+			"quality": 0.4394784573607504,
+			"popularity": 0.033293203183176315,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.176174e-7
+}

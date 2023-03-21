@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "sveltekit-statiko",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "A multi-featured assistant for SvelteKit static projects.",
+		"keywords": [
+			"svelte",
+			"statiko",
+			"sveltekit",
+			"vite-plugin",
+			"sveltekit-plugin",
+			"sveltekit-statiko",
+			"svelte-statiko"
+		],
+		"date": "2022-11-14T10:56:42.326Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-statiko",
+			"homepage": "https://github.com/ivodolenc/sveltekit-statiko",
+			"repository": "https://github.com/ivodolenc/sveltekit-statiko",
+			"bugs": "https://github.com/ivodolenc/sveltekit-statiko/issues"
+		},
+		"author": {
+			"name": "Ivo Dolenc"
+		},
+		"publisher": {
+			"username": "ivodolenc",
+			"email": "ivodolenc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ivodolenc",
+				"email": "ivodolenc@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22836729751357196,
+		"detail": {
+			"quality": 0.36872506351612505,
+			"popularity": 0.003104654024257242,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 5.2819153e-8
+}

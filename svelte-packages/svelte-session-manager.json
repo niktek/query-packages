@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-session-manager",
+		"scope": "unscoped",
+		"version": "2.2.0",
+		"description": "Session store for svelte (currently only for JWT)",
+		"keywords": [
+			"JWT",
+			"component",
+			"log",
+			"session",
+			"svelte",
+			"vite",
+			"web"
+		],
+		"date": "2023-02-16T22:21:58.829Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-session-manager",
+			"homepage": "https://github.com/arlac77/svelte-session-manager#readme",
+			"repository": "https://github.com/arlac77/svelte-session-manager",
+			"bugs": "https://github.com/arlac77/svelte-session-manager/issues"
+		},
+		"publisher": {
+			"username": "arlac77",
+			"email": "markus.felten@gmx.de"
+		},
+		"maintainers": [
+			{
+				"username": "arlac77",
+				"email": "markus.felten@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3129430101848163,
+		"detail": {
+			"quality": 0.6081979139272481,
+			"popularity": 0.039477055257072055,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000007868536
+}

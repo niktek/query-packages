@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@i18nlite/svelte",
+		"scope": "i18nlite",
+		"version": "1.1.2",
+		"description": "A lightweight and simple i18n library for svelte",
+		"date": "2022-04-05T20:41:22.611Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40i18nlite%2Fsvelte",
+			"homepage": "https://github.com/leandrohsilveira/react-i18n-lite#readme",
+			"repository": "https://github.com/leandrohsilveira/react-i18n-lite",
+			"bugs": "https://github.com/leandrohsilveira/react-i18n-lite/issues"
+		},
+		"author": {
+			"name": "Leandro Hinckel Silveira",
+			"email": "leandro.hinckel@gmail.com",
+			"url": "https://github.com/leandrohsilveira",
+			"username": "leandrohsilveira"
+		},
+		"publisher": {
+			"username": "leandrohsilveira",
+			"email": "leandro.hinckel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "leandrohsilveira",
+				"email": "leandro.hinckel@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.39669635844957124,
+		"detail": {
+			"quality": 0.9581416904986702,
+			"popularity": 0.0017281615521824118,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 0.00014175863
+}

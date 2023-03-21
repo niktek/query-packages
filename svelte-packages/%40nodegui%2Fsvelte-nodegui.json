@@ -1,0 +1,65 @@
+{
+	"package": {
+		"name": "@nodegui/svelte-nodegui",
+		"scope": "nodegui",
+		"version": "0.1.2",
+		"description": "Svelte integration for NodeGUI",
+		"keywords": [
+			"nodegui",
+			"svelte"
+		],
+		"date": "2021-05-04T20:35:22.026Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nodegui%2Fsvelte-nodegui",
+			"homepage": "https://github.com/nodegui/svelte-nodegui",
+			"repository": "https://github.com/nodegui/svelte-nodegui",
+			"bugs": "https://github.com/nodegui/svelte-nodegui/issues"
+		},
+		"author": {
+			"name": "Jamie Birch",
+			"url": "https://twitter.com/LinguaBrowse"
+		},
+		"publisher": {
+			"username": "shirakaba",
+			"email": "jamie@linguabrowse.bottledlogic.co.uk"
+		},
+		"maintainers": [
+			{
+				"username": "sedwards2009",
+				"email": "simon@simonzone.com"
+			},
+			{
+				"username": "atulanand94",
+				"email": "atulanand94@gmail.com"
+			},
+			{
+				"username": "rahulgaba",
+				"email": "rahulgaba16@gmail.com"
+			},
+			{
+				"username": "kakulgupta",
+				"email": "kakul.gupta009@gmail.com"
+			},
+			{
+				"username": "shubhamzanwar",
+				"email": "zanwar.shubham@gmail.com"
+			},
+			{
+				"username": "shirakaba",
+				"email": "jamie@linguabrowse.bottledlogic.co.uk"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23720944701634095,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0042902850712435835,
+			"maintenance": 0.3109792186519121
+		}
+	},
+	"searchScore": 1.4819099e-7
+}

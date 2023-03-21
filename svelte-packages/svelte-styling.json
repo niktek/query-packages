@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-styling",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "css and variable actions within svelte",
+		"keywords": [
+			"svelte",
+			"css"
+		],
+		"date": "2022-10-17T13:00:40.238Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-styling",
+			"homepage": "https://leodog896.github.io/svelte-styling",
+			"repository": "https://github.com/LeoDog896/svelte-styling",
+			"bugs": "https://github.com/LeoDog896/svelte-styling/issues"
+		},
+		"author": {
+			"name": "Tristan F.",
+			"email": "leodog896@gmail.com",
+			"url": "https://github.com/LeoDog896"
+		},
+		"publisher": {
+			"username": "leodog896",
+			"email": "LeoDog896@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "leodog896",
+				"email": "LeoDog896@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.27676449005647047,
+		"detail": {
+			"quality": 0.5314309668399496,
+			"popularity": 0.003337182883545054,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 0.0000012791018
+}

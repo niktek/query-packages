@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@icons-pack/svelte-simple-icons",
+		"scope": "icons-pack",
+		"version": "3.0.0",
+		"description": "This package provides the Simple Icons packaged as a set of Svelte components.",
+		"keywords": [
+			"svelte",
+			"simple-icons",
+			"svelte-simple-icons",
+			"icons",
+			"svg",
+			"inline",
+			"design",
+			"component",
+			"codea"
+		],
+		"date": "2022-06-09T04:15:13.484Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40icons-pack%2Fsvelte-simple-icons",
+			"homepage": "https://github.com/icons-pack/svelte-simple-icons#readme",
+			"repository": "https://github.com/icons-pack/svelte-simple-icons",
+			"bugs": "https://github.com/icons-pack/svelte-simple-icons/issues"
+		},
+		"author": {
+			"name": "Jorge Luis Calleja",
+			"email": "jorgelca1205@gmail.com",
+			"username": "wootsbot"
+		},
+		"publisher": {
+			"username": "wootsbot",
+			"email": "jorgelca1205@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wootsbot",
+				"email": "jorgelca1205@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23691447489421572,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.004030252800651026,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 1.3262152e-7
+}

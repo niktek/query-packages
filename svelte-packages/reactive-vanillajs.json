@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "reactive-vanillajs",
+		"scope": "unscoped",
+		"version": "1.1.1",
+		"description": "This is a framework-agnostic library for implementing reactive, Svelte store-like data stores, that can be used anywhere to store global-state, business-logic, caching API requests, etc... Anything you need to store, can be stored.",
+		"date": "2020-10-27T13:34:29.370Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/reactive-vanillajs"
+		},
+		"author": {
+			"name": "Mohammed Ali Agha",
+			"email": "mtxshiftg@gmail.com",
+			"url": "https://github.com/dodiameer",
+			"username": "dodiameer"
+		},
+		"publisher": {
+			"username": "dodiameer",
+			"email": "mtxshiftg@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dodiameer",
+				"email": "mtxshiftg@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2762362635854546,
+		"detail": {
+			"quality": 0.7935876851482173,
+			"popularity": 0.019286754008521066,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.528845e-7
+}

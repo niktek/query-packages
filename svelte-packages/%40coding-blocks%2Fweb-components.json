@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "@coding-blocks/web-components",
+		"scope": "coding-blocks",
+		"version": "0.5.2",
+		"description": "It is a bundle of fast, context-free components that can be used on pages as custom HTML elements. They have isolated small css for faster loads and run inside shadow dom.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2023-01-13T11:46:12.863Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40coding-blocks%2Fweb-components"
+		},
+		"publisher": {
+			"username": "vdvibhu20",
+			"email": "vibhu.dujari@codingblocks.com"
+		},
+		"maintainers": [
+			{
+				"username": "abhishek97",
+				"email": "ag120397@gmail.com"
+			},
+			{
+				"username": "vdvibhu20",
+				"email": "vibhu.dujari@codingblocks.com"
+			},
+			{
+				"username": "witty123",
+				"email": "warunhasija@gmail.com"
+			},
+			{
+				"username": "championswimmer",
+				"email": "championswimmer@gmail.com"
+			},
+			{
+				"username": "jatinkatyal13",
+				"email": "jatin.katyal13@gmail.com"
+			},
+			{
+				"username": "bipinkalra",
+				"email": "bipinkalra@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23238993130421098,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.04177608130171297,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.77567e-8
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-scrollto-next",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Fork of svelte-scrollto for modernization",
+		"keywords": [
+			"svelte",
+			"scrollto",
+			"next",
+			"scroll",
+			"animate",
+			"element"
+		],
+		"date": "2022-02-24T22:39:21.914Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-scrollto-next"
+		},
+		"author": {
+			"name": "Brev Patterson",
+			"url": "https://github.com/brev"
+		},
+		"publisher": {
+			"username": "brev",
+			"email": "me@brev.name"
+		},
+		"maintainers": [
+			{
+				"username": "brev",
+				"email": "me@brev.name"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19698397903748627,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0020460781526572573,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.3083786e-8
+}

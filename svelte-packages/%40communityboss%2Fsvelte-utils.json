@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@communityboss/svelte-utils",
+		"scope": "communityboss",
+		"version": "0.8.0",
+		"description": "Reusable Svelte utilities",
+		"date": "2023-03-14T03:50:56.690Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40communityboss%2Fsvelte-utils"
+		},
+		"publisher": {
+			"username": "danawoodman",
+			"email": "dana@danawoodman.com"
+		},
+		"maintainers": [
+			{
+				"username": "kinr-jay",
+				"email": "cjacob22@gmail.com"
+			},
+			{
+				"username": "joeyharwood",
+				"email": "joey@apsis.io"
+			},
+			{
+				"username": "chris_pfohl",
+				"email": "christopher.pfohl@gmail.com"
+			},
+			{
+				"username": "nlemesurier",
+				"email": "nathan@communityboss.com"
+			},
+			{
+				"username": "danawoodman",
+				"email": "dana@danawoodman.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23066525073733624,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.00580756595574183,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.860445e-8
+}

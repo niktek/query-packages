@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-wheel",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-01-09T03:14:16.369Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-wheel"
+		},
+		"author": {
+			"name": "Brett Erpel"
+		},
+		"publisher": {
+			"username": "berpel",
+			"email": "berpel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "berpel",
+				"email": "berpel@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22416764065461767,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.006126691597347823,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.783044e-8
+}

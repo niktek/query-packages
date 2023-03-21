@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-slot-index",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "<h1 align=\"center\">svelte-slot-index 🎲</h1>",
+		"date": "2022-08-13T23:37:46.362Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-slot-index"
+		},
+		"publisher": {
+			"username": "carlos-dubon",
+			"email": "holacarlosdubon@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "carlos-dubon",
+				"email": "holacarlosdubon@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23548620914823296,
+		"detail": {
+			"quality": 0.4660379081226978,
+			"popularity": 0.0013675232066606574,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 1.04656856e-7
+}

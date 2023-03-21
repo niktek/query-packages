@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-eui-icons",
+		"scope": "unscoped",
+		"version": "28.2.0",
+		"description": "Elastic EUI SVG icons as Svelte components",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"elastic eui",
+			"icon",
+			"svg",
+			"svg-to-svelte"
+		],
+		"date": "2020-08-22T17:19:30.143Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-eui-icons",
+			"homepage": "https://github.com/metonym/svelte-eui-icons",
+			"repository": "https://github.com/metonym/svelte-eui-icons",
+			"bugs": "https://github.com/metonym/svelte-eui-icons/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21781191004687678,
+		"detail": {
+			"quality": 0.6191815227934985,
+			"popularity": 0.0018510259166291036,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.7488936e-8
+}

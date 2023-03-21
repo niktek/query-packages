@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-use-resize-observer",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "A simple svelte action for using ResizeObserver.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-09-04T07:33:33.669Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-use-resize-observer"
+		},
+		"author": {
+			"name": "Hugo Sum"
+		},
+		"publisher": {
+			"username": "johnwinston0410",
+			"email": "hugosum.dev@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "johnwinston0410",
+				"email": "hugosum.dev@protonmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2058815784581744,
+		"detail": {
+			"quality": 0.4990588137247459,
+			"popularity": 0.004674525429674475,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 2.3769804e-8
+}

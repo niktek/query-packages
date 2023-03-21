@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "sapper-v1",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "The next small thing in web development, powered by Svelte",
+		"keywords": [
+			"svelte",
+			"isomorphic",
+			"universal",
+			"template",
+			"express"
+		],
+		"date": "2021-04-01T11:18:04.134Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sapper-v1",
+			"homepage": "https://github.com/ronvoluted/sapper#readme",
+			"repository": "https://github.com/ronvoluted/sapper",
+			"bugs": "https://github.com/ronvoluted/sapper/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "ronvoluted",
+			"email": "npm@roncya.com"
+		},
+		"maintainers": [
+			{
+				"username": "ronvoluted",
+				"email": "npm@roncya.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20121818148792747,
+		"detail": {
+			"quality": 0.5251388535893105,
+			"popularity": 0.0009544985920313587,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 7.588015e-9
+}

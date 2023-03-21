@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "sidebar-swipe",
+		"scope": "unscoped",
+		"version": "0.8.83",
+		"description": "This is a swipable sidebar nav",
+		"keywords": [
+			"sidebar",
+			"swipe",
+			"navbar",
+			"side-swipe",
+			"nav-swipe",
+			"nav",
+			"svelte"
+		],
+		"date": "2021-07-30T01:12:40.606Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sidebar-swipe",
+			"homepage": "https://github.com/Anyass3/sidebar-swipe#readme",
+			"repository": "https://github.com/Anyass3/sidebar-swipe",
+			"bugs": "https://github.com/Anyass3/sidebar-swipe/issues"
+		},
+		"author": {
+			"name": "Abdoulie Nyass"
+		},
+		"publisher": {
+			"username": "anyass",
+			"email": "nyassabu@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anyass",
+				"email": "nyassabu@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20216693778106426,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.004739395264506101,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 5.1011195e-9
+}

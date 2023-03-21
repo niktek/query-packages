@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "svelte-wasm-npm-example",
+		"scope": "unscoped",
+		"version": "1.1.1",
+		"description": "Svelte-wasm is an example project that how WebAssembly and Svelte could work together.",
+		"date": "2021-11-18T13:14:03.932Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-wasm-npm-example"
+		},
+		"author": {
+			"name": "Burak Akça",
+			"email": "burak.akca834@gmail.com",
+			"username": "burakakca"
+		},
+		"publisher": {
+			"username": "burakakca",
+			"email": "burak.akca834@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "burakakca",
+				"email": "burak.akca834@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31583675530041855,
+		"detail": {
+			"quality": 0.7579503701770538,
+			"popularity": 0.0022054059257512718,
+			"maintenance": 0.25051357763796994
+		}
+	},
+	"searchScore": 0.000005658389
+}

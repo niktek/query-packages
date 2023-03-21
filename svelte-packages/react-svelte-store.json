@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "react-svelte-store",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Svelte-like stores in React",
+		"keywords": [
+			"svelte",
+			"react",
+			"store",
+			"redux",
+			"state management"
+		],
+		"date": "2022-10-18T01:36:36.933Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/react-svelte-store",
+			"homepage": "https://github.com/GCastilho/react-svelte-store#readme",
+			"repository": "https://github.com/GCastilho/react-svelte-store",
+			"bugs": "https://github.com/GCastilho/react-svelte-store/issues"
+		},
+		"author": {
+			"name": "GCastilho",
+			"email": "castilho.gabriel14@gmail.com"
+		},
+		"publisher": {
+			"username": "gcastilho",
+			"email": "castilho.gabriel14@pm.me"
+		},
+		"maintainers": [
+			{
+				"username": "gcastilho",
+				"email": "castilho.gabriel14@pm.me"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25199614879789844,
+		"detail": {
+			"quality": 0.4482510331562057,
+			"popularity": 0.002532720278589338,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 3.0603306e-7
+}

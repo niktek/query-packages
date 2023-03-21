@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@nelson.tech/test",
+		"scope": "nelson.tech",
+		"version": "1.0.0",
+		"description": "Test",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-06-01T09:44:04.843Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nelson.tech%2Ftest"
+		},
+		"author": {
+			"name": "Michael"
+		},
+		"publisher": {
+			"username": "revnelson",
+			"email": "revnelson@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "revnelson",
+				"email": "revnelson@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23825697573463642,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.001168849454665771,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 7.0892675e-8
+}

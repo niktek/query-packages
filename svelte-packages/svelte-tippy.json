@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-tippy",
+		"scope": "unscoped",
+		"version": "1.3.2",
+		"description": "<p align=\"center\">   <a href=\"https://www.typescriptlang.org\" _target=\"blank\">     <img       alt=\"Typescript\"       src=\"https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white\"     />   </a>   <a href=\"https://eslint.org/ _target=\"blank\"\">     <img       alt=\"ESLint\"       src=\"https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white\"     />   </a>   <a href=\"https://svelte.dev\" _target=\"blank\">     <img       alt=\"Svelte\"       src=\"https://img.shields.io/badge/Svelte-%23f1413d.svg?style=flat&logo=svelte&logoColor=white\"     />   </a>   <a href=\"https://pnpm.io\" _target=\"blank\">     <img       alt=\"PnPm\"       src=\"https://img.shields.io/badge/Pnpm-%23f69220.svg?style=flat&logo=pnpm&logoColor=white\"     />   </a>   <a href=\"https://prettier.io/\" _target=\"blank\">     <img       alt=\"Prettier\"       src=\"https://img.shields.io/badge/Prettier-%23f7b93e?style=flat&logo=prettier&logoColor=black\"     />   </a>   <a href=\"https://www.npmjs.com/package/svelte-tippy\" _target=\"blank\">     <img       alt=\"NPM Package Version\"       src=\"https://img.shields.io/npm/v/svelte-tippy?color=%23CB3837&label=NPM&logo=npm&logoColor=%23ffffff\"     />   </a>   <a href=\"https://github.com/Brettm12345/svelte-tippy/actions/workflows/test.yml\">     <img       alt=\"Build status\"       src=\"https://img.shields.io/github/workflow/status/brettm12345/svelte-tippy/Test?logo=github\"      />   </a>   <a href=\"https://app.renovatebot.com/dashboard\">     <img       alt=\"renovate\"       src=\"https://camo.githubusercontent.com/7597e455e058854f972621894ac91b514e6c0e7b2f6d65ed0cf754d7b2f5f265/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61696e7461696564253230776974682d72656e6f766174652d626c75653f6c6f676f3d72656e6f76617465626f74\"   /> </p>",
+		"date": "2022-01-08T20:53:43.966Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tippy"
+		},
+		"publisher": {
+			"username": "brettm12345",
+			"email": "brettmandler@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "brettm12345",
+				"email": "brettmandler@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2763108709709745,
+		"detail": {
+			"quality": 0.5621369756872749,
+			"popularity": 0.04922636324001808,
+			"maintenance": 0.25840157465938773
+		}
+	},
+	"searchScore": 0.0000014981282
+}

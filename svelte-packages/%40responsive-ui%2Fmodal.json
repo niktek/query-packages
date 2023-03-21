@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@responsive-ui/modal",
+		"scope": "responsive-ui",
+		"version": "1.1.0-alpha.44",
+		"description": "A modal component of responsive-ui.",
+		"keywords": [
+			"svelte",
+			"ui-component",
+			"responsive-ui",
+			"modal",
+			"svelte-modal"
+		],
+		"date": "2022-10-25T06:32:24.262Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40responsive-ui%2Fmodal",
+			"homepage": "https://github.com/wetix/responsive-ui/blob/main/components/modal#README.md",
+			"repository": "https://github.com/wetix/responsive-ui",
+			"bugs": "https://github.com/wetix/responsive-ui/issues"
+		},
+		"author": {
+			"name": "Si3nLoong",
+			"email": "sianloong90@gmail.com",
+			"url": "https://github.com/si3nloong"
+		},
+		"publisher": {
+			"username": "mohamadharith",
+			"email": "harith@revenuemonster.my"
+		},
+		"maintainers": [
+			{
+				"username": "mohamadharith",
+				"email": "harith@revenuemonster.my"
+			},
+			{
+				"username": "charu.yussuf",
+				"email": "yussuf@revenuemonster.my"
+			},
+			{
+				"username": "apacventure",
+				"email": "apacventure@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3065368469262647,
+		"detail": {
+			"quality": 0.6283691853647854,
+			"popularity": 0.0038979622106917406,
+			"maintenance": 0.3333194415516771
+		}
+	},
+	"searchScore": 0.000001899134
+}

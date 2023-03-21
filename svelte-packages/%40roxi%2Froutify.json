@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "@roxi/routify",
+		"scope": "roxi",
+		"version": "2.18.11",
+		"description": "Routes for Svelte, automated by your file structure",
+		"date": "2023-01-25T16:31:46.748Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40roxi%2Froutify",
+			"homepage": "https://routify.dev",
+			"repository": "https://github.com/roxiness/routify"
+		},
+		"author": {
+			"name": "jakobrosenberg@gmail.com"
+		},
+		"publisher": {
+			"username": "jakobrosenberg",
+			"email": "jakobrosenberg@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jakobrosenberg",
+				"email": "jakobrosenberg@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3765458034194108,
+		"detail": {
+			"quality": 0.8164877688296698,
+			"popularity": 0.04266516029669501,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000018249611
+}

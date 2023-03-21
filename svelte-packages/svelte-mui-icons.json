@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-mui-icons",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Example: ```ts import { Home } from \"svelte-mui-icons\";",
+		"date": "2022-12-04T09:39:53.887Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-mui-icons"
+		},
+		"publisher": {
+			"username": "minhson98",
+			"email": "leminhson2398@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "minhson98",
+				"email": "leminhson2398@outlook.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24969869393678557,
+		"detail": {
+			"quality": 0.4414488748228714,
+			"popularity": 0.002058568978468722,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 2.2629398e-7
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-search-table",
+		"scope": "unscoped",
+		"version": "0.0.6",
+		"description": "A simple component making a searchable table of a JSON",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2023-01-29T13:13:03.956Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-search-table",
+			"homepage": "https://gitlab.com/tcsorrel/svelte-search-table#readme",
+			"repository": "https://gitlab.com/tcsorrel/svelte-search-table",
+			"bugs": "https://gitlab.com/tcsorrel/svelte-search-table/issues"
+		},
+		"author": {
+			"name": "Thomas Sorrel"
+		},
+		"publisher": {
+			"username": "tcsorrel",
+			"email": "thomas@pandeiro.fr"
+		},
+		"maintainers": [
+			{
+				"username": "tcsorrel",
+				"email": "thomas@pandeiro.fr"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23009634108762733,
+		"detail": {
+			"quality": 0.37966061382637617,
+			"popularity": 0.0028330370823635496,
+			"maintenance": 0.32916169703110637
+		}
+	},
+	"searchScore": 8.406974e-8
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svfx",
+		"scope": "unscoped",
+		"version": "0.0.6-minorupdate-fix6",
+		"description": "Animation effects that use the use directive in svelte.",
+		"keywords": [
+			"js",
+			"animation",
+			"svelte",
+			"fx"
+		],
+		"date": "2022-03-05T20:59:27.431Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svfx"
+		},
+		"author": {
+			"name": "damian-deni"
+		},
+		"publisher": {
+			"username": "damian-deni",
+			"email": "damiandeni888@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "damian-deni",
+				"email": "damiandeni888@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22291526394305403,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0026783412440210402,
+			"maintenance": 0.2878079139469282
+		}
+	},
+	"searchScore": 2.7942184e-8
+}

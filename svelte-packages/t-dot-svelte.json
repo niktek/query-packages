@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "t-dot-svelte",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Stupid Simple Client-Side Translation Library for Svelte",
+		"date": "2020-12-17T02:21:34.366Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/t-dot-svelte",
+			"homepage": "https://github.com/jjnguy/t-dot-svelte#readme",
+			"repository": "https://github.com/jjnguy/t-dot-svelte",
+			"bugs": "https://github.com/jjnguy/t-dot-svelte/issues"
+		},
+		"author": {
+			"name": "jjnguy"
+		},
+		"publisher": {
+			"username": "jjnguy",
+			"email": "justin.john.nelson@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jjnguy",
+				"email": "justin.john.nelson@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.168625439994671,
+		"detail": {
+			"quality": 0.455756866909874,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.4200554e-9
+}

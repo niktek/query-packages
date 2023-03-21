@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "pika-svelte-language-server",
+		"scope": "unscoped",
+		"version": "0.13.10",
+		"description": "A language server for Svelte",
+		"keywords": [
+			"svelte",
+			"vscode",
+			"atom",
+			"editor",
+			"language-server"
+		],
+		"date": "2021-05-07T12:37:37.240Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/pika-svelte-language-server",
+			"homepage": "https://github.com/sveltejs/language-tools#readme",
+			"repository": "https://github.com/sveltejs/language-tools",
+			"bugs": "https://github.com/sveltejs/language-tools/issues"
+		},
+		"author": {
+			"name": "James Birtles",
+			"email": "jameshbirtles@gmail.com"
+		},
+		"publisher": {
+			"username": "gisonyeung",
+			"email": "gisonyeung@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gisonyeung",
+				"email": "gisonyeung@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17360389551044955,
+		"detail": {
+			"quality": 0.2629133789118498,
+			"popularity": 0.02014322761030037,
+			"maintenance": 0.25051357763796994
+		}
+	},
+	"searchScore": 2.3120585e-9
+}

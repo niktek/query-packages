@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "svelte-ast-rewriter",
+		"scope": "unscoped",
+		"version": "0.1.12",
+		"date": "2021-05-13T12:32:15.460Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ast-rewriter"
+		},
+		"publisher": {
+			"username": "mizchi",
+			"email": "miz404@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mizchi",
+				"email": "miz404@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2748209031116542,
+		"detail": {
+			"quality": 0.6304172051129512,
+			"popularity": 0.0030281911958142172,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 8.2953284e-7
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-hcaptcha",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "An <HCaptcha> component for Svelte apps.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-04-18T11:43:21.517Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-hcaptcha",
+			"homepage": "https://github.com/mrmikardo/svelte-hcaptcha#readme",
+			"repository": "https://github.com/mrmikardo/svelte-hcaptcha",
+			"bugs": "https://github.com/mrmikardo/svelte-hcaptcha/issues"
+		},
+		"author": {
+			"name": "mrmikardo"
+		},
+		"publisher": {
+			"username": "colinattab",
+			"email": "colin@withtab.com"
+		},
+		"maintainers": [
+			{
+				"username": "colinattab",
+				"email": "colin@withtab.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1894621432245987,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.011009081466251805,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 8.851653e-9
+}

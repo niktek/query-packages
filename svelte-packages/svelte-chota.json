@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-chota",
+		"scope": "unscoped",
+		"version": "1.8.6",
+		"description": "Svelte UI components based on super lightweight chota CSS framework.",
+		"keywords": [
+			"svelte",
+			"chota",
+			"svelte ui kit",
+			"ui",
+			"ui kit",
+			"sveltejs"
+		],
+		"date": "2021-07-29T11:43:20.374Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-chota",
+			"homepage": "https://alexxnb.github.io/svelte-chota"
+		},
+		"author": {
+			"name": "Alexey Schebelev"
+		},
+		"publisher": {
+			"username": "alexxnb",
+			"email": "alexxnb@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "alexxnb",
+				"email": "alexxnb@mail.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24236127591126566,
+		"detail": {
+			"quality": 0.6306602088973513,
+			"popularity": 0.011762479653189646,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 2.6690094e-7
+}

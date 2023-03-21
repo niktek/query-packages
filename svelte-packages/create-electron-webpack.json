@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "create-electron-webpack",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "Yet another create-electron-app.",
+		"keywords": [
+			"electron",
+			"react",
+			"vue",
+			"svelte",
+			"typescript",
+			"template",
+			"hot-reload"
+		],
+		"date": "2023-03-18T06:56:46.247Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-electron-webpack",
+			"homepage": "https://github.com/sprout2000/create-electron-webpack#readme",
+			"repository": "https://github.com/sprout2000/create-electron-webpack",
+			"bugs": "https://github.com/sprout2000/create-electron-webpack/issues"
+		},
+		"author": {
+			"name": "sprout2000"
+		},
+		"publisher": {
+			"username": "sprout2000",
+			"email": "office@nishigami.jp"
+		},
+		"maintainers": [
+			{
+				"username": "sprout2000",
+				"email": "office@nishigami.jp"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2547928164206976,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.009522633146967937,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.1710227e-7
+}

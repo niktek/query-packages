@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@nekta-dev/ui",
+		"scope": "nekta-dev",
+		"version": "0.0.12",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-06-03T22:23:20.139Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nekta-dev%2Fui"
+		},
+		"publisher": {
+			"username": "dev-kcw",
+			"email": "dev@kcwesley.uk"
+		},
+		"maintainers": [
+			{
+				"username": "dev-kcw",
+				"email": "dev@kcwesley.uk"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22241263438680137,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0025149676818215115,
+			"maintenance": 0.3319307536265274
+		}
+	},
+	"searchScore": 1.0527831e-8
+}

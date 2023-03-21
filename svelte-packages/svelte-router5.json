@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-router5",
+		"scope": "unscoped",
+		"version": "1.0.46",
+		"description": "router5 helpers for SvelteJS",
+		"keywords": [
+			"router",
+			"html5",
+			"history",
+			"tree",
+			"svelte",
+			"functional"
+		],
+		"date": "2017-12-07T22:50:47.861Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-router5"
+		},
+		"author": {
+			"name": "Shane Warren"
+		},
+		"publisher": {
+			"username": "shanewwarren",
+			"email": "shanewwarren@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shanewwarren",
+				"email": "shanewwarren@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.189682179038892,
+		"detail": {
+			"quality": 0.5236192259924737,
+			"popularity": 0.0033909060089796455,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.574338e-9
+}

@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "daisy-svelte",
+		"scope": "unscoped",
+		"version": "0.0.44",
+		"description": "[![npm version](https://badge.fury.io/js/daisy-svelte.svg)](https://badge.fury.io/js/daisy-svelte)",
+		"date": "2022-08-27T17:21:05.703Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/daisy-svelte",
+			"homepage": "https://walker-walks.github.io/daisy-svelte/"
+		},
+		"author": {
+			"name": "Marcio Koji Carvalho",
+			"email": "stylethewalker@gmail.com",
+			"url": "https://walker-walks.github.io/daisy-svelte/",
+			"username": "walker-walks"
+		},
+		"publisher": {
+			"username": "walker-walks",
+			"email": "stylethewalker@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "walker-walks",
+				"email": "stylethewalker@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26983046888633394,
+		"detail": {
+			"quality": 0.50656982042926,
+			"popularity": 0.0034081688964649817,
+			"maintenance": 0.333333324696552
+		}
+	},
+	"searchScore": 7.173007e-7
+}

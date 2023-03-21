@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "supabase-svelte-ui",
+		"scope": "unscoped",
+		"version": "0.0.8",
+		"description": "A Supabase-ui implementation in svelte",
+		"date": "2022-05-16T03:11:12.023Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/supabase-svelte-ui",
+			"homepage": "https://github.com/atordvairn/supabase-svelte-ui#readme",
+			"repository": "https://github.com/atordvairn/supabase-svelte-ui",
+			"bugs": "https://github.com/atordvairn/supabase-svelte-ui/issues"
+		},
+		"author": {
+			"name": "atordvairn",
+			"email": "atordvairn@gmail.com",
+			"username": "atordvairn"
+		},
+		"publisher": {
+			"username": "atordvairn",
+			"email": "atordvairn@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "atordvairn",
+				"email": "atordvairn@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22219777152503356,
+		"detail": {
+			"quality": 0.3531516037459097,
+			"popularity": 0.0024307289825627964,
+			"maintenance": 0.3297186721638963
+		}
+	},
+	"searchScore": 4.5870188e-8
+}

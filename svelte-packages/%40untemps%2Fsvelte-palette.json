@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@untemps/svelte-palette",
+		"scope": "untemps",
+		"version": "2.3.1",
+		"description": "Svelte component to display a customisable color picker",
+		"keywords": [
+			"palette",
+			"color",
+			"color-picker",
+			"svelte",
+			"svelte-component",
+			"component",
+			"javascript"
+		],
+		"date": "2023-03-19T12:39:15.969Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40untemps%2Fsvelte-palette"
+		},
+		"author": {
+			"name": "Vincent Le Badezet",
+			"email": "v.lebadezet@untemps.net",
+			"username": "untemps"
+		},
+		"publisher": {
+			"username": "untemps",
+			"email": "v.lebadezet@untemps.net"
+		},
+		"maintainers": [
+			{
+				"username": "untemps",
+				"email": "v.lebadezet@untemps.net"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3867571213846037,
+		"detail": {
+			"quality": 0.8895361922957907,
+			"popularity": 0.009227420083428303,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00011759099
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@regnou.a/ui-cell",
+		"scope": "regnou.a",
+		"version": "0.0.11",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-11-10T23:19:24.854Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40regnou.a%2Fui-cell"
+		},
+		"publisher": {
+			"username": "regnou.a",
+			"email": "nzaero@hotmail.fr"
+		},
+		"maintainers": [
+			{
+				"username": "regnou.a",
+				"email": "nzaero@hotmail.fr"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22334254063891454,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0037692629810531916,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.1285276e-8
+}

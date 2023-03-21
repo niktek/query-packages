@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@aseemtaneja/svelte-headlessui",
+		"scope": "aseemtaneja",
+		"version": "0.0.2",
+		"description": "rgossiaux/svelte-headlessui with some patches",
+		"date": "2023-01-06T01:21:45.604Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40aseemtaneja%2Fsvelte-headlessui"
+		},
+		"publisher": {
+			"username": "aseemtaneja",
+			"email": "taneja.aseem@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "aseemtaneja",
+				"email": "taneja.aseem@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2540388194582999,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.02112802472262378,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 3.3664253e-7
+}

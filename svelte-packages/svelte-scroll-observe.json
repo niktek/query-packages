@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-scroll-observe",
+		"scope": "unscoped",
+		"version": "0.2.3",
+		"description": "```html <script lang=\"ts\">   import { Focus, Pager } from 'svelte-scroll-observe'",
+		"keywords": [
+			"svelte",
+			"component",
+			"scroll",
+			"observer"
+		],
+		"date": "2022-11-05T17:12:12.738Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-scroll-observe",
+			"homepage": "https://github.com/7korobi/svelte-scroll-observe/blob/main/src/lib/"
+		},
+		"author": {
+			"name": "7korobi",
+			"email": "7korobi@gmail.com",
+			"username": "7korobi"
+		},
+		"publisher": {
+			"username": "7korobi",
+			"email": "7korobi@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "7korobi",
+				"email": "7korobi@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24783834205783206,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.003060562666411201,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.436801e-7
+}

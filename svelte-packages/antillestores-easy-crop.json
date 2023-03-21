@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "antillestores-easy-crop",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "A Svelte component to crop images with easy interactions",
+		"keywords": [
+			"svelte",
+			"image crop",
+			"cropper"
+		],
+		"date": "2019-05-27T03:37:39.162Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/antillestores-easy-crop",
+			"homepage": "https://github.com/ValentinH/svelte-easy-crop",
+			"repository": "https://github.com/ValentinH/svelte-easy-crop",
+			"bugs": "https://github.com/ValentinH/svelte-easy-crop/issues"
+		},
+		"author": {
+			"name": "Valentin Hervieu",
+			"email": "valentin@hervi.eu"
+		},
+		"publisher": {
+			"username": "antillestores",
+			"email": "davy.ovar@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "antillestores",
+				"email": "davy.ovar@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.33225520585589075,
+		"detail": {
+			"quality": 0.9813440815772786,
+			"popularity": 0.018406820699143272,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000085217525
+}

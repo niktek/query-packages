@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@fireworks-js/svelte",
+		"scope": "fireworks-js",
+		"version": "2.10.2",
+		"description": "A simple fireworks library!",
+		"keywords": [
+			"svelte",
+			"canvas",
+			"fireworks",
+			"animation"
+		],
+		"date": "2023-02-16T14:32:28.428Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40fireworks-js%2Fsvelte",
+			"homepage": "https://fireworks.js.org",
+			"repository": "https://github.com/crashmax-dev/fireworks-js",
+			"bugs": "https://github.com/crashmax-dev/fireworks-js/issues"
+		},
+		"author": {
+			"name": "Vitalij Ryndin",
+			"email": "sys@crashmax.ru",
+			"url": "https://crashmax.ru"
+		},
+		"publisher": {
+			"username": "crashmax",
+			"email": "crashmax.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "crashmax",
+				"email": "crashmax.dev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28478506839256346,
+		"detail": {
+			"quality": 0.5532621648060521,
+			"popularity": 0.006113577954517656,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000015938017
+}

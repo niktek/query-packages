@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-popover",
+		"scope": "unscoped",
+		"version": "2.0.8",
+		"description": "A smart popover component for Svelte",
+		"keywords": [
+			"popover",
+			"svelte",
+			"sveltejs",
+			"svelte-popover"
+		],
+		"date": "2019-10-16T12:11:15.168Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-popover",
+			"homepage": "https://github.com/vaheqelyan/svelte-popover#readme",
+			"repository": "https://github.com/vaheqelyan/svelte-popover",
+			"bugs": "https://github.com/vaheqelyan/svelte-popover/issues"
+		},
+		"author": {
+			"name": "Vahe Araqelyan",
+			"email": "vaheqelyan@mail.com"
+		},
+		"publisher": {
+			"username": "vaheqelyan",
+			"email": "vahe.araqelyan.2013@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vaheqelyan",
+				"email": "vahe.araqelyan.2013@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19718589439981127,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.01118697878019146,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.7882018e-8
+}

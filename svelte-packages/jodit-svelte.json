@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "jodit-svelte",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Svelte3 component for Jodit",
+		"keywords": [
+			"wysiwyg",
+			"rich text",
+			"editor",
+			"html",
+			"contentEditable",
+			"editing",
+			"svelte",
+			"svelte.js",
+			"svelte component",
+			"svelte component jodit",
+			"svelte3 component",
+			"jodit"
+		],
+		"date": "2023-02-22T19:38:11.460Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/jodit-svelte",
+			"homepage": "https://github.com/jodit/jodit-svelte",
+			"repository": "https://github.com/jodit/jodit-svelte",
+			"bugs": "https://github.com/jodit/jodit-svelte/issues"
+		},
+		"author": {
+			"name": "Valerii Chupurniov",
+			"email": "chupurnov@gmail.com",
+			"username": "xdan"
+		},
+		"publisher": {
+			"username": "xdan",
+			"email": "chupurnov@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "xdan",
+				"email": "chupurnov@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28062315719013325,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.005987522384941076,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000014729794
+}

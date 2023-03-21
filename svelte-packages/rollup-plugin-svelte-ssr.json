@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "rollup-plugin-svelte-ssr",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Server-side rendering of Svelte app at build-time using Rollup plugin",
+		"keywords": [
+			"svelte",
+			"ssr",
+			"rollup-plugin"
+		],
+		"date": "2020-06-12T06:54:08.965Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/rollup-plugin-svelte-ssr",
+			"homepage": "https://github.com/akaSybe/rollup-plugin-svelte-ssr#readme",
+			"repository": "https://github.com/akaSybe/rollup-plugin-svelte-ssr",
+			"bugs": "https://github.com/akaSybe/rollup-plugin-svelte-ssr/issues"
+		},
+		"author": {
+			"name": "Aleksandr Shestakov"
+		},
+		"publisher": {
+			"username": "akasybe",
+			"email": "akasybe@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "akasybe",
+				"email": "akasybe@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21274311756967051,
+		"detail": {
+			"quality": 0.600959065094793,
+			"popularity": 0.0029880111520730985,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.7238806e-8
+}

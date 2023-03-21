@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@nelreina/nr-svelte",
+		"scope": "nelreina",
+		"version": "0.0.8",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2022-01-16T07:43:05.287Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nelreina%2Fnr-svelte"
+		},
+		"publisher": {
+			"username": "nelreina",
+			"email": "nelreina@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nelreina",
+				"email": "nelreina@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18432353717507519,
+		"detail": {
+			"quality": 0.3530825645338893,
+			"popularity": 0.002198420266089823,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 3.935882e-9
+}

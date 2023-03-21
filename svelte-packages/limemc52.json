@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "limemc52",
+		"scope": "unscoped",
+		"version": "6.0.10",
+		"description": "A lightweight Svelte component library for building interactive node-based flow diagrams",
+		"keywords": [
+			"svelte",
+			"svelvet",
+			"typescript"
+		],
+		"date": "2023-02-20T23:22:26.879Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/limemc52",
+			"homepage": "https://github.com/open-source-labs/Svelvet",
+			"repository": "https://github.com/open-source-labs/Svelvet",
+			"bugs": "https://github.com/open-source-labs/Svelvet/issues"
+		},
+		"publisher": {
+			"username": "michael-chiang-dev5",
+			"email": "michael.chiang.dev5@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "michael-chiang-dev5",
+				"email": "michael.chiang.dev5@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2769199993010081,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.0045780388277857145,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.439267e-7
+}

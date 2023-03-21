@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@tomic/svelte",
+		"scope": "tomic",
+		"version": "0.35.1",
+		"description": "Atomic Data Svelte library",
+		"date": "2023-02-14T13:56:57.788Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tomic%2Fsvelte"
+		},
+		"author": {
+			"name": "Polle Pas"
+		},
+		"publisher": {
+			"username": "joepio",
+			"email": "joep@argu.co"
+		},
+		"maintainers": [
+			{
+				"username": "polle",
+				"email": "polle@ontola.io"
+			},
+			{
+				"username": "joepio",
+				"email": "joep@argu.co"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2559741803044836,
+		"detail": {
+			"quality": 0.4561641995939096,
+			"popularity": 0.007023582170411664,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.6825963e-7
+}

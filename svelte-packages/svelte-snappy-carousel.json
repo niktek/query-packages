@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-snappy-carousel",
+		"scope": "unscoped",
+		"version": "0.2.2",
+		"description": "Touch-friendly snappy horizontal carousel for svelte.",
+		"keywords": [
+			"svelte",
+			"carousel",
+			"touch"
+		],
+		"date": "2021-10-09T23:08:16.301Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-snappy-carousel"
+		},
+		"author": {
+			"name": "Jordan Yoon-Buck",
+			"email": "jordan@yoonbuck.com",
+			"username": "yoonbuck"
+		},
+		"publisher": {
+			"username": "yoonbuck",
+			"email": "jordan@yoonbuck.com"
+		},
+		"maintainers": [
+			{
+				"username": "yoonbuck",
+				"email": "jordan@yoonbuck.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19219844402787167,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0018237123985175437,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 8.84366e-9
+}

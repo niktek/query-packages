@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-can-draw",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "svelte componet featuring a canvas element and exposing canvas drawing methods",
+		"keywords": [
+			"svelte",
+			"draw",
+			"canvas",
+			"graphics"
+		],
+		"date": "2021-12-09T05:41:00.090Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-can-draw",
+			"homepage": "https://github.com/copious-world/can-draw#readme",
+			"repository": "https://github.com/copious-world/can-draw",
+			"bugs": "https://github.com/copious-world/can-draw/issues"
+		},
+		"author": {
+			"name": "Richard Leddy"
+		},
+		"publisher": {
+			"username": "rleddy",
+			"email": "richardaleddy@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rleddy",
+				"email": "richardaleddy@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16964423992550076,
+		"detail": {
+			"quality": 0.34764077822073924,
+			"popularity": 0.0018770928117855673,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 1.587556e-9
+}

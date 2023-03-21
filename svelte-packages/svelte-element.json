@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-element",
+		"scope": "unscoped",
+		"version": "0.0.6",
+		"description": "Element UI in svelte",
+		"keywords": [
+			"element ui",
+			"svelte",
+			"typescript"
+		],
+		"date": "2020-12-28T14:49:28.689Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-element",
+			"homepage": "https://mistlog.github.io/svelte-element/",
+			"repository": "https://github.com/mistlog/svelte-element"
+		},
+		"author": {
+			"name": "mistlog"
+		},
+		"publisher": {
+			"username": "mistlog",
+			"email": "mistlog@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "mistlog",
+				"email": "mistlog@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18211397384684863,
+		"detail": {
+			"quality": 0.49980562656924865,
+			"popularity": 0.002179119251619947,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.2955857e-9
+}

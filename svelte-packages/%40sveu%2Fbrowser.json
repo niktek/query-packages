@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@sveu/browser",
+		"scope": "sveu",
+		"version": "0.20.0",
+		"description": "A collection of browser utilities for Svelte",
+		"keywords": [
+			"svelte",
+			"browser",
+			"webapi",
+			"web-api"
+		],
+		"date": "2023-03-19T08:53:58.154Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveu%2Fbrowser",
+			"homepage": "https://github.com/svelte-u/browser#readme",
+			"repository": "https://github.com/svelte-u/browser",
+			"bugs": "https://github.com/svelte-u/browser/issues"
+		},
+		"author": {
+			"name": "Mohamed Nesredin",
+			"email": "https://github.com/Mohamed-Kaizen"
+		},
+		"publisher": {
+			"username": "mohamed-kaizen",
+			"email": "mohamednesredin19@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mohamed-kaizen",
+				"email": "mohamednesredin19@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2583474818818554,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.03308667644933505,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.5997295e-7
+}

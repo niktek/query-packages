@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@opengamestack-svelte/logo",
+		"scope": "opengamestack-svelte",
+		"version": "1.0.0",
+		"description": "Open Game Stack custom AWS CDK construct for setting up static websites",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-05-01T03:28:07.843Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40opengamestack-svelte%2Flogo",
+			"homepage": "https://github.com/opengamestack/svelte",
+			"repository": "https://github.com/opengamestack/svelte",
+			"bugs": "https://github.com/opengamestack/svelte/issues"
+		},
+		"author": {
+			"name": "Open Game Stack",
+			"url": "https://opengamestack.com"
+		},
+		"publisher": {
+			"username": "bartoszkrol",
+			"email": "bartosz.krol@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bartoszkrol",
+				"email": "bartosz.krol@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19434686535887802,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.01822848524050704,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.3261589e-8
+}

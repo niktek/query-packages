@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@lucid-framework/orm",
+		"scope": "lucid-framework",
+		"version": "0.1.2",
+		"description": "Surreal ORM assists you in building type safe apps with SurrealDB, without the need for a backend (although, you could have one), it is platform and framework agnostic meaning it can run anywhere: React, React Native, Svelte, Tauri, Tauri Mobile, Cloudfla",
+		"date": "2023-02-07T15:22:58.744Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40lucid-framework%2Form"
+		},
+		"publisher": {
+			"username": "chirub",
+			"email": "chirub@foretag.co"
+		},
+		"maintainers": [
+			{
+				"username": "chirub",
+				"email": "chirub@foretag.co"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3307497520882187,
+		"detail": {
+			"quality": 0.7067200849252295,
+			"popularity": 0.005905885554237768,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000012383343
+}

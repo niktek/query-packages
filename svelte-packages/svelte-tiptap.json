@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-tiptap",
+		"scope": "unscoped",
+		"version": "0.7.0",
+		"description": "Svelte components for tiptap v2",
+		"keywords": [
+			"svelte",
+			"tiptap",
+			"svelte-tiptap",
+			"tiptap-v2",
+			"prosemirror",
+			"rich-text-editor"
+		],
+		"date": "2022-12-15T09:55:48.659Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tiptap",
+			"homepage": "https://github.com/sibiraj-s/svelte-tiptap#readme",
+			"repository": "https://github.com/sibiraj-s/svelte-tiptap",
+			"bugs": "https://github.com/sibiraj-s/svelte-tiptap/issues"
+		},
+		"author": {
+			"name": "sibiraj-s"
+		},
+		"publisher": {
+			"username": "sibiraj-s",
+			"email": "kap9xb3d5@mozmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sibiraj-s",
+				"email": "kap9xb3d5@mozmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25781063197739784,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.018832230539822734,
+			"maintenance": 0.33264606610247904
+		}
+	},
+	"searchScore": 5.4499424e-7
+}

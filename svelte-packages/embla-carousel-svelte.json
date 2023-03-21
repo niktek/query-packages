@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "embla-carousel-svelte",
+		"scope": "unscoped",
+		"version": "7.1.0",
+		"description": "A lightweight carousel library with fluid motion and great swipe precision",
+		"keywords": [
+			"slider",
+			"carousel",
+			"slideshow",
+			"gallery",
+			"lightweight",
+			"touch",
+			"javascript",
+			"typescript",
+			"react",
+			"vue",
+			"svelte"
+		],
+		"date": "2023-03-08T19:58:08.141Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/embla-carousel-svelte",
+			"homepage": "https://www.embla-carousel.com",
+			"repository": "https://github.com/davidjerleke/embla-carousel",
+			"bugs": "https://github.com/davidjerleke/embla-carousel/issues"
+		},
+		"author": {
+			"name": "David Jerleke"
+		},
+		"publisher": {
+			"username": "davidjerleke",
+			"email": "david.jerleke@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "davidjerleke",
+				"email": "david.jerleke@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2946841892828438,
+		"detail": {
+			"quality": 0.5724275598253187,
+			"popularity": 0.017969299053090103,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000025847505
+}

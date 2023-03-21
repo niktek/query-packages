@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "rollup-plugin-syntax-highlight-svelte",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "A plugin for Vite and Rollup that creates Svelte components with highlighted code directly from files using Shiki",
+		"keywords": [
+			"rollup-plugin",
+			"vite-plugin",
+			"svelte",
+			"shiki"
+		],
+		"date": "2022-10-05T14:07:01.231Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/rollup-plugin-syntax-highlight-svelte",
+			"homepage": "https://github.com/valterkraemer/rollup-plugin-syntax-highlight#readme",
+			"repository": "https://github.com/valterkraemer/rollup-plugin-syntax-highlight",
+			"bugs": "https://github.com/valterkraemer/rollup-plugin-syntax-highlight/issues"
+		},
+		"author": {
+			"name": "Valter Kraemer"
+		},
+		"publisher": {
+			"username": "valterkraemer",
+			"email": "valterkraemer@mac.com"
+		},
+		"maintainers": [
+			{
+				"username": "valterkraemer",
+				"email": "valterkraemer@mac.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2195801830548418,
+		"detail": {
+			"quality": 0.3422980387182727,
+			"popularity": 0.0020673869831863436,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 3.7812537e-8
+}

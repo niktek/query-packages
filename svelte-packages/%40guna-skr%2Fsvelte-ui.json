@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@guna-skr/svelte-ui",
+		"scope": "guna-skr",
+		"version": "1.0.0",
+		"description": "*Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev) and its [package command](https://kit.svelte.dev/docs#packaging) which gives you more built-in features like TypeScript transpilation, type definition generation a",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-10-19T10:22:56.526Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40guna-skr%2Fsvelte-ui",
+			"homepage": "https://github.com/geeky-guna/svelte-ui#readme",
+			"repository": "https://github.com/geeky-guna/svelte-ui",
+			"bugs": "https://github.com/geeky-guna/svelte-ui/issues"
+		},
+		"author": {
+			"name": "GuNa Skr"
+		},
+		"publisher": {
+			"username": "guna-skr",
+			"email": "guna.skr@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "guna-skr",
+				"email": "guna.skr@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17853662436794912,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.01817352608153633,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 4.023453e-9
+}

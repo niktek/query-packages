@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-style",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Style utilities as Svelte actions",
+		"keywords": [
+			"svelte",
+			"svelte action",
+			"action",
+			"utility",
+			"style",
+			"css"
+		],
+		"date": "2021-10-31T02:31:25.841Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-style"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20884415161236045,
+		"detail": {
+			"quality": 0.5492200220748142,
+			"popularity": 0.002101983102836689,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 3.3170096e-8
+}

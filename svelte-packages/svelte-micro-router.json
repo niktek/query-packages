@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-micro-router",
+		"scope": "unscoped",
+		"version": "1.1.8",
+		"description": "Svelte-micro-router does what it says on the tin. It is very micro, please keep this in your mind if you are missing some features.",
+		"keywords": [
+			"svelte",
+			"router",
+			"micro"
+		],
+		"date": "2022-09-15T13:22:52.240Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-micro-router",
+			"homepage": "https://github.com/davidrot/svelte-micro-router#readme",
+			"repository": "https://github.com/davidrot/svelte-micro-router",
+			"bugs": "https://github.com/davidrot/svelte-micro-router/issues"
+		},
+		"author": {
+			"name": "David Rothmann"
+		},
+		"publisher": {
+			"username": "davidrot1",
+			"email": "rothmannd@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "davidrot1",
+				"email": "rothmannd@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26842200377510406,
+		"detail": {
+			"quality": 0.5039755837380318,
+			"popularity": 0.002462947589022983,
+			"maintenance": 0.3324779914215327
+		}
+	},
+	"searchScore": 7.218773e-7
+}

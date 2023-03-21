@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@responsive-ui/accordion",
+		"scope": "responsive-ui",
+		"version": "1.1.0-alpha.30",
+		"description": "An accordion component of responsive-ui.",
+		"keywords": [
+			"svelte",
+			"ui-component",
+			"responsive-ui",
+			"accordion",
+			"svelte-accordion"
+		],
+		"date": "2022-08-03T06:58:17.838Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40responsive-ui%2Faccordion",
+			"homepage": "https://github.com/wetix/responsive-ui/blob/main/components/accordion#README.md",
+			"repository": "https://github.com/wetix/responsive-ui",
+			"bugs": "https://github.com/wetix/responsive-ui/issues"
+		},
+		"author": {
+			"name": "Si3nLoong",
+			"email": "sianloong90@gmail.com",
+			"url": "https://github.com/si3nloong"
+		},
+		"publisher": {
+			"username": "mohamadharith",
+			"email": "harith@revenuemonster.my"
+		},
+		"maintainers": [
+			{
+				"username": "mohamadharith",
+				"email": "harith@revenuemonster.my"
+			},
+			{
+				"username": "charu.yussuf",
+				"email": "yussuf@revenuemonster.my"
+			},
+			{
+				"username": "apacventure",
+				"email": "apacventure@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31095015519640845,
+		"detail": {
+			"quality": 0.6283691853647854,
+			"popularity": 0.021851894984545643,
+			"maintenance": 0.32797496097823386
+		}
+	},
+	"searchScore": 0.0000026570283
+}

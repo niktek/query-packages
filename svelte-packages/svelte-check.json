@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-check",
+		"scope": "unscoped",
+		"version": "3.1.4",
+		"description": "Svelte Code Checker Terminal Interface",
+		"keywords": [
+			"svelte",
+			"cli"
+		],
+		"date": "2023-03-13T17:03:07.531Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-check",
+			"homepage": "https://github.com/sveltejs/language-tools#readme",
+			"repository": "https://github.com/sveltejs/language-tools",
+			"bugs": "https://github.com/sveltejs/language-tools/issues"
+		},
+		"author": {
+			"name": "The Svelte Community"
+		},
+		"publisher": {
+			"username": "svelte-language-tools-deploy",
+			"email": "svelte-language-tools-deploy@orta.io"
+		},
+		"maintainers": [
+			{
+				"username": "dummdidumm",
+				"email": "sholthausen@web.de"
+			},
+			{
+				"username": "svelte-language-tools-deploy",
+				"email": "svelte-language-tools-deploy@orta.io"
+			},
+			{
+				"username": "orta",
+				"email": "orta.therox@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3300716417387827,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.162421924815493,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00004280591
+}

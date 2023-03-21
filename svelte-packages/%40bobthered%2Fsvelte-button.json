@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@bobthered/svelte-button",
+		"scope": "bobthered",
+		"version": "1.0.6",
+		"description": "Svelte component for buttons",
+		"date": "2021-03-14T18:57:37.037Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bobthered%2Fsvelte-button",
+			"homepage": "https://github.com/bobthered/svelte-button#readme",
+			"repository": "https://github.com/bobthered/svelte-button",
+			"bugs": "https://github.com/bobthered/svelte-button/issues"
+		},
+		"publisher": {
+			"username": "bobthered",
+			"email": "bobmcaleavey@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bobthered",
+				"email": "bobmcaleavey@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1850786554178354,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0021247442848442376,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.9373146e-9
+}

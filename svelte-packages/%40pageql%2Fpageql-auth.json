@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@pageql/pageql-auth",
+		"scope": "pageql",
+		"version": "1.0.1",
+		"description": "PageQL Authentiction and Authorization helpers for Svelte",
+		"keywords": [
+			"auth",
+			"authentication",
+			"authorization",
+			"svelte"
+		],
+		"date": "2020-08-06T05:26:33.669Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40pageql%2Fpageql-auth",
+			"homepage": "https://github.com/pageql/pageql-auth#readme",
+			"repository": "https://github.com/pageql/pageql-auth",
+			"bugs": "https://github.com/pageql/pageql-auth/issues"
+		},
+		"author": {
+			"name": "Conner Aldrich"
+		},
+		"publisher": {
+			"username": "conprogramming",
+			"email": "connercaldrich@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "conprogramming",
+				"email": "connercaldrich@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19249538750594253,
+		"detail": {
+			"quality": 0.5154496581509524,
+			"popularity": 0.018431131207570745,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.723479e-9
+}

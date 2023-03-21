@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@htmlbricks/formrenderer-checkboxinput",
+		"scope": "htmlbricks",
+		"version": "0.2.4",
+		"description": "Svelte-Bootstrap Checkbox Input WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2022-01-02T19:14:28.855Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fformrenderer-checkboxinput"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21875792030361574,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.0043301199337042965,
+			"maintenance": 0.33183069184249847
+		}
+	},
+	"searchScore": 2.5284816e-8
+}

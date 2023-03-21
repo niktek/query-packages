@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "create-svelte-trpc",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "Bringing the awesomeness of [`create-t3-app`](https://github.com/t3-oss/create-t3-app) to Svelte. Everything you need to build a [`TRPC`](https://trpc.io/) [`Svelte Kit`](https://kit.svelte.dev/docs/introduction) project.",
+		"date": "2022-08-12T00:26:36.184Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-svelte-trpc"
+		},
+		"publisher": {
+			"username": "olliejt",
+			"email": "ollie@inqling.studio"
+		},
+		"maintainers": [
+			{
+				"username": "olliejt",
+				"email": "ollie@inqling.studio"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2458637297066065,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0022183378900337654,
+			"maintenance": 0.32853380853478065
+		}
+	},
+	"searchScore": 1.7495722e-7
+}

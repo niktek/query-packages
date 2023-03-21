@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@eraviart/svelte-json-tree",
+		"scope": "eraviart",
+		"version": "0.2.1",
+		"description": "Svelte JSON Viewer Component",
+		"keywords": [
+			"svelte",
+			"json viewer",
+			"json",
+			"json tree",
+			"component"
+		],
+		"date": "2022-04-02T21:27:14.109Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40eraviart%2Fsvelte-json-tree",
+			"homepage": "https://github.com/eraviart/svelte-json-tree#readme",
+			"repository": "https://github.com/eraviart/svelte-json-tree",
+			"bugs": "https://github.com/eraviart/svelte-json-tree/issues"
+		},
+		"author": {
+			"name": "Tan Li Hau",
+			"email": "lhtan93@gmail.com"
+		},
+		"publisher": {
+			"username": "eraviart",
+			"email": "emmanuel@raviart.com"
+		},
+		"maintainers": [
+			{
+				"username": "eraviart",
+				"email": "emmanuel@raviart.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23941248054677117,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0018943066632667645,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 1.4186212e-7
+}

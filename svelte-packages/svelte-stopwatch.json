@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-stopwatch",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "A Svelte timer component with a countdown option and events for start, stop, finished and reset of the timer.",
+		"keywords": [
+			"svelte",
+			"timer",
+			"stopwatch",
+			"countdown",
+			"seconds"
+		],
+		"date": "2022-04-01T13:45:20.565Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-stopwatch"
+		},
+		"publisher": {
+			"username": "ero",
+			"email": "erokar@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ero",
+				"email": "erokar@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21319061618905433,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.002375201862988925,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 3.23964e-8
+}

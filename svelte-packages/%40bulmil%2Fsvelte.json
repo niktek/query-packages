@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@bulmil/svelte",
+		"scope": "bulmil",
+		"version": "0.35.0",
+		"description": "Svelte specific wrapper for bulmil",
+		"date": "2023-01-24T01:37:05.454Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bulmil%2Fsvelte",
+			"homepage": "https://github.com/gomah/bulmil#readme",
+			"repository": "https://github.com/gomah/bulmil",
+			"bugs": "https://github.com/gomah/bulmil/issues"
+		},
+		"publisher": {
+			"username": "gomah",
+			"email": "hi@gomah.fr"
+		},
+		"maintainers": [
+			{
+				"username": "gomah",
+				"email": "hi@gomah.fr"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17827778747489115,
+		"detail": {
+			"quality": 0.19931143041959076,
+			"popularity": 0.005193404806706457,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.4120526e-9
+}

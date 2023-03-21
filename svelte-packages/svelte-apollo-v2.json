@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-apollo-v2",
+		"scope": "unscoped",
+		"version": "0.4.0",
+		"description": "Svelte integration for Apollo GraphQL.",
+		"keywords": [
+			"svelte",
+			"apollo",
+			"graphql"
+		],
+		"date": "2022-02-11T03:06:30.664Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-apollo-v2"
+		},
+		"author": {
+			"name": "Tim Hall",
+			"email": "tim.hall.engr@gmail.com"
+		},
+		"publisher": {
+			"username": "zacharycoulter",
+			"email": "zcoulter@apez.net"
+		},
+		"maintainers": [
+			{
+				"username": "zacharycoulter",
+				"email": "zcoulter@apez.net"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1786707831078326,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0015288687180486996,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 3.6262622e-9
+}

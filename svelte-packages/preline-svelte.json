@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "preline-svelte",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "[![npm version](https://badge.fury.io/js/preline-svelte.svg)](https://badge.fury.io/js/preline-svelte)",
+		"date": "2023-03-20T16:22:14.714Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/preline-svelte",
+			"homepage": "https://github.com/matteopolak/preline-svelte#readme",
+			"repository": "https://github.com/matteopolak/preline-svelte",
+			"bugs": "https://github.com/matteopolak/preline-svelte/issues"
+		},
+		"author": {
+			"name": "Matthew Polak",
+			"email": "contact@matteopolak.com"
+		},
+		"publisher": {
+			"username": "matteopolak",
+			"email": "matteopolak@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "matteopolak",
+				"email": "matteopolak@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.246313940519989,
+		"detail": {
+			"quality": 0.4299046748627076,
+			"popularity": 0.0019310611271715725,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.0097205e-7
+}

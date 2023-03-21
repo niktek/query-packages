@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@perbyhring/svelte-three",
+		"scope": "perbyhring",
+		"version": "0.0.1",
+		"description": "This library lets you create `three.js`-scenes in Svelte templates. It's heavily inspired by [react-three-fiber](https://github.com/react-spring/react-three-fiber).",
+		"date": "2021-10-29T07:20:11.302Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40perbyhring%2Fsvelte-three"
+		},
+		"author": {
+			"name": "Per Byhring",
+			"email": "perbyhring@outlook.com",
+			"url": "https://twitter.com/perbyhring",
+			"username": "perbyhring"
+		},
+		"publisher": {
+			"username": "perbyhring",
+			"email": "perbyhring@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "perbyhring",
+				"email": "perbyhring@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1767852726709274,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.018553864803604738,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 2.8763691e-9
+}

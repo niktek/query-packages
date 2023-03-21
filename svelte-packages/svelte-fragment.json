@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-fragment",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Svelte action to render components and elements in slots without DOM containers",
+		"keywords": [
+			"svelte",
+			"fragment"
+		],
+		"date": "2019-06-17T20:27:52.491Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-fragment",
+			"homepage": "https://github.com/qutran/svelte-fragment",
+			"repository": "https://github.com/qutran/svelte-fragment",
+			"bugs": "https://github.com/qutran/svelte-fragment/issues"
+		},
+		"author": {
+			"name": "Dmitry Kutran",
+			"email": "kutran.dmitry@gmail.com",
+			"url": "https://github.com/qutran",
+			"username": "dmitry.kutran"
+		},
+		"publisher": {
+			"username": "dmitry.kutran",
+			"email": "kutran.dmitry@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dmitry.kutran",
+				"email": "kutran.dmitry@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19080911399991074,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.002138573763678048,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 9.930652e-9
+}

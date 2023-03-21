@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "svelte-qr",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "QR-code generator component for svelte",
+		"keywords": [
+			"svelte",
+			"qr"
+		],
+		"date": "2020-07-26T12:05:07.714Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-qr"
+		},
+		"publisher": {
+			"username": "jnordberg",
+			"email": "code@johan-nordberg.com"
+		},
+		"maintainers": [
+			{
+				"username": "jnordberg",
+				"email": "code@johan-nordberg.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1980411547995044,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.013630579922171818,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.9593443e-8
+}

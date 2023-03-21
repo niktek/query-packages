@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "@onsvisual/svelte-maps",
+		"scope": "onsvisual",
+		"version": "1.1.6",
+		"description": "Reusable map components for Svelte projects.",
+		"keywords": [
+			"svelte",
+			"maps",
+			"mapbox",
+			"dataviz"
+		],
+		"date": "2023-02-22T17:45:13.708Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40onsvisual%2Fsvelte-maps",
+			"homepage": "http://onsvisual.github.io/svelte-maps",
+			"repository": "https://github.com/onsvisual/svelte-maps",
+			"bugs": "https://github.com/onsvisual/svelte-maps/issues"
+		},
+		"author": {
+			"name": "Ahmad Barclay"
+		},
+		"publisher": {
+			"username": "bothness",
+			"email": "abarclay.ons@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "henrylau",
+				"email": "henry.james.lau@gmail.com"
+			},
+			{
+				"username": "jtrim-ons",
+				"email": "jtrim.ons@gmail.com"
+			},
+			{
+				"username": "bothness",
+				"email": "abarclay.ons@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2871551142039054,
+		"detail": {
+			"quality": 0.5570994289366283,
+			"popularity": 0.009596053875000732,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000019962692
+}

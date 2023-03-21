@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-store2storage",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "A functional approach to sync stores to local or session storage",
+		"keywords": [
+			"svelte",
+			"store",
+			"storage"
+		],
+		"date": "2022-09-27T19:55:26.487Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-store2storage",
+			"homepage": "https://github.com/bechii/svelte-store2storage#readme",
+			"repository": "https://github.com/bechii/svelte-store2storage",
+			"bugs": "https://github.com/bechii/svelte-store2storage/issues"
+		},
+		"author": {
+			"name": "Simon Bechmann"
+		},
+		"publisher": {
+			"username": "bechii",
+			"email": "sb-off@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bechii",
+				"email": "sb-off@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3109626131356063,
+		"detail": {
+			"quality": 0.6258202115054826,
+			"popularity": 0.019065763818575568,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 0.000006407093
+}

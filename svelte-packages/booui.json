@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "booui",
+		"scope": "unscoped",
+		"version": "3.3.2",
+		"description": "![Logo](./logo.png)",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-01-30T00:12:18.124Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/booui",
+			"homepage": "https://github.com/fantasyui-com/bookui#readme",
+			"repository": "https://github.com/fantasyui-com/bookui",
+			"bugs": "https://github.com/fantasyui-com/bookui/issues"
+		},
+		"publisher": {
+			"username": "fantasyui.com",
+			"email": "fantasyui.com@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "fantasyui.com",
+				"email": "fantasyui.com@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2987690647854809,
+		"detail": {
+			"quality": 0.8895361922957907,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000017824142
+}

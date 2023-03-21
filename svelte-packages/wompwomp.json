@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "wompwomp",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Small set of utilty functions for my svelte projects",
+		"date": "2022-12-15T17:58:51.385Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/wompwomp",
+			"homepage": "https://github.com/yfi/good#readme",
+			"repository": "https://github.com/yfi/wompwomp",
+			"bugs": "https://github.com/yfi/good/issues"
+		},
+		"author": {
+			"name": "yfi"
+		},
+		"publisher": {
+			"username": "y_fi",
+			"email": "yarek@yarekwaszul.com"
+		},
+		"maintainers": [
+			{
+				"username": "y_fi",
+				"email": "yarek@yarekwaszul.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20692421654932452,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.0029261121356306537,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 3.6710932e-9
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "sveltekit-passport-oauth2",
+		"scope": "unscoped",
+		"version": "0.0.6",
+		"description": "Easy way to use passport (with OAuth2 authentication) in your svelte-kit projects",
+		"keywords": [
+			"SvelteKit",
+			"Svelte-Kit",
+			"Passport",
+			"OAuth",
+			"Google Auth",
+			"Facebook Auth"
+		],
+		"date": "2021-10-24T19:21:24.909Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-passport-oauth2"
+		},
+		"author": {
+			"name": "Fabiohvp"
+		},
+		"publisher": {
+			"username": "fabiohvp",
+			"email": "fabiohvp@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "fabiohvp",
+				"email": "fabiohvp@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18098513329981625,
+		"detail": {
+			"quality": 0.36872506351612505,
+			"popularity": 0.002965736505257889,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 2.3573632e-9
+}

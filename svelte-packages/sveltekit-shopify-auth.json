@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "sveltekit-shopify-auth",
+		"scope": "unscoped",
+		"version": "1.6.3",
+		"description": "A handler to authenticate a SvelteKit application with Shopify",
+		"date": "2022-04-08T09:28:05.590Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-shopify-auth"
+		},
+		"author": {
+			"name": "unlocomqx",
+			"email": "amxmodx.unloco@gmail.com"
+		},
+		"publisher": {
+			"username": "unlocomqx",
+			"email": "tunisoft.solutions@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "unlocomqx",
+				"email": "tunisoft.solutions@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26672352264532245,
+		"detail": {
+			"quality": 0.4969965248782887,
+			"popularity": 0.0031424542002163017,
+			"maintenance": 0.3329277320336004
+		}
+	},
+	"searchScore": 2.2923818e-7
+}

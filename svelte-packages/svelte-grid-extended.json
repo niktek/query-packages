@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "svelte-grid-extended",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "A draggable and resizable grid layout, for Svelte",
+		"keywords": [
+			"svelte",
+			"grid",
+			"drag",
+			"draggable",
+			"resize",
+			"resizable",
+			"fluid",
+			"responsive"
+		],
+		"date": "2022-12-26T17:03:14.372Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-grid-extended",
+			"homepage": "https://github.com/cuire/svelte-grid-extended#readme",
+			"repository": "https://github.com/cuire/svelte-grid-extended",
+			"bugs": "https://github.com/cuire/svelte-grid-extended/issues"
+		},
+		"author": {
+			"name": "cuire",
+			"email": "garwes@icloud.com",
+			"username": "cuire"
+		},
+		"publisher": {
+			"username": "cuire",
+			"email": "garwes@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "cuire",
+				"email": "garwes@icloud.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25045780142970886,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.010544732300344965,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.9525228e-7
+}

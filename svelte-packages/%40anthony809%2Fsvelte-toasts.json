@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@anthony809/svelte-toasts",
+		"scope": "anthony809",
+		"version": "0.0.2",
+		"description": "Svelte Toasts simple component to add PopUp massage on your site.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"toasts",
+			"toast",
+			"popUp"
+		],
+		"date": "2023-01-11T22:15:06.462Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40anthony809%2Fsvelte-toasts"
+		},
+		"author": {
+			"name": "anthony809"
+		},
+		"publisher": {
+			"username": "anthony809",
+			"email": "anthonytoribio809@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anthony809",
+				"email": "anthonytoribio809@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2396971642738871,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0051934368403850975,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 1.5782096e-7
+}

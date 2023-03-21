@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "trpc-svelte-query",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "tRPC Svelte lib",
+		"date": "2023-01-31T23:32:09.119Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/trpc-svelte-query",
+			"homepage": "https://trpc.io",
+			"repository": "https://github.com/trpc/trpc",
+			"bugs": "https://github.com/trpc/trpc/issues"
+		},
+		"author": {
+			"name": "Ottomated"
+		},
+		"publisher": {
+			"username": "ottomated",
+			"email": "otto@ottomated.pw"
+		},
+		"maintainers": [
+			{
+				"username": "ottomated",
+				"email": "otto@ottomated.pw"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2832795807799115,
+		"detail": {
+			"quality": 0.5470734658221853,
+			"popularity": 0.007116783904540742,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000013498358
+}

@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "svelte-reactive-debounce",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Easily debounce svelte store updates and reactive statements (`$:` statements).",
+		"date": "2022-09-28T12:50:40.027Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-reactive-debounce",
+			"homepage": "https://github.com/Elinia/svelte-reactive-debounce"
+		},
+		"publisher": {
+			"username": "elinia",
+			"email": "asdfjhc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "elinia",
+				"email": "asdfjhc@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2543017569978334,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.021879274835576702,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 3.397758e-7
+}

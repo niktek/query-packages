@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@restspace/svelte-schema-form",
+		"scope": "restspace",
+		"version": "0.1.5",
+		"description": "JSON Schema based form generator in Svelte",
+		"keywords": [
+			"svelte",
+			"form generator",
+			"form builder",
+			"json schema"
+		],
+		"date": "2022-10-13T08:18:58.201Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40restspace%2Fsvelte-schema-form",
+			"homepage": "https://github.com/restspace/svelte-schema-form#readme",
+			"repository": "https://github.com/restspace/svelte-schema-form",
+			"bugs": "https://github.com/restspace/svelte-schema-form/issues"
+		},
+		"author": {
+			"name": "James Ellis-Jones"
+		},
+		"publisher": {
+			"username": "restspace",
+			"email": "james@restspace.io"
+		},
+		"maintainers": [
+			{
+				"username": "restspace",
+				"email": "james@restspace.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2404877974488929,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.007362538097724958,
+			"maintenance": 0.3333309556813353
+		}
+	},
+	"searchScore": 1.5325665e-7
+}

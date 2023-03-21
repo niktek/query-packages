@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-typed-js",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "A Svelte.js integration for Typed.js.",
+		"keywords": [
+			"svelte-typed-js"
+		],
+		"date": "2020-11-06T18:58:47.325Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-typed-js"
+		},
+		"author": {
+			"name": "Melih Altıntaş"
+		},
+		"publisher": {
+			"username": "melihaltintas",
+			"email": "melihaltintas@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "melihaltintas",
+				"email": "melihaltintas@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18478134588378414,
+		"detail": {
+			"quality": 0.5039755837380318,
+			"popularity": 0.006225933212478744,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.0024203e-9
+}

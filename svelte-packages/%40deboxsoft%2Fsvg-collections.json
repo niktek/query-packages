@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@deboxsoft/svg-collections",
+		"scope": "deboxsoft",
+		"version": "1.0.2",
+		"description": "Icon for svelte",
+		"date": "2022-08-21T07:42:32.432Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40deboxsoft%2Fsvg-collections"
+		},
+		"author": {
+			"name": "Nurdiansyah"
+		},
+		"publisher": {
+			"username": "nurdiansyah",
+			"email": "deboxserver@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nurdiansyah",
+				"email": "deboxserver@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22165581322155659,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.0016661692551382154,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 1.2400513e-8
+}

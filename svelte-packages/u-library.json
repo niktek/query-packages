@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "u-library",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2023-03-08T20:44:38.535Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/u-library"
+		},
+		"author": {
+			"name": "Brian Pando"
+		},
+		"publisher": {
+			"username": "brianpando",
+			"email": "unasbrian@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "brianpando",
+				"email": "unasbrian@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22071959765056304,
+		"detail": {
+			"quality": 0.3422980387182727,
+			"popularity": 0.0038957696240417214,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.449884e-8
+}

@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-fast-dimension",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Fast dimension bindings using ResizeObservers",
+		"keywords": [
+			"svelte",
+			"preprocess",
+			"dimension",
+			"resize-observer"
+		],
+		"date": "2021-11-15T17:08:42.740Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-fast-dimension",
+			"homepage": "https://github.com/bluwy/svelte-fast-dimension#readme",
+			"repository": "https://github.com/bluwy/svelte-fast-dimension",
+			"bugs": "https://github.com/bluwy/svelte-fast-dimension/issues"
+		},
+		"author": {
+			"name": "Bjorn Lu"
+		},
+		"publisher": {
+			"username": "bjornlu",
+			"email": "bjornlu.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bluwy",
+				"email": "bjornlu.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2293669031402052,
+		"detail": {
+			"quality": 0.39802258930009876,
+			"popularity": 0.010815003942034392,
+			"maintenance": 0.3033567856298959
+		}
+	},
+	"searchScore": 8.4825906e-8
+}

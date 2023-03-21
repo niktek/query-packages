@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "sustand",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "State-management solution for Svelte using simplified flux principles.",
+		"date": "2022-07-05T03:36:26.538Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sustand"
+		},
+		"publisher": {
+			"username": "wobsoriano",
+			"email": "sorianorobertc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wobsoriano",
+				"email": "sorianorobertc@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22339311947463578,
+		"detail": {
+			"quality": 0.4244496140979511,
+			"popularity": 0.002462947589022983,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 1.0924682e-8
+}

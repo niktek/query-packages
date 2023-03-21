@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "bridge-notification-svelte",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "A notification component for sveltejs",
+		"keywords": [
+			"svelte",
+			"notification",
+			"alert"
+		],
+		"date": "2020-04-17T15:25:50.435Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/bridge-notification-svelte",
+			"homepage": "https://github.com/bitfumes/bridge-notification-svelte#readme",
+			"repository": "https://github.com/bitfumes/bridge-notification-svelte"
+		},
+		"author": {
+			"name": "sarthaksavvy"
+		},
+		"publisher": {
+			"username": "bitfumes",
+			"email": "bitfumes@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bitfumes",
+				"email": "bitfumes@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18478093182364125,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0012741054442895535,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.510025e-9
+}

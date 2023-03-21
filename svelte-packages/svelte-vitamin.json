@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-vitamin",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "All inclusive Svelte wrapper for Decathlon Vitamin components",
+		"date": "2021-10-21T11:15:16.873Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-vitamin"
+		},
+		"author": {
+			"name": "Xavier Haniquaut",
+			"url": "https://github.com/xavhan"
+		},
+		"publisher": {
+			"username": "xavhan",
+			"email": "xavier.haniquaut@decathlon.com"
+		},
+		"maintainers": [
+			{
+				"username": "xavhan",
+				"email": "xavier.haniquaut@decathlon.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23260552840416135,
+		"detail": {
+			"quality": 0.5743331568383537,
+			"popularity": 0.0015768738647987575,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 1.09333605e-7
+}

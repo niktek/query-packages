@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "svelte-bulma-lib",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "---",
+		"keywords": [
+			"svelte",
+			"bulma"
+		],
+		"date": "2020-02-14T19:44:27.103Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-bulma-lib"
+		},
+		"publisher": {
+			"username": "thompson4822",
+			"email": "thompson4822@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thompson4822",
+				"email": "thompson4822@protonmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17260871844271902,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.018302560434627937,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.7208207e-9
+}

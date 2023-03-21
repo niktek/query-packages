@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "svelte-use-click-outside",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Zero dependency Svelte's action to handle click outside event",
+		"date": "2021-01-19T09:24:59.806Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-use-click-outside"
+		},
+		"author": {
+			"name": "Th1nkK1D",
+			"email": "witheep@gmail.com",
+			"username": "th1nkk1d"
+		},
+		"publisher": {
+			"username": "th1nkk1d",
+			"email": "witheep@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "th1nkk1d",
+				"email": "witheep@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2064007304945567,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.03751508190803553,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.725495e-8
+}

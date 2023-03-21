@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "@volar-examples/svelte-language-core",
+		"scope": "volar-examples",
+		"version": "1.0.22",
+		"date": "2023-01-05T01:51:31.465Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40volar-examples%2Fsvelte-language-core",
+			"homepage": "https://github.com/johnsoncodehk/volar#readme",
+			"repository": "https://github.com/johnsoncodehk/volar",
+			"bugs": "https://github.com/johnsoncodehk/volar/issues"
+		},
+		"publisher": {
+			"username": "johnsoncodehk",
+			"email": "johnsoncodehk@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "johnsoncodehk",
+				"email": "johnsoncodehk@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23451529786879524,
+		"detail": {
+			"quality": 0.34885910079244453,
+			"popularity": 0.03768828846970069,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.654123e-8
+}

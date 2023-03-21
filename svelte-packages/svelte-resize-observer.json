@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-resize-observer",
+		"scope": "unscoped",
+		"version": "2.0.0",
+		"description": "Element resize observer to Svelte",
+		"keywords": [
+			"svelte",
+			"resize",
+			"observer"
+		],
+		"date": "2021-08-17T00:58:10.467Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-resize-observer",
+			"homepage": "https://svelte-resize-observer.netlify.com/"
+		},
+		"author": {
+			"name": "André Lins",
+			"email": "andrelucas01@hotmail.com",
+			"url": "https://andrelmlins.github.io/",
+			"username": "andrelmlins"
+		},
+		"publisher": {
+			"username": "andrelmlins",
+			"email": "andrelucas01@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "andrelmlins",
+				"email": "andrelucas01@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22923725119629754,
+		"detail": {
+			"quality": 0.621149076937051,
+			"popularity": 0.015545287725388674,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 1.2482312e-7
+}

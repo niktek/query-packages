@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "mon-bouton2",
+		"scope": "unscoped",
+		"version": "0.0.9",
+		"description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+		"date": "2022-12-09T21:43:31.450Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/mon-bouton2"
+		},
+		"publisher": {
+			"username": "marcel-monitoring",
+			"email": "marcel.monitoring.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "marcel-monitoring",
+				"email": "marcel.monitoring.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21163371079556392,
+		"detail": {
+			"quality": 0.31214430752912636,
+			"popularity": 0.0037821482004553393,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.183024e-9
+}

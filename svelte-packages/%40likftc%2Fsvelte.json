@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@likftc/svelte",
+		"scope": "likftc",
+		"version": "0.1.1",
+		"description": "Likftc for Svelte.",
+		"keywords": [
+			"animate",
+			"css",
+			"flip",
+			"javascript",
+			"likftc",
+			"move",
+			"spring",
+			"svelte",
+			"transition",
+			"typescript"
+		],
+		"date": "2022-02-17T02:42:20.703Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40likftc%2Fsvelte",
+			"homepage": "https://vdustr.dev/likftc/svelte",
+			"repository": "https://github.com/VdustR/likftc",
+			"bugs": "https://github.com/VdustR/likftc/issues"
+		},
+		"author": {
+			"name": "VdustR",
+			"email": "vdustr@gmail.com",
+			"url": "https://vdustr.dev"
+		},
+		"publisher": {
+			"username": "vdustr",
+			"email": "VdustR@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vdustr",
+				"email": "VdustR@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20100685656556688,
+		"detail": {
+			"quality": 0.4172406452409213,
+			"popularity": 0.018585875786148644,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 2.0550143e-8
+}

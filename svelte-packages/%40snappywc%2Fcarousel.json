@@ -1,0 +1,62 @@
+{
+	"package": {
+		"name": "@snappywc/carousel",
+		"scope": "snappywc",
+		"version": "1.0.28",
+		"description": "A tiny, customizable, and accessible carousel that works anywhere!",
+		"keywords": [
+			"snappy",
+			"carousel",
+			"slider",
+			"swiper",
+			"slick",
+			"scroll snap",
+			"web component",
+			"web components",
+			"custom element",
+			"custom elements",
+			"react",
+			"vue",
+			"svelte",
+			"vanilla",
+			"small",
+			"fast",
+			"flexible",
+			"customizable",
+			"accessible",
+			"accessibility",
+			"slot",
+			"slots",
+			"::part"
+		],
+		"date": "2022-07-28T01:29:14.787Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40snappywc%2Fcarousel",
+			"homepage": "https://github.com/jameslovallo/snappy/tree/main/packages/carousel#readme",
+			"repository": "https://github.com/jameslovallo/snappy",
+			"bugs": "https://github.com/jameslovallo/snappy/issues"
+		},
+		"author": {
+			"name": "James Lovallo"
+		},
+		"publisher": {
+			"username": "jameslovallo",
+			"email": "lovallo.james@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jameslovallo",
+				"email": "lovallo.james@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2712822985918539,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.004830728428849733,
+			"maintenance": 0.333331836747496
+		}
+	},
+	"searchScore": 1.4324709e-7
+}

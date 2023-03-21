@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-waypoint",
+		"scope": "unscoped",
+		"version": "0.1.4",
+		"description": "Lazyload images or anything in Svelte",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-12-28T02:55:49.875Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-waypoint"
+		},
+		"publisher": {
+			"username": "matyunya",
+			"email": "matyunya@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "matyunya",
+				"email": "matyunya@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18541109376615472,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.05488077564444416,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.3239864e-8
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@phippsytech/svelte-qrious",
+		"scope": "phippsytech",
+		"version": "0.0.3",
+		"description": "A Svelte wrapper around QRious, a qr code generator",
+		"keywords": [
+			"qr",
+			"svelte"
+		],
+		"date": "2023-01-31T08:04:03.956Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40phippsytech%2Fsvelte-qrious",
+			"homepage": "https://github.com/phippsytech/svelte-qrious#readme",
+			"repository": "https://github.com/phippsytech/svelte-qrious",
+			"bugs": "https://github.com/phippsytech/svelte-qrious/issues"
+		},
+		"author": {
+			"name": "Michael Phipps",
+			"url": "https://michaelphipps.com/"
+		},
+		"publisher": {
+			"username": "phippsytech",
+			"email": "phippsy@phippsy.tech"
+		},
+		"maintainers": [
+			{
+				"username": "phippsytech",
+				"email": "phippsy@phippsy.tech"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24604812149722854,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.02324680058382881,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.7726583e-7
+}

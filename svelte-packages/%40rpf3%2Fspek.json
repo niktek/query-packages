@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@rpf3/spek",
+		"scope": "rpf3",
+		"version": "0.4.1",
+		"description": "An opinionated Svelte component library.",
+		"keywords": [
+			"svelte",
+			"tailwind",
+			"typescript"
+		],
+		"date": "2022-11-17T23:42:06.359Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40rpf3%2Fspek"
+		},
+		"author": {
+			"name": "Richard P. Field III",
+			"url": "https://rpf3.io"
+		},
+		"publisher": {
+			"username": "rpf3",
+			"email": "me@rpf3.io"
+		},
+		"maintainers": [
+			{
+				"username": "rpf3",
+				"email": "me@rpf3.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19692070252157656,
+		"detail": {
+			"quality": 0.26441090040128024,
+			"popularity": 0.002669379574137375,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 5.029388e-9
+}

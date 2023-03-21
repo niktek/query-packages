@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-mindmap",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "SvelteMindmap is a svelte component for mindnode maps",
+		"keywords": [
+			"svelte",
+			"mindmap"
+		],
+		"date": "2019-11-21T20:46:40.739Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-mindmap"
+		},
+		"author": {
+			"name": "Heithem Moumni",
+			"email": "moumniheithem@gmail.com",
+			"username": "heithemmoumni"
+		},
+		"publisher": {
+			"username": "heithemmoumni",
+			"email": "moumniheithem@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "heithemmoumni",
+				"email": "moumniheithem@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20354718571948716,
+		"detail": {
+			"quality": 0.5711742087327785,
+			"popularity": 0.002243797033275921,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.4213128e-8
+}

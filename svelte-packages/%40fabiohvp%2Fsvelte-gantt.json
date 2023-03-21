@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@fabiohvp/svelte-gantt",
+		"scope": "fabiohvp",
+		"version": "1.0.0",
+		"description": "Gantt component made with svelte",
+		"keywords": [
+			"svelte",
+			"gantt"
+		],
+		"date": "2020-07-26T03:21:07.689Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40fabiohvp%2Fsvelte-gantt",
+			"homepage": "https://github.com/fabiohvp/svelte-gantt#readme",
+			"repository": "https://github.com/fabiohvp/svelte-gantt",
+			"bugs": "https://github.com/fabiohvp/svelte-gantt/issues"
+		},
+		"author": {
+			"name": "https://github.com/fabiohvp"
+		},
+		"publisher": {
+			"username": "fabiohvp",
+			"email": "fabiohvp@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "fabiohvp",
+				"email": "fabiohvp@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18924754829929408,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0036590079274101536,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.478809e-9
+}

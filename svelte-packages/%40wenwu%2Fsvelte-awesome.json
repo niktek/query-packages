@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@wenwu/svelte-awesome",
+		"scope": "wenwu",
+		"version": "1.0.3",
+		"description": "## Introduction",
+		"keywords": [
+			"fontawesome",
+			"svelte",
+			"sveltejs",
+			"svelte3",
+			"icons",
+			"front-end"
+		],
+		"date": "2020-03-12T09:53:53.964Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40wenwu%2Fsvelte-awesome"
+		},
+		"publisher": {
+			"username": "wenwu",
+			"email": "wen.v.wu@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wenwu",
+				"email": "wen.v.wu@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1965198022286861,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.01845482584589333,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.4673238e-8
+}

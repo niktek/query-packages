@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-toolbox",
+		"scope": "unscoped",
+		"version": "0.6.1",
+		"description": "A UI component library for Svelte implementing Google's Material Design specification",
+		"keywords": [
+			"svelte-components",
+			"svelte",
+			"material",
+			"design",
+			"ui",
+			"kit",
+			"component",
+			"library",
+			"ui component library"
+		],
+		"date": "2019-08-11T00:27:58.359Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-toolbox",
+			"homepage": "https://svelte.dev/repl/5cf847108884453cbedd5920e919b630?version=3.6.5",
+			"repository": "https://github.com/svelte-toolbox/svelte-toolbox",
+			"bugs": "https://github.com/svelte-toolbox/svelte-toolbox/issues"
+		},
+		"publisher": {
+			"username": "vehmloewff",
+			"email": "ejsisgreat@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vehmloewff",
+				"email": "ejsisgreat@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19540797149029243,
+		"detail": {
+			"quality": 0.5358375617679775,
+			"popularity": 0.009277453776834647,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.4588482e-8
+}

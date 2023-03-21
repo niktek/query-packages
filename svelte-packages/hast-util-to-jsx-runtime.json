@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "hast-util-to-jsx-runtime",
+		"scope": "unscoped",
+		"version": "1.2.0",
+		"description": "hast utility to transform to preact, react, solid, svelte, vue, etc",
+		"keywords": [
+			"unist",
+			"hast",
+			"hast-util",
+			"util",
+			"utility",
+			"html",
+			"preact",
+			"react",
+			"solid",
+			"svelte",
+			"vue"
+		],
+		"date": "2023-02-03T11:51:43.588Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/hast-util-to-jsx-runtime",
+			"homepage": "https://github.com/syntax-tree/hast-util-to-jsx-runtime#readme",
+			"repository": "https://github.com/syntax-tree/hast-util-to-jsx-runtime",
+			"bugs": "https://github.com/syntax-tree/hast-util-to-jsx-runtime/issues"
+		},
+		"author": {
+			"name": "Titus Wormer",
+			"email": "tituswormer@gmail.com",
+			"url": "https://wooorm.com",
+			"username": "wooorm"
+		},
+		"publisher": {
+			"username": "wooorm",
+			"email": "tituswormer@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wooorm",
+				"email": "tituswormer@gmail.com"
+			},
+			{
+				"username": "kmck",
+				"email": "keith@mcknig.ht"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3160788686648562,
+		"detail": {
+			"quality": 0.6350078740767695,
+			"popularity": 0.025456685071881983,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000028132263
+}

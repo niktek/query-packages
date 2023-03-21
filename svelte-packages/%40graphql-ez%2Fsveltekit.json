@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@graphql-ez/sveltekit",
+		"scope": "graphql-ez",
+		"version": "0.6.0",
+		"description": "Integration with [SvelteKit](https://kit.svelte.dev/)",
+		"date": "2022-12-18T16:34:18.869Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40graphql-ez%2Fsveltekit",
+			"homepage": "https://www.graphql-ez.com",
+			"repository": "https://github.com/PabloSzx/graphql-ez",
+			"bugs": "https://github.com/PabloSzx/graphql-ez/issues"
+		},
+		"author": {
+			"name": "PabloSz",
+			"email": "pablosaez1995@gmail.com",
+			"username": "pablosz"
+		},
+		"publisher": {
+			"username": "pablosz",
+			"email": "pablosaez1995@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pablosz",
+				"email": "pablosaez1995@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24813914802209824,
+		"detail": {
+			"quality": 0.43399480167121507,
+			"popularity": 0.003727603337532981,
+			"maintenance": 0.3332458467217063
+		}
+	},
+	"searchScore": 9.041623e-8
+}

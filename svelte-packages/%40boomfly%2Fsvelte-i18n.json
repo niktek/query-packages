@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@boomfly/svelte-i18n",
+		"scope": "boomfly",
+		"version": "3.3.0",
+		"description": "Internationalization library for Svelte",
+		"keywords": [
+			"svelte",
+			"i18n",
+			"internationalization",
+			"localization",
+			"translation"
+		],
+		"date": "2021-02-07T17:05:11.370Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40boomfly%2Fsvelte-i18n",
+			"homepage": "https://github.com/kaisermann/svelte-i18n#readme",
+			"repository": "https://github.com/kaisermann/svelte-i18n",
+			"bugs": "https://github.com/kaisermann/svelte-i18n/issues"
+		},
+		"author": {
+			"name": "Christian Kaisermann",
+			"email": "christian@kaisermann.me"
+		},
+		"publisher": {
+			"username": "boomfly",
+			"email": "boomfly@rambler.ru"
+		},
+		"maintainers": [
+			{
+				"username": "boomfly",
+				"email": "boomfly@rambler.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17262954894657961,
+		"detail": {
+			"quality": 0.4694143030074844,
+			"popularity": 0.001130468303792204,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.2841231e-9
+}

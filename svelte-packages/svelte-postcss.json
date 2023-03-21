@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-postcss",
+		"scope": "unscoped",
+		"version": "1.0.7",
+		"description": "Postcss for svelte",
+		"keywords": [
+			"svelte",
+			"postcss"
+		],
+		"date": "2020-05-13T08:10:04.979Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-postcss"
+		},
+		"author": {
+			"name": "HeadMad",
+			"email": "kov.ps@yandex.ru"
+		},
+		"publisher": {
+			"username": "headmad",
+			"email": "kov.ps@ya.ru"
+		},
+		"maintainers": [
+			{
+				"username": "headmad",
+				"email": "kov.ps@ya.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17770398252901654,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.002363804383095768,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.900529e-9
+}

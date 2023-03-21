@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@jacobmischka/svelte-apollo",
+		"scope": "jacobmischka",
+		"version": "0.6.0",
+		"description": "Svelte integration for Apollo GraphQL.",
+		"keywords": [
+			"svelte",
+			"apollo",
+			"graphql"
+		],
+		"date": "2021-05-24T17:45:17.099Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40jacobmischka%2Fsvelte-apollo",
+			"homepage": "https://github.com/timhall/svelte-apollo#readme",
+			"repository": "https://github.com/timhall/svelte-apollo",
+			"bugs": "https://github.com/timhall/svelte-apollo/issues"
+		},
+		"author": {
+			"name": "Jacob Mischka",
+			"email": "jacob@mischka.me",
+			"username": "jacobmischka"
+		},
+		"publisher": {
+			"username": "jacobmischka",
+			"email": "jacob@mischka.me"
+		},
+		"maintainers": [
+			{
+				"username": "jacobmischka",
+				"email": "jacob@mischka.me"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19019279361492056,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.018152057425384126,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.0003427e-8
+}

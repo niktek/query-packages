@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "svelte-scrollmation",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Svelte.js component for advanced reactive scrolling behaviour for your content elements",
+		"date": "2020-08-23T22:00:50.882Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-scrollmation"
+		},
+		"author": {
+			"name": "Adam Davis",
+			"email": "adam@admataz.com",
+			"username": "admataz"
+		},
+		"publisher": {
+			"username": "admataz",
+			"email": "adam@admataz.com"
+		},
+		"maintainers": [
+			{
+				"username": "admataz",
+				"email": "adam@admataz.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17732258790043437,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.0012741054442895535,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.7807712e-9
+}

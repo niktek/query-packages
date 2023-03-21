@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-typeahead",
+		"scope": "unscoped",
+		"version": "4.4.1",
+		"description": "Accessible, fuzzy search typeahead component",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"typeahead",
+			"fuzzy",
+			"highlight",
+			"search",
+			"filter",
+			"WAI-ARIA",
+			"accessibility"
+		],
+		"date": "2022-11-12T15:43:04.046Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-typeahead",
+			"homepage": "https://github.com/metonym/svelte-typeahead",
+			"repository": "https://github.com/metonym/svelte-typeahead",
+			"bugs": "https://github.com/metonym/svelte-typeahead/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.29836866033004833,
+		"detail": {
+			"quality": 0.594320376382809,
+			"popularity": 0.009932300324837343,
+			"maintenance": 0.33313212086146454
+		}
+	},
+	"searchScore": 0.0000033577167
+}

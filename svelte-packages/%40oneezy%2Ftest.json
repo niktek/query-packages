@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@oneezy/test",
+		"scope": "oneezy",
+		"version": "0.0.13",
+		"description": "This is a shared UI component lib powered by Svelte, Tailwindcss, and Histoire.",
+		"date": "2022-12-19T06:06:11.325Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40oneezy%2Ftest"
+		},
+		"publisher": {
+			"username": "oneezy",
+			"email": "justinoneill2007@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "oneezy",
+				"email": "justinoneill2007@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2493699159281469,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.00743648801016787,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.482348e-8
+}

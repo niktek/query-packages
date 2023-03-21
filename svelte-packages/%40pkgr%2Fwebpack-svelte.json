@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@pkgr/webpack-svelte",
+		"scope": "pkgr",
+		"version": "1.2.1",
+		"description": "Seamless svelte related plugin for @pkgr/webpack",
+		"date": "2022-08-25T16:33:53.955Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40pkgr%2Fwebpack-svelte",
+			"homepage": "https://github.com/un-ts/pkgr/blob/master/packages/webpack-svelte",
+			"repository": "https://github.com/un-ts/pkgr",
+			"bugs": "https://github.com/un-ts/pkgr/issues"
+		},
+		"author": {
+			"name": "JounQin",
+			"email": "admin@1stg.me",
+			"url": "https://www.1stG.me",
+			"username": "jounqin"
+		},
+		"publisher": {
+			"username": "jounqin",
+			"email": "admin@1stg.me"
+		},
+		"maintainers": [
+			{
+				"username": "jounqin",
+				"email": "admin@1stg.me"
+			},
+			{
+				"username": "i1stg",
+				"email": "i@1stg.me"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24341035488602358,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.0033851138125260737,
+			"maintenance": 0.32397750204614684
+		}
+	},
+	"searchScore": 1.5926484e-7
+}

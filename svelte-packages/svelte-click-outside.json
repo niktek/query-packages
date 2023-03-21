@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-click-outside",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "## Purpose",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-08-10T15:40:54.728Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-click-outside"
+		},
+		"author": {
+			"name": "Joe Attardi",
+			"email": "jattardi@gmail.com",
+			"url": "https://joeattardi.codes"
+		},
+		"publisher": {
+			"username": "joeattardi",
+			"email": "joe@attardi.net"
+		},
+		"maintainers": [
+			{
+				"username": "joeattardi",
+				"email": "joe@attardi.net"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3063265652221595,
+		"detail": {
+			"quality": 0.8718576712889783,
+			"popularity": 0.03817048484988288,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000069000375
+}

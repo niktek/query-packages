@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@auroratide/svelte-custom-element-transitions",
+		"scope": "auroratide",
+		"version": "0.1.1",
+		"description": "Utility for making svelte transitions work on custom elements",
+		"keywords": [
+			"svelte",
+			"transitions",
+			"web components"
+		],
+		"date": "2021-04-25T02:14:51.463Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40auroratide%2Fsvelte-custom-element-transitions",
+			"homepage": "https://github.com/Auroratide/svelte-custom-element-transitions#readme",
+			"repository": "https://github.com/Auroratide/svelte-custom-element-transitions",
+			"bugs": "https://github.com/Auroratide/svelte-custom-element-transitions/issues"
+		},
+		"author": {
+			"name": "Timothy Foster",
+			"url": "https://auroratide.com"
+		},
+		"publisher": {
+			"username": "auroratide",
+			"email": "tf.auroratide@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "auroratide",
+				"email": "tf.auroratide@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1812126827566735,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.031203607905736473,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 5.2307123e-9
+}

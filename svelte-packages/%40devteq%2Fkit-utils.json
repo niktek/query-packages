@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@devteq/kit-utils",
+		"scope": "devteq",
+		"version": "0.0.2",
+		"description": "Collection of utilities for SvelteKit apps",
+		"keywords": [
+			"svelte-kit",
+			"SvelteKit",
+			"front-end",
+			"utilties",
+			"typescript"
+		],
+		"date": "2022-08-09T15:31:45.863Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40devteq%2Fkit-utils"
+		},
+		"author": {
+			"name": "Jonas Musekura Lundsholm",
+			"email": "jonas@lundsholm.se"
+		},
+		"publisher": {
+			"username": "lundsholm",
+			"email": "jonas@qoed.dev"
+		},
+		"maintainers": [
+			{
+				"username": "lundsholm",
+				"email": "jonas@qoed.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22579529500575055,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 2.782382e-8
+}

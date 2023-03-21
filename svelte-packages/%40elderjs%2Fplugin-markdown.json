@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "@elderjs/plugin-markdown",
+		"scope": "elderjs",
+		"version": "1.8.0-beta.7",
+		"description": "Easily create routes from your markdown files on your Elder.js site using the remark ecosystem.",
+		"keywords": [
+			"elder.js",
+			"elderjs",
+			"svelte",
+			"ssg",
+			"static",
+			"markdown",
+			"remark"
+		],
+		"date": "2022-07-15T10:12:24.680Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40elderjs%2Fplugin-markdown",
+			"homepage": "https://elderguide.com/tech/elderjs/",
+			"repository": "https://github.com/Elderjs/plugins",
+			"bugs": "https://github.com/Elderjs/plugins/issues"
+		},
+		"author": {
+			"name": "Nick Reese",
+			"email": "npm@nicholasreese.com",
+			"username": "nickreese"
+		},
+		"publisher": {
+			"username": "nickreese",
+			"email": "npm@nicholasreese.com"
+		},
+		"maintainers": [
+			{
+				"username": "eight04",
+				"email": "eight04@gmail.com"
+			},
+			{
+				"username": "vonadz",
+				"email": "alex.zdanov@gmail.com"
+			},
+			{
+				"username": "nickreese",
+				"email": "npm@nicholasreese.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3881352681718957,
+		"detail": {
+			"quality": 0.8769283442548051,
+			"popularity": 0.024319291499802987,
+			"maintenance": 0.3329857510586374
+		}
+	},
+	"searchScore": 0.000042310137
+}

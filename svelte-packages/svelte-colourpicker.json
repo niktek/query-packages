@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-colourpicker",
+		"scope": "unscoped",
+		"version": "0.0.8",
+		"description": "Svelte colour picker component",
+		"keywords": [
+			"color",
+			"colour",
+			"picker",
+			"svelte"
+		],
+		"date": "2023-02-26T05:36:33.133Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-colourpicker",
+			"homepage": "https://github.com/cooolbros/svelte-colourpicker#readme",
+			"repository": "https://github.com/cooolbros/svelte-colourpicker",
+			"bugs": "https://github.com/cooolbros/svelte-colourpicker/issues"
+		},
+		"publisher": {
+			"username": "cooolbros",
+			"email": "pfwobcke@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cooolbros",
+				"email": "pfwobcke@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25958973320044393,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.02322810966052874,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.201487e-7
+}

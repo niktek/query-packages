@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "svelte-pdf-simple",
+		"scope": "unscoped",
+		"version": "2.0.0",
+		"description": "Svelte component for displaying PDF files easily",
+		"keywords": [
+			"pdf",
+			"svelte-pdf",
+			"pdfjs",
+			"svelte-pdf",
+			"pdf-simple",
+			"pdf-viewer",
+			"svelte-pdf-viewer",
+			"svelte-simple-pdf",
+			"svelte-pdf-simple",
+			"pdf-print",
+			"pdf-zoom",
+			"pdf-rotation",
+			"pdf-navigation"
+		],
+		"date": "2022-10-03T19:49:06.602Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-pdf-simple",
+			"homepage": "https://github.com/gspasov/svelte-pdf-simple#readme",
+			"repository": "https://github.com/gspasov/svelte-pdf-simple",
+			"bugs": "https://github.com/gspasov/svelte-pdf-simple/issues"
+		},
+		"author": {
+			"name": "Georgi Spasov"
+		},
+		"publisher": {
+			"username": "gvspasov",
+			"email": "gvspasov@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gvspasov",
+				"email": "gvspasov@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.298582641870074,
+		"detail": {
+			"quality": 0.5994472655190105,
+			"popularity": 0.006325985204373566,
+			"maintenance": 0.33295533540811467
+		}
+	},
+	"searchScore": 0.0000034373281
+}

@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "cross-domain-communication",
+		"scope": "unscoped",
+		"version": "3.0.0",
+		"description": "Module to communication with iframes on svelte",
+		"date": "2022-09-08T22:11:10.447Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/cross-domain-communication"
+		},
+		"publisher": {
+			"username": "wilbertbocanegra",
+			"email": "wilbertbocanegra@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wilbertbocanegra",
+				"email": "wilbertbocanegra@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2565841542316091,
+		"detail": {
+			"quality": 0.46096934475859463,
+			"popularity": 0.004647668963897256,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.7442024e-8
+}

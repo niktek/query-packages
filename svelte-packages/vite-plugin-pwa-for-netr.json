@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "vite-plugin-pwa-for-netr",
+		"scope": "unscoped",
+		"version": "0.12.4",
+		"description": "Zero-config PWA for Vite",
+		"keywords": [
+			"react",
+			"pwa",
+			"vue",
+			"vitepress",
+			"preact",
+			"svelte",
+			"sveltekit",
+			"workbox",
+			"solidjs",
+			"vite",
+			"vite-plugin"
+		],
+		"date": "2022-09-10T10:18:21.003Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-plugin-pwa-for-netr",
+			"homepage": "https://github.com/antfu/vite-plugin-pwa",
+			"repository": "https://github.com/antfu/vite-plugin-pwa",
+			"bugs": "https://github.com/antfu/vite-plugin-pwa/issues"
+		},
+		"author": {
+			"name": "antfu",
+			"email": "anthonyfu117@hotmail.com"
+		},
+		"publisher": {
+			"username": "nighca",
+			"email": "nighca@live.cn"
+		},
+		"maintainers": [
+			{
+				"username": "nighca",
+				"email": "nighca@live.cn"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24603362745184854,
+		"detail": {
+			"quality": 0.4244496140979511,
+			"popularity": 0.007233020649195514,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 6.775572e-8
+}

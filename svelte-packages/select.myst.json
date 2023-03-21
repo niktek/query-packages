@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "select.myst",
+		"scope": "unscoped",
+		"version": "1.2.0",
+		"description": "custom select component with filtering and full keyboard support for svelte.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-05-28T14:41:55.951Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/select.myst"
+		},
+		"publisher": {
+			"username": "codemyst",
+			"email": "code@myst.rs"
+		},
+		"maintainers": [
+			{
+				"username": "codemyst",
+				"email": "code@myst.rs"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21690875021843808,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.001707923805054072,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 2.4888335e-8
+}

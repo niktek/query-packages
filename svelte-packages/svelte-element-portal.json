@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-element-portal",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Escape parent overflow by rendering an element over its ancestor :v:",
+		"keywords": [
+			"portal",
+			"svelte",
+			"svelte-element-portal",
+			"escape overflow",
+			"escape parent overflow"
+		],
+		"date": "2022-11-25T17:27:38.705Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-element-portal",
+			"homepage": "https://github.com/nwaughachukwuma/svelte-element-portal#readme",
+			"repository": "https://github.com/nwaughachukwuma/svelte-element-portal",
+			"bugs": "https://github.com/nwaughachukwuma/svelte-element-portal/issues"
+		},
+		"publisher": {
+			"username": "nwaughachukwuma",
+			"email": "c.nwaugha@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nwaughachukwuma",
+				"email": "c.nwaugha@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22530455655591342,
+		"detail": {
+			"quality": 0.3595566954747321,
+			"popularity": 0.0026783412440210402,
+			"maintenance": 0.3328575099373898
+		}
+	},
+	"searchScore": 5.9996e-8
+}

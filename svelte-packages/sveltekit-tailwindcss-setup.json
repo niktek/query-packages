@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "sveltekit-tailwindcss-setup",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Setup tailwindcss on Sveltekit automatically",
+		"keywords": [
+			"tailwindcss",
+			"tailwind",
+			"sveltekit"
+		],
+		"date": "2022-07-06T11:33:49.226Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-tailwindcss-setup",
+			"homepage": "https://github.com/lacherogwu/sveltekit-tailwindcss-setup#readme",
+			"repository": "https://github.com/lacherogwu/sveltekit-tailwindcss-setup",
+			"bugs": "https://github.com/lacherogwu/sveltekit-tailwindcss-setup/issues"
+		},
+		"author": {
+			"name": "LacheRo"
+		},
+		"publisher": {
+			"username": "lachero",
+			"email": "asaf@vvl.email"
+		},
+		"maintainers": [
+			{
+				"username": "lachero",
+				"email": "asaf@vvl.email"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26064054082447474,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 2.0908278e-7
+}

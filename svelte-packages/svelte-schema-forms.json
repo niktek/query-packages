@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-schema-forms",
+		"scope": "unscoped",
+		"version": "0.1.8",
+		"description": "A simple, automatic form builder for svelte using arbitrary form data from a specified schema.",
+		"date": "2023-02-09T12:21:28.407Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-schema-forms",
+			"homepage": "https://github.com/JeanChuquispuma/svelte-schema-form#readme",
+			"repository": "https://github.com/JeanChuquispuma/svelte-schema-form",
+			"bugs": "https://github.com/JeanChuquispuma/svelte-schema-form/issues"
+		},
+		"publisher": {
+			"username": "chuquis",
+			"email": "chuquis432@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "chuquis",
+				"email": "chuquis432@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24191051569328192,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.01142506971540987,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.5248392e-7
+}

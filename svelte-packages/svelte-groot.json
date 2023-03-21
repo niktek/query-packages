@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-groot",
+		"scope": "unscoped",
+		"version": "1.0.8",
+		"description": "A sensible and minimal router for use with Svelte. Forked from svelte-grouter with 404 custom support",
+		"keywords": [
+			"svelte",
+			"route",
+			"router",
+			"routing",
+			"client"
+		],
+		"date": "2021-12-24T15:33:26.815Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-groot",
+			"homepage": "https://github.com/Kaporos/svelte-grouter#readme",
+			"repository": "https://github.com/Kaporos/svelte-grouter"
+		},
+		"author": {
+			"name": "Kaporos"
+		},
+		"publisher": {
+			"username": "kaporos",
+			"email": "theo@daron.be"
+		},
+		"maintainers": [
+			{
+				"username": "kaporos",
+				"email": "theo@daron.be"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17784655954645315,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.0017281615521824118,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 3.3029848e-9
+}

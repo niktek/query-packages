@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "ccs-svelte-ag-grid",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "A barebones wrapper around ag-grid.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-04-20T08:16:35.596Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/ccs-svelte-ag-grid"
+		},
+		"publisher": {
+			"username": "crecatalyst",
+			"email": "jeff.grijalva@marcusmillichap.com"
+		},
+		"maintainers": [
+			{
+				"username": "crecatalyst",
+				"email": "jeff.grijalva@marcusmillichap.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19888610934348439,
+		"detail": {
+			"quality": 0.4969965248782887,
+			"popularity": 0.018413431360212576,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.675474e-8
+}

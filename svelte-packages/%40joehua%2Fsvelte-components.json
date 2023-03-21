@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@joehua/svelte-components",
+		"scope": "joehua",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-02-09T08:23:49.518Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40joehua%2Fsvelte-components"
+		},
+		"publisher": {
+			"username": "joehua",
+			"email": "joehua87@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "joehua",
+				"email": "joehua87@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22361645035172786,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.004551862160519841,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.9470003e-8
+}

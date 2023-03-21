@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-shortcodes",
+		"scope": "unscoped",
+		"version": "1.2.1",
+		"description": "svelte-shortcodes",
+		"keywords": [
+			"svelte",
+			"sapper",
+			"shortcodes",
+			"shortcode"
+		],
+		"date": "2021-03-03T14:35:33.790Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-shortcodes"
+		},
+		"publisher": {
+			"username": "alfredringstad",
+			"email": "alfred.ringstad@hyperlab.se"
+		},
+		"maintainers": [
+			{
+				"username": "alfredringstad",
+				"email": "alfred.ringstad@hyperlab.se"
+			},
+			{
+				"username": "mrlundis",
+				"email": "jonatan.lundin@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.190138869214384,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.006205639113381333,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.0061489e-8
+}

@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "simple-svelte-slideshow",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "A simple svelte slideshow component, which uses the tweened store from \"svelte/motion\"",
+		"keywords": [
+			"svelte-slideshow-gallery"
+		],
+		"date": "2020-02-23T18:40:49.086Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/simple-svelte-slideshow",
+			"homepage": "https://github.com/E01T/simple-svelte-slideshow#readme",
+			"repository": "https://github.com/E01T/simple-svelte-slideshow",
+			"bugs": "https://github.com/E01T/simple-svelte-slideshow/issues"
+		},
+		"author": {
+			"name": "E01T"
+		},
+		"publisher": {
+			"username": "e01t",
+			"email": "etsouderos@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "e01t",
+				"email": "etsouderos@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.177774366216165,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.002564900632091236,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.5098517e-9
+}

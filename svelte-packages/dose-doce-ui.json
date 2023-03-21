@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "dose-doce-ui",
+		"scope": "unscoped",
+		"version": "1.0.20-alpha.0",
+		"description": "Pre-built components for integrating with Solana wallets using Svelte",
+		"keywords": [
+			"svelte",
+			"wallet",
+			"adapter",
+			"wallet-adapter",
+			"solana"
+		],
+		"date": "2022-12-10T10:25:10.042Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/dose-doce-ui",
+			"homepage": "https://github.com/svelte-on-solana/wallet-adapter#readme",
+			"repository": "https://github.com/svelte-on-solana/wallet-adapter",
+			"bugs": "https://github.com/svelte-on-solana/wallet-adapter/issues"
+		},
+		"author": {
+			"name": "Svelte on Solana"
+		},
+		"publisher": {
+			"username": "binyebarwe",
+			"email": "binyebarwe@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "binyebarwe",
+				"email": "binyebarwe@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2552076731423229,
+		"detail": {
+			"quality": 0.44117676171200826,
+			"popularity": 0.01910702466707317,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.7747516e-7
+}

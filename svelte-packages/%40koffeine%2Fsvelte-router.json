@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@koffeine/svelte-router",
+		"scope": "koffeine",
+		"version": "1.0.5",
+		"description": "Router for Svelte",
+		"keywords": [
+			"svelte",
+			"router"
+		],
+		"date": "2022-12-27T09:11:37.015Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40koffeine%2Fsvelte-router",
+			"homepage": "https://github.com/koffeine/svelte-router",
+			"repository": "https://github.com/koffeine/svelte-router",
+			"bugs": "https://github.com/koffeine/svelte-router/issues"
+		},
+		"author": {
+			"name": "Kornél Horváth",
+			"email": "kornel.horvath@me.com",
+			"username": "koffeine"
+		},
+		"publisher": {
+			"username": "koffeine",
+			"email": "kornel.horvath@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "koffeine",
+				"email": "kornel.horvath@me.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27813600280000117,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.003053003286790613,
+			"maintenance": 0.32916169703110637
+		}
+	},
+	"searchScore": 0.0000012729846
+}

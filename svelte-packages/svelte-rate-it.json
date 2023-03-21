@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-rate-it",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Rate component for sveltejs",
+		"keywords": [
+			"swelte",
+			"rate",
+			"plugin"
+		],
+		"date": "2019-07-29T11:30:11.230Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-rate-it"
+		},
+		"author": {
+			"name": "Emre KARA",
+			"email": "emre.crpzz@gmail.com",
+			"username": "emrek37"
+		},
+		"publisher": {
+			"username": "emrek37",
+			"email": "emre.crpzz@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "emrek37",
+				"email": "emre.crpzz@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19386099523637362,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0016872668846552522,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.684658e-9
+}

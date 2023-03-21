@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@voscausa/svelte-use-validate",
+		"scope": "voscausa",
+		"version": "1.3.4",
+		"description": "A Svelte use:action to validate inputs",
+		"keywords": [
+			"svelte",
+			"actions",
+			"forms",
+			"inputs",
+			"validate",
+			"validator",
+			"svelte form validation",
+			"svelte use:action"
+		],
+		"date": "2022-01-02T09:05:43.055Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40voscausa%2Fsvelte-use-validate",
+			"homepage": "https://github.com/voscausa/svelte-use-validate#readme",
+			"repository": "https://github.com/voscausa/svelte-use-validate",
+			"bugs": "https://github.com/voscausa/svelte-use-validate/issues"
+		},
+		"author": {
+			"name": "voscausa"
+		},
+		"publisher": {
+			"username": "voscausa",
+			"email": "robert.vos@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "voscausa",
+				"email": "robert.vos@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2734901786908652,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.00443866768861252,
+			"maintenance": 0.3145022494603246
+		}
+	},
+	"searchScore": 9.696198e-7
+}

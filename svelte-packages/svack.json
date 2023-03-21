@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svack",
+		"scope": "unscoped",
+		"version": "0.0.0",
+		"description": "A lightweight and fully type-safe approach to handling modals, overlays and portals in Svelte/Sveltekit applications",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"stack",
+			"modal",
+			"overlay",
+			"portal",
+			"typesafe"
+		],
+		"date": "2022-09-26T19:23:26.672Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svack",
+			"homepage": "https://github.com/ivanhofer/svack#readme",
+			"repository": "https://github.com/ivanhofer/svack",
+			"bugs": "https://github.com/ivanhofer/svack/issues"
+		},
+		"author": {
+			"name": "ivanhofer"
+		},
+		"publisher": {
+			"username": "ivanhofer",
+			"email": "ivan.hofer@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "ivanhofer",
+				"email": "ivan.hofer@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.202139971323883,
+		"detail": {
+			"quality": 0.2851450469094674,
+			"popularity": 0.001226489302280001,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 5.953806e-9
+}

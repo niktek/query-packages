@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-lazy-image",
+		"scope": "unscoped",
+		"version": "0.5.1",
+		"description": "Svelte component to lazy load images using Intersection Observer",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"intersection-observer",
+			"lazy-load",
+			"lazy-image"
+		],
+		"date": "2022-03-27T15:21:11.389Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-lazy-image",
+			"homepage": "https://github.com/alexstaroselsky/svelte-lazy-image#readme",
+			"repository": "https://github.com/alexstaroselsky/svelte-lazy-image",
+			"bugs": "https://github.com/alexstaroselsky/svelte-lazy-image/issues"
+		},
+		"author": {
+			"name": "Alexander Staroselsky",
+			"url": "https://github.com/alexstaroselsky"
+		},
+		"publisher": {
+			"username": "alstar01",
+			"email": "alstar01@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "alstar01",
+				"email": "alstar01@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22117782465903102,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.01840420440535912,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 6.51072e-8
+}

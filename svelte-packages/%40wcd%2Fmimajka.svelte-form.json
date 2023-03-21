@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "@wcd/mimajka.svelte-form",
+		"scope": "wcd",
+		"version": "0.0.1",
+		"keywords": [
+			"wcd"
+		],
+		"date": "2022-11-22T13:38:27.257Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40wcd%2Fmimajka.svelte-form",
+			"homepage": "https://studio.webcomponents.dev/edit/TLuFNUnoIzmVzcVO0jL1/"
+		},
+		"author": {
+			"name": "mimajka"
+		},
+		"publisher": {
+			"username": "_divriots_",
+			"email": "admin+npm@divriots.com"
+		},
+		"maintainers": [
+			{
+				"username": "gluck",
+				"email": "francois.valdy@gmail.com"
+			},
+			{
+				"username": "gqio",
+				"email": "quinio.gregory@gmail.com"
+			},
+			{
+				"username": "georges-gomes",
+				"email": "georges.gomes@gmail.com"
+			},
+			{
+				"username": "_wcd_",
+				"email": "admin@divriots.com"
+			},
+			{
+				"username": "_divriots_",
+				"email": "admin+npm@divriots.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24136370756760894,
+		"detail": {
+			"quality": 0.3954791606050344,
+			"popularity": 0.018722209688153853,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 5.9941954e-8
+}

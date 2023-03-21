@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@tadashi/svelte-pesquisa",
+		"scope": "tadashi",
+		"version": "2.0.0",
+		"description": "Svelte components",
+		"keywords": [
+			"svelte",
+			"elements",
+			"search",
+			"component"
+		],
+		"date": "2023-01-09T07:10:49.333Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tadashi%2Fsvelte-pesquisa",
+			"homepage": "https://github.com/lagden/svelte-pesquisa#readme",
+			"repository": "https://github.com/lagden/svelte-pesquisa",
+			"bugs": "https://github.com/lagden/svelte-pesquisa/issues"
+		},
+		"author": {
+			"name": "Thiago Lagden"
+		},
+		"publisher": {
+			"username": "lagden",
+			"email": "lagden@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lagden",
+				"email": "lagden@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3049346375749534,
+		"detail": {
+			"quality": 0.600959065094793,
+			"popularity": 0.022822116726787585,
+			"maintenance": 0.3333119348346855
+		}
+	},
+	"searchScore": 0.00000513053
+}

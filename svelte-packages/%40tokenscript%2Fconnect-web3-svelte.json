@@ -1,0 +1,62 @@
+{
+	"package": {
+		"name": "@tokenscript/connect-web3-svelte",
+		"scope": "tokenscript",
+		"version": "0.13.0",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-03-20T08:44:14.518Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tokenscript%2Fconnect-web3-svelte"
+		},
+		"publisher": {
+			"username": "futantan",
+			"email": "luckytantanfu@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "snowwhitedev",
+				"email": "snowwhite91924@gmail.com"
+			},
+			{
+				"username": "stj89",
+				"email": "s@smarttokenlabs.com"
+			},
+			{
+				"username": "jf-stl",
+				"email": "jia@smarttokenlabs.com"
+			},
+			{
+				"username": "futantan",
+				"email": "luckytantanfu@gmail.com"
+			},
+			{
+				"username": "jot2re",
+				"email": "jot2re@gmail.com"
+			},
+			{
+				"username": "micwallace",
+				"email": "miccy@smarttokenlabs.com"
+			},
+			{
+				"username": "victor928",
+				"email": "victor.zhang@alphawallet.com"
+			},
+			{
+				"username": "nicholastaras",
+				"email": "nicktaras83@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24585927738689378,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.006649971448544623,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.709151e-7
+}

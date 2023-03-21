@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "testina-magica",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Svelte UI components for IOTA Integration Services",
+		"keywords": [
+			"integration-services",
+			"audit-log",
+			"audit-trail-gw",
+			"ui",
+			"ux",
+			"svelte",
+			"sveltekit",
+			"iota",
+			"iota-streams"
+		],
+		"date": "2022-03-25T16:18:34.496Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/testina-magica",
+			"homepage": "https://github.com/iotaledger/is-ui-components#readme",
+			"repository": "https://github.com/iotaledger/is-ui-components",
+			"bugs": "https://github.com/iotaledger/is-ui-components/issues"
+		},
+		"author": {
+			"name": "Begoña Álvarez",
+			"email": "balvarez@boxfish.studio"
+		},
+		"publisher": {
+			"username": "mastrogiovanni",
+			"email": "michele.mastrogiovanni@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mastrogiovanni",
+				"email": "michele.mastrogiovanni@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18553032471070846,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.018118456189217546,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 2.3216087e-9
+}

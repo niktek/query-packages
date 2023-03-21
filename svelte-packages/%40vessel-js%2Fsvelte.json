@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@vessel-js/svelte",
+		"scope": "vessel-js",
+		"version": "0.2.5",
+		"description": "This package adds [Svelte](https://svelte.dev) support to Vessel.",
+		"keywords": [
+			"app",
+			"docs",
+			"edge",
+			"esm",
+			"fast",
+			"lightweight",
+			"modern",
+			"ssg",
+			"ssr",
+			"svelte",
+			"vercel",
+			"vessel",
+			"vite"
+		],
+		"date": "2023-02-27T09:15:54.675Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40vessel-js%2Fsvelte",
+			"homepage": "https://github.com/vessel-js/vessel#readme",
+			"repository": "https://github.com/vessel-js/vessel",
+			"bugs": "https://github.com/vessel-js/vessel/issues"
+		},
+		"publisher": {
+			"username": "mihar-22",
+			"email": "rahim.alwer@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mihar-22",
+				"email": "rahim.alwer@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24620141011560182,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.007627493530567663,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.2548207e-7
+}

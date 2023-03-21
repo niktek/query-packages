@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-primer",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Svelte implementation of the GitHub Primer design system",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"primer",
+			"components",
+			"github",
+			"design system",
+			"component library"
+		],
+		"date": "2020-11-23T21:10:14.369Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-primer"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18963525285119143,
+		"detail": {
+			"quality": 0.5243588756641246,
+			"popularity": 0.0026228457541342893,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 9.103865e-9
+}

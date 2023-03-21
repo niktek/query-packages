@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "vite-pwa-sveltekit",
+		"scope": "unscoped",
+		"version": "0.13.1",
+		"description": "Zero-config PWA for SvelteKit",
+		"keywords": [
+			"sveltekit",
+			"workbox",
+			"pwa",
+			"vite",
+			"vite-plugin"
+		],
+		"date": "2022-10-23T15:04:23.147Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-pwa-sveltekit",
+			"homepage": "https://github.com/vite-pwa/sveltekit#readme",
+			"repository": "https://github.com/vite-pwa/sveltekit",
+			"bugs": "https://github.com/vite-pwa/sveltekit/issues"
+		},
+		"author": {
+			"name": "antfu",
+			"email": "anthonyfu117@hotmail.com"
+		},
+		"publisher": {
+			"username": "robhicks",
+			"email": "rob@hixfamily.org"
+		},
+		"maintainers": [
+			{
+				"username": "robhicks",
+				"email": "rob@hixfamily.org"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2576221968842391,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.01903366496114879,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 2.1007422e-7
+}

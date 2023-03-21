@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "sk-auth0",
+		"scope": "unscoped",
+		"version": "0.5.0-beta.12",
+		"description": "A Auth0 integration for SvelteKit",
+		"date": "2022-05-21T14:55:12.011Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sk-auth0"
+		},
+		"publisher": {
+			"username": "marco-selenati",
+			"email": "projektleitung@pcard.ch"
+		},
+		"maintainers": [
+			{
+				"username": "marco-selenati",
+				"email": "projektleitung@pcard.ch"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23843125164940945,
+		"detail": {
+			"quality": 0.4088071151157153,
+			"popularity": 0.002565056000246356,
+			"maintenance": 0.32826099289888183
+		}
+	},
+	"searchScore": 1.1575789e-8
+}

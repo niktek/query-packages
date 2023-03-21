@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "signin-with-matrix",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "[Over 35 million](https://techcrunch.com/2021/07/27/element-a-messaging-app-built-on-the-decentralized-matrix-protocol-raises-30m/) Matrix users can't wait to use your app. Use this pre-built component to make federated sign-in a no-effort zero-brainer",
+		"keywords": [
+			"matrix",
+			"sign in",
+			"component",
+			"element",
+			"webcomponents",
+			"svelte",
+			"typescript",
+			"vite"
+		],
+		"date": "2021-11-15T08:50:59.113Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/signin-with-matrix",
+			"homepage": "https://github.com/mishushakov/signin-with-matrix#readme",
+			"repository": "https://github.com/mishushakov/signin-with-matrix",
+			"bugs": "https://github.com/mishushakov/signin-with-matrix/issues"
+		},
+		"publisher": {
+			"username": "mishushakov",
+			"email": "hello@ushakov.co"
+		},
+		"maintainers": [
+			{
+				"username": "mishushakov",
+				"email": "hello@ushakov.co"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2059880493597294,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.002192334293793494,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 6.640694e-9
+}

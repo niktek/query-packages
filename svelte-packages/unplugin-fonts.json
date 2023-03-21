@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "unplugin-fonts",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Universal Webfont loader",
+		"keywords": [
+			"fonts",
+			"google-fonts",
+			"typekit",
+			"fontsource",
+			"webfontloader",
+			"svelte",
+			"nuxt",
+			"vite",
+			"vitepress",
+			"astro-integration"
+		],
+		"date": "2023-03-20T12:04:17.668Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/unplugin-fonts",
+			"homepage": "https://github.com/cssninjaStudio/unplugin-fonts#readme",
+			"repository": "https://github.com/cssninjaStudio/unplugin-fonts",
+			"bugs": "https://github.com/cssninjaStudio/unplugin-fonts/issues"
+		},
+		"author": {
+			"name": "cssninjaStudio",
+			"email": "hello@cssninja.io",
+			"url": "https://cssninja.io"
+		},
+		"publisher": {
+			"username": "stafyniaksacha",
+			"email": "sacha.stafyniak@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "stafyniaksacha",
+				"email": "sacha.stafyniak@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.305200899623979,
+		"detail": {
+			"quality": 0.6258202115054826,
+			"popularity": 0.0022519128733359314,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000010889534
+}

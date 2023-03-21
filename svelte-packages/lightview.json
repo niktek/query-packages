@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "lightview",
+		"scope": "unscoped",
+		"version": "1.8.2",
+		"description": "Small, simple, powerful web UI and micro front end creation ... Great ideas from Svelte, React, Vue and Riot combined.",
+		"keywords": [
+			"svelte",
+			"react",
+			"angular",
+			"riot",
+			"vue",
+			"moon",
+			"hyperapp",
+			"hyperhtml",
+			"micro front end",
+			"custom elements",
+			"web components"
+		],
+		"date": "2022-06-19T11:04:52.095Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/lightview",
+			"homepage": "https://lightview.dev",
+			"repository": "https://github.com/anywhichway/lightview",
+			"bugs": "https://github.com/anywhichway/lightview/issues"
+		},
+		"author": {
+			"name": "Simon Y. Blackwell"
+		},
+		"publisher": {
+			"username": "anywhichway",
+			"email": "syblackwell@anywhichway.com"
+		},
+		"maintainers": [
+			{
+				"username": "anywhichway",
+				"email": "syblackwell@anywhichway.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.4049431763838858,
+		"detail": {
+			"quality": 0.9575140412473208,
+			"popularity": 0.0029507077731333224,
+			"maintenance": 0.33330347511169395
+		}
+	},
+	"searchScore": 0.00006334684
+}

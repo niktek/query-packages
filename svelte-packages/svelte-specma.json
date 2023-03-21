@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "svelte-specma",
+		"scope": "unscoped",
+		"version": "1.1.7",
+		"description": "Svelte store for data validation using Specma",
+		"keywords": [
+			"svelte",
+			"store",
+			"specma",
+			"spec",
+			"schema",
+			"validation",
+			"composition",
+			"ensure",
+			"conform",
+			"validate",
+			"predicates"
+		],
+		"date": "2023-02-20T21:39:35.381Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-specma",
+			"homepage": "https://github.com/davidsavoie1/svelte-specma.git",
+			"repository": "https://github.com/davidsavoie1/svelte-specma",
+			"bugs": "https://github.com/davidsavoie1/svelte-specma/issues"
+		},
+		"author": {
+			"name": "David Savoie"
+		},
+		"publisher": {
+			"username": "davidsavoie1",
+			"email": "david.savoie@softboxsi.com"
+		},
+		"maintainers": [
+			{
+				"username": "davidsavoie1",
+				"email": "david.savoie@softboxsi.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28080764040432526,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.006514617282632464,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000014783277
+}

@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-pilot",
+		"scope": "unscoped",
+		"version": "0.4.7",
+		"description": "A Svelte router that supports Server-Side Rendering (SSR).",
+		"keywords": [
+			"svelte",
+			"router"
+		],
+		"date": "2023-03-10T15:09:19.117Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-pilot",
+			"homepage": "https://github.com/jiangfengming/svelte-pilot#readme",
+			"repository": "https://github.com/jiangfengming/svelte-pilot",
+			"bugs": "https://github.com/jiangfengming/svelte-pilot/issues"
+		},
+		"author": {
+			"name": "Jiang Fengming",
+			"email": "jiangfengming87@gmail.com",
+			"username": "jiangfengming"
+		},
+		"publisher": {
+			"username": "jiangfengming",
+			"email": "jiangfengming87@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jiangfengming",
+				"email": "jiangfengming87@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25388616129706415,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.021373989037516583,
+			"maintenance": 0.3322993905028911
+		}
+	},
+	"searchScore": 4.5380926e-7
+}

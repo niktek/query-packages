@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@anthony809/svelte-head",
+		"scope": "anthony809",
+		"version": "0.0.6",
+		"description": "Svelte head is a component to easily add and update svelte route pages's meta information.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"cms"
+		],
+		"date": "2023-01-11T22:14:40.980Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40anthony809%2Fsvelte-head",
+			"homepage": "https://sveltecms.dev",
+			"repository": "https://github.com/sveltecms/cms",
+			"bugs": "https://github.com/sveltecms/cms/issues"
+		},
+		"author": {
+			"name": "anthony809"
+		},
+		"publisher": {
+			"username": "anthony809",
+			"email": "anthonytoribio809@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anthony809",
+				"email": "anthonytoribio809@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26960876809609696,
+		"detail": {
+			"quality": 0.5019129540676174,
+			"popularity": 0.006766329168985954,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.3763643e-7
+}

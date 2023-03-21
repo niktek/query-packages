@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "lazy-load-list",
+		"scope": "unscoped",
+		"version": "1.2.3",
+		"description": "lazy load list is a lightweight web package that loads items in lazy way to achieve high performance and better UX in large lists.",
+		"keywords": [
+			"virtual",
+			"list",
+			"lazy",
+			"load",
+			"loading",
+			"items",
+			"once",
+			"scroll",
+			"on",
+			"web",
+			"js",
+			"svelte",
+			"Vue",
+			"package",
+			"component"
+		],
+		"date": "2022-09-21T21:52:39.140Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/lazy-load-list",
+			"homepage": "https://github.com/omer73364/lazy-load-list",
+			"repository": "https://github.com/omer73364/lazy-load-list",
+			"bugs": "https://github.com/omer73364/lazy-load-list/issues"
+		},
+		"author": {
+			"name": "OMER ANWAR"
+		},
+		"publisher": {
+			"username": "omer73364",
+			"email": "anwar733649039@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "omer73364",
+				"email": "anwar733649039@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27307753092299797,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.014130103377079643,
+			"maintenance": 0.32916169703110637
+		}
+	},
+	"searchScore": 2.4666923e-7
+}

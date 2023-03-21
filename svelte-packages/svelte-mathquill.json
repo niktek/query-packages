@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-mathquill",
+		"scope": "unscoped",
+		"version": "0.4.1",
+		"description": "A svelte wrapper for MathQuill",
+		"date": "2022-06-16T19:49:10.705Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-mathquill",
+			"homepage": "https://leodog896.github.io/svelte-mathquill",
+			"repository": "https://github.com/LeoDog896/mathquill",
+			"bugs": "https://github.com/LeoDog896/svelte-mathquill/issues"
+		},
+		"author": {
+			"name": "Tristan F.",
+			"email": "leodog896@gmail.com"
+		},
+		"publisher": {
+			"username": "leodog896",
+			"email": "LeoDog896@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "leodog896",
+				"email": "LeoDog896@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2739091883405361,
+		"detail": {
+			"quality": 0.5314309668399496,
+			"popularity": 0.002192334293793494,
+			"maintenance": 0.3248930893877815
+		}
+	},
+	"searchScore": 9.000714e-7
+}

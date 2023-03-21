@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "vite-plugin-pdf-preview",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Preview modern webpages as PDF",
+		"keywords": [
+			"vite-plugin",
+			"pdf-preview",
+			"pdf",
+			"react-pdf",
+			"vue-pdf",
+			"svelte-pdf",
+			"html-pdf",
+			"puppeteer"
+		],
+		"date": "2022-11-04T15:54:12.646Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-plugin-pdf-preview",
+			"homepage": "https://github.com/davidjbng/vite-plugin-pdf-preview#readme",
+			"repository": "https://github.com/davidjbng/vite-plugin-pdf-preview",
+			"bugs": "https://github.com/davidjbng/vite-plugin-pdf-preview/issues"
+		},
+		"author": {
+			"name": "davidjbng"
+		},
+		"publisher": {
+			"username": "davidjbng",
+			"email": "davidjbng@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "davidjbng",
+				"email": "davidjbng@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2444577349379356,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0029973767921114792,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 5.226751e-8
+}

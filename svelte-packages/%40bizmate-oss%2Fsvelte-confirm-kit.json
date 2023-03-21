@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@bizmate-oss/svelte-confirm-kit",
+		"scope": "bizmate-oss",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-08-05T13:48:03.856Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bizmate-oss%2Fsvelte-confirm-kit"
+		},
+		"publisher": {
+			"username": "webfrank",
+			"email": "webfrank@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gaetano.serio",
+				"email": "gaetano.serio@bizmate.it"
+			},
+			{
+				"username": "tiziano.talini",
+				"email": "tiziano.talini@bizmate.it"
+			},
+			{
+				"username": "webfrank",
+				"email": "webfrank@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22292357540800425,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.01922409726845676,
+			"maintenance": 0.3166814555290432
+		}
+	},
+	"searchScore": 4.9881177e-8
+}

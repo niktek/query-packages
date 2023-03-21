@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-radio-checkbox-z",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Svelte UI Check/Radio [RadioGroup, Checkbox(s)]. Custom (test-svelte)",
+		"keywords": [
+			"svelte",
+			"svelte-components",
+			"svelte-radio",
+			"svelte-checkbox",
+			"svelte-radio-checkbox",
+			"svelte-checkbox-radio",
+			"svelte-radio-group",
+			"radio-checkbox",
+			"svelte-ui",
+			"ui-radio",
+			"ui-checkbox",
+			"custom-radio",
+			"custom-checkbox"
+		],
+		"date": "2021-11-05T03:26:42.808Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-radio-checkbox-z"
+		},
+		"author": {
+			"name": "Delpi.Kye"
+		},
+		"publisher": {
+			"username": "delpikye",
+			"email": "tungvu.it@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "delpikye",
+				"email": "tungvu.it@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21166076448525464,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0016446075948473565,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 3.3942445e-8
+}

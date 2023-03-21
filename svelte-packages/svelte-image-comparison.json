@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-image-comparison",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Svelte component to compare image or canvas elements.",
+		"keywords": [
+			"svelte",
+			"component",
+			"image",
+			"compare"
+		],
+		"date": "2023-01-07T22:29:33.168Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-image-comparison",
+			"homepage": "https://captaincodeman.github.io/svelte-image-comparison/",
+			"repository": "https://github.com/captaincodeman/svelte-image-comparison",
+			"bugs": "https://github.com/captaincodeman/svelte-image-comparison/issues"
+		},
+		"author": {
+			"name": "Simon Green",
+			"email": "simon@captaincodeman.com",
+			"url": "https://www.captaincodeman.com/",
+			"username": "captaincodeman"
+		},
+		"publisher": {
+			"username": "captaincodeman",
+			"email": "simon@captaincodeman.com"
+		},
+		"maintainers": [
+			{
+				"username": "captaincodeman",
+				"email": "simon@captaincodeman.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22050253428791353,
+		"detail": {
+			"quality": 0.3399327673777981,
+			"popularity": 0.005395192345838879,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 5.022003e-8
+}

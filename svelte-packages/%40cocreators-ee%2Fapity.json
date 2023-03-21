@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "@cocreators-ee/apity",
+		"scope": "cocreators-ee",
+		"version": "0.0.3",
+		"description": "A typed fetch client for openapi-typescript with Svelte support",
+		"keywords": [
+			"fetch",
+			"client",
+			"swagger",
+			"typescript",
+			"ts",
+			"openapi",
+			"openapi 3",
+			"node",
+			"svelte",
+			"sveltekit"
+		],
+		"date": "2023-02-28T14:55:15.404Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cocreators-ee%2Fapity",
+			"homepage": "https://github.com/cocreators-ee/apity#readme",
+			"repository": "https://github.com/cocreators-ee/apity",
+			"bugs": "https://github.com/cocreators-ee/apity/issues"
+		},
+		"author": {
+			"name": "Cocreators OÜ"
+		},
+		"publisher": {
+			"username": "fbjorn",
+			"email": "denis.kirisov@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "fbjorn",
+				"email": "denis.kirisov@gmail.com"
+			},
+			{
+				"username": "lietu",
+				"email": "npmjs@lietu.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22601524108972465,
+		"detail": {
+			"quality": 0.3595566954747321,
+			"popularity": 0.005660132720172124,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 2.7471504e-8
+}

@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-cached-router",
+		"scope": "unscoped",
+		"version": "1.0.17",
+		"description": "A svelte router that could cache the page component and works locally",
+		"keywords": [
+			"svelte",
+			"cached",
+			"router"
+		],
+		"date": "2021-10-21T08:46:43.802Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-cached-router",
+			"homepage": "https://github.com/easyfrog/svelte-cached-router#readme",
+			"repository": "https://github.com/easyfrog/svelte-cached-router"
+		},
+		"author": {
+			"name": "ooomap.com"
+		},
+		"publisher": {
+			"username": "easyfrog",
+			"email": "easyfrog@126.com"
+		},
+		"maintainers": [
+			{
+				"username": "easyfrog",
+				"email": "easyfrog@126.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25674336707536516,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.002452295243784464,
+			"maintenance": 0.2778115562726407
+		}
+	},
+	"searchScore": 4.2142022e-7
+}

@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@nlx-voice-compass/point-and-click",
+		"scope": "nlx-voice-compass",
+		"version": "2.0.0-beta.1",
+		"description": "Embedded widget running the point-and-click experience. Written in Svelte+Taildinw and exposed as a custom element.",
+		"date": "2023-03-20T14:42:06.362Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nlx-voice-compass%2Fpoint-and-click"
+		},
+		"publisher": {
+			"username": "nlxai",
+			"email": "contact@nlx.ai"
+		},
+		"maintainers": [
+			{
+				"username": "nlxai",
+				"email": "contact@nlx.ai"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25096192094496905,
+		"detail": {
+			"quality": 0.41695962340791315,
+			"popularity": 0.02630676358836709,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.985815e-8
+}

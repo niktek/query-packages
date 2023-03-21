@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@material-svelte/navigation-rail",
+		"scope": "material-svelte",
+		"version": "1.1.4",
+		"date": "2021-05-20T07:51:30.929Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40material-svelte%2Fnavigation-rail",
+			"homepage": "https://material-svelte.dev",
+			"repository": "https://github.com/material-svelte/material-svelte",
+			"bugs": "https://github.com/material-svelte/material-svelte/issues"
+		},
+		"publisher": {
+			"username": "material-svelte-bot",
+			"email": "bot@material-svelte.dev"
+		},
+		"maintainers": [
+			{
+				"username": "betaboon",
+				"email": "betaboon@0x80.ninja"
+			},
+			{
+				"username": "material-svelte-bot",
+				"email": "bot@material-svelte.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24314318591320638,
+		"detail": {
+			"quality": 0.5574776297318049,
+			"popularity": 0.018772258644361335,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 1.6522222e-7
+}

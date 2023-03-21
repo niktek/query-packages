@@ -1,0 +1,30 @@
+{
+	"package": {
+		"name": "icon-pack-svelte",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"date": "2021-11-02T12:36:38.375Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/icon-pack-svelte"
+		},
+		"publisher": {
+			"username": "x-tymchenko",
+			"email": "xtymchenko@ex.ua"
+		},
+		"maintainers": [
+			{
+				"username": "x-tymchenko",
+				"email": "xtymchenko@ex.ua"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17261555094972222,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.0012561734580308736,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.5642769e-9
+}

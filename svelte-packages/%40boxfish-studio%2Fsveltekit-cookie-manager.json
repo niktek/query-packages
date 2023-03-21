@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@boxfish-studio/sveltekit-cookie-manager",
+		"scope": "boxfish-studio",
+		"version": "1.0.3",
+		"description": "<div align=\"center\"> \t<h1>Sveltekit Cookie Manager 🍪</h1> \t<p>Sveltekit Cookie Manager is an easy-use Svelte package to help control the visitor's cookie consent.</p> </div>",
+		"date": "2023-01-31T18:03:02.284Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40boxfish-studio%2Fsveltekit-cookie-manager"
+		},
+		"publisher": {
+			"username": "begonaalvarezd",
+			"email": "balvarez@boxfish.studio"
+		},
+		"maintainers": [
+			{
+				"username": "begonaalvarezd",
+				"email": "balvarez@boxfish.studio"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2650964765824834,
+		"detail": {
+			"quality": 0.4660379081226978,
+			"popularity": 0.02462410708287842,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.6923396e-7
+}

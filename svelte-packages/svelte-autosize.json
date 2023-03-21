@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-autosize",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Svelte action to automatically adjust textarea height.",
+		"keywords": [
+			"svelte",
+			"autosize"
+		],
+		"date": "2023-03-10T21:53:17.507Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-autosize",
+			"homepage": "https://github.com/jesseskinner/svelte-autosize#readme",
+			"repository": "https://github.com/jesseskinner/svelte-autosize",
+			"bugs": "https://github.com/jesseskinner/svelte-autosize/issues"
+		},
+		"author": {
+			"name": "Jesse Skinner",
+			"email": "jesse@codingwithjesse.com"
+		},
+		"publisher": {
+			"username": "jesseskinner",
+			"email": "jesse@thefutureoftheweb.com"
+		},
+		"maintainers": [
+			{
+				"username": "jesseskinner",
+				"email": "jesse@thefutureoftheweb.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16989516975893074,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.045415472894801065,
+			"maintenance": 0.07214303589534912
+		}
+	},
+	"searchScore": 3.7976777e-9
+}

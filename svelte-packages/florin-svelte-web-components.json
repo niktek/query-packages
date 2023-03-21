@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "florin-svelte-web-components",
+		"scope": "unscoped",
+		"version": "0.0.65",
+		"description": "A web component library for testing purposes",
+		"date": "2022-10-10T08:11:37.232Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/florin-svelte-web-components"
+		},
+		"author": {
+			"name": "Florin Mihalcea"
+		},
+		"publisher": {
+			"username": "florinmihalcea",
+			"email": "florinmihalcea96@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "florinmihalcea",
+				"email": "florinmihalcea96@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19677221540298762,
+		"detail": {
+			"quality": 0.2564197569473003,
+			"popularity": 0.009084633291802459,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.2680426e-9
+}

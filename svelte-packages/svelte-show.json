@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-show",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "Like `v-show` in `vuejs`, or `ng-show` in `angularjs`, `svelte-show` just hide the element, it does not destroy the components inside its block. This library is used for cases when we need to keep the HTML elements retain in DOM, to avoid re-initializatio",
+		"keywords": [
+			"svelte",
+			"svelte-show"
+		],
+		"date": "2022-09-04T08:14:42.658Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-show",
+			"homepage": "https://github.com/Foxeye-Rinx/svelte-show#readme",
+			"repository": "https://github.com/Foxeye-Rinx/svelte-show",
+			"bugs": "https://github.com/Foxeye-Rinx/svelte-show/issues"
+		},
+		"publisher": {
+			"username": "foxeye.rinx",
+			"email": "foxeye.rinx@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "foxeye.rinx",
+				"email": "foxeye.rinx@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22225623983620962,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0019279307075792103,
+			"maintenance": 0.3320709490276504
+		}
+	},
+	"searchScore": 5.950932e-8
+}

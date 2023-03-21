@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@material-svelte/grid",
+		"scope": "material-svelte",
+		"version": "1.2.4",
+		"date": "2021-05-20T07:50:46.165Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40material-svelte%2Fgrid",
+			"homepage": "https://material-svelte.dev",
+			"repository": "https://github.com/material-svelte/material-svelte",
+			"bugs": "https://github.com/material-svelte/material-svelte/issues"
+		},
+		"publisher": {
+			"username": "material-svelte-bot",
+			"email": "bot@material-svelte.dev"
+		},
+		"maintainers": [
+			{
+				"username": "betaboon",
+				"email": "betaboon@0x80.ninja"
+			},
+			{
+				"username": "material-svelte-bot",
+				"email": "bot@material-svelte.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24747979261565695,
+		"detail": {
+			"quality": 0.5574776297318049,
+			"popularity": 0.018838499916756676,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 2.2992756e-7
+}

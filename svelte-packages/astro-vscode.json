@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "astro-vscode",
+		"scope": "unscoped",
+		"version": "0.29.7",
+		"description": "Language support for Astro",
+		"keywords": [
+			"astro",
+			"node",
+			"typescript",
+			"javascript",
+			"vue",
+			"svelte",
+			"Static site generator"
+		],
+		"date": "2023-03-09T20:58:48.911Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/astro-vscode",
+			"homepage": "https://github.com/withastro/language-tools#readme",
+			"repository": "https://github.com/withastro/language-tools",
+			"bugs": "https://github.com/withastro/language-tools/issues"
+		},
+		"author": {
+			"name": "withastro"
+		},
+		"publisher": {
+			"username": "fredkschott",
+			"email": "fkschott@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "fredkschott",
+				"email": "fkschott@gmail.com"
+			},
+			{
+				"username": "natemoo-re",
+				"email": "nate@natemoo.re"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2216611464870555,
+		"detail": {
+			"quality": 0.3422980387182727,
+			"popularity": 0.006585909156877324,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.5754717e-8
+}

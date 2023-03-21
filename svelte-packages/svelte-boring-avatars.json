@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-boring-avatars",
+		"scope": "unscoped",
+		"version": "1.2.2",
+		"description": "![Screenshot 2021-09-01 100049](https://user-images.githubusercontent.com/61054234/131599513-98c3c763-9839-4539-8c83-0a3be137f59a.png)",
+		"keywords": [
+			"svelte",
+			"avatars",
+			"boring-avatars"
+		],
+		"date": "2021-10-01T02:31:22.410Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-boring-avatars",
+			"homepage": "https://github.com/paolotiu/svelte-boring-avatars#readme",
+			"repository": "https://github.com/paolotiu/svelte-boring-avatars",
+			"bugs": "https://github.com/paolotiu/svelte-boring-avatars/issues"
+		},
+		"author": {
+			"name": "Paolo Tiu",
+			"email": "paolotiu17@gmail.com",
+			"username": "paolotiu17"
+		},
+		"publisher": {
+			"username": "paolotiu17",
+			"email": "paolotiu17@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "paolotiu17",
+				"email": "paolotiu17@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23576407798875376,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0263091323567499,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 1.6533541e-7
+}

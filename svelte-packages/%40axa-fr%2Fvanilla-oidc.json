@@ -1,0 +1,58 @@
+{
+	"package": {
+		"name": "@axa-fr/vanilla-oidc",
+		"scope": "axa-fr",
+		"version": "6.16.1",
+		"description": "OpenID Connect & OAuth authentication using native javascript only, compatible with angular, react, vue, svelte, next, etc.",
+		"keywords": [
+			"oidc",
+			"OpenID Connect",
+			"openid",
+			"oauth2",
+			"oauth",
+			"vanilla"
+		],
+		"date": "2023-03-20T09:27:19.706Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40axa-fr%2Fvanilla-oidc",
+			"homepage": "https://github.com/AxaGuilDEv/react-oidc#readme",
+			"repository": "https://github.com/AxaGuilDEv/react-oidc",
+			"bugs": "https://github.com/AxaGuilDEv/react-oidc/issues"
+		},
+		"publisher": {
+			"username": "guillaume.chervet.axa",
+			"email": "guillaume.chervet@axa.fr"
+		},
+		"maintainers": [
+			{
+				"username": "fcornaire",
+				"email": "darkshad66@gmail.com"
+			},
+			{
+				"username": "guillaume.chervet.axa",
+				"email": "guillaume.chervet@axa.fr"
+			},
+			{
+				"username": "samuel-gomez",
+				"email": "samuel.gomez@axa.fr"
+			},
+			{
+				"username": "antoine.blancke",
+				"email": "antoine.blancke@axa.fr"
+			},
+			{
+				"username": "arnaudforaison",
+				"email": "arnaud.foraison@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.371356484177044,
+		"detail": {
+			"quality": 0.8056940205034193,
+			"popularity": 0.03709031816957589,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000011070086
+}

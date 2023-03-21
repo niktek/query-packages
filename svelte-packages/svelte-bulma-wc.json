@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-bulma-wc",
+		"scope": "unscoped",
+		"version": "1.0.11",
+		"description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+		"date": "2022-11-01T14:00:39.143Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-bulma-wc"
+		},
+		"publisher": {
+			"username": "elmdary",
+			"email": "engm5081@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "elmdary",
+				"email": "engm5081@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2490561670511568,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.021631319493007492,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.5717586e-7
+}

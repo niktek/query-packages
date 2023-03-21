@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@alexlibby/checkbox",
+		"scope": "alexlibby",
+		"version": "1.0.0-alpha-1",
+		"description": "A simple checkbox component from the Cobalt library, for Svelte",
+		"keywords": [
+			"svelte",
+			"react",
+			"custom elements",
+			"web components"
+		],
+		"date": "2022-09-24T13:04:32.496Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40alexlibby%2Fcheckbox",
+			"homepage": "https://github.com/alexlibby/cobalt#readme",
+			"repository": "https://github.com/alexlibby/cobalt",
+			"bugs": "https://github.com/alexlibby/cobalt/issues"
+		},
+		"author": {
+			"name": "Alex Libby"
+		},
+		"publisher": {
+			"username": "alexlibby",
+			"email": "alex.libby@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "alexlibby",
+				"email": "alex.libby@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20663661979187237,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.0021044071143387463,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 8.2555385e-9
+}

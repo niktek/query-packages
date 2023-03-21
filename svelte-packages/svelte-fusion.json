@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-fusion",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-01-26T10:53:15.696Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-fusion"
+		},
+		"publisher": {
+			"username": "dodoegy11",
+			"email": "egypt.zag.eg@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dodoegy11",
+				"email": "egypt.zag.eg@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21651811532870968,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.005580459018201773,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.5581053e-8
+}

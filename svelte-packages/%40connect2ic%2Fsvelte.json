@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "@connect2ic/svelte",
+		"scope": "connect2ic",
+		"version": "0.1.6",
+		"date": "2022-07-07T13:19:32.827Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40connect2ic%2Fsvelte"
+		},
+		"author": {
+			"name": "Mio Quispe"
+		},
+		"publisher": {
+			"username": "mioquispe",
+			"email": "mioq91@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mioquispe",
+				"email": "mioq91@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17792634851915481,
+		"detail": {
+			"quality": 0.19931143041959076,
+			"popularity": 0.004189293504602663,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.0539122e-9
+}

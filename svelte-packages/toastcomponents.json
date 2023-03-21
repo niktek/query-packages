@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "toastcomponents",
+		"scope": "unscoped",
+		"version": "0.0.10",
+		"description": "Add date and time pickers to svelte projects",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"date and time picker components",
+			"toast ui components"
+		],
+		"date": "2022-05-03T17:18:29.211Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/toastcomponents"
+		},
+		"publisher": {
+			"username": "spettit",
+			"email": "s.p@mac.com"
+		},
+		"maintainers": [
+			{
+				"username": "spettit",
+				"email": "s.p@mac.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22677091067152952,
+		"detail": {
+			"quality": 0.34771135612739124,
+			"popularity": 0.019230256563852206,
+			"maintenance": 0.3306483258170397
+		}
+	},
+	"searchScore": 3.4653393e-8
+}

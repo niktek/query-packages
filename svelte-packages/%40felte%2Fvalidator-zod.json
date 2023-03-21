@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@felte/validator-zod",
+		"scope": "felte",
+		"version": "1.0.13",
+		"description": "A package to use Zod validation with Felte",
+		"keywords": [
+			"svelte",
+			"forms",
+			"validation",
+			"felte",
+			"zod"
+		],
+		"date": "2023-01-11T23:30:34.884Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40felte%2Fvalidator-zod",
+			"homepage": "https://github.com/pablo-abc/felte/tree/main/packages/validator-zod",
+			"repository": "https://github.com/pablo-abc/felte",
+			"bugs": "https://github.com/pablo-abc/felte/issues"
+		},
+		"author": {
+			"name": "Pablo Berganza",
+			"email": "pablo@berganza.dev",
+			"url": "https://pablo.berganza.dev",
+			"username": "pberganza"
+		},
+		"publisher": {
+			"username": "pberganza",
+			"email": "pablo@berganza.dev"
+		},
+		"maintainers": [
+			{
+				"username": "pberganza",
+				"email": "pablo@berganza.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.289752659218169,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.04722490293716546,
+			"maintenance": 0.33333326229562177
+		}
+	},
+	"searchScore": 0.0000010647243
+}

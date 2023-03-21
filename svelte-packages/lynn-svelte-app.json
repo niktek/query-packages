@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "lynn-svelte-app",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "This template should help get you started developing with Svelte in Vite.",
+		"date": "2022-06-13T17:51:01.050Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/lynn-svelte-app",
+			"homepage": "https://github.com/chialinglu21/lynn-svelte-app#readme",
+			"repository": "https://github.com/chialinglu21/lynn-svelte-app",
+			"bugs": "https://github.com/chialinglu21/lynn-svelte-app/issues"
+		},
+		"publisher": {
+			"username": "chialinglu",
+			"email": "tobeciolynn@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "chialinglu",
+				"email": "tobeciolynn@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.31911686010189566,
+		"detail": {
+			"quality": 0.6638252595070726,
+			"popularity": 0.023439145663047806,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 0.000007753434
+}

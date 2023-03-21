@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-search",
+		"scope": "unscoped",
+		"version": "2.0.1",
+		"description": "Accessible, customizable Svelte search component",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"search",
+			"debounce",
+			"accessible",
+			"form",
+			"input"
+		],
+		"date": "2022-08-16T18:56:39.633Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-search",
+			"homepage": "https://github.com/metonym/svelte-search",
+			"repository": "https://github.com/metonym/svelte-search",
+			"bugs": "https://github.com/metonym/svelte-search/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2684952088217568,
+		"detail": {
+			"quality": 0.6191815227934985,
+			"popularity": 0.038317558615910824,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 0.0000012805914
+}

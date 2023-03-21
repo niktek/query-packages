@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-fetch",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "A `fetch` client with Svelte store integration for request states.",
+		"keywords": [
+			"fetch",
+			"http",
+			"svelte",
+			"svelte store"
+		],
+		"date": "2019-10-07T15:10:04.247Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-fetch"
+		},
+		"author": {
+			"name": "robin@pettersen.dev"
+		},
+		"publisher": {
+			"username": "ctrl-alt-null",
+			"email": "robin@pettersen.dev"
+		},
+		"maintainers": [
+			{
+				"username": "progging",
+				"email": "robin+npm@pettersen.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24147454973266957,
+		"detail": {
+			"quality": 0.696855114556635,
+			"popularity": 0.002881203507634478,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.4898299e-7
+}

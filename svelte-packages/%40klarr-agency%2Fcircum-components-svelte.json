@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "@klarr-agency/circum-components-svelte",
+		"scope": "klarr-agency",
+		"version": "0.0.1",
+		"date": "2022-12-19T01:42:44.171Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40klarr-agency%2Fcircum-components-svelte",
+			"homepage": "https://github.com/Klarr-Agency/circum-components#readme",
+			"repository": "https://github.com/Klarr-Agency/circum-components",
+			"bugs": "https://github.com/Klarr-Agency/circum-components/issues"
+		},
+		"publisher": {
+			"username": "klarr-agency",
+			"email": "agence.klarr@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "klarr-agency",
+				"email": "agence.klarr@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1889113349708808,
+		"detail": {
+			"quality": 0.23926108599618262,
+			"popularity": 0.002759494790803574,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 3.3998249e-9
+}

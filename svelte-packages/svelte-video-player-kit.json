@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-video-player-kit",
+		"scope": "unscoped",
+		"version": "1.2.8",
+		"description": "Basic video player component for svelte, SSR and sveltekit apps.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"ssr",
+			"video",
+			"player"
+		],
+		"date": "2021-10-24T19:58:12.779Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-video-player-kit"
+		},
+		"author": {
+			"name": "Meigo Kukk"
+		},
+		"publisher": {
+			"username": "anakha",
+			"email": "basaran@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anakha",
+				"email": "basaran@protonmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.217919956103918,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0045970834778538,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 4.8366026e-8
+}

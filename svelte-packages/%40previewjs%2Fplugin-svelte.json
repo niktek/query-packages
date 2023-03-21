@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@previewjs/plugin-svelte",
+		"scope": "previewjs",
+		"version": "4.0.4",
+		"date": "2023-03-20T08:45:02.259Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40previewjs%2Fplugin-svelte",
+			"homepage": "https://previewjs.com",
+			"repository": "https://github.com/fwouts/previewjs",
+			"bugs": "https://github.com/fwouts/previewjs/issues"
+		},
+		"author": {
+			"name": "François Wouts",
+			"email": "f@zenc.io",
+			"username": "fwouts"
+		},
+		"publisher": {
+			"username": "fwouts",
+			"email": "f@zenc.io"
+		},
+		"maintainers": [
+			{
+				"username": "fwouts",
+				"email": "f@zenc.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26618608177444564,
+		"detail": {
+			"quality": 0.4645283172469006,
+			"popularity": 0.029031199810596667,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.003135e-7
+}

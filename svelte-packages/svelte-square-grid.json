@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-square-grid",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "A simple square **based** grid for Svelte. <br> Can help you to easily create an image gallery like Artstation's, Windows 8 start menu, Android's photo gallery and more.",
+		"keywords": [
+			"svelte",
+			"svelte-component",
+			"Square",
+			"Grid",
+			"Gallery"
+		],
+		"date": "2022-05-28T20:08:26.039Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-square-grid",
+			"homepage": "https://anotherempty.github.io/svelte-square-grid/",
+			"repository": "https://github.com/anotherempty/svelte-square-grid",
+			"bugs": "https://github.com/anotherempty/svelte-square-grid/issues"
+		},
+		"author": {
+			"name": "anotherempty",
+			"url": "https://github.com/anotherempty"
+		},
+		"publisher": {
+			"username": "anotherempty",
+			"email": "anotherempty@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "anotherempty",
+				"email": "anotherempty@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2412280054235284,
+		"detail": {
+			"quality": 0.5314309668399496,
+			"popularity": 0.0014518238078102884,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.847791e-7
+}

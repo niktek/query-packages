@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@liquidiqq/iconkit",
+		"scope": "liquidiqq",
+		"version": "1.2.2",
+		"description": "Handpicked community icons for the Svelte ecosystem.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"icon",
+			"icons",
+			"svg",
+			"community",
+			"open-source",
+			"typescript"
+		],
+		"date": "2023-01-28T20:14:51.020Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40liquidiqq%2Ficonkit",
+			"homepage": "https://github.com/liquidiqq/iconkit",
+			"repository": "https://github.com/liquidiqq/iconkit",
+			"bugs": "https://github.com/liquidiqq/iconkit/issues"
+		},
+		"author": {
+			"name": "Liquidiqq"
+		},
+		"publisher": {
+			"username": "brucewayyn",
+			"email": "bee.wayyn@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "brucewayyn",
+				"email": "bee.wayyn@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27681331859914227,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.0042732368224549745,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.7659714e-7
+}

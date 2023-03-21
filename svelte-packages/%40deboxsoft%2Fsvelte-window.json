@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@deboxsoft/svelte-window",
+		"scope": "deboxsoft",
+		"version": "1.1.5",
+		"description": "Svelte components for efficiently rendering large, scrollable lists and tabular data. Port of react-window to Svelte.",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"react",
+			"reactjs",
+			"virtual",
+			"window",
+			"windowed",
+			"list",
+			"scrolling",
+			"infinite",
+			"virtualized",
+			"table",
+			"grid",
+			"spreadsheet"
+		],
+		"date": "2021-04-09T02:40:46.644Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40deboxsoft%2Fsvelte-window"
+		},
+		"author": {
+			"name": "micha-lmxt",
+			"email": "micha-lmxt@gradientdescent.de",
+			"url": "https://gradientdescent.de"
+		},
+		"publisher": {
+			"username": "nurdiansyah",
+			"email": "deboxserver@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nurdiansyah",
+				"email": "deboxserver@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21326223551940693,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0016661692551382154,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 3.4895933e-8
+}

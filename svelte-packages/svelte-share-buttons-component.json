@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-share-buttons-component",
+		"scope": "unscoped",
+		"version": "1.5.5",
+		"description": "Simple Svelte based social media share buttons component with no tracking.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2023-02-28T19:37:12.905Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-share-buttons-component",
+			"homepage": "https://pchynoweth.github.io/svelte-share-buttons-component/",
+			"repository": "https://github.com/pchynoweth/svelte-share-buttons-component",
+			"bugs": "https://github.com/pchynoweth/svelte-share-buttons-component/issues"
+		},
+		"author": {
+			"name": "pchynoweth"
+		},
+		"publisher": {
+			"username": "pchynoweth",
+			"email": "pchynoweth@yahoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "pchynoweth",
+				"email": "pchynoweth@yahoo.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3095353265927275,
+		"detail": {
+			"quality": 0.621149076937051,
+			"popularity": 0.019103353594284847,
+			"maintenance": 0.3328697992960356
+		}
+	},
+	"searchScore": 0.000005721506
+}

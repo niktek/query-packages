@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@authorizerdev/authorizer-svelte",
+		"scope": "authorizerdev",
+		"version": "0.1.5",
+		"description": "Svelte SDK for [authorizer.dev](https://authorizer.dev) integration in your [svelte-js](https://svelte.dev/) application. This will allow you to have authentication and authorization ready in minutes.",
+		"date": "2023-02-26T00:31:13.764Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40authorizerdev%2Fauthorizer-svelte"
+		},
+		"author": {
+			"name": "Lakhan Samani"
+		},
+		"publisher": {
+			"username": "lakhansamani",
+			"email": "lakhan.m.samani@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lakhansamani",
+				"email": "lakhan.m.samani@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25446730020897373,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.022000443098244577,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.4740705e-7
+}

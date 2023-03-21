@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "svelte-dk-router",
+		"scope": "unscoped",
+		"version": "4.0.17",
+		"description": "An efficient, easy-to-use router for Svelte.",
+		"keywords": [
+			"svelte",
+			"router",
+			"routing",
+			"route",
+			"routes",
+			"typescript",
+			"javascript",
+			"library",
+			"navigation",
+			"navigation-guard",
+			"asynchronous"
+		],
+		"date": "2021-02-04T15:18:03.638Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dk-router",
+			"homepage": "https://github.com/Daniel-Knights/svelte-dk-router#readme",
+			"repository": "https://github.com/Daniel-Knights/svelte-dk-router",
+			"bugs": "https://github.com/Daniel-Knights/svelte-dk-router/issues"
+		},
+		"author": {
+			"name": "Daniel Knights"
+		},
+		"publisher": {
+			"username": "daniel_knights",
+			"email": "danknights95@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "daniel_knights",
+				"email": "danknights95@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22088982663598766,
+		"detail": {
+			"quality": 0.6258202115054826,
+			"popularity": 0.004954768703816727,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.515282e-8
+}

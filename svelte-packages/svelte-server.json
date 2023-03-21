@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-server",
+		"scope": "unscoped",
+		"version": "0.4.2",
+		"date": "2020-05-07T04:07:09.170Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-server"
+		},
+		"author": {
+			"name": "Reed Jones",
+			"email": "reedjones@reedjones.com",
+			"username": "reed-jones"
+		},
+		"publisher": {
+			"username": "reed-jones",
+			"email": "reedjones@reedjones.com"
+		},
+		"maintainers": [
+			{
+				"username": "reed-jones",
+				"email": "reedjones@reedjones.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21426975590121083,
+		"detail": {
+			"quality": 0.6064197569473002,
+			"popularity": 0.0026692419400392224,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.5564085e-8
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "sveltejs-brunch",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Compile Svelte components inside Brunch projects",
+		"keywords": [
+			"svelte",
+			"brunch",
+			"compiler"
+		],
+		"date": "2021-07-27T22:26:01.518Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltejs-brunch"
+		},
+		"author": {
+			"name": "Dustin Deus",
+			"email": "deusdustin@gmail.com",
+			"url": "http://www.starptech.de",
+			"username": "starptech"
+		},
+		"publisher": {
+			"username": "starptech",
+			"email": "deusdustin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "starptech",
+				"email": "deusdustin@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.32771160739638894,
+		"detail": {
+			"quality": 0.9651207493584131,
+			"popularity": 0.0020677290787681686,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 0.000010060776
+}

@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "create-svelte-site",
+		"scope": "unscoped",
+		"version": "0.0.8",
+		"description": "Create a Svelte or Sapper site in a single command.",
+		"keywords": [
+			"oclif",
+			"svelte",
+			"sapper",
+			"create-svelte-site",
+			"svelte-cli"
+		],
+		"date": "2019-08-01T16:46:23.706Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-svelte-site",
+			"homepage": "https://github.com/gojutin/create-svelte-site",
+			"repository": "https://github.com/gojutin/create-svelte-site",
+			"bugs": "https://github.com/gojutin/create-svelte-site/issues"
+		},
+		"author": {
+			"name": "gojutin @gojutin"
+		},
+		"publisher": {
+			"username": "gojutin",
+			"email": "gojutin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gojutin",
+				"email": "gojutin@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17636200443774774,
+		"detail": {
+			"quality": 0.48079688386607855,
+			"popularity": 0.0020381289711917687,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.201479e-9
+}

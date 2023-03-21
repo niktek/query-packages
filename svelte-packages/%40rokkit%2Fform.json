@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@rokkit/form",
+		"scope": "rokkit",
+		"version": "1.0.0-next.11",
+		"description": "Dynamic form components for svelte apps.",
+		"date": "2023-03-20T10:02:51.636Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40rokkit%2Fform"
+		},
+		"author": {
+			"name": "Jerry Thomas",
+			"email": "me@jerrythomas.name",
+			"username": "jerrythomas"
+		},
+		"publisher": {
+			"username": "jerrythomas",
+			"email": "me@jerrythomas.name"
+		},
+		"maintainers": [
+			{
+				"username": "jerrythomas",
+				"email": "me@jerrythomas.name"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25145989481925884,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.797054e-8
+}

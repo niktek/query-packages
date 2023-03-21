@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@a-luna/svelte-simple-tables",
+		"scope": "a-luna",
+		"version": "0.0.29",
+		"description": "Accessible, sortable, paginated table component",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"table component",
+			"sortable table",
+			"paginated table",
+			"accessibility"
+		],
+		"date": "2022-07-19T09:27:18.684Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40a-luna%2Fsvelte-simple-tables",
+			"homepage": "https://github.com/a-luna/svelte-simple-tables",
+			"repository": "https://github.com/a-luna/svelte-simple-tables",
+			"bugs": "https://github.com/a-luna/svelte-simple-tables/issues"
+		},
+		"author": {
+			"name": "Aaron Luna",
+			"url": "https://github.com/a-luna"
+		},
+		"publisher": {
+			"username": "a-luna",
+			"email": "contact@aaronluna.dev"
+		},
+		"maintainers": [
+			{
+				"username": "a-luna",
+				"email": "contact@aaronluna.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.33080745151811713,
+		"detail": {
+			"quality": 0.7082859633123922,
+			"popularity": 0.00710169555977993,
+			"maintenance": 0.3309601973670757
+		}
+	},
+	"searchScore": 0.000010848996
+}

@@ -1,0 +1,68 @@
+{
+	"package": {
+		"name": "@carbon/charts-svelte",
+		"scope": "carbon",
+		"version": "1.6.14",
+		"description": "Carbon charting components for Svelte",
+		"keywords": [
+			"carbon",
+			"charts",
+			"svelte",
+			"dataviz",
+			"data-visualization",
+			"visualizations",
+			"d3",
+			"svg",
+			"component",
+			"components",
+			"css",
+			"html",
+			"ibm",
+			"typescript",
+			"javascript",
+			"js",
+			"library",
+			"pattern",
+			"patterns",
+			"sass",
+			"scss"
+		],
+		"date": "2023-03-07T17:22:34.799Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40carbon%2Fcharts-svelte",
+			"homepage": "https://github.com/carbon-design-system/carbon-charts#readme",
+			"repository": "https://github.com/carbon-design-system/carbon-charts",
+			"bugs": "https://github.com/carbon-design-system/carbon-charts/issues"
+		},
+		"author": {
+			"name": "IBM"
+		},
+		"publisher": {
+			"username": "carbon-bot",
+			"email": "carbondesignsystem@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "theiliad",
+				"email": "iliadmoosavi@gmail.com"
+			},
+			{
+				"username": "akshat55",
+				"email": "akshatpatel358@gmail.com"
+			},
+			{
+				"username": "carbon-bot",
+				"email": "carbondesignsystem@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28755816984986465,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.040954862275727165,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000024058065
+}

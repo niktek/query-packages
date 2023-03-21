@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "tusculum",
+		"scope": "unscoped",
+		"version": "0.0.17",
+		"description": "Automated heading ranks for HTML document outline using Svelte. Contains 2 components that will automatically generate proper `<h2>`-`<h6>` elements based on the section structure of your HTML document.",
+		"keywords": [
+			"svelte",
+			"headings",
+			"outlines",
+			"HTML sections",
+			"HTML outlines",
+			"accessibility",
+			"a11y",
+			"front-end"
+		],
+		"date": "2022-12-01T04:14:47.523Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/tusculum",
+			"homepage": "https://github.com/realgoatish/tusculum#readme",
+			"repository": "https://github.com/realgoatish/tusculum",
+			"bugs": "https://github.com/realgoatish/tusculum/issues"
+		},
+		"author": {
+			"name": "realgoatish"
+		},
+		"publisher": {
+			"username": "realgoatish",
+			"email": "mike.lamb.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "realgoatish",
+				"email": "mike.lamb.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22322609822857023,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0034365703800694563,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.8598596e-8
+}

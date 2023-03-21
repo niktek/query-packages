@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@geoffcox/sterling-svelte",
+		"scope": "geoffcox",
+		"version": "0.0.20",
+		"description": "A modern, accessible, and lightweight component library for Svelte.",
+		"keywords": [
+			"svelte",
+			"design system",
+			"component",
+			"controls",
+			"sveltekit",
+			"typescript",
+			"javascript"
+		],
+		"date": "2023-03-15T22:28:09.060Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40geoffcox%2Fsterling-svelte",
+			"homepage": "https://github.com/GeoffCox/sterling-svelte/blob/main/README.md",
+			"bugs": "https://github.com/GeoffCox/sterling-svelte/issues"
+		},
+		"author": {
+			"name": "Geoff Cox"
+		},
+		"publisher": {
+			"username": "geoffcox",
+			"email": "geoff.cox@live.com"
+		},
+		"maintainers": [
+			{
+				"username": "geoffcox",
+				"email": "geoff.cox@live.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25641127752606796,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.027554664004228156,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.820954e-7
+}

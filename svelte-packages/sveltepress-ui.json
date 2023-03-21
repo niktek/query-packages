@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "sveltepress-ui",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Documentation for humans with a friendly UI.",
+		"keywords": [
+			"svelte",
+			"documentation",
+			"sveltepress",
+			"sveltekit",
+			"ui"
+		],
+		"date": "2021-12-16T01:11:18.151Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltepress-ui",
+			"homepage": "https://github.com/GeopJr/SveltePress#readme",
+			"repository": "https://github.com/GeopJr/SveltePress",
+			"bugs": "https://github.com/GeopJr/SveltePress/issues"
+		},
+		"author": {
+			"name": "GeopJr"
+		},
+		"publisher": {
+			"username": "geopjr",
+			"email": "npm@geopjr.dev"
+		},
+		"maintainers": [
+			{
+				"username": "geopjr",
+				"email": "npm@geopjr.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20250160828127337,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.0014518238078102884,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.2320029e-8
+}

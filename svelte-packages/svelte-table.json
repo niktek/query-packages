@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-table",
+		"scope": "unscoped",
+		"version": "0.5.5",
+		"description": "A _relatively_ minimal table component. Allows sorting and filtering based on column values, and row selection/expanding.",
+		"keywords": [
+			"table",
+			"svelte",
+			"svelte3"
+		],
+		"date": "2023-01-22T16:17:15.145Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-table",
+			"homepage": "https://github.com/dasDaniel/svelte-table#readme",
+			"repository": "https://github.com/dasDaniel/svelte-table",
+			"bugs": "https://github.com/dasDaniel/svelte-table/issues"
+		},
+		"publisher": {
+			"username": "danipo",
+			"email": "daniel.poda@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "danipo",
+				"email": "daniel.poda@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.27004767735121316,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.05310795009129794,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000012684361
+}

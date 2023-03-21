@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-slimscroll",
+		"scope": "unscoped",
+		"version": "1.0.6",
+		"description": "svelte-slimscroll is a action for Svelte.js, which can transforms any div into a scrollable area with a nice scrollbar.",
+		"keywords": [
+			"svelte-slimscroll",
+			"svelte",
+			"svelte-scroll"
+		],
+		"date": "2020-11-07T19:35:47.464Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-slimscroll"
+		},
+		"author": {
+			"name": "Melih Altıntaş"
+		},
+		"publisher": {
+			"username": "melihaltintas",
+			"email": "melihaltintas@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "melihaltintas",
+				"email": "melihaltintas@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1879389041945302,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.010296883646829394,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 9.1429415e-9
+}

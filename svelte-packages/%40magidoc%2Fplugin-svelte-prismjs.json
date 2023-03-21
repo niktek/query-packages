@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@magidoc/plugin-svelte-prismjs",
+		"scope": "magidoc",
+		"version": "3.5.0",
+		"description": "A Svelte component library providing an easy to use component to display PrismJS code blocks",
+		"keywords": [
+			"svelte",
+			"svelte-kit",
+			"prism",
+			"prismjs",
+			"magidoc",
+			"browser"
+		],
+		"date": "2023-03-03T16:03:54.802Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40magidoc%2Fplugin-svelte-prismjs",
+			"homepage": "https://magidoc.js.org/svelte-plugins/prismjs",
+			"repository": "https://github.com/magidoc-org/magidoc",
+			"bugs": "https://github.com/magidoc-org/magidoc/issues"
+		},
+		"publisher": {
+			"username": "pelletier197",
+			"email": "sunnypelletier01@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pelletier197",
+				"email": "sunnypelletier01@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3130878949906931,
+		"detail": {
+			"quality": 0.6192121157555256,
+			"popularity": 0.030450267421053688,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000007094624
+}

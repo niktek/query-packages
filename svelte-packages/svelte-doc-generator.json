@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-doc-generator",
+		"scope": "unscoped",
+		"version": "1.2.1",
+		"description": "Do you have a library of svelte components? You can generate a documentation for whole your library.",
+		"date": "2020-04-19T09:25:54.139Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-doc-generator",
+			"homepage": "https://github.com/gustarus/svelte-doc-generator",
+			"repository": "https://github.com/gustarus/svelte-doc-generator",
+			"bugs": "https://github.com/gustarus/svelte-doc-generator/issues"
+		},
+		"author": {
+			"name": "Pavel Kondratenko",
+			"email": "iam@kondratenko.me",
+			"username": "gustarus"
+		},
+		"publisher": {
+			"username": "gustarus",
+			"email": "iam@kondratenko.me"
+		},
+		"maintainers": [
+			{
+				"username": "gustarus",
+				"email": "iam@kondratenko.me"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16678610402347765,
+		"detail": {
+			"quality": 0.4482510331562057,
+			"popularity": 0.0025748569674539858,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.184107e-9
+}}

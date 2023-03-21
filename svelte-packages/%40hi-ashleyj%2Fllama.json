@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@hi-ashleyj/llama",
+		"scope": "hi-ashleyj",
+		"version": "0.9.0",
+		"description": "A (Very Incomplete) 2D Canvas Game Engine powered by Svelte",
+		"date": "2023-02-09T03:37:15.902Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40hi-ashleyj%2Fllama",
+			"homepage": "https://github.com/hi-ashleyj/llama-game-engine#readme",
+			"repository": "https://github.com/hi-ashleyj/llama-game-engine",
+			"bugs": "https://github.com/hi-ashleyj/llama-game-engine/issues"
+		},
+		"publisher": {
+			"username": "hi-ashleyj",
+			"email": "ajor023@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hi-ashleyj",
+				"email": "ajor023@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22626816923127677,
+		"detail": {
+			"quality": 0.3547872680473802,
+			"popularity": 0.009043777572560155,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.2819551e-8
+}

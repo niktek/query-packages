@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "nunui",
+		"scope": "unscoped",
+		"version": "0.0.77",
+		"description": "Svelte UI Component Library",
+		"date": "2023-03-06T02:17:22.746Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/nunui"
+		},
+		"publisher": {
+			"username": "seorii",
+			"email": "studioseorii@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "seorii",
+				"email": "studioseorii@gmail.com"
+			},
+			{
+				"username": "hancomeducation",
+				"email": "hancomeducation@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19566431000689297,
+		"detail": {
+			"quality": 0.2469903886180417,
+			"popularity": 0.014001505013753721,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.3166677e-9
+}

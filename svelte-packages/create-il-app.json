@@ -1,0 +1,59 @@
+{
+	"package": {
+		"name": "create-il-app",
+		"scope": "unscoped",
+		"version": "1.0.61",
+		"description": "Create IL project",
+		"keywords": [
+			"micro-frontend",
+			"micro frontend",
+			"microfrontend",
+			"microfront",
+			"webpack5",
+			"module-federation",
+			"single-spa",
+			"wsrun",
+			"storybook",
+			"react",
+			"vue3",
+			"next",
+			"nuxt",
+			"remix",
+			"svelte",
+			"tailwind",
+			"bootstrap",
+			"scss",
+			"SPA",
+			"SSR"
+		],
+		"date": "2023-02-10T17:12:05.468Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-il-app",
+			"homepage": "https://github.com/DemonDis/create-il-app#readme",
+			"repository": "https://github.com/DemonDis/create-il-app",
+			"bugs": "https://github.com/DemonDis/create-il-app/issues"
+		},
+		"author": {
+			"name": "Dmitry Shibikin"
+		},
+		"publisher": {
+			"username": "dishi",
+			"email": "dimas.ras@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "dishi",
+				"email": "dimas.ras@mail.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3669188720407529,
+		"detail": {
+			"quality": 0.8183714015803386,
+			"popularity": 0.013545099714241922,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000010535423
+}

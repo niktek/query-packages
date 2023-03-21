@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "sveltejs-markdoc",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Markdoc renderer for Svelte",
+		"keywords": [
+			"svelte",
+			"markdoc",
+			"markdown"
+		],
+		"date": "2022-11-19T06:06:28.506Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltejs-markdoc",
+			"homepage": "https://github.com/yuchengkuo/sveltejs-markdoc#readme",
+			"repository": "https://github.com/yuchengkuo/sveltejs-markdoc",
+			"bugs": "https://github.com/yuchengkuo/sveltejs-markdoc/issues"
+		},
+		"author": {
+			"name": "YuCheng Kuo",
+			"email": "hey@yuchengkuo.com",
+			"url": "https://yuchengkuo.com",
+			"username": "yuchengkuo"
+		},
+		"publisher": {
+			"username": "yuchengkuo",
+			"email": "hey@yuchengkuo.com"
+		},
+		"maintainers": [
+			{
+				"username": "yuchengkuo",
+				"email": "hey@yuchengkuo.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25434510422941226,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.021808554504971496,
+			"maintenance": 0.33317609055643066
+		}
+	},
+	"searchScore": 3.1309162e-7
+}

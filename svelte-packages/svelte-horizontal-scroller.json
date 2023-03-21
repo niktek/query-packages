@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-horizontal-scroller",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "![npm](https://img.shields.io/npm/v/svelte-horizontal-scroller) ![NPM](https://img.shields.io/npm/l/svelte-horizontal-scroller)",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-06-26T18:09:04.978Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-horizontal-scroller",
+			"homepage": "https://github.com/nicolasmgaray/svelte-horizontal-scroller#readme",
+			"repository": "https://github.com/nicolasmgaray/svelte-horizontal-scroller",
+			"bugs": "https://github.com/nicolasmgaray/svelte-horizontal-scroller/issues"
+		},
+		"publisher": {
+			"username": "nicolasmgaray",
+			"email": "nicolasmgaray@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nicolasmgaray",
+				"email": "nicolasmgaray@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22672998856443122,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0024088020274264928,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 8.703631e-8
+}

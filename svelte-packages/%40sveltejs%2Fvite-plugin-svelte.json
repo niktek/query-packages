@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "@sveltejs/vite-plugin-svelte",
+		"scope": "sveltejs",
+		"version": "2.0.3",
+		"description": "The official [Svelte](https://svelte.dev) plugin for [Vite](https://vitejs.dev).",
+		"keywords": [
+			"vite-plugin",
+			"vite plugin",
+			"vite",
+			"svelte"
+		],
+		"date": "2023-02-23T12:56:26.954Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltejs%2Fvite-plugin-svelte",
+			"homepage": "https://github.com/sveltejs/vite-plugin-svelte#readme",
+			"repository": "https://github.com/sveltejs/vite-plugin-svelte",
+			"bugs": "https://github.com/sveltejs/vite-plugin-svelte/issues"
+		},
+		"author": {
+			"name": "dominikg"
+		},
+		"publisher": {
+			"username": "svelte-admin",
+			"email": "richard.a.harris+svelte@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			},
+			{
+				"username": "svelte-admin",
+				"email": "richard.a.harris+svelte@gmail.com"
+			},
+			{
+				"username": "conduitry",
+				"email": "npm@chor.date"
+			},
+			{
+				"username": "dominik_g",
+				"email": "dominik.goepel@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.4342656768218731,
+		"detail": {
+			"quality": 0.7808328740927298,
+			"popularity": 0.23814042264967872,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0016949102
+}

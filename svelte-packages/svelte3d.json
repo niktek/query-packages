@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte3d",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-01-02T19:14:50.835Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte3d"
+		},
+		"author": {
+			"name": "Gil Fernandes",
+			"email": "gilcimarsf@gmail.com",
+			"url": "https://www.adaptstudio.com.br"
+		},
+		"publisher": {
+			"username": "gilfernandes",
+			"email": "adaptst@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gilfernandes",
+				"email": "adaptst@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21513227890486375,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.0030480140112758027,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.7562888e-8
+}

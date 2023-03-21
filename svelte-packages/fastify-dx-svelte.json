@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "fastify-dx-svelte",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "- [**Introduction**](https://github.com/fastify/fastify-dx/blob/main/packages/fastify-dx-svelte/README.md#introduction) - [**Quick Start**](https://github.com/fastify/fastify-dx/blob/main/packages/fastify-dx-svelte/README.md#quick-start) - [**Package Scri",
+		"date": "2022-07-04T00:04:07.971Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/fastify-dx-svelte"
+		},
+		"publisher": {
+			"username": "galvez",
+			"email": "jonasgalvez@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "galvez",
+				"email": "jonasgalvez@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2735029618035429,
+		"detail": {
+			"quality": 0.510733633307643,
+			"popularity": 0.018772258644361335,
+			"maintenance": 0.3248930893877815
+		}
+	},
+	"searchScore": 9.04168e-7
+}

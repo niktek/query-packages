@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-accordion-component",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-03-14T06:40:28.247Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-accordion-component"
+		},
+		"publisher": {
+			"username": "notjayden",
+			"email": "jaydenaus9@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "notjayden",
+				"email": "jaydenaus9@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2520617894400702,
+		"detail": {
+			"quality": 0.733147109723082,
+			"popularity": 0.0020230353861102296,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.8782267e-7
+}

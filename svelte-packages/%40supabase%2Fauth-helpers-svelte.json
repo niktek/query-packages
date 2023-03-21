@@ -1,0 +1,62 @@
+{
+	"package": {
+		"name": "@supabase/auth-helpers-svelte",
+		"scope": "supabase",
+		"version": "0.4.6",
+		"description": "This submodule provides components for [SvelteKit](https://kit.svelte.dev/).",
+		"keywords": [
+			"Supabase",
+			"Auth",
+			"Svelte Kit",
+			"Svelte"
+		],
+		"date": "2022-09-15T14:02:34.271Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40supabase%2Fauth-helpers-svelte",
+			"homepage": "https://github.com/supabase/auth-helpers#readme",
+			"repository": "https://github.com/supabase/auth-helpers",
+			"bugs": "https://github.com/supabase/auth-helpers/issues"
+		},
+		"author": {
+			"name": "Supabase"
+		},
+		"publisher": {
+			"username": "phamhieu1998",
+			"email": "phamhieu1998@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "inian",
+				"email": "inian1234@gmail.com"
+			},
+			{
+				"username": "kiwicopple",
+				"email": "pcopplestone@gmail.com"
+			},
+			{
+				"username": "ange1ico",
+				"email": "angelico.delosreyes@gmail.com"
+			},
+			{
+				"username": "awalias",
+				"email": "antwilson@hotmail.co.uk"
+			},
+			{
+				"username": "phamhieu1998",
+				"email": "phamhieu1998@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19096170485752634,
+		"detail": {
+			"quality": 0.2419919047096637,
+			"popularity": 0.00486803089035781,
+			"maintenance": 0.33331520752286287
+		}
+	},
+	"searchScore": 6.213988e-9
+}

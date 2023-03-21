@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-markdoc",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Markdoc preprocessor for Svelte",
+		"date": "2022-05-12T02:00:24.114Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-markdoc",
+			"homepage": "https://github.com/joshnuss/svelte-markdoc"
+		},
+		"author": {
+			"name": "Joshua Nussbaum"
+		},
+		"publisher": {
+			"username": "joshnuss",
+			"email": "joshnuss@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "joshnuss",
+				"email": "joshnuss@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26955382434269093,
+		"detail": {
+			"quality": 0.6242484912780071,
+			"popularity": 0.0028248569156539864,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 7.960083e-7
+}

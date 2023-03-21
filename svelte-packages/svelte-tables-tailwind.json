@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-tables-tailwind",
+		"scope": "unscoped",
+		"version": "1.0.6",
+		"description": "Svelte Tables Tailwind",
+		"keywords": [
+			"svelte",
+			"tables",
+			"tailwind"
+		],
+		"date": "2021-07-10T09:17:51.383Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tables-tailwind"
+		},
+		"author": {
+			"name": "Arshdeep Singh",
+			"email": "arsh22sahni@gmail.com",
+			"username": "arshdeepsahni"
+		},
+		"publisher": {
+			"username": "arshdeepsahni",
+			"email": "arsh22sahni@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "arshdeepsahni",
+				"email": "arsh22sahni@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19181910908718447,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.001965865310629119,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 8.487361e-9
+}

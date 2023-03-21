@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelegante",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "A classy Svelte writable store",
+		"date": "2022-09-18T23:49:43.757Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelegante",
+			"homepage": "http://github.com/rodgco/svelegante",
+			"repository": "https://github.com/rodgco/svelegante",
+			"bugs": "https://github.com/rodgco/svelegante/issues"
+		},
+		"publisher": {
+			"username": "rodgco",
+			"email": "r@rodg.co"
+		},
+		"maintainers": [
+			{
+				"username": "rodgco",
+				"email": "r@rodg.co"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.30771807055699224,
+		"detail": {
+			"quality": 0.6350251223107053,
+			"popularity": 0.0019057186180586531,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 0.0000010002041
+}

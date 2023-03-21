@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "kit-sw-workbox",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "a service-worker svelte-kit vite plugin to work with workbox",
+		"date": "2021-10-12T15:46:04.656Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/kit-sw-workbox"
+		},
+		"author": {
+			"name": "Anyass3"
+		},
+		"publisher": {
+			"username": "anyass",
+			"email": "nyassabu@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anyass",
+				"email": "nyassabu@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21587427558529867,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.024060069613717806,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 9.559079e-9
+}

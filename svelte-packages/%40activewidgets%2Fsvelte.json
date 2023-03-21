@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@activewidgets/svelte",
+		"scope": "activewidgets",
+		"version": "3.2.0",
+		"description": "Datagrid component for Svelte",
+		"keywords": [
+			"svelte",
+			"datagrid",
+			"datatable",
+			"virtualized",
+			"scrolling",
+			"grid",
+			"table",
+			"virtual",
+			"data-grid",
+			"data-table",
+			"svelte-data-grid",
+			"svelte-data-table",
+			"activewidgets"
+		],
+		"date": "2022-07-14T12:58:29.912Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40activewidgets%2Fsvelte",
+			"homepage": "https://activewidgets.com/svelte/data-grid/",
+			"repository": "https://github.com/activewidgets/svelte",
+			"bugs": "https://github.com/activewidgets/svelte/issues"
+		},
+		"author": {
+			"name": "ActiveWidgets SARL"
+		},
+		"publisher": {
+			"username": "xkam",
+			"email": "webmaster@activewidgets.com"
+		},
+		"maintainers": [
+			{
+				"username": "xkam",
+				"email": "webmaster@activewidgets.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.301792402185866,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.005612208707436408,
+			"maintenance": 0.3255486175928753
+		}
+	},
+	"searchScore": 0.000004218779
+}

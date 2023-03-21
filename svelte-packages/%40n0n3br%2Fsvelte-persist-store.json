@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@n0n3br/svelte-persist-store",
+		"scope": "n0n3br",
+		"version": "1.0.2",
+		"description": "![Node.js CI](https://github.com/n0n3br/svelte-persist-store/workflows/Node.js%20CI/badge.svg)",
+		"keywords": [
+			"svelte",
+			"store",
+			"persist",
+			"localStorage",
+			"sessionStorage",
+			"compression"
+		],
+		"date": "2020-04-19T18:42:13.676Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40n0n3br%2Fsvelte-persist-store"
+		},
+		"publisher": {
+			"username": "n0n3br",
+			"email": "rogeriol@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "n0n3br",
+				"email": "rogeriol@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2955287414634263,
+		"detail": {
+			"quality": 0.8788367301487212,
+			"popularity": 0.0013375093737225834,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000030215701
+}

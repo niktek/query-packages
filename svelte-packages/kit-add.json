@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "kit-add",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "Add integrations to a SvelteKit application.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"add"
+		],
+		"date": "2023-03-02T18:04:18.312Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/kit-add",
+			"homepage": "https://github.com/rossrobino/kit-add#readme",
+			"repository": "https://github.com/rossrobino/kit-add",
+			"bugs": "https://github.com/rossrobino/kit-add/issues"
+		},
+		"author": {
+			"name": "Ross Robino",
+			"url": "https://robino.dev"
+		},
+		"publisher": {
+			"username": "rossrobino",
+			"email": "ross@robino.dev"
+		},
+		"maintainers": [
+			{
+				"username": "rossrobino",
+				"email": "ross@robino.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.249510644193976,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.007838568769679649,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.3083012e-7
+}

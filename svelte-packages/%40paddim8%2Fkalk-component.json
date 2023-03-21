@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@paddim8/kalk-component",
+		"scope": "paddim8",
+		"version": "2.0.3",
+		"description": "A Svelte component for kalk, a calculator that supports user-defined functions and variables.",
+		"date": "2023-01-24T19:06:58.316Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40paddim8%2Fkalk-component"
+		},
+		"author": {
+			"name": "PaddiM8"
+		},
+		"publisher": {
+			"username": "paddim8",
+			"email": "bakk@tuta.io"
+		},
+		"maintainers": [
+			{
+				"username": "paddim8",
+				"email": "bakk@tuta.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28053539527043425,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.020977278660410097,
+			"maintenance": 0.3332458467217063
+		}
+	},
+	"searchScore": 2.395e-7
+}

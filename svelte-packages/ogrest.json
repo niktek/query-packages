@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "ogrest",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "nestjs fullstack framework",
+		"keywords": [
+			"fullstack",
+			"nestjs",
+			"vue",
+			"react",
+			"angular",
+			"svelte"
+		],
+		"date": "2021-02-02T01:42:16.845Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/ogrest",
+			"homepage": "https://github.com/cereschen/ogrest"
+		},
+		"author": {
+			"name": "cereschen"
+		},
+		"publisher": {
+			"username": "cereschen",
+			"email": "491191796@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "cereschen",
+				"email": "491191796@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21958398502503218,
+		"detail": {
+			"quality": 0.6261343879327138,
+			"popularity": 0.0009544985920313587,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.9900982e-8
+}

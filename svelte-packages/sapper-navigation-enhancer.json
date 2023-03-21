@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "sapper-navigation-enhancer",
+		"scope": "unscoped",
+		"version": "0.1.6",
+		"description": "Sapper navigation enhancer",
+		"keywords": [
+			"svelte",
+			"sapper",
+			"navigation",
+			"enhancer",
+			"prevent navigation"
+		],
+		"date": "2021-03-26T17:03:41.941Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sapper-navigation-enhancer",
+			"homepage": "https://github.com/PatrickG/sapper-navigation-enhancer#readme",
+			"repository": "https://github.com/PatrickG/sapper-navigation-enhancer",
+			"bugs": "https://github.com/PatrickG/sapper-navigation-enhancer/issues"
+		},
+		"author": {
+			"name": "Patrick Günther"
+		},
+		"publisher": {
+			"username": "pehgeh",
+			"email": "Patrick@ShowYou.us"
+		},
+		"maintainers": [
+			{
+				"username": "pehgeh",
+				"email": "Patrick@ShowYou.us"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20915481555956478,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0020530248049198422,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 8.882432e-9
+}

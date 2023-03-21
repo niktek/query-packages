@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "butik",
+		"scope": "unscoped",
+		"version": "2.0.2",
+		"description": "A fresh alternative to Svelte's built-in stores",
+		"keywords": [
+			"svelte",
+			"store"
+		],
+		"date": "2022-09-30T18:23:52.857Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/butik",
+			"homepage": "https://github.com/bechii/butik#readme",
+			"repository": "https://github.com/bechii/butik",
+			"bugs": "https://github.com/bechii/butik/issues"
+		},
+		"author": {
+			"name": "Simon Bechmann"
+		},
+		"publisher": {
+			"username": "bechii",
+			"email": "sb-off@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bechii",
+				"email": "sb-off@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3055768681191598,
+		"detail": {
+			"quality": 0.6258202115054826,
+			"popularity": 0.0033261085738524143,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000020279513
+}

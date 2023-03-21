@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "create-sss",
+		"scope": "unscoped",
+		"version": "0.1.5",
+		"description": "A template repository for creating a static, Single-page Web App (SPA) with Svelte.",
+		"keywords": [
+			"svelte",
+			"static",
+			"spa",
+			"template"
+		],
+		"date": "2023-03-13T16:38:08.244Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-sss",
+			"homepage": "https://github.com/trmid/svelte-static-spa#readme",
+			"repository": "https://github.com/trmid/svelte-static-spa",
+			"bugs": "https://github.com/trmid/svelte-static-spa/issues"
+		},
+		"author": {
+			"name": "Trevor Richard"
+		},
+		"publisher": {
+			"username": "trmid",
+			"email": "trmidpoint@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "trmid",
+				"email": "trmidpoint@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2257890727470965,
+		"detail": {
+			"quality": 0.35531756934584013,
+			"popularity": 0.007220386504793716,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.195056e-8
+}

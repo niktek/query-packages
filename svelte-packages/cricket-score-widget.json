@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "cricket-score-widget",
+		"scope": "unscoped",
+		"version": "0.0.10",
+		"description": "Live Cricket Score Javascript Widget Build using Svelte JS.",
+		"keywords": [
+			"cricket",
+			"score",
+			"widget",
+			"svelte"
+		],
+		"date": "2022-10-17T05:23:00.471Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/cricket-score-widget",
+			"homepage": "https://github.com/mskian/cricket-score-widget#readme",
+			"repository": "https://github.com/mskian/cricket-score-widget",
+			"bugs": "https://github.com/mskian/cricket-score-widget/issues"
+		},
+		"author": {
+			"name": "Santhosh veer"
+		},
+		"publisher": {
+			"username": "mskian",
+			"email": "veerfun23@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mskian",
+				"email": "veerfun23@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23820677689175193,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.002397698593167381,
+			"maintenance": 0.33177859359406153
+		}
+	},
+	"searchScore": 6.46067e-8
+}

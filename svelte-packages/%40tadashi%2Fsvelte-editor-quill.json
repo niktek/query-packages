@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@tadashi/svelte-editor-quill",
+		"scope": "tadashi",
+		"version": "2.1.0",
+		"description": "Svelte component",
+		"keywords": [
+			"svelte",
+			"editor",
+			"quill",
+			"component"
+		],
+		"date": "2021-04-12T17:18:04.742Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tadashi%2Fsvelte-editor-quill",
+			"homepage": "https://github.com/lagden/svelte-editor-quill#readme",
+			"bugs": "https://github.com/lagden/svelte-editor-quill/issues"
+		},
+		"author": {
+			"name": "Thiago Lagden"
+		},
+		"publisher": {
+			"username": "lagden",
+			"email": "lagden@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lagden",
+				"email": "lagden@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24845655216146356,
+		"detail": {
+			"quality": 0.6258202115054826,
+			"popularity": 0.03332612384678538,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 3.9310203e-7
+}

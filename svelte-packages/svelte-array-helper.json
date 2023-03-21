@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-array-helper",
+		"scope": "unscoped",
+		"version": "2.0.2",
+		"description": "A dead simple helper for modifying arrays in Svelte",
+		"keywords": [
+			"array",
+			"helper",
+			"svelte",
+			"utility"
+		],
+		"date": "2019-05-24T04:57:40.300Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-array-helper",
+			"homepage": "https://github.com/dasmikko/svelte-array-helper#readme",
+			"repository": "https://github.com/dasmikko/svelte-array-helper",
+			"bugs": "https://github.com/dasmikko/svelte-array-helper/issues"
+		},
+		"author": {
+			"name": "Mikkel Andersen"
+		},
+		"publisher": {
+			"username": "dasmikko",
+			"email": "dasmikko@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dasmikko",
+				"email": "dasmikko@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18497962754988867,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0018418075192822218,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.8501035e-9
+}

@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@elderjs/elderjs",
+		"scope": "elderjs",
+		"version": "1.8.0-beta.14",
+		"description": "Elder.js is an opinionated static site generator and web framework built with SEO in mind.",
+		"keywords": [
+			"svelte",
+			"seo",
+			"static",
+			"site",
+			"generator",
+			"ssg",
+			"sveltejs"
+		],
+		"date": "2022-07-31T09:30:37.062Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40elderjs%2Felderjs",
+			"homepage": "https://elderguide.com/tech/elderjs/",
+			"repository": "https://github.com/Elderjs/elderjs",
+			"bugs": "https://github.com/Elderjs/elderjs/issues"
+		},
+		"author": {
+			"name": "Nick Reese"
+		},
+		"publisher": {
+			"username": "vonadz",
+			"email": "alex.zdanov@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "eight04",
+				"email": "eight04@gmail.com"
+			},
+			{
+				"username": "vonadz",
+				"email": "alex.zdanov@gmail.com"
+			},
+			{
+				"username": "nickreese",
+				"email": "npm@nicholasreese.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.29991388313027173,
+		"detail": {
+			"quality": 0.5750525663053782,
+			"popularity": 0.030661275919976173,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000014809077
+}

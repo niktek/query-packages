@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-django-gettext",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Use django gettext in Svelte",
+		"keywords": [
+			"Svelte",
+			"django",
+			"gettext",
+			"i18n"
+		],
+		"date": "2021-12-17T20:28:35.239Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-django-gettext"
+		},
+		"author": {
+			"name": "Jan Pieter Waagmeester"
+		},
+		"publisher": {
+			"username": "jieter",
+			"email": "jieter@jieter.nl"
+		},
+		"maintainers": [
+			{
+				"username": "jieter",
+				"email": "jieter@jieter.nl"
+			}
+		]
+	},
+	"score": {
+		"final": 0.215530949377358,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.0067202282639344324,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 4.6310767e-8
+}

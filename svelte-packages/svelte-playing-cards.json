@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-playing-cards",
+		"scope": "unscoped",
+		"version": "2.2.0",
+		"description": "A customizable deck of playing cards",
+		"keywords": [
+			"playing-cards",
+			"cards",
+			"deck",
+			"svelte cards"
+		],
+		"date": "2022-05-22T01:21:53.346Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-playing-cards",
+			"homepage": "https://github.com/BassamMuhammad/svelte-playing-cards#readme",
+			"repository": "https://github.com/BassamMuhammad/svelte-playing-cards",
+			"bugs": "https://github.com/BassamMuhammad/svelte-playing-cards/issues"
+		},
+		"publisher": {
+			"username": "bassam70",
+			"email": "bassam70@live.com"
+		},
+		"maintainers": [
+			{
+				"username": "bassam70",
+				"email": "bassam70@live.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27516326204222685,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.002243797033275921,
+			"maintenance": 0.3306483258170397
+		}
+	},
+	"searchScore": 9.2220216e-7
+}

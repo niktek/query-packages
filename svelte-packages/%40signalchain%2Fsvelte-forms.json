@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@signalchain/svelte-forms",
+		"scope": "signalchain",
+		"version": "0.2.5",
+		"description": "Svelte forms library",
+		"keywords": [
+			"svelte",
+			"forms",
+			"svelte forms"
+		],
+		"date": "2022-03-12T12:43:48.404Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40signalchain%2Fsvelte-forms"
+		},
+		"publisher": {
+			"username": "signalchain",
+			"email": "signalchain.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "signalchain",
+				"email": "signalchain.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2568085017511975,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0198210904092273,
+			"maintenance": 0.32879397701535945
+		}
+	},
+	"searchScore": 5.0440656e-7
+}

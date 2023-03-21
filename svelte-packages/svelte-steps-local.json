@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-steps-local",
+		"scope": "unscoped",
+		"version": "2.3.5",
+		"description": "A customizable step component written in Svelte - local",
+		"keywords": [
+			"svelte-steps",
+			"sveltekit",
+			"svelte",
+			"ui",
+			"steps",
+			"bootstrap",
+			"custom"
+		],
+		"date": "2022-09-15T15:14:22.784Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-steps-local",
+			"homepage": "https://svelte-steps.web.app",
+			"repository": "https://github.com/shaozi/svelte-steps",
+			"bugs": "https://github.com/shaozi/svelte-steps/issues"
+		},
+		"author": {
+			"name": "Jingshao Chen"
+		},
+		"publisher": {
+			"username": "samelet-dev",
+			"email": "rotem@raynw.com"
+		},
+		"maintainers": [
+			{
+				"username": "samelet-dev",
+				"email": "rotem@raynw.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30516769155944334,
+		"detail": {
+			"quality": 0.626599435462266,
+			"popularity": 0.0029162140729107303,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 0.0000044486455
+}

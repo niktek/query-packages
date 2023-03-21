@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "create-sveltekit-route",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "A CLI tool to Scaffold a new Sveltekit Route within your project",
+		"keywords": [
+			"sveltekit",
+			"svelte",
+			"add route to sveltekit",
+			"scaffold route"
+		],
+		"date": "2022-06-17T18:53:37.617Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-sveltekit-route",
+			"homepage": "https://github.com/lcharleslaing/create-sveltekit-route",
+			"repository": "https://github.com/lcharleslaing/create-sveltekit-auth0",
+			"bugs": "https://github.com/lcharleslaing/create-sveltekit-auth0/issues"
+		},
+		"author": {
+			"name": "Lee Charles Laing",
+			"email": "big2tinydev@gmail.com"
+		},
+		"publisher": {
+			"username": "leelaing",
+			"email": "lcharleslaing@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "leelaing",
+				"email": "lcharleslaing@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.252028061143259,
+		"detail": {
+			"quality": 0.46557312155307506,
+			"popularity": 0.0016872668846552522,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 1.8512544e-7
+}

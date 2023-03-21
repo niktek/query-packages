@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@perfectthings/ui",
+		"scope": "perfectthings",
+		"version": "6.2.0",
+		"description": "Perfect UI components",
+		"keywords": [
+			"UI",
+			"svelte",
+			"PerfectThings"
+		],
+		"date": "2023-03-20T11:08:34.625Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40perfectthings%2Fui",
+			"homepage": "https://github.com/perfect-things/ui#readme",
+			"repository": "https://github.com/perfect-things/ui",
+			"bugs": "https://github.com/perfect-things/ui/issues"
+		},
+		"publisher": {
+			"username": "tborychowski",
+			"email": "npm@borychowski.org"
+		},
+		"maintainers": [
+			{
+				"username": "tborychowski",
+				"email": "npm@borychowski.org"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2780509570816144,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.007809346772375366,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.919213e-7
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-sb-test",
+		"scope": "unscoped",
+		"version": "0.0.80",
+		"description": "* Svelte * Storybook * Typescript * SCSS",
+		"date": "2022-08-31T13:44:04.893Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-sb-test"
+		},
+		"publisher": {
+			"username": "karl-einarb",
+			"email": "karl-einarb@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "karl-einarb",
+				"email": "karl-einarb@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2965031211301255,
+		"detail": {
+			"quality": 0.5933754908259385,
+			"popularity": 0.005210877759077881,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000025273212
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-badge",
+		"scope": "unscoped",
+		"version": "1.0.5",
+		"description": "A badge component for Svelte based projects",
+		"keywords": [
+			"badge",
+			"svelte",
+			"badge svelte",
+			"svelte badge",
+			"svelte tag",
+			"svelte label"
+		],
+		"date": "2022-03-11T07:12:32.888Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-badge"
+		},
+		"author": {
+			"name": "Luca Previtali"
+		},
+		"publisher": {
+			"username": "luca.previtali",
+			"email": "lucaprevi@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "luca.previtali",
+				"email": "lucaprevi@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22438601128399455,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.019330247224879037,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 1.01282474e-7
+}

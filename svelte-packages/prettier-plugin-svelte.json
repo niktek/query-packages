@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "prettier-plugin-svelte",
+		"scope": "unscoped",
+		"version": "2.9.0",
+		"description": "Svelte plugin for prettier",
+		"keywords": [
+			"prettier",
+			"svelte"
+		],
+		"date": "2022-12-09T16:02:04.908Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/prettier-plugin-svelte",
+			"homepage": "https://github.com/sveltejs/prettier-plugin-svelte#readme",
+			"repository": "https://github.com/sveltejs/prettier-plugin-svelte",
+			"bugs": "https://github.com/sveltejs/prettier-plugin-svelte/issues"
+		},
+		"author": {
+			"name": "James Birtles",
+			"email": "jameshbirtles@gmail.com",
+			"username": "unwrittenfun"
+		},
+		"publisher": {
+			"username": "dummdidumm",
+			"email": "sholthausen@web.de"
+		},
+		"maintainers": [
+			{
+				"username": "unwrittenfun",
+				"email": "jameshbirtles@gmail.com"
+			},
+			{
+				"username": "conduitry",
+				"email": "npm@chor.date"
+			},
+			{
+				"username": "dummdidumm",
+				"email": "sholthausen@web.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3401970979267599,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.17623742088623523,
+			"maintenance": 0.3332946940795439
+		}
+	},
+	"searchScore": 0.000063260144
+}

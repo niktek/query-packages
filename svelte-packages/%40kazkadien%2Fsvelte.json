@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "@kazkadien/svelte",
+		"scope": "kazkadien",
+		"version": "0.22.0",
+		"description": "Svelte UI components",
+		"date": "2023-02-25T12:44:22.905Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kazkadien%2Fsvelte",
+			"homepage": "https://kazkadien.pages.dev/"
+		},
+		"publisher": {
+			"username": "diogenesofweb",
+			"email": "diogenesofweb@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "diogenesofweb",
+				"email": "diogenesofweb@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2858891817761152,
+		"detail": {
+			"quality": 0.5314309668399496,
+			"popularity": 0.02798064302132485,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000020130656
+}

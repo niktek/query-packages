@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-form-easy",
+		"scope": "unscoped",
+		"version": "2.0.2",
+		"description": "[![npm version](https://badge.fury.io/js/svelte-form-easy.svg)](https://badge.fury.io/js/svelte-form-easy)",
+		"keywords": [
+			"svelte",
+			"yup",
+			"forms",
+			"form-validation"
+		],
+		"date": "2022-11-08T11:25:56.673Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-form-easy",
+			"homepage": "https://github.com/vanzinvestor/svelte-form-easy",
+			"repository": "https://github.com/vanzinvestor/svelte-form-easy",
+			"bugs": "https://github.com/vanzinvestor/svelte-form-easy/issues"
+		},
+		"author": {
+			"name": "Vanz Investor",
+			"email": "vanzinvestor@gmail.com",
+			"username": "vanzinvestor"
+		},
+		"publisher": {
+			"username": "vanzinvestor",
+			"email": "vanzinvestor@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vanzinvestor",
+				"email": "vanzinvestor@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2687310808402364,
+		"detail": {
+			"quality": 0.5039755837380318,
+			"popularity": 0.0025007319102355523,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 7.4764785e-7
+}

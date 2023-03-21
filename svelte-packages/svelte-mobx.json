@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-mobx",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Reactive MVVM with MobX & Svelte",
+		"keywords": [
+			"svelte",
+			"mobx",
+			"mvvm"
+		],
+		"date": "2020-12-29T02:31:16.447Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-mobx"
+		},
+		"author": {
+			"name": "Alexander Kozlovich",
+			"email": "alexander.kozlovich@gmail.com"
+		},
+		"publisher": {
+			"username": "xelaok",
+			"email": "contact@nerocode.com"
+		},
+		"maintainers": [
+			{
+				"username": "xelaok",
+				"email": "contact@nerocode.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.188822097228877,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.002443433440504126,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.704274e-9
+}

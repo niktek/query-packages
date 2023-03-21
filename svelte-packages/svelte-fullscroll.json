@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-fullscroll",
+		"scope": "unscoped",
+		"version": "0.4.5",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2021-09-04T17:19:22.082Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-fullscroll"
+		},
+		"publisher": {
+			"username": "gazquez",
+			"email": "ivansudevlop@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gazquez",
+				"email": "ivansudevlop@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24309560545444897,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0038261063617252727,
+			"maintenance": 0.32826099289888183
+		}
+	},
+	"searchScore": 1.7403974e-7
+}

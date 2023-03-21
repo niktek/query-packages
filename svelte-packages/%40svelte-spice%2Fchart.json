@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@svelte-spice/chart",
+		"scope": "svelte-spice",
+		"version": "1.0.0-next.4",
+		"description": "Components for making interactive charts.",
+		"date": "2022-12-22T04:13:18.257Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-spice%2Fchart"
+		},
+		"author": {
+			"name": "Jerry Thomas",
+			"email": "me@jerrythomas.name",
+			"username": "jerrythomas"
+		},
+		"publisher": {
+			"username": "jerrythomas",
+			"email": "me@jerrythomas.name"
+		},
+		"maintainers": [
+			{
+				"username": "jerrythomas",
+				"email": "me@jerrythomas.name"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.35783943512078326,
+		"detail": {
+			"quality": 0.7993107605086407,
+			"popularity": 0.003941543718641137,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000028108798
+}

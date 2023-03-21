@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-material-design",
+		"scope": "unscoped",
+		"version": "0.0.1-beta1",
+		"description": "Svelte Material Design Components",
+		"date": "2020-10-28T19:13:00.601Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-material-design",
+			"homepage": "https://github.com/boomfly/svelte-mui#readme",
+			"repository": "https://github.com/boomfly/svelte-mui",
+			"bugs": "https://github.com/boomfly/svelte-mui/issues"
+		},
+		"author": {
+			"name": "Ivan Chalyk",
+			"email": "boomfly@rambler.ru",
+			"username": "boomfly"
+		},
+		"publisher": {
+			"username": "boomfly",
+			"email": "boomfly@rambler.ru"
+		},
+		"maintainers": [
+			{
+				"username": "boomfly",
+				"email": "boomfly@rambler.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18114436838538317,
+		"detail": {
+			"quality": 0.49739130408946003,
+			"popularity": 0.0014782372015374357,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.6510346e-9
+}

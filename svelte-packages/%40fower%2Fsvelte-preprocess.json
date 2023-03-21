@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@fower/svelte-preprocess",
+		"scope": "fower",
+		"version": "1.76.0",
+		"date": "2023-02-07T07:26:20.939Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40fower%2Fsvelte-preprocess"
+		},
+		"author": {
+			"name": "forsigner"
+		},
+		"publisher": {
+			"username": "forsigner",
+			"email": "forsigner@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thomas_han",
+				"email": "gotoanything@foxmail.com"
+			},
+			{
+				"username": "forsigner",
+				"email": "forsigner@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24957957700775013,
+		"detail": {
+			"quality": 0.4151680720971671,
+			"popularity": 0.023892824891238187,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.3888407e-7
+}

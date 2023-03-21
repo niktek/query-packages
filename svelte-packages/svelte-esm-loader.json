@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-esm-loader",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "esm loader for svelte",
+		"keywords": [
+			"esm",
+			"loader",
+			"svelte",
+			"kit"
+		],
+		"date": "2022-02-11T12:52:08.182Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-esm-loader"
+		},
+		"author": {
+			"name": "jakobrosenberg@gmail.com"
+		},
+		"publisher": {
+			"username": "jakobrosenberg",
+			"email": "jakobrosenberg@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jakobrosenberg",
+				"email": "jakobrosenberg@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17469328116127725,
+		"detail": {
+			"quality": 0.39802258930009876,
+			"popularity": 0.002167582659665874,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 2.5660531e-9
+}

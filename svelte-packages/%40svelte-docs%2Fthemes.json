@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@svelte-docs/themes",
+		"scope": "svelte-docs",
+		"version": "1.0.1",
+		"description": "Themes set for the svelte-docs",
+		"date": "2020-05-21T09:35:43.369Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-docs%2Fthemes",
+			"homepage": "https://alexxnb.github.io/svelte-docs",
+			"repository": "https://github.com/AlexxNB/svelte-docs",
+			"bugs": "https://github.com/AlexxNB/svelte-docs/issues"
+		},
+		"author": {
+			"name": "Alexey Schebelev"
+		},
+		"publisher": {
+			"username": "alexxnb",
+			"email": "alexxnb@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "alexxnb",
+				"email": "alexxnb@mail.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18541262053545154,
+		"detail": {
+			"quality": 0.4893894636575902,
+			"popularity": 0.020531963714764102,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.304987e-9
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-countup",
+		"scope": "unscoped",
+		"version": "0.2.6",
+		"description": "This Svelte component counts up from an initial number to a target number.",
+		"date": "2022-03-03T00:19:10.798Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-countup"
+		},
+		"author": {
+			"name": "Pouya Saadeghi"
+		},
+		"publisher": {
+			"username": "saadeghi",
+			"email": "pouya.saadeghi@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "saadeghi",
+				"email": "pouya.saadeghi@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20349366006659592,
+		"detail": {
+			"quality": 0.39802258930009876,
+			"popularity": 0.007989446393589669,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.7260431e-8
+}

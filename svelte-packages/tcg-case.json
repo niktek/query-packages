@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "tcg-case",
+		"scope": "unscoped",
+		"version": "0.3.0",
+		"description": "Svelte TCG UI component library",
+		"date": "2023-01-27T21:11:03.217Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/tcg-case",
+			"homepage": "https://github.com/poketrax/tcg-case#readme",
+			"repository": "https://github.com/poketrax/tcg-case",
+			"bugs": "https://github.com/poketrax/tcg-case/issues"
+		},
+		"publisher": {
+			"username": "jeffrey.p.gunzelman",
+			"email": "jgunzelman88@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jeffrey.p.gunzelman",
+				"email": "jgunzelman88@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.210755557505335,
+		"detail": {
+			"quality": 0.3073684199039227,
+			"popularity": 0.005448194202563028,
+			"maintenance": 0.33325189589503185
+		}
+	},
+	"searchScore": 5.6382903e-9
+}

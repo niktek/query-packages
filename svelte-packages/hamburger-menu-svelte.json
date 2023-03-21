@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "hamburger-menu-svelte",
+		"scope": "unscoped",
+		"version": "2.2.0",
+		"description": "This is a hamburger menu module for Svelte. The menu is intuitive and easy to use. You can use default style and change style.",
+		"keywords": [
+			"svelte",
+			"hamburger",
+			"burger",
+			"menu"
+		],
+		"date": "2021-10-28T06:20:13.136Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/hamburger-menu-svelte",
+			"homepage": "https://github.com/itsuki-guitar/hamburger-menu-svelte#readme",
+			"repository": "https://github.com/itsuki-guitar/hamburger-menu-svelte",
+			"bugs": "https://github.com/itsuki-guitar/hamburger-menu-svelte/issues"
+		},
+		"author": {
+			"name": "Kazuki Fujita"
+		},
+		"publisher": {
+			"username": "itsuki_guitar",
+			"email": "itsuki.guitar.program@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "itsuki_guitar",
+				"email": "itsuki.guitar.program@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21963476594558773,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.005755260543716558,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 5.4997876e-8
+}

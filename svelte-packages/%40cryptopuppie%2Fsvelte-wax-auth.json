@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@cryptopuppie/svelte-wax-auth",
+		"scope": "cryptopuppie",
+		"version": "0.0.1",
+		"description": "WAX authentication for Svelte apps.",
+		"date": "2022-08-31T15:37:03.873Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cryptopuppie%2Fsvelte-wax-auth"
+		},
+		"author": {
+			"name": "TheBoringDude",
+			"email": "euhsojlogro112002@gmail.com",
+			"url": "World of Cryptopups"
+		},
+		"publisher": {
+			"username": "theboringdude",
+			"email": "iamcoderx@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "theboringdude",
+				"email": "iamcoderx@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2044008398543274,
+		"detail": {
+			"quality": 0.4088071151157153,
+			"popularity": 0.0013375093737225834,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.4741906e-8
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@kuanyu0729/svelte-date-picker",
+		"scope": "kuanyu0729",
+		"version": "0.1.1",
+		"description": "## Usage",
+		"date": "2022-06-09T02:16:01.025Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kuanyu0729%2Fsvelte-date-picker"
+		},
+		"publisher": {
+			"username": "kuanyu0729",
+			"email": "george310909@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kuanyu0729",
+				"email": "george310909@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20985296952101695,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.0020530248049198422,
+			"maintenance": 0.32853380853478065
+		}
+	},
+	"searchScore": 1.560385e-8
+}

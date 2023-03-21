@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-d3-cloud",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "svelte wrapper for d3-cloud",
+		"keywords": [
+			"svelte",
+			"d3-cloud",
+			"wordcloud",
+			"word",
+			"visualization"
+		],
+		"date": "2021-07-16T22:43:00.144Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-d3-cloud",
+			"homepage": "https://github.com/maziyank/svelte-d3-cloud#readme",
+			"repository": "https://github.com/maziyank/svelte-d3-cloud",
+			"bugs": "https://github.com/maziyank/svelte-d3-cloud/issues"
+		},
+		"author": {
+			"name": "maziyank"
+		},
+		"publisher": {
+			"username": "maziyank",
+			"email": "maziyank@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "maziyank",
+				"email": "maziyank@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17777798493738328,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.00533291103057963,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 3.3837373e-9
+}

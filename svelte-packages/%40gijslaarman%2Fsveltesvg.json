@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@gijslaarman/sveltesvg",
+		"scope": "gijslaarman",
+		"version": "0.1.1",
+		"description": "SVG compiler for Svelte",
+		"date": "2021-04-24T16:33:31.533Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40gijslaarman%2Fsveltesvg"
+		},
+		"author": {
+			"name": "Gijs Laarman"
+		},
+		"publisher": {
+			"username": "gijslaarman",
+			"email": "gijslaarman@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gijslaarman",
+				"email": "gijslaarman@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17397258874608695,
+		"detail": {
+			"quality": 0.3530825645338893,
+			"popularity": 0.023697553959841397,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 1.5157599e-9
+}

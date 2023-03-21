@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@zodern/pancake-charts",
+		"scope": "zodern",
+		"version": "0.0.20",
+		"description": "Experimental charting library for Svelte",
+		"keywords": [
+			"svelte",
+			"svg",
+			"charts",
+			"dataviz"
+		],
+		"date": "2022-04-28T17:01:09.231Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40zodern%2Fpancake-charts",
+			"homepage": "https://github.com/zodern/pancake#readme",
+			"repository": "https://github.com/zodern/pancake",
+			"bugs": "https://github.com/zodern/pancake/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "zodern",
+			"email": "z-modern@live.com"
+		},
+		"maintainers": [
+			{
+				"username": "zodern",
+				"email": "z-modern@live.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22495765692768166,
+		"detail": {
+			"quality": 0.4099012439282236,
+			"popularity": 0.01940308617177774,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 3.908179e-8
+}

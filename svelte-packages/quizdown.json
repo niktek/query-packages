@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "quizdown",
+		"scope": "unscoped",
+		"version": "0.6.0",
+		"description": "Markdown for generating interactive quiz apps in the browser.",
+		"keywords": [
+			"quiz",
+			"multiple-choice",
+			"svelte",
+			"markdown"
+		],
+		"date": "2022-09-07T17:28:16.670Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/quizdown",
+			"homepage": "https://github.com/bonartm/quizdown-js#readme",
+			"repository": "https://github.com/bonartm/quizdown-js",
+			"bugs": "https://github.com/bonartm/quizdown-js/issues"
+		},
+		"author": {
+			"name": "Malte Bonart"
+		},
+		"publisher": {
+			"username": "bonartm",
+			"email": "malte@spiced-academy.com"
+		},
+		"maintainers": [
+			{
+				"username": "bonartm",
+				"email": "malte@spiced-academy.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22851819727380407,
+		"detail": {
+			"quality": 0.3530825645338893,
+			"popularity": 0.02044472187412076,
+			"maintenance": 0.3298222150219858
+		}
+	},
+	"searchScore": 3.344616e-8
+}

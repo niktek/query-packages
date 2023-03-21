@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-data-grid-ext",
+		"scope": "unscoped",
+		"version": "3.0.1",
+		"description": "High-performance svelte data table component for displaying huge datasets",
+		"keywords": [
+			"svelte",
+			"data-grid",
+			"data-table",
+			"table",
+			"virtual-list"
+		],
+		"date": "2020-03-24T20:18:03.734Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-data-grid-ext",
+			"homepage": "https://github.com/eriknyk/svelte-data-grid",
+			"repository": "https://github.com/bsssshhhhhhh/svelte-data-grid"
+		},
+		"author": {
+			"name": "Brian Simon",
+			"email": "bsssshhhhhhh@gmail.com",
+			"url": "https://github.com/bsssshhhhhhh"
+		},
+		"publisher": {
+			"username": "eriknyk",
+			"email": "aortiz.erik@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "eriknyk",
+				"email": "aortiz.erik@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2068279338372443,
+		"detail": {
+			"quality": 0.5832805440879806,
+			"popularity": 0.001240504208122975,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.4044667e-8
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@marianmeres/store",
+		"scope": "marianmeres",
+		"version": "1.0.0",
+		"description": "Basic store. Svelte store contract compatible.",
+		"keywords": [
+			"store"
+		],
+		"date": "2023-03-15T13:37:19.247Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40marianmeres%2Fstore",
+			"homepage": "https://github.com/marianmeres/store#readme",
+			"repository": "https://github.com/marianmeres/store",
+			"bugs": "https://github.com/marianmeres/store/issues"
+		},
+		"author": {
+			"name": "Marian Meres",
+			"email": "marian@meres.sk",
+			"username": "marianmeres"
+		},
+		"publisher": {
+			"username": "marianmeres",
+			"email": "marian@meres.sk"
+		},
+		"maintainers": [
+			{
+				"username": "marianmeres",
+				"email": "marian@meres.sk"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28271317544738905,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.03326855718626292,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.8519565e-7
+}

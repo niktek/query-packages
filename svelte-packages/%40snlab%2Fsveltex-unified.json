@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@snlab/sveltex-unified",
+		"scope": "snlab",
+		"version": "0.0.16",
+		"description": "Sveltex is a Markdown preprocessor for Svelte projects. It allows you to add markdown syntax to your Svelte apps and components. Similar to MDX, it uses Remark and [Unified](https://unifiedjs.com/) under the hood.",
+		"date": "2020-05-07T15:55:51.186Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40snlab%2Fsveltex-unified"
+		},
+		"author": {
+			"name": "Ate Poorthuis"
+		},
+		"publisher": {
+			"username": "atepoorthuis",
+			"email": "ate_poorthuis@sutd.edu.sg"
+		},
+		"maintainers": [
+			{
+				"username": "luucvanderzee",
+				"email": "luuc.vanderzee@kuleuven.be"
+			},
+			{
+				"username": "atepoorthuis",
+				"email": "ate.poorthuis@kuleuven.be"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26745380118372336,
+		"detail": {
+			"quality": 0.7836682615264048,
+			"popularity": 0.0026963673936996175,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.624828e-7
+}

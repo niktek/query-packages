@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@onsetsoftware/svelte-local-storage-store",
+		"scope": "onsetsoftware",
+		"version": "1.1.0",
+		"description": "Layer on top of a Svelte writable store, backing up to local storage across multiple tabs",
+		"keywords": [
+			"svelte",
+			"local",
+			"storage",
+			"writable",
+			"store"
+		],
+		"date": "2022-10-12T22:10:49.042Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40onsetsoftware%2Fsvelte-local-storage-store",
+			"homepage": "https://github.com/onsetsoftware/svelte-local-storage-store#readme",
+			"repository": "https://github.com/onsetsoftware/svelte-local-storage-store",
+			"bugs": "https://github.com/onsetsoftware/svelte-local-storage-store/issues"
+		},
+		"author": {
+			"name": "On Set Software Ltd"
+		},
+		"publisher": {
+			"username": "acurrieclark",
+			"email": "alex@onsetsoftware.io"
+		},
+		"maintainers": [
+			{
+				"username": "acurrieclark",
+				"email": "alex@onsetsoftware.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27387213386883896,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.002203714670529544,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 8.3354234e-7
+}

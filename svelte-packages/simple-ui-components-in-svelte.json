@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "simple-ui-components-in-svelte",
+		"scope": "unscoped",
+		"version": "5.1.1",
+		"description": "Simple UI components written in Svelte",
+		"date": "2023-03-13T21:47:08.449Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/simple-ui-components-in-svelte",
+			"homepage": "https://github.com/perfect-things/simple-ui-components-in-svelte#readme",
+			"repository": "https://github.com/perfect-things/simple-ui-components-in-svelte",
+			"bugs": "https://github.com/perfect-things/simple-ui-components-in-svelte/issues"
+		},
+		"publisher": {
+			"username": "tborychowski",
+			"email": "npm@borychowski.org"
+		},
+		"maintainers": [
+			{
+				"username": "tborychowski",
+				"email": "npm@borychowski.org"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3886812329950812,
+		"detail": {
+			"quality": 0.8895361922957907,
+			"popularity": 0.014724881827649756,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000093840026
+}

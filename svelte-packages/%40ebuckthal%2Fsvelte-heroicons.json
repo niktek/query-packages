@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@ebuckthal/svelte-heroicons",
+		"scope": "ebuckthal",
+		"version": "0.0.3",
+		"description": "Heroicons for svelte",
+		"date": "2022-12-16T18:15:48.944Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ebuckthal%2Fsvelte-heroicons",
+			"homepage": "https://github.com/ebuckthal/svelte-heroicons#readme",
+			"repository": "https://github.com/ebuckthal/svelte-heroicons",
+			"bugs": "https://github.com/ebuckthal/svelte-heroicons/issues"
+		},
+		"publisher": {
+			"username": "ebuckthal",
+			"email": "ebuckthal@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ebuckthal",
+				"email": "ebuckthal@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2152593559386373,
+		"detail": {
+			"quality": 0.3044385670792982,
+			"popularity": 0.020838283032335272,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 3.5697973e-8
+}

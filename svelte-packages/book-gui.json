@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "book-gui",
+		"scope": "unscoped",
+		"version": "3.3.7",
+		"description": "![Logo](./logo.png)",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-01-31T04:38:40.292Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/book-gui",
+			"homepage": "https://github.com/fantasyui-com/book-gui#readme",
+			"repository": "https://github.com/fantasyui-com/book-gui",
+			"bugs": "https://github.com/fantasyui-com/book-gui/issues"
+		},
+		"publisher": {
+			"username": "fantasyui.com",
+			"email": "fantasyui.com@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "fantasyui.com",
+				"email": "fantasyui.com@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2989677318240077,
+		"detail": {
+			"quality": 0.8895361922957907,
+			"popularity": 0.001992228563609958,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000018064967
+}

@@ -1,0 +1,154 @@
+{
+	"package": {
+		"name": "@storybook/addon-svelte-csf",
+		"scope": "storybook",
+		"version": "2.0.11",
+		"description": "Allows to write stories in Svelte syntax",
+		"keywords": [
+			"storybook-addons",
+			"svelte"
+		],
+		"date": "2023-01-17T10:20:28.067Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40storybook%2Faddon-svelte-csf",
+			"homepage": "https://github.com/storybookjs/addon-svelte-csf#readme",
+			"repository": "https://github.com/storybookjs/addon-svelte-csf",
+			"bugs": "https://github.com/storybookjs/addon-svelte-csf/issues"
+		},
+		"publisher": {
+			"username": "shilman",
+			"email": "michael@lab80.co"
+		},
+		"maintainers": [
+			{
+				"username": "shaunlloyd",
+				"email": "shaunlloydmedia@gmail.com"
+			},
+			{
+				"username": "kylegach",
+				"email": "kyle.gach@gmail.com"
+			},
+			{
+				"username": "tooppaaa",
+				"email": "clementdungler@gmail.com"
+			},
+			{
+				"username": "ndelangen",
+				"email": "ndelangen@me.com"
+			},
+			{
+				"username": "shilman",
+				"email": "michael@lab80.co"
+			},
+			{
+				"username": "alexandrebodin",
+				"email": "bodin.alex@gmail.com"
+			},
+			{
+				"username": "hypnosphi",
+				"email": "talpa@yandex.ru"
+			},
+			{
+				"username": "danielduan",
+				"email": "dduan@yahoo.com"
+			},
+			{
+				"username": "igor-dv",
+				"email": "davydkin.igor@gmail.com"
+			},
+			{
+				"username": "pksunkara",
+				"email": "pavan.sss1991@gmail.com"
+			},
+			{
+				"username": "tmeasday",
+				"email": "tom@thesnail.org"
+			},
+			{
+				"username": "gongreg",
+				"email": "gytis.vinclovas@gmail.com"
+			},
+			{
+				"username": "domyen",
+				"email": "dom@hichroma.com"
+			},
+			{
+				"username": "usulpro",
+				"email": "regx@usul.su"
+			},
+			{
+				"username": "kylesuss",
+				"email": "susskyle@gmail.com"
+			},
+			{
+				"username": "ghengeveld",
+				"email": "info@ghengeveld.nl"
+			},
+			{
+				"username": "pago",
+				"email": "patrick.gotthardt@trivago.com"
+			},
+			{
+				"username": "dandean",
+				"email": "me@dandean.com"
+			},
+			{
+				"username": "codebyalex",
+				"email": "wilsonc.alexander@gmail.com"
+			},
+			{
+				"username": "mrmckeb",
+				"email": "mrmckeb.npm@outlook.com"
+			},
+			{
+				"username": "dannyhw",
+				"email": "danny.h.williams@hotmail.com"
+			},
+			{
+				"username": "winkervsbecks",
+				"email": "varunvachhar@gmail.com"
+			},
+			{
+				"username": "rvasikarla",
+				"email": "vasikarla.raj@gmail.com"
+			},
+			{
+				"username": "amalik2",
+				"email": "ahnmalik2@gmail.com"
+			},
+			{
+				"username": "lshadler",
+				"email": "lshadler13@gmail.com"
+			},
+			{
+				"username": "phated",
+				"email": "blaine.bublitz@gmail.com"
+			},
+			{
+				"username": "yannbf",
+				"email": "yannbf@gmail.com"
+			},
+			{
+				"username": "dylanpiercey",
+				"email": "pierceydylan@gmail.com"
+			},
+			{
+				"username": "monkeyworks",
+				"email": "igor.szyporyn@gmail.com"
+			},
+			{
+				"username": "darleendenno",
+				"email": "darleendenno@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3963510747783409,
+		"detail": {
+			"quality": 0.8434896326871133,
+			"popularity": 0.07610719515868652,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00023077737
+}

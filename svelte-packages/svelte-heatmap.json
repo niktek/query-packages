@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-heatmap",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "A light weight and customizable version of GitHub's contribution graph",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-06-06T19:20:26.563Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-heatmap",
+			"homepage": "https://github.com/scottbedard/svelte-heatmap",
+			"repository": "https://github.com/scottbedard/svelte-heatmap",
+			"bugs": "https://github.com/scottbedard/svelte-heatmap/issues"
+		},
+		"author": {
+			"name": "Scott Bedard"
+		},
+		"publisher": {
+			"username": "scottbedard",
+			"email": "scottbedard90@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "scottbedard",
+				"email": "scottbedard90@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2983742211891086,
+		"detail": {
+			"quality": 0.8718576712889783,
+			"popularity": 0.015449501898308786,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000044795447
+}

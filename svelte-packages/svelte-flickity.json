@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-flickity",
+		"scope": "unscoped",
+		"version": "1.1.3",
+		"description": "A Svelte component wrapper for Flickity carousel",
+		"keywords": [
+			"svelte",
+			"flickity",
+			"carousel",
+			"slider"
+		],
+		"date": "2022-04-19T08:04:41.349Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-flickity",
+			"homepage": "https://github.com/danieluntiedt/svelte-flickity#readme",
+			"repository": "https://github.com/danieluntiedt/svelte-flickity",
+			"bugs": "https://github.com/danieluntiedt/svelte-flickity/issues"
+		},
+		"author": {
+			"name": "Daniel Untiedt",
+			"email": "dan@bugbit.io",
+			"url": "https://bugbit.io/",
+			"username": "bugbit"
+		},
+		"publisher": {
+			"username": "bugbit",
+			"email": "dan@bugbit.io"
+		},
+		"maintainers": [
+			{
+				"username": "bugbit",
+				"email": "dan@bugbit.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2400232065929688,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.0021247442848442376,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 1.7284204e-7
+}

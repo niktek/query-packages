@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-simple-accordion",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Svelte simple accordion components, fully configurable",
+		"keywords": [
+			"svelte",
+			"component",
+			"accordion"
+		],
+		"date": "2021-10-26T14:09:42.861Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-simple-accordion",
+			"homepage": "https://gitlab.com/public-e-soa-com/svelte-simple-accordion#readme",
+			"repository": "https://gitlab.com/public-e-soa-com/svelte-simple-accordion",
+			"bugs": "https://gitlab.com/public-e-soa-com/svelte-simple-accordion/-/issues"
+		},
+		"author": {
+			"name": "Jacques Desodt",
+			"email": "jdesodt@e-soa.com"
+		},
+		"publisher": {
+			"username": "jack-y",
+			"email": "jdesodt@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jack-y",
+				"email": "jdesodt@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21702432202658628,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0020381289711917687,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 4.7783363e-8
+}

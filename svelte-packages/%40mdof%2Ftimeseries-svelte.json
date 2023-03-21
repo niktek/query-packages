@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@mdof/timeseries-svelte",
+		"scope": "mdof",
+		"version": "0.0.10",
+		"description": "Svelte component for timeseries plotting",
+		"keywords": [
+			"timeseries",
+			"plot"
+		],
+		"date": "2022-03-10T19:41:19.876Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mdof%2Ftimeseries-svelte",
+			"homepage": "https://github.com/mdof/timeseries-svelte#readme",
+			"repository": "https://github.com/mdof/timeseries-svelte",
+			"bugs": "https://github.com/mdof/timeseries-svelte/issues"
+		},
+		"author": {
+			"name": "esoteloferry"
+		},
+		"publisher": {
+			"username": "esoteloferry",
+			"email": "efrain.sotelo.ferry@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "esoteloferry",
+				"email": "efrain.sotelo.ferry@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17374123465460167,
+		"detail": {
+			"quality": 0.19356069963315573,
+			"popularity": 0.0019605479356621046,
+			"maintenance": 0.32853380853478065
+		}
+	},
+	"searchScore": 1.4622702e-9
+}

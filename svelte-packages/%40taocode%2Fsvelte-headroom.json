@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@taocode/svelte-headroom",
+		"scope": "taocode",
+		"version": "2.3.0",
+		"description": "Svelte component providing auto-hiding header and footer based on collardeau/svelte-headroom inspired by headroom.js",
+		"keywords": [
+			"svelte",
+			"svelte-component",
+			"headroom.js"
+		],
+		"date": "2022-11-22T08:32:56.974Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40taocode%2Fsvelte-headroom",
+			"homepage": "https://github.com/taocode/svelte-headroom#readme",
+			"repository": "https://github.com/taocode/svelte-headroom",
+			"bugs": "https://github.com/taocode/svelte-headroom/issues"
+		},
+		"author": {
+			"name": "Mark Jones"
+		},
+		"publisher": {
+			"username": "taocode",
+			"email": "mark@taocode.com"
+		},
+		"maintainers": [
+			{
+				"username": "taocode",
+				"email": "mark@taocode.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2750912343585808,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0053350465863447796,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000011121576
+}

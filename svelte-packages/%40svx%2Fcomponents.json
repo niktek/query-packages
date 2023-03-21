@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@svx/components",
+		"scope": "svx",
+		"version": "0.0.2",
+		"description": "Svelte D3 Components. A port of React's Vx.",
+		"keywords": [
+			"svelte",
+			"component"
+		],
+		"date": "2020-03-27T02:36:33.984Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svx%2Fcomponents"
+		},
+		"publisher": {
+			"username": "osmanmesutozcan",
+			"email": "osmanmesutozcan@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "osmanmesutozcan",
+				"email": "osmanmesutozcan@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18235927076401115,
+		"detail": {
+			"quality": 0.48202738986592647,
+			"popularity": 0.018118456189217546,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.0560474e-9
+}

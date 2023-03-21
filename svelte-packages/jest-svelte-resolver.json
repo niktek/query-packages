@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "jest-svelte-resolver",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "[Jest custom resolver](https://jestjs.io/docs/en/configuration#resolver-string) to resolve [Svelte](http://svelte.dev/) components.",
+		"date": "2020-03-23T10:34:05.966Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/jest-svelte-resolver",
+			"homepage": "https://github.com/tanhauhau/jest-svelte-resolver#readme",
+			"repository": "https://github.com/tanhauhau/jest-svelte-resolver",
+			"bugs": "https://github.com/tanhauhau/jest-svelte-resolver/issues"
+		},
+		"author": {
+			"name": "Tan Li Hau",
+			"email": "lhtan93@gmail.com",
+			"username": "tanhauhau"
+		},
+		"publisher": {
+			"username": "tanhauhau",
+			"email": "lhtan93@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tanhauhau",
+				"email": "lhtan93@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19421633647090386,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.02823240443646846,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.23973685e-8
+}

@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@mashroom/mashroom-portal-demo-svelte-app",
+		"scope": "mashroom",
+		"version": "2.3.0",
+		"description": "A simple Svelte based SPA that can be used in the Mashroom Portal",
+		"keywords": [
+			"mashroom",
+			"svelte"
+		],
+		"date": "2023-02-10T12:28:07.304Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mashroom%2Fmashroom-portal-demo-svelte-app",
+			"homepage": "https://www.mashroom-server.com",
+			"repository": "https://github.com/nonblocking/mashroom",
+			"bugs": "https://github.com/nonblocking/mashroom/issues"
+		},
+		"author": {
+			"name": "Milan Heimschild"
+		},
+		"publisher": {
+			"username": "jkofler",
+			"email": "juergen.kofler@nonblocking.at"
+		},
+		"maintainers": [
+			{
+				"username": "jkofler",
+				"email": "juergen.kofler@nonblocking.at"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30464522164470775,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.005978405706526317,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000037634775
+}

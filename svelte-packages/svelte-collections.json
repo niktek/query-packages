@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-collections",
+		"scope": "unscoped",
+		"version": "0.1.13",
+		"description": "Collections like Array, Set, Map, with operators and observers, for Svelte",
+		"date": "2022-04-18T01:32:04.544Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-collections"
+		},
+		"author": {
+			"name": "Ben Bucksch"
+		},
+		"publisher": {
+			"username": "benbucksch",
+			"email": "contact@pia.im"
+		},
+		"maintainers": [
+			{
+				"username": "benbucksch",
+				"email": "contact@pia.im"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.33880471446220894,
+		"detail": {
+			"quality": 0.7541502487540728,
+			"popularity": 0.002268738766514234,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 0.000016478094
+}

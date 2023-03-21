@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "houdini-dev",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2021-01-22T07:51:51.370Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/houdini-dev"
+		},
+		"publisher": {
+			"username": "aaivazis",
+			"email": "alec@aivazis.com"
+		},
+		"maintainers": [
+			{
+				"username": "aaivazis",
+				"email": "alec@aivazis.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20570879690532068,
+		"detail": {
+			"quality": 0.5544394253181897,
+			"popularity": 0.0227639290624478,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.024658e-9
+}

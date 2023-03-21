@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-simple-star-rating",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "A simple tool to use star-rating.",
+		"date": "2023-01-18T19:16:14.619Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-simple-star-rating",
+			"homepage": "https://github.com/jelleag/svelte-simple-star-rating#readme",
+			"repository": "https://github.com/jelleag/svelte-simple-star-rating",
+			"bugs": "https://github.com/jelleag/svelte-simple-star-rating/issues"
+		},
+		"publisher": {
+			"username": "jelleams",
+			"email": "jelle.ages@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jelleams",
+				"email": "jelle.ages@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22382411291839632,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.005155232683636069,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 4.016611e-8
+}

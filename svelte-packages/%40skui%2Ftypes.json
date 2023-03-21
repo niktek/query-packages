@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@skui/types",
+		"scope": "skui",
+		"version": "0.2.2",
+		"description": "Svelte KaiOS UI - Types",
+		"date": "2021-07-08T13:05:01.123Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40skui%2Ftypes",
+			"homepage": "https://github.com/wjtje/svelte-kaios/tree/main/packages/types#readme",
+			"repository": "https://github.com/wjtje/svelte-kaios",
+			"bugs": "https://github.com/wjtje/svelte-kaios/issues"
+		},
+		"author": {
+			"name": "Wouter van der Wal",
+			"email": "wjtje.wal@outlook.com",
+			"url": "https://wjtje.ga",
+			"username": "wjtje"
+		},
+		"publisher": {
+			"username": "wjtje",
+			"email": "wjtje.wal@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "wjtje",
+				"email": "wjtje.wal@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18755710490781116,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.03366908526064221,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 2.0879762e-9
+}

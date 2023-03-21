@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-redux",
+		"scope": "unscoped",
+		"version": "1.1.1",
+		"description": "Connect svelte components to a redux store.",
+		"keywords": [
+			"svelte",
+			"redux"
+		],
+		"date": "2018-01-19T21:28:45.893Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-redux"
+		},
+		"author": {
+			"name": "James Birtles",
+			"email": "jameshbirtles@gmail.com"
+		},
+		"publisher": {
+			"username": "unwrittenfun",
+			"email": "unwrittenfun@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "unwrittenfun",
+				"email": "unwrittenfun@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1775455882318095,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.0019112492482183752,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.767922e-9
+}

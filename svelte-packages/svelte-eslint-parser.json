@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "svelte-eslint-parser",
+		"scope": "unscoped",
+		"version": "0.24.2",
+		"description": "Svelte parser for ESLint",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"eslint",
+			"parser"
+		],
+		"date": "2023-03-17T06:35:55.424Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-eslint-parser",
+			"homepage": "https://github.com/ota-meshi/svelte-eslint-parser#readme",
+			"repository": "https://github.com/ota-meshi/svelte-eslint-parser",
+			"bugs": "https://github.com/ota-meshi/svelte-eslint-parser/issues"
+		},
+		"author": {
+			"name": "Yosuke Ota",
+			"url": "https://github.com/ota-meshi"
+		},
+		"publisher": {
+			"username": "ota-meshi",
+			"email": "otameshiyo23@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ota-meshi",
+				"email": "otameshiyo23@gmail.com"
+			},
+			{
+				"username": "baseballyama",
+				"email": "xydybaseball@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.31419878574651033,
+		"detail": {
+			"quality": 0.5488521593795298,
+			"popularity": 0.09393277504567067,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000012958119
+}

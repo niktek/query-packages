@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@cfcs/svelte",
+		"scope": "cfcs",
+		"version": "0.1.0",
+		"description": "Write once, create framework components that supports React, Vue, Svelte, and more.",
+		"keywords": [
+			"cfcs",
+			"cfc",
+			"svelte",
+			"svelte-hook",
+			"svelte-hooks",
+			"svelte-use",
+			"scroll",
+			"reactive",
+			"hooks",
+			"use"
+		],
+		"date": "2023-02-24T13:04:42.073Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cfcs%2Fsvelte",
+			"homepage": "https://naver.github.io/cfcs"
+		},
+		"author": {
+			"name": "NAVER Corp."
+		},
+		"publisher": {
+			"username": "younkue",
+			"email": "daybrush@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "younkue",
+				"email": "daybrush@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2886813811719663,
+		"detail": {
+			"quality": 0.522175141358861,
+			"popularity": 0.043891920278975184,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000031434631
+}

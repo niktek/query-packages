@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-marquee-text-widget",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "[CSS GPU Animation] Marquee Text for Svelte",
+		"keywords": [
+			"marquee",
+			"marquee text",
+			"marquee text widget",
+			"marquee text widget svelte"
+		],
+		"date": "2020-05-18T12:35:36.109Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-marquee-text-widget",
+			"homepage": "https://github.com/borakilicoglu/svelte-marquee-text-widget#readme",
+			"repository": "https://github.com/borakilicoglu/svelte-marquee-text-widget",
+			"bugs": "https://github.com/borakilicoglu/svelte-marquee-text-widget/issues"
+		},
+		"author": {
+			"name": "Bora Kilicoglu"
+		},
+		"publisher": {
+			"username": "borakilicoglu",
+			"email": "sbkilicoglu@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "borakilicoglu",
+				"email": "sbkilicoglu@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21402230335565914,
+		"detail": {
+			"quality": 0.605223017714755,
+			"popularity": 0.0029880111520730985,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.8211905e-8
+}

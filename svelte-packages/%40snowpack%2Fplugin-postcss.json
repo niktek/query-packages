@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@snowpack/plugin-postcss",
+		"scope": "snowpack",
+		"version": "1.4.3",
+		"description": "Run [PostCSS](https://github.com/postcss/postcss) on all `.css` files, including ones generated from Sass, Vue, and Svelte.",
+		"date": "2021-06-25T18:45:10.452Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40snowpack%2Fplugin-postcss",
+			"homepage": "https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-postcss#readme",
+			"repository": "https://github.com/snowpackjs/snowpack",
+			"bugs": "https://github.com/snowpackjs/snowpack/issues"
+		},
+		"publisher": {
+			"username": "fredkschott",
+			"email": "fkschott@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "fredkschott",
+				"email": "fkschott@gmail.com"
+			},
+			{
+				"username": "drewpowers",
+				"email": "drew@pow.rs"
+			}
+		]
+	},
+	"score": {
+		"final": 0.32067530844285486,
+		"detail": {
+			"quality": 0.7251083235109037,
+			"popularity": 0.062434955287925295,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 0.0000019921094
+}

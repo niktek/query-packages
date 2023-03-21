@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@calebgasser/svelte-ghblog",
+		"scope": "calebgasser",
+		"version": "0.1.31",
+		"description": "Create a simple blog from a GitHub repo using Svelte",
+		"keywords": [
+			"svelte",
+			"blog",
+			"github"
+		],
+		"date": "2022-07-25T23:22:58.248Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40calebgasser%2Fsvelte-ghblog",
+			"homepage": "https://github.com/calebgasser/svelte-ghblog/tree/develop#readme",
+			"repository": "https://github.com/calebgasser/svelte-ghblog",
+			"bugs": "https://github.com/calebgasser/svelte-ghblog/issues"
+		},
+		"author": {
+			"name": "Caleb Gasser",
+			"email": "calebgasser@gmail.com",
+			"url": "https://www.calebgasser.com",
+			"username": "cgasser"
+		},
+		"publisher": {
+			"username": "cgasser",
+			"email": "calebgasser@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cgasser",
+				"email": "calebgasser@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3444832201195892,
+		"detail": {
+			"quality": 0.7566848930413095,
+			"popularity": 0.0027229885583892168,
+			"maintenance": 0.3329277320336004
+		}
+	},
+	"searchScore": 0.000022983864
+}

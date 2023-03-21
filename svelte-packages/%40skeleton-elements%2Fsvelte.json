@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@skeleton-elements/svelte",
+		"scope": "skeleton-elements",
+		"version": "2.0.0",
+		"description": "Skeleton elements (aka UI Skeletons, Skeleton Screens, Ghost Elements) are representations of UI that will be available (loaded) soon. They are designed to improve perceived performance.",
+		"keywords": [
+			"skeleton",
+			"ghost",
+			"lazy",
+			"lazy-loading",
+			"loader",
+			"placeholder",
+			"performance",
+			"svelte",
+			"sveltejs"
+		],
+		"date": "2020-09-04T14:59:27.689Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40skeleton-elements%2Fsvelte",
+			"homepage": "https://github.com/nolimits4web/skeleton-elements#readme",
+			"repository": "https://github.com/nolimits4web/skeleton-elements",
+			"bugs": "https://github.com/nolimits4web/skeleton-elements/issues"
+		},
+		"author": {
+			"name": "Vladimir Kharlampidi"
+		},
+		"publisher": {
+			"username": "nolimits4web",
+			"email": "nolimits4web@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nolimits4web",
+				"email": "nolimits4web@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18601965615594007,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0048133178222861525,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.7620264e-9
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-ktippy",
+		"scope": "unscoped",
+		"version": "1.2.1",
+		"description": "Svelte Tooltip Component based on tippy.js of tippy version 6",
+		"keywords": [
+			"svelte",
+			"tooltip",
+			"popover",
+			"tippy",
+			"tippy.js"
+		],
+		"date": "2022-01-03T11:51:23.609Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ktippy"
+		},
+		"author": {
+			"name": "Dennis Kaspar",
+			"email": "admin@kapsonfire.de",
+			"username": "kapsonfire"
+		},
+		"publisher": {
+			"username": "kapsonfire",
+			"email": "admin@kapsonfire.de"
+		},
+		"maintainers": [
+			{
+				"username": "kapsonfire",
+				"email": "admin@kapsonfire.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2575156758928104,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0028732818103797825,
+			"maintenance": 0.2959560756544132
+		}
+	},
+	"searchScore": 4.658556e-7
+}

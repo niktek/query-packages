@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@noahsalvi/svelte-notion",
+		"scope": "noahsalvi",
+		"version": "1.0.5",
+		"description": "Notion as a CMS for Svelte.",
+		"keywords": [
+			"svelte",
+			"notion",
+			"sapper",
+			"ssr",
+			"ts",
+			"typescript",
+			"component",
+			"renderer"
+		],
+		"date": "2021-01-24T23:12:31.298Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40noahsalvi%2Fsvelte-notion",
+			"homepage": "https://github.com/NoahVersace/svelte-notion#readme",
+			"repository": "https://github.com/NoahVersace/svelte-notion",
+			"bugs": "https://github.com/NoahVersace/svelte-notion/issues"
+		},
+		"author": {
+			"name": "Noah Salvi"
+		},
+		"publisher": {
+			"username": "noahsalvi",
+			"email": "noahsalvi@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "noahsalvi",
+				"email": "noahsalvi@me.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19462267953537093,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.01901652574477262,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.40515635e-8
+}

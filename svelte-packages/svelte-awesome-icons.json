@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "svelte-awesome-icons",
+		"scope": "unscoped",
+		"version": "0.4.3",
+		"description": "Font Awesome SVG Icon components for Svelte",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"font awesome",
+			"svg icons",
+			"tailwindcss",
+			"icons"
+		],
+		"date": "2023-03-07T01:00:07.842Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-awesome-icons",
+			"homepage": "https://svelte-awesome-icons.codewithshin.com",
+			"repository": "https://github.com/shinokada/svelte-awesome-icons",
+			"bugs": "https://github.com/shinokada/svelte-awesome-icons/issues"
+		},
+		"author": {
+			"name": "Shinichi Okada",
+			"email": "connect@codewithshin.com",
+			"url": "https://blog.codewithshin.com"
+		},
+		"publisher": {
+			"username": "shinichiokada",
+			"email": "okada.shin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shinichiokada",
+				"email": "okada.shin@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3023835620938549,
+		"detail": {
+			"quality": 0.5486021661567133,
+			"popularity": 0.060389273086212295,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000058465303
+}

@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svetamat2",
+		"scope": "unscoped",
+		"version": "0.5.3",
+		"description": "Svelte Material Widgets styled using Tailwind",
+		"keywords": [
+			"svelte",
+			"tailwindcss"
+		],
+		"date": "2021-06-24T01:21:23.821Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svetamat2"
+		},
+		"author": {
+			"name": "Tan Yin Loo"
+		},
+		"publisher": {
+			"username": "tianhai82",
+			"email": "tianhai82@yahoo.com.sg"
+		},
+		"maintainers": [
+			{
+				"username": "tianhai82",
+				"email": "tianhai82@yahoo.com.sg"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1766087460739439,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.001992228563609958,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.51117e-9
+}

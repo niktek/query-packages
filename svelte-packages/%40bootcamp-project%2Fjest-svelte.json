@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@bootcamp-project/jest-svelte",
+		"scope": "bootcamp-project",
+		"version": "2.1.2",
+		"description": "Ready-to-use Jest - Svelte Configuration with Svelte support by default",
+		"keywords": [
+			"Jest",
+			"JavaScript",
+			"Svelte",
+			"Ready-to-use",
+			"Configuration",
+			"TBCP"
+		],
+		"date": "2022-02-13T08:14:05.735Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bootcamp-project%2Fjest-svelte",
+			"homepage": "https://configurations.bootcamp-project.com/#/testing/jest",
+			"repository": "https://gitlab.com/the-bootcamp-project/configurations/jest-svelte",
+			"bugs": "https://gitlab.com/the-bootcamp-project/configurations/jest-svelte/-/issues"
+		},
+		"author": {
+			"name": "Bootcamp contributors",
+			"email": "contributors@bootcamp-project.com",
+			"username": "bootcamp-project"
+		},
+		"publisher": {
+			"username": "bootcamp-project",
+			"email": "contributors@bootcamp-project.com"
+		},
+		"maintainers": [
+			{
+				"username": "bootcamp-project",
+				"email": "contributors@bootcamp-project.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25651654774065114,
+		"detail": {
+			"quality": 0.6372988976093354,
+			"popularity": 0.001805298521989976,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 4.117412e-7
+}

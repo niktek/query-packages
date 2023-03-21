@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@soyao/ldui",
+		"scope": "soyao",
+		"version": "0.0.8",
+		"description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+		"keywords": [
+			"svelte ui",
+			"svelte",
+			"windicss ui",
+			"windicss",
+			"web components",
+			"component library",
+			"design system"
+		],
+		"date": "2022-01-19T01:45:10.548Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40soyao%2Fldui"
+		},
+		"publisher": {
+			"username": "soyao",
+			"email": "3100034521@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "soyao",
+				"email": "3100034521@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19050427853346497,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.0025972052157944977,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 3.262153e-9
+}

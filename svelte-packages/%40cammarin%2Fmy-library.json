@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@cammarin/my-library",
+		"scope": "cammarin",
+		"version": "0.1.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-03-22T10:00:36.669Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cammarin%2Fmy-library"
+		},
+		"publisher": {
+			"username": "cammarin",
+			"email": "cammarin+npm@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cammarin",
+				"email": "cammarin+npm@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2445227547017074,
+		"detail": {
+			"quality": 0.5230974352106237,
+			"popularity": 0.018008420284886778,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 5.0231982e-8
+}

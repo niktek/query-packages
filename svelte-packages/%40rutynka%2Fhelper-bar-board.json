@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@rutynka/helper-bar-board",
+		"scope": "rutynka",
+		"version": "0.2.8",
+		"description": "A simple Svelte app - sticky bar with timer & counter",
+		"keywords": [
+			"svelte",
+			"bar",
+			"sticky",
+			"quiz",
+			"helper",
+			"rutynka"
+		],
+		"date": "2023-01-28T23:47:02.718Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40rutynka%2Fhelper-bar-board",
+			"homepage": "https://github.com/rutynka/helper-bar-board",
+			"repository": "https://github.com/rutynka/helper-bar-board",
+			"bugs": "https://github.com/rutynka/helper-bar-board/issues"
+		},
+		"author": {
+			"name": "ru7ynk4"
+		},
+		"publisher": {
+			"username": "all-the-fish",
+			"email": "rutynka@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "all-the-fish",
+				"email": "rutynka@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24698728955002333,
+		"detail": {
+			"quality": 0.39802258930009876,
+			"popularity": 0.03123685021957235,
+			"maintenance": 0.33327890052326686
+		}
+	},
+	"searchScore": 1.2962117e-7
+}

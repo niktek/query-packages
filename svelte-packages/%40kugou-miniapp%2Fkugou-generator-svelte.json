@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@kugou-miniapp/kugou-generator-svelte",
+		"scope": "kugou-miniapp",
+		"version": "1.2.1",
+		"description": "kugou-miniapp generator for svelte",
+		"date": "2022-12-06T14:02:54.545Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kugou-miniapp%2Fkugou-generator-svelte",
+			"homepage": "https://github.com/kugou-miniapp/kugou-cli#readme",
+			"repository": "https://github.com/kugou-miniapp/kugou-cli",
+			"bugs": "https://github.com/kugou-miniapp/kugou-cli/issues"
+		},
+		"author": {
+			"name": "梁嘉辉",
+			"email": "chrisliang@kugou.net"
+		},
+		"publisher": {
+			"username": "kugou-miniapp",
+			"email": "kugouMiniapp@kugou.net"
+		},
+		"maintainers": [
+			{
+				"username": "kugou-miniapp",
+				"email": "kugouMiniapp@kugou.net"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2457050694272535,
+		"detail": {
+			"quality": 0.4271165168184575,
+			"popularity": 0.0035773925892358537,
+			"maintenance": 0.3323372199299534
+		}
+	},
+	"searchScore": 1.573236e-7
+}

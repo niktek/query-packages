@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "unplugin-mtl",
+		"scope": "unscoped",
+		"version": "0.3.0",
+		"description": "Import .mtl files as strings 🧵 in Vite, Rollup, Webpack + more",
+		"keywords": [
+			"unplugin",
+			"vite",
+			"webpack",
+			"rollup",
+			"transform",
+			"three.js",
+			"svelte-cubed",
+			"mtl",
+			"mtl-loader",
+			"mtl-file"
+		],
+		"date": "2022-02-10T04:25:23.201Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/unplugin-mtl",
+			"homepage": "https://github.com/cryptodeal/unplugin-mtl#readme",
+			"repository": "https://github.com/cryptodeal/unplugin-mtl",
+			"bugs": "https://github.com/cryptodeal/unplugin-mtl/issues"
+		},
+		"author": {
+			"name": "James Deal",
+			"email": "james.deal@balleranalytics.ai",
+			"url": "https://github.com/cryptodeal"
+		},
+		"publisher": {
+			"username": "cryptodeal",
+			"email": "jimmydeal@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cryptodeal",
+				"email": "jimmydeal@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1993404887545021,
+		"detail": {
+			"quality": 0.36872506351612505,
+			"popularity": 0.0029806215039289478,
+			"maintenance": 0.25051357763796994
+		}
+	},
+	"searchScore": 3.3782734e-9
+}

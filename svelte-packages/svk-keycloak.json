@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svk-keycloak",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Sveltekit's middleware for authenticating with Keycloak using OIDC authorization code flow.",
+		"keywords": [
+			"SvelteKit",
+			"Keycloak",
+			"authentication",
+			"authorization",
+			"security",
+			"middleware",
+			"handle",
+			"OIDC",
+			"OAuth 2.0",
+			"authentication code flow"
+		],
+		"date": "2023-01-23T00:12:58.503Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svk-keycloak",
+			"homepage": "https://github.com/kitinon/svk-keycloak#readme",
+			"repository": "https://github.com/kitinon/svk-keycloak",
+			"bugs": "https://github.com/kitinon/svk-keycloak/issues"
+		},
+		"author": {
+			"name": "Kitinon W., Kridsanapong B."
+		},
+		"publisher": {
+			"username": "kitinon",
+			"email": "kitinon@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kitinon",
+				"email": "kitinon@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27458591803520377,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.004243098003000429,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 1.5389799e-7
+}

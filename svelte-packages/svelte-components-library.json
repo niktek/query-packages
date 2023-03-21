@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-components-library",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "*Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*",
+		"date": "2022-02-10T15:57:33.726Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-components-library"
+		},
+		"publisher": {
+			"username": "wx_1992",
+			"email": "whitex1337@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wx_1992",
+				"email": "whitex1337@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17435366970908317,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.8162987e-9
+}

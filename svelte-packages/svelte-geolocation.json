@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-geolocation",
+		"scope": "unscoped",
+		"version": "0.3.0",
+		"description": "Geolocation API wrapper for Svelte",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"geolocation",
+			"web api",
+			"coordinates",
+			"latitude",
+			"longitude"
+		],
+		"date": "2021-10-28T02:56:01.474Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-geolocation"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2160290015521964,
+		"detail": {
+			"quality": 0.5492200220748142,
+			"popularity": 0.006333284475166401,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 5.3490666e-8
+}

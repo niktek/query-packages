@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "devc",
+		"scope": "unscoped",
+		"version": "0.3.0",
+		"description": "Quickly add .devcontainer configuration to any JavaScript project, and more!",
+		"keywords": [
+			"devcontainer",
+			"dev",
+			"container",
+			"generator",
+			"vscode",
+			"schematics",
+			"angular",
+			"react",
+			"vue",
+			"svelte",
+			"node"
+		],
+		"date": "2022-06-28T13:00:13.581Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/devc",
+			"homepage": "https://github.com/sinedied/devc",
+			"repository": "https://github.com/sinedied/devc",
+			"bugs": "https://github.com/sinedied/devc/issues"
+		},
+		"author": {
+			"name": "Yohan Lasorsa",
+			"url": "https://twitter.com/sinedied"
+		},
+		"publisher": {
+			"username": "sinedied",
+			"email": "noda@free.fr"
+		},
+		"maintainers": [
+			{
+				"username": "sinedied",
+				"email": "noda@free.fr"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.248954497862934,
+		"detail": {
+			"quality": 0.45500908272581697,
+			"popularity": 0.0019605479356621046,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 7.0687015e-8
+}

@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-remix-icons",
+		"scope": "unscoped",
+		"version": "1.0.7",
+		"description": "```",
+		"date": "2021-12-14T17:48:05.344Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-remix-icons"
+		},
+		"publisher": {
+			"username": "milkman98",
+			"email": "pavelMilkman@yandex.ru"
+		},
+		"maintainers": [
+			{
+				"username": "milkman98",
+				"email": "pavelMilkman@yandex.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23661826561987725,
+		"detail": {
+			"quality": 0.5039755837380318,
+			"popularity": 0.002256330969239649,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 1.0286446e-7
+}

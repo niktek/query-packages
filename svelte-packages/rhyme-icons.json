@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "rhyme-icons",
+		"scope": "unscoped",
+		"version": "2.2.1",
+		"description": "Icons for \"Rhyme\" The #1 Music Player",
+		"keywords": [
+			"svelte",
+			"rhyme-icons",
+			"svelte-icons",
+			"svelte-icon-pack",
+			"svelte-music-icons"
+		],
+		"date": "2022-01-01T06:56:04.045Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/rhyme-icons"
+		},
+		"author": {
+			"name": "The Rhyme Project"
+		},
+		"publisher": {
+			"username": "abdallah-moh",
+			"email": "abdallah.mam29@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "abdallah-moh",
+				"email": "abdallah.mam29@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2673364199453915,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.003338071177582777,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 3.3062182e-7
+}

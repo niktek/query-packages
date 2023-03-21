@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@svelte-parts/editor",
+		"scope": "svelte-parts",
+		"version": "0.0.26",
+		"description": "Markdown editor and codemirror wrapper for svelte",
+		"keywords": [
+			"svelte",
+			"codemirror",
+			"editor",
+			"markdown"
+		],
+		"date": "2022-04-04T21:36:48.275Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-parts%2Feditor",
+			"homepage": "https://github.com/idris-maps/svelte-parts#readme",
+			"repository": "https://github.com/idris-maps/svelte-parts",
+			"bugs": "https://github.com/idris-maps/svelte-parts/issues"
+		},
+		"author": {
+			"name": "idris-maps"
+		},
+		"publisher": {
+			"username": "idris-maps",
+			"email": "idris.maps@gmx.ch"
+		},
+		"maintainers": [
+			{
+				"username": "idris-maps",
+				"email": "idris.maps@gmx.ch"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23392092975858358,
+		"detail": {
+			"quality": 0.3792891023433832,
+			"popularity": 0.021370654217670038,
+			"maintenance": 0.3218699145125261
+		}
+	},
+	"searchScore": 1.3537505e-7
+}

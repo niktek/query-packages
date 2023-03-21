@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-macos-window",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "Draggable, macOS style windows for svelte",
+		"date": "2022-07-08T18:51:03.114Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-macos-window",
+			"homepage": "https://github.com/Oren-Lindsey/svelte-macos-window#readme",
+			"repository": "https://github.com/Oren-Lindsey/svelte-macos-window",
+			"bugs": "https://github.com/Oren-Lindsey/svelte-macos-window/issues"
+		},
+		"publisher": {
+			"username": "orenlindsey",
+			"email": "o.lindsey@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "orenlindsey",
+				"email": "o.lindsey@icloud.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26339336336436164,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.0036288291952651214,
+			"maintenance": 0.33330347511169395
+		}
+	},
+	"searchScore": 4.721162e-7
+}

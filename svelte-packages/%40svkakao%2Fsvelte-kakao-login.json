@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@svkakao/svelte-kakao-login",
+		"scope": "svkakao",
+		"version": "1.0.1",
+		"description": "kakao login for svelte",
+		"keywords": [
+			"svelte",
+			"kakao",
+			"login",
+			"template"
+		],
+		"date": "2021-02-13T15:22:49.607Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svkakao%2Fsvelte-kakao-login",
+			"homepage": "https://github.com/1Seok2/svelte-kakao-login#readme",
+			"repository": "https://github.com/1Seok2/svelte-kakao-login",
+			"bugs": "https://github.com/1Seok2/svelte-kakao-login/issues"
+		},
+		"author": {
+			"name": "wonseog choi"
+		},
+		"publisher": {
+			"username": "goesnow",
+			"email": "unos@khu.ac.kr"
+		},
+		"maintainers": [
+			{
+				"username": "goesnow",
+				"email": "unos@khu.ac.kr"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19089926059564793,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.01875504479288014,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.044602e-8
+}

@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "svelte-advanced-tables",
+		"scope": "unscoped",
+		"version": "1.1.1",
+		"description": "This project brings DataTable into your Svelte project.",
+		"keywords": [
+			"svelte",
+			"datatables"
+		],
+		"date": "2021-09-12T07:15:06.234Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-advanced-tables"
+		},
+		"publisher": {
+			"username": "homescriptone",
+			"email": "homescript1@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "homescriptone",
+				"email": "homescript1@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22658961599256122,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.002007737536369273,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 8.406546e-8
+}

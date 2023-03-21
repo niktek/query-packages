@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@klimaschutzplus/svelte-wc",
+		"scope": "klimaschutzplus",
+		"version": "1.0.0",
+		"description": "*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-12-15T12:41:27.620Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40klimaschutzplus%2Fsvelte-wc"
+		},
+		"publisher": {
+			"username": "ksplus",
+			"email": "yannik.hake@klimaschutzplus.org"
+		},
+		"maintainers": [
+			{
+				"username": "ksplus",
+				"email": "yannik.hake@klimaschutzplus.org"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16655368431115436,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.0010024629158716884,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.400025e-9
+}

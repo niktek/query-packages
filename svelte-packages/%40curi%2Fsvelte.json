@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@curi/svelte",
+		"scope": "curi",
+		"version": "2.0.0-beta.6",
+		"description": "Curi integration with Svelte",
+		"keywords": [
+			"curi",
+			"svelte",
+			"router"
+		],
+		"date": "2020-06-27T21:47:14.336Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40curi%2Fsvelte",
+			"homepage": "https://github.com/pshrmn/curi#readme",
+			"repository": "https://github.com/pshrmn/curi",
+			"bugs": "https://github.com/pshrmn/curi/issues"
+		},
+		"author": {
+			"name": "Paul Sherman"
+		},
+		"publisher": {
+			"username": "pshrmn",
+			"email": "paul.sherman.88@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pshrmn",
+				"email": "paul.sherman.88@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2244356209431818,
+		"detail": {
+			"quality": 0.6191815227934985,
+			"popularity": 0.020775914191786312,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.10317806e-7
+}

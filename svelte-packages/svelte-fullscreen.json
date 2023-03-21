@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-fullscreen",
+		"scope": "unscoped",
+		"version": "2.0.0",
+		"description": "Component that performs fullscreen in DOM Elements",
+		"keywords": [
+			"svelte",
+			"fullscreen"
+		],
+		"date": "2021-09-01T00:58:55.624Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-fullscreen",
+			"homepage": "https://svelte-fullscreen.netlify.com/"
+		},
+		"author": {
+			"name": "André Lins",
+			"email": "andrelucas01@hotmail.com",
+			"url": "https://andrelmlins.github.io/",
+			"username": "andrelmlins"
+		},
+		"publisher": {
+			"username": "andrelmlins",
+			"email": "andrelucas01@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "andrelmlins",
+				"email": "andrelucas01@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21842651906474006,
+		"detail": {
+			"quality": 0.5962879305263614,
+			"popularity": 0.005967035701529832,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 5.8963025e-8
+}

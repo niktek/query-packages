@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "cretail",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "A frontend build tool that adds Typescript, TailwindCSS and ESLint into your newly created project",
+		"keywords": [
+			"react",
+			"nodejs",
+			"npm",
+			"typescript",
+			"eslint",
+			"nextjs",
+			"vanilla-javascript",
+			"npm-package",
+			"svelte",
+			"build-tool",
+			"tailwindcss"
+		],
+		"date": "2022-07-15T21:44:02.358Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/cretail",
+			"homepage": "https://github.com/melvinchia3636/cretail#readme",
+			"repository": "https://github.com/melvinchia3636/cretail",
+			"bugs": "https://github.com/melvinchia3636/cretail/issues"
+		},
+		"author": {
+			"name": "Melvin Chia"
+		},
+		"publisher": {
+			"username": "thesillycoder",
+			"email": "melvinchia623600@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thesillycoder",
+				"email": "melvinchia623600@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2729375464458628,
+		"detail": {
+			"quality": 0.5039755837380318,
+			"popularity": 0.019308680963657367,
+			"maintenance": 0.32853380853478065
+		}
+	},
+	"searchScore": 2.5872194e-7
+}

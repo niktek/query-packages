@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "sage-svelte-highlight",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Fork of svelte-highlight to support editing",
+		"keywords": [
+			"svelte",
+			"svelte 3",
+			"svelte components",
+			"highlight.js",
+			"highlight",
+			"code",
+			"syntax",
+			"typescript"
+		],
+		"date": "2022-08-17T15:08:22.424Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sage-svelte-highlight"
+		},
+		"author": {
+			"name": "Sage Vaillancourt"
+		},
+		"publisher": {
+			"username": "sagethesagesage",
+			"email": "sagev9000@tutanota.com"
+		},
+		"maintainers": [
+			{
+				"username": "sagethesagesage",
+				"email": "sagev9000@tutanota.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.35393367660192343,
+		"detail": {
+			"quality": 0.860733633307643,
+			"popularity": 0.0014782372015374357,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 0.000035686324
+}

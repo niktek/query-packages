@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-tabs-new",
+		"scope": "unscoped",
+		"version": "1.2.0",
+		"description": "A tabs component for Svelte",
+		"keywords": [
+			"svelte",
+			"tabs"
+		],
+		"date": "2022-11-06T12:51:16.238Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tabs-new",
+			"homepage": "https://github.com/joeattardi/svelte-tabs#readme",
+			"repository": "https://github.com/joeattardi/svelte-tabs",
+			"bugs": "https://github.com/joeattardi/svelte-tabs/issues"
+		},
+		"publisher": {
+			"username": "harishdurga",
+			"email": "durgaharish5@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "harishdurga",
+				"email": "durgaharish5@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2733467251985686,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0017778223332295352,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 9.985084e-7
+}

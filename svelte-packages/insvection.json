@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "insvection",
+		"scope": "unscoped",
+		"version": "0.0.24",
+		"description": "Generate a documentation for your svelte component library from it's source files.",
+		"keywords": [
+			"svelte",
+			"component library",
+			"documentation"
+		],
+		"date": "2022-10-26T18:14:48.699Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/insvection"
+		},
+		"author": {
+			"name": "Yannik Olmo Hake"
+		},
+		"publisher": {
+			"username": "yoh87",
+			"email": "yannik.hake@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "yoh87",
+				"email": "yannik.hake@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2154818285225663,
+		"detail": {
+			"quality": 0.32356455176155713,
+			"popularity": 0.004987989506950027,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.6251773e-8
+}

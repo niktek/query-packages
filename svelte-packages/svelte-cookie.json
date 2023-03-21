@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-cookie",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "An easy way to handle cookies in Svelte.",
+		"keywords": [
+			"Svelte",
+			"Cookie"
+		],
+		"date": "2021-12-15T08:07:07.208Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-cookie"
+		},
+		"author": {
+			"name": "Michael Andersen",
+			"url": "Github: WhereCanI"
+		},
+		"publisher": {
+			"username": "sustainablewww",
+			"email": "sustainablewww@tuta.io"
+		},
+		"maintainers": [
+			{
+				"username": "sustainablewww",
+				"email": "sustainablewww@tuta.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20496937979753188,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.008564667582728894,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 2.688437e-8
+}

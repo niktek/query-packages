@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@mheinzerling/svelte-generic-typed-data-grid",
+		"scope": "mheinzerling",
+		"version": "0.0.1",
+		"description": "A generic typed data grid svelte component",
+		"date": "2022-08-14T18:21:58.674Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mheinzerling%2Fsvelte-generic-typed-data-grid"
+		},
+		"author": {
+			"name": "Martin Heinzerling",
+			"email": "npm@mheinzerling.de",
+			"username": "mheinzerling"
+		},
+		"publisher": {
+			"username": "mheinzerling",
+			"email": "npm@mheinzerling.de"
+		},
+		"maintainers": [
+			{
+				"username": "mheinzerling",
+				"email": "npm@mheinzerling.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2029575658859632,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0012054692026613517,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.1075519e-8
+}

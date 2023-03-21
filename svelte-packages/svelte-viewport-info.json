@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-viewport-info",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "informs about viewport size and orientation",
+		"keywords": [
+			"viewport-size",
+			"device-orientation"
+		],
+		"date": "2022-02-17T10:14:53.904Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-viewport-info"
+		},
+		"author": {
+			"name": "Andreas Rozek",
+			"email": "a.rozek@gmx.de",
+			"url": "https://www.rozek.de/",
+			"username": "arozek"
+		},
+		"publisher": {
+			"username": "arozek",
+			"email": "a.rozek@gmx.de"
+		},
+		"maintainers": [
+			{
+				"username": "arozek",
+				"email": "a.rozek@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2521562992763248,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.011527699734570166,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 2.6047934e-7
+}

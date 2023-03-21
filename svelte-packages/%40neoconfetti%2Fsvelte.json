@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@neoconfetti/svelte",
+		"scope": "neoconfetti",
+		"version": "1.0.0",
+		"description": "Confetti explosion in Svelte 🎉🎊",
+		"keywords": [
+			"confetti",
+			"party",
+			"fun",
+			"badass",
+			"badassery",
+			"svelte",
+			"sveltekit",
+			"small",
+			"tiny",
+			"performant"
+		],
+		"date": "2022-09-20T10:28:39.832Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40neoconfetti%2Fsvelte",
+			"homepage": "https://github.com/puruvj/neoconfetti/tree/main/packages/svelte#readme",
+			"repository": "https://github.com/puruvj/neoconfetti",
+			"bugs": "https://github.com/puruvj/neoconfetti/issues"
+		},
+		"author": {
+			"name": "Puru Vijay"
+		},
+		"publisher": {
+			"username": "puruvj",
+			"email": "awesomepuruvj@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "puruvj",
+				"email": "awesomepuruvj@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.29037030360695204,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.05041661778575364,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 0.0000034500788
+}

@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-multiselect",
+		"scope": "unscoped",
+		"version": "8.6.0",
+		"description": "Svelte multi-select component",
+		"keywords": [
+			"svelte",
+			"multi-select",
+			"single-select",
+			"form",
+			"input"
+		],
+		"date": "2023-03-20T04:12:03.475Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-multiselect",
+			"homepage": "https://janosh.github.io/svelte-multiselect",
+			"repository": "https://github.com/janosh/svelte-multiselect",
+			"bugs": "https://github.com/janosh/svelte-multiselect/issues"
+		},
+		"author": {
+			"name": "Janosh Riebesell",
+			"email": "janosh.riebesell@gmail.com",
+			"username": "janosh"
+		},
+		"publisher": {
+			"username": "janosh",
+			"email": "janosh.riebesell@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "janosh",
+				"email": "janosh.riebesell@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.32711163632413043,
+		"detail": {
+			"quality": 0.6372988976093354,
+			"popularity": 0.05501514392760901,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000017557448
+}

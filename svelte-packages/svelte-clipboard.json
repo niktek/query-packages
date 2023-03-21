@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-clipboard",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "A Svelte component easy to copy text to clipboard.",
+		"keywords": [
+			"svelte",
+			"clipboard",
+			"copy",
+			"svelte-clipboard"
+		],
+		"date": "2021-09-11T11:55:07.795Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-clipboard"
+		},
+		"author": {
+			"name": "meloalright"
+		},
+		"publisher": {
+			"username": "meloalright",
+			"email": "meloalright@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "meloalright",
+				"email": "meloalright@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22159451420121992,
+		"detail": {
+			"quality": 0.5960353551434681,
+			"popularity": 0.015234943562523747,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 8.6921865e-8
+}

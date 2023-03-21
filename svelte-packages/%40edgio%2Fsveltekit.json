@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@edgio/sveltekit",
+		"scope": "edgio",
+		"version": "6.1.3",
+		"description": "Deploy Sveltekit apps on Edgio. See [the docs](https://docs.edg.io/guides/sveltekit) for more info.",
+		"date": "2023-03-13T18:26:07.651Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40edgio%2Fsveltekit"
+		},
+		"publisher": {
+			"username": "moovweb-admin",
+			"email": "ops@moovweb.com"
+		},
+		"maintainers": [
+			{
+				"username": "moovweb-admin",
+				"email": "ops@moovweb.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22633563122241157,
+		"detail": {
+			"quality": 0.31104106135152987,
+			"popularity": 0.046733274715102774,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.903682e-8
+}

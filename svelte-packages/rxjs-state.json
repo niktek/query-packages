@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "rxjs-state",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Reactive Component State-Management for Angular, React Vue and Svelte. A lightweight robust reactive state management object written in RxJS",
+		"keywords": [
+			"angular",
+			"rxjs",
+			"state",
+			"state managemenet"
+		],
+		"date": "2020-04-14T00:32:29.120Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/rxjs-state",
+			"homepage": "https://github.com/BioPhoton/ngx-rx#readme",
+			"repository": "https://github.com/BioPhoton/ngx-rx",
+			"bugs": "https://github.com/BioPhoton/ngx-rx/issues"
+		},
+		"author": {
+			"name": "Michael Hladky",
+			"email": "michael@hladky.at",
+			"username": "bio_photon"
+		},
+		"publisher": {
+			"username": "bio_photon",
+			"email": "michael@hladky.at"
+		},
+		"maintainers": [
+			{
+				"username": "bio_photon",
+				"email": "michael@hladky.at"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21107850401637201,
+		"detail": {
+			"quality": 0.5960353551434681,
+			"popularity": 0.002452295243784464,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.7581628e-9
+}

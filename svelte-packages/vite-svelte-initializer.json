@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "vite-svelte-initializer",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Initializer for Svelte on Vite for global configurable naming conventions, based on the filename",
+		"keywords": [
+			"Vite",
+			"Svelte"
+		],
+		"date": "2022-10-24T16:50:45.479Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-svelte-initializer",
+			"homepage": "https://gitlab.com/sedl/vite-svelte-initializer#readme",
+			"repository": "https://gitlab.com/sedl/vite-svelte-initializer",
+			"bugs": "https://gitlab.com/sedl/vite-svelte-initializer/issues"
+		},
+		"author": {
+			"name": "Christian Sedlmair"
+		},
+		"publisher": {
+			"username": "csedl",
+			"email": "christian@sedlmair.ch"
+		},
+		"maintainers": [
+			{
+				"username": "csedl",
+				"email": "christian@sedlmair.ch"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2703665358616043,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.002304995222688475,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 8.217736e-7
+}

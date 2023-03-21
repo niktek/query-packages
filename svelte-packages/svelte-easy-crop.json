@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-easy-crop",
+		"scope": "unscoped",
+		"version": "2.0.1",
+		"description": "A Svelte component to crop images with easy interactions",
+		"keywords": [
+			"svelte",
+			"image crop",
+			"cropper"
+		],
+		"date": "2023-01-27T22:03:50.810Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-easy-crop",
+			"homepage": "https://github.com/ValentinH/svelte-easy-crop",
+			"repository": "https://github.com/ValentinH/svelte-easy-crop",
+			"bugs": "https://github.com/ValentinH/svelte-easy-crop/issues"
+		},
+		"author": {
+			"name": "Valentin Hervieu",
+			"email": "valentin@hervi.eu",
+			"username": "valentinhervieu"
+		},
+		"publisher": {
+			"username": "valentinhervieu",
+			"email": "valentin@hervi.eu"
+		},
+		"maintainers": [
+			{
+				"username": "valentinhervieu",
+				"email": "valentin@hervi.eu"
+			}
+		]
+	},
+	"score": {
+		"final": 0.4017601132440841,
+		"detail": {
+			"quality": 0.9218191195037037,
+			"popularity": 0.02447646345665625,
+			"maintenance": 0.33327890052326686
+		}
+	},
+	"searchScore": 0.0002128769
+}

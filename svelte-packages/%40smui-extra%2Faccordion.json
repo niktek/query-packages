@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@smui-extra/accordion",
+		"scope": "smui-extra",
+		"version": "7.0.0-beta.0",
+		"description": "Svelte Material UI - Accordion",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"material-ui",
+			"material-design",
+			"material",
+			"svelte-components",
+			"sveltejs"
+		],
+		"date": "2022-10-12T23:01:27.475Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40smui-extra%2Faccordion",
+			"homepage": "https://github.com/hperrin/svelte-material-ui#readme",
+			"repository": "https://github.com/hperrin/svelte-material-ui",
+			"bugs": "https://github.com/hperrin/svelte-material-ui/issues"
+		},
+		"author": {
+			"name": "Hunter Perrin",
+			"email": "hperrin@gmail.com",
+			"username": "hperrin"
+		},
+		"publisher": {
+			"username": "hperrin",
+			"email": "hperrin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hperrin",
+				"email": "hperrin@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2802710717917357,
+		"detail": {
+			"quality": 0.4812815270086549,
+			"popularity": 0.05516430579863538,
+			"maintenance": 0.3330831618846197
+		}
+	},
+	"searchScore": 0.0000010635007
+}

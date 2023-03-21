@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "parcel-transformer-svelte3-plus",
+		"scope": "unscoped",
+		"version": "0.2.8",
+		"description": "Svelte3 Transformer for Parcel V2",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"parcel",
+			"parcel-bundler",
+			"preprocess",
+			"svelte-preprocess",
+			"parcelv2",
+			"typescript"
+		],
+		"date": "2022-04-23T10:32:46.679Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/parcel-transformer-svelte3-plus",
+			"homepage": "https://github.com/HellButcher/parcel-transformer-svelte3-plus#readme",
+			"repository": "https://github.com/HellButcher/parcel-transformer-svelte3-plus",
+			"bugs": "https://github.com/HellButcher/parcel-transformer-svelte3-plus/issues"
+		},
+		"author": {
+			"name": "Christoph Hommelsheim",
+			"email": "main@chommel.eu"
+		},
+		"publisher": {
+			"username": "hellbutcherx",
+			"email": "mail@chommel.eu"
+		},
+		"maintainers": [
+			{
+				"username": "hellbutcherx",
+				"email": "mail@chommel.eu"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24289880744622527,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0029507077731333224,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 1.1942394e-7
+}

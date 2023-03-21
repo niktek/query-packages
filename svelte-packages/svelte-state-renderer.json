@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-state-renderer",
+		"scope": "unscoped",
+		"version": "3.3.0",
+		"description": "abstract-state-router renderer for Svelte",
+		"keywords": [
+			"svelte",
+			"asr",
+			"router",
+			"browserify"
+		],
+		"date": "2022-12-09T20:32:55.209Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-state-renderer",
+			"homepage": "https://github.com/TehShrike/svelte-state-renderer#readme",
+			"repository": "https://github.com/TehShrike/svelte-state-renderer",
+			"bugs": "https://github.com/TehShrike/svelte-state-renderer/issues"
+		},
+		"author": {
+			"name": "TehShrike"
+		},
+		"publisher": {
+			"username": "tehshrike",
+			"email": "me@JoshDuff.com"
+		},
+		"maintainers": [
+			{
+				"username": "tehshrike",
+				"email": "me@JoshDuff.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2627098500442407,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.004957516903936908,
+			"maintenance": 0.3300218922026766
+		}
+	},
+	"searchScore": 5.6717806e-7
+}

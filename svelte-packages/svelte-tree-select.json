@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "svelte-tree-select",
+		"scope": "unscoped",
+		"version": "1.1.8",
+		"description": "Tree selection control.",
+		"date": "2021-02-21T09:28:14.539Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tree-select"
+		},
+		"author": {
+			"name": "zhangzy",
+			"email": "haue@live.cn",
+			"username": "haue"
+		},
+		"publisher": {
+			"username": "haue",
+			"email": "haue@live.cn"
+		},
+		"maintainers": [
+			{
+				"username": "haue",
+				"email": "haue@live.cn"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19095838278270966,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.002565056000246356,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.600471e-9
+}

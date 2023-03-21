@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@douganderson444/sveltejs-repl",
+		"scope": "douganderson444",
+		"version": "0.0.5",
+		"description": "- added mdsvex\r - added .svx extension for MDSVex files\r - added ayu-dark css theme\r - build the workers as es modules (vite default is iife)\r - tweaked the file extension types\r - emit 'compiled' event from `src/lib/index.svelte` with compiled/bundled co",
+		"date": "2022-09-17T00:40:46.444Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40douganderson444%2Fsveltejs-repl"
+		},
+		"publisher": {
+			"username": "douganderson444",
+			"email": "douganderson444@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "douganderson444",
+				"email": "douganderson444@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22326448673820204,
+		"detail": {
+			"quality": 0.3530825645338893,
+			"popularity": 0.002015230355727898,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 1.8734207e-8
+}

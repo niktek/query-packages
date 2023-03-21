@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "svimg",
+		"scope": "unscoped",
+		"version": "3.2.0",
+		"description": "Svelte image component with image preprocessing and lazy loading",
+		"keywords": [
+			"svelte",
+			"image",
+			"img",
+			"images",
+			"lazy",
+			"load",
+			"responsive",
+			"srcset",
+			"sharp"
+		],
+		"date": "2023-03-09T00:41:59.412Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svimg",
+			"homepage": "https://github.com/xiphux/svimg",
+			"repository": "https://github.com/xiphux/svimg",
+			"bugs": "https://github.com/xiphux/svimg/issues"
+		},
+		"author": {
+			"name": "Chris Han",
+			"email": "christopher.f.han@gmail.com",
+			"url": "chris-han.com",
+			"username": "xiphux"
+		},
+		"publisher": {
+			"username": "xiphux",
+			"email": "christopher.f.han@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "xiphux",
+				"email": "christopher.f.han@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22957406936121988,
+		"detail": {
+			"quality": 0.4412719742964627,
+			"popularity": 0.027179213997118874,
+			"maintenance": 0.25051357763796994
+		}
+	},
+	"searchScore": 4.510616e-8
+}

@@ -1,0 +1,83 @@
+{
+	"package": {
+		"name": "@egjs/ngx-grid",
+		"scope": "egjs",
+		"version": "1.13.0",
+		"description": "An Angular component that can arrange items according to the type of grids",
+		"keywords": [
+			"svelte",
+			"lazyloading",
+			"ready",
+			"grid",
+			"image",
+			"video",
+			"egjs",
+			"masonry",
+			"justified",
+			"packing",
+			"frame",
+			"layout"
+		],
+		"date": "2023-03-13T08:25:10.327Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40egjs%2Fngx-grid",
+			"homepage": "https://github.com/naver/egjs-grid",
+			"repository": "https://github.com/naver/egjs-grid",
+			"bugs": "https://github.com/naver/egjs-grid/issues"
+		},
+		"author": {
+			"name": "NAVER Corp."
+		},
+		"publisher": {
+			"username": "younkue",
+			"email": "daybrush@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "braixen",
+				"email": "malangfox@naver.com"
+			},
+			{
+				"username": "ajaxpf",
+				"email": "ajaxpf@gmail.com"
+			},
+			{
+				"username": "jongmoon",
+				"email": "jongmoon.yoon@navercorp.com"
+			},
+			{
+				"username": "sculove",
+				"email": "sculove@gmail.com"
+			},
+			{
+				"username": "happyhj",
+				"email": "heejae.kim@navercorp.com"
+			},
+			{
+				"username": "mixed",
+				"email": "i.nevalose@gmail.com"
+			},
+			{
+				"username": "netil",
+				"email": "alberto.park@gmail.com"
+			},
+			{
+				"username": "younkue",
+				"email": "daybrush@gmail.com"
+			},
+			{
+				"username": "woodneck",
+				"email": "saiyu915@naver.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2977314622027723,
+		"detail": {
+			"quality": 0.5960353551434681,
+			"popularity": 0.0069163633761299415,
+			"maintenance": 0.33285750993738983
+		}
+	},
+	"searchScore": 8.036374e-7
+}

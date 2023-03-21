@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-show-action",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Svelte `svelte-show-action` is the equivalent of `v-show` in `vuejs`, or `ng-show` in `angularjs`. `svelte-show-action` will hide the element without adding any div block or destroying the component. ## Usage",
+		"keywords": [
+			"svelte",
+			"svelte show",
+			"svelte-show",
+			"svelte show action",
+			"svelte-show-action",
+			"svelte hide"
+		],
+		"date": "2022-08-18T18:32:17.370Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-show-action",
+			"homepage": "https://github.com/ramonmalcolm10/svelte-show-action#readme",
+			"repository": "https://github.com/ramonmalcolm10/svelte-show-action",
+			"bugs": "https://github.com/ramonmalcolm10/svelte-show-action/issues"
+		},
+		"publisher": {
+			"username": "ramon10",
+			"email": "ramonmalcolm10@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ramon10",
+				"email": "ramonmalcolm10@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2342287176662327,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0015531792264761723,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 1.2188305e-7
+}

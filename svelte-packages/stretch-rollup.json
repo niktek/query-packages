@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "stretch-rollup",
+		"scope": "unscoped",
+		"version": "0.0.8",
+		"description": "Utilities for Svelte",
+		"date": "2022-10-20T13:18:44.669Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/stretch-rollup"
+		},
+		"author": {
+			"name": "Nicholas Iapalucci"
+		},
+		"publisher": {
+			"username": "nicholasiapalucci",
+			"email": "nicholasiapalucci@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "nicholasiapalucci",
+				"email": "nicholasiapalucci@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19051110551500378,
+		"detail": {
+			"quality": 0.24168331922015468,
+			"popularity": 0.0038269802351163507,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.4883269e-9
+}

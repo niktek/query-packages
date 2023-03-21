@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "icon-pack-svelte-heroicons",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "svelte icon pack - heroicons",
+		"date": "2021-11-02T13:03:19.960Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/icon-pack-svelte-heroicons"
+		},
+		"publisher": {
+			"username": "x-tymchenko",
+			"email": "xtymchenko@ex.ua"
+		},
+		"maintainers": [
+			{
+				"username": "x-tymchenko",
+				"email": "xtymchenko@ex.ua"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1725099647466224,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.0009544985920313587,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.6233311e-9
+}

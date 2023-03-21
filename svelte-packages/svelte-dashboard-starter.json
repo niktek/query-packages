@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-dashboard-starter",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-12-07T03:59:03.090Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dashboard-starter"
+		},
+		"publisher": {
+			"username": "daffa_cahyo",
+			"email": "ndap.cahyo@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "daffa_cahyo",
+				"email": "ndap.cahyo@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19870219996088756,
+		"detail": {
+			"quality": 0.27135955955268554,
+			"popularity": 0.002145142136062224,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 9.362631e-9
+}

@@ -1,0 +1,83 @@
+{
+	"package": {
+		"name": "@everymatrix/retail-markets-old",
+		"scope": "everymatrix",
+		"version": "1.21.34",
+		"description": "*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*",
+		"date": "2022-05-18T06:48:33.327Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40everymatrix%2Fretail-markets-old"
+		},
+		"publisher": {
+			"username": "teodorbajenaru",
+			"email": "teodor.bajenaru@everymatrix.com"
+		},
+		"maintainers": [
+			{
+				"username": "catalinpoclid",
+				"email": "catalin.poclid@everymatrix.com"
+			},
+			{
+				"username": "adrian.pripon",
+				"email": "adrian.pripon@everymatrix.com"
+			},
+			{
+				"username": "cristian.taloi",
+				"email": "cristian.taloi@everymatrix.com"
+			},
+			{
+				"username": "natalya.anisimova",
+				"email": "natalya.anisimova@everymatrix.com"
+			},
+			{
+				"username": "marian.t",
+				"email": "marian.tarlungeanu@everymatrix.com"
+			},
+			{
+				"username": "grace_zhang",
+				"email": "grace.zhang@everymatrix.com"
+			},
+			{
+				"username": "adrian.neatu.em",
+				"email": "adrian.neatu@everymatrix.com"
+			},
+			{
+				"username": "alexandru.dragutescu",
+				"email": "alexandru.dragutescu@everymatrix.com"
+			},
+			{
+				"username": "clokze",
+				"email": "alexandru.bularca@gmail.com"
+			},
+			{
+				"username": "roman.sainchuk.em",
+				"email": "Roman.Sainchuk@everymatrix.com"
+			},
+			{
+				"username": "retail-ci",
+				"email": "alexandru.bularca@everymatrix.com"
+			},
+			{
+				"username": "stefan.vlad",
+				"email": "stefan_vlad89@yahoo.co.uk"
+			},
+			{
+				"username": "raul.vasile",
+				"email": "vasile.raul+npm@gmail.com"
+			},
+			{
+				"username": "andreea3011",
+				"email": "andreea.stefan3011@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24635885478609615,
+		"detail": {
+			"quality": 0.4244496140979512,
+			"popularity": 0.0067351539715547,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.6288002e-8
+}

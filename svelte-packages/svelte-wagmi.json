@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-wagmi",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Use the [wagmi/core library](https://wagmi.sh/core/getting-started) as a collection of [readable Svelte stores](https://svelte.dev/tutorial/readable-stores) for Svelte or SvelteKit.",
+		"keywords": [
+			"wagmi",
+			"svelte-wagmi",
+			"wagmi/core",
+			"web3",
+			"metamask"
+		],
+		"date": "2023-03-02T22:14:10.825Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-wagmi",
+			"homepage": "https://github.com/softwarecurator/svelte-wagmi#readme",
+			"repository": "https://github.com/softwarecurator/svelte-wagmi",
+			"bugs": "https://github.com/softwarecurator/svelte-wagmi/issues"
+		},
+		"author": {
+			"name": "@softwarecurator"
+		},
+		"publisher": {
+			"username": "softwarecurator",
+			"email": "josephrios.56@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "softwarecurator",
+				"email": "josephrios.56@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2534675259833544,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0057360890402731145,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.6182868e-7
+}

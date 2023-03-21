@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@snowpack/app-template-svelte-typescript",
+		"scope": "snowpack",
+		"version": "2.1.5",
+		"description": "A preconfigured template for Snowpack with Svelte and TypeScript",
+		"keywords": [
+			"csa-template"
+		],
+		"date": "2021-08-24T21:53:31.643Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40snowpack%2Fapp-template-svelte-typescript",
+			"homepage": "https://github.com/snowpackjs/snowpack/tree/main/create-snowpack-app/app-template-svelte-typescript#readme",
+			"repository": "https://github.com/snowpackjs/snowpack",
+			"bugs": "https://github.com/snowpackjs/snowpack/issues"
+		},
+		"publisher": {
+			"username": "drewpowers",
+			"email": "drew@pow.rs"
+		},
+		"maintainers": [
+			{
+				"username": "fredkschott",
+				"email": "fkschott@gmail.com"
+			},
+			{
+				"username": "drewpowers",
+				"email": "drew@pow.rs"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3229793883993493,
+		"detail": {
+			"quality": 0.8365791999066021,
+			"popularity": 0.02088744129204184,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 0.000008446583
+}

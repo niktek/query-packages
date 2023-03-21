@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@grasshopper42/svelte-grid",
+		"scope": "grasshopper42",
+		"version": "0.0.7",
+		"description": "Fork temporary from @egjs/svelte-grid",
+		"keywords": [
+			"svelte",
+			"lazyloading",
+			"ready",
+			"grid",
+			"image",
+			"video",
+			"egjs",
+			"masonry",
+			"justified",
+			"packing",
+			"frame",
+			"layout"
+		],
+		"date": "2022-09-01T07:49:40.135Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40grasshopper42%2Fsvelte-grid",
+			"homepage": "https://github.com/grasshopper42/egjs-grid",
+			"repository": "https://github.com/grasshopper42/egjs-grid",
+			"bugs": "https://github.com/grasshopper42/egjs-grid/issues"
+		},
+		"author": {
+			"name": "NAVER Corp."
+		},
+		"publisher": {
+			"username": "grasshopper42",
+			"email": "solite4686@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "grasshopper42",
+				"email": "solite4686@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2597231931909201,
+		"detail": {
+			"quality": 0.49043426796376466,
+			"popularity": 0.002363804383095768,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 4.4916354e-7
+}

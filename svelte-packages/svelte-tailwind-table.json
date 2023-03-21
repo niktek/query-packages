@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-tailwind-table",
+		"scope": "unscoped",
+		"version": "0.10.0",
+		"description": "A Svelte component for rendering a dynamic table using tailwind",
+		"keywords": [
+			"svelte",
+			"tables",
+			"tailwind"
+		],
+		"date": "2022-01-21T18:12:20.357Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tailwind-table",
+			"homepage": "https://svelte-tailwind-table-demo.vercel.app/"
+		},
+		"author": {
+			"name": "Priyav K Kaneria",
+			"email": "priyavkaneria@gmail.com",
+			"username": "priyavkaneria"
+		},
+		"publisher": {
+			"username": "priyavkaneria",
+			"email": "priyavkaneria@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "priyavkaneria",
+				"email": "priyavkaneria@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26716529095948977,
+		"detail": {
+			"quality": 0.5019129540676174,
+			"popularity": 0.0038397800827671253,
+			"maintenance": 0.3292785191721031
+		}
+	},
+	"searchScore": 7.062184e-7
+}

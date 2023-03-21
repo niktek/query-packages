@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-storage",
+		"scope": "unscoped",
+		"version": "0.2.4",
+		"description": "```html <script lang=\"ts\"> \timport { writeLocal, writeSession, writeHistory, Poll } from 'svelte-storage';",
+		"keywords": [
+			"svelte",
+			"component",
+			"storage"
+		],
+		"date": "2022-11-05T17:01:03.850Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-storage",
+			"homepage": "https://github.com/7korobi/svelte-storage/blob/main/src/lib/"
+		},
+		"author": {
+			"name": "7korobi",
+			"email": "7korobi@gmail.com",
+			"username": "7korobi"
+		},
+		"publisher": {
+			"username": "7korobi",
+			"email": "7korobi@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "7korobi",
+				"email": "7korobi@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25248991656715924,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.002942919279715344,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.464055e-7
+}

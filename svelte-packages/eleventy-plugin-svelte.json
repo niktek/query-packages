@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "eleventy-plugin-svelte",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Use Svelte components in Eleventy.",
+		"keywords": [
+			"eleventy",
+			"eleventy-plugin",
+			"svelte"
+		],
+		"date": "2020-12-17T17:56:50.672Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/eleventy-plugin-svelte",
+			"homepage": "https://github.com/gobeli/eleventy-plugin-svelte#readme",
+			"repository": "https://github.com/gobeli/eleventy-plugin-svelte",
+			"bugs": "https://github.com/gobeli/eleventy-plugin-svelte/issues"
+		},
+		"author": {
+			"name": "Etienne Gobeli"
+		},
+		"publisher": {
+			"username": "tienou",
+			"email": "etienne.gobeli@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "tienou",
+				"email": "etienne.gobeli@outlook.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.211401093692545,
+		"detail": {
+			"quality": 0.5642176181477763,
+			"popularity": 0.03064632602915734,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.98776e-8
+}

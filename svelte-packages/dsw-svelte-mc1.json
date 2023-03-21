@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "dsw-svelte-mc1",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-07-28T00:52:57.817Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/dsw-svelte-mc1"
+		},
+		"publisher": {
+			"username": "thiagolucio",
+			"email": "thiagolucio@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thiagolucio",
+				"email": "thiagolucio@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17962304151732533,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.001240504208122975,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 2.7564e-9
+}

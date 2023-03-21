@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-flow_rl",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "A highly customizable node-based graph editor for Svelte",
+		"date": "2022-12-20T14:11:22.695Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-flow_rl",
+			"homepage": "https://github.com/sidharth-anand/svelte-flow"
+		},
+		"author": {
+			"name": "Sidharth Anand",
+			"email": "sidharthanand85@gmail.com",
+			"url": "https://github.com/sidharth-anand"
+		},
+		"publisher": {
+			"username": "rajeshel",
+			"email": "rajesh.el@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rajeshel",
+				"email": "rajesh.el@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23276176592439438,
+		"detail": {
+			"quality": 0.3816569948781876,
+			"popularity": 0.004575765459124825,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 9.492263e-8
+}

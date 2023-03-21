@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@svelte-parts/map",
+		"scope": "svelte-parts",
+		"version": "0.0.24",
+		"description": "Leaflet map components for svelte",
+		"keywords": [
+			"svelte",
+			"leaflet",
+			"map"
+		],
+		"date": "2022-04-04T21:06:23.223Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-parts%2Fmap",
+			"homepage": "https://github.com/idris-maps/svelte-parts#readme",
+			"repository": "https://github.com/idris-maps/svelte-parts",
+			"bugs": "https://github.com/idris-maps/svelte-parts/issues"
+		},
+		"author": {
+			"name": "idris-maps"
+		},
+		"publisher": {
+			"username": "idris-maps",
+			"email": "idris.maps@gmx.ch"
+		},
+		"maintainers": [
+			{
+				"username": "idris-maps",
+				"email": "idris.maps@gmx.ch"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2358259398469206,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.024759740495242294,
+			"maintenance": 0.30261416013532566
+		}
+	},
+	"searchScore": 1.6652187e-7
+}

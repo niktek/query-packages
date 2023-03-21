@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-price-estimate",
+		"scope": "unscoped",
+		"version": "0.4.9",
+		"description": "An easy way to show and manage your price estimation for your Svelte project",
+		"keywords": [
+			"svelte",
+			"estimate",
+			"estimation",
+			"price calculator",
+			"price",
+			"calculator",
+			"calculation",
+			"price estimate",
+			"portfolio",
+			"quotation"
+		],
+		"date": "2021-10-23T20:39:32.729Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-price-estimate"
+		},
+		"author": {
+			"name": "Brayan Bonilla Paruma"
+		},
+		"publisher": {
+			"username": "bonillap",
+			"email": "bapd.emc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bonillap",
+				"email": "bapd.emc@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19920350218420807,
+		"detail": {
+			"quality": 0.3792891023433832,
+			"popularity": 0.002231133777026417,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 1.23423e-8
+}

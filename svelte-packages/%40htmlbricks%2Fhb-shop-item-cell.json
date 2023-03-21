@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@htmlbricks/hb-shop-item-cell",
+		"scope": "htmlbricks",
+		"version": "0.19.31",
+		"description": "Svelte Shop Item Cell WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents",
+			"html5-webcomponents"
+		],
+		"date": "2023-02-28T18:24:11.616Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fhb-shop-item-cell"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2274703427968628,
+		"detail": {
+			"quality": 0.34566170191199597,
+			"popularity": 0.02030047301884951,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.8028742e-8
+}

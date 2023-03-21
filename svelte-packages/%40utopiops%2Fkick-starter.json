@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "@utopiops/kick-starter",
+		"scope": "utopiops",
+		"version": "0.5.0",
+		"description": "A kick-starter for various programming languages and frameworks",
+		"keywords": [
+			"react",
+			"vue",
+			"svelte",
+			"node.js",
+			"boilerplate"
+		],
+		"date": "2022-05-12T23:37:35.516Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40utopiops%2Fkick-starter",
+			"homepage": "https://github.com/utopiops/utopiops#readme",
+			"repository": "https://github.com/utopiops/utopiops",
+			"bugs": "https://github.com/utopiops/utopiops/issues"
+		},
+		"author": {
+			"name": "Mohsen Kamrani"
+		},
+		"publisher": {
+			"username": "kamrani",
+			"email": "kamrani.mohsen01@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kamrani",
+				"email": "kamrani.mohsen01@gmail.com"
+			},
+			{
+				"username": "utopiop",
+				"email": "mohsen@utopiops.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21866076170628695,
+		"detail": {
+			"quality": 0.32356455176155713,
+			"popularity": 0.018870180544704532,
+			"maintenance": 0.32853380853478065
+		}
+	},
+	"searchScore": 1.8259229e-8
+}

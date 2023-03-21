@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@svelte-web-fonts/google",
+		"scope": "svelte-web-fonts",
+		"version": "1.0.4",
+		"description": "Load fonts via google with typescript auto-completion",
+		"keywords": [
+			"svelte",
+			"fonts"
+		],
+		"date": "2022-06-19T12:44:11.136Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-web-fonts%2Fgoogle",
+			"homepage": "https://github.com/svelte-web-fonts/google#readme",
+			"repository": "https://github.com/svelte-web-fonts/google",
+			"bugs": "https://github.com/svelte-web-fonts/google/issues"
+		},
+		"author": {
+			"name": "Jakob Kruse",
+			"email": "contact@jakob-kruse.de",
+			"url": "https://github.com/jakob-kruse"
+		},
+		"publisher": {
+			"username": "jakob-kruse",
+			"email": "npm@jakob-kruse.de"
+		},
+		"maintainers": [
+			{
+				"username": "jakob-kruse",
+				"email": "npm@jakob-kruse.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2459000542834527,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.023825082411674213,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 2.6050157e-7
+}

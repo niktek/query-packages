@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "optional-default-floaty-sveltekit-theme",
+		"scope": "unscoped",
+		"version": "0.2.4",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2022-12-12T00:41:54.707Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/optional-default-floaty-sveltekit-theme",
+			"homepage": "https://github.com/tomatrow/floaty-svelte-kit-theme#readme",
+			"repository": "https://github.com/tomatrow/floaty-svelte-kit-theme",
+			"bugs": "https://github.com/tomatrow/floaty-svelte-kit-theme/issues"
+		},
+		"publisher": {
+			"username": "tomatrow",
+			"email": "tomatrow@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tomatrow",
+				"email": "tomatrow@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24263966515283758,
+		"detail": {
+			"quality": 0.3948866263600296,
+			"popularity": 0.021448601651891518,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.390255e-8
+}

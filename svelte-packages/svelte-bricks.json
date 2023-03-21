@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-bricks",
+		"scope": "unscoped",
+		"version": "0.1.7",
+		"description": "Simple masonry implementation without column balancing",
+		"keywords": [
+			"svelte",
+			"masonry",
+			"pinterest-layout",
+			"component"
+		],
+		"date": "2022-05-10T20:13:31.688Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-bricks"
+		},
+		"author": {
+			"name": "Janosh Riebesell",
+			"email": "janosh.riebesell@gmail.com",
+			"username": "janosh"
+		},
+		"publisher": {
+			"username": "janosh",
+			"email": "janosh.riebesell@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "janosh",
+				"email": "janosh.riebesell@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24136655314226552,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0348371415412905,
+			"maintenance": 0.2830659289854068
+		}
+	},
+	"searchScore": 2.420684e-7
+}

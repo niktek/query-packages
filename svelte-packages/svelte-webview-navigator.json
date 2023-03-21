@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-webview-navigator",
+		"scope": "unscoped",
+		"version": "1.1.2",
+		"description": "A Svelte navigator for WebView-based apps that emulates the Stack navigation behavior of native Apps.",
+		"keywords": [
+			"stack",
+			"webview",
+			"cordova",
+			"capacitor",
+			"ionic",
+			"navigator"
+		],
+		"date": "2022-04-05T21:24:57.197Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-webview-navigator",
+			"homepage": "https://github.com/cdellacqua/svelte-webview-navigator",
+			"repository": "https://github.com/cdellacqua/svelte-webview-navigator",
+			"bugs": "https://github.com/cdellacqua/svelte-webview-navigator/issues"
+		},
+		"author": {
+			"name": "Carlo Dell'Acqua"
+		},
+		"publisher": {
+			"username": "cdellacqua",
+			"email": "carlo.dellacqua97@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cdellacqua",
+				"email": "carlo.dellacqua97@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2768589875570237,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.018406820699143272,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 0.0000010417077
+}

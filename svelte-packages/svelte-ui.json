@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-ui",
+		"scope": "unscoped",
+		"version": "0.1.9",
+		"description": "Flat UI Components with SvelteJS",
+		"keywords": [
+			"svelte",
+			"flat-ui",
+			"components"
+		],
+		"date": "2017-03-19T19:13:36.784Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ui",
+			"homepage": "https://github.com/transpiling/svelte-flat-ui#readme",
+			"repository": "https://github.com/transpiling/svelte-flat-ui",
+			"bugs": "https://github.com/jikkai/svelte-flat/issues"
+		},
+		"author": {
+			"name": "Jikkai Xiao",
+			"email": "sonne@asaki.me"
+		},
+		"publisher": {
+			"username": "visuart",
+			"email": "AlexanderShvets@quadronet.mk.ua"
+		},
+		"maintainers": [
+			{
+				"username": "alexander-shvets",
+				"email": "npm@quadronet.mk.ua"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17942852687484473,
+		"detail": {
+			"quality": 0.49043426796376466,
+			"popularity": 0.002539006707737885,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.1585646e-9
+}

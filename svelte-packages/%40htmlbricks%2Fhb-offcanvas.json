@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@htmlbricks/hb-offcanvas",
+		"scope": "htmlbricks",
+		"version": "0.19.31",
+		"description": "Svelte Boostrap Offcanvas",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents",
+			"html5-webcomponents"
+		],
+		"date": "2023-02-28T18:24:23.721Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fhb-offcanvas"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22856912349528075,
+		"detail": {
+			"quality": 0.3194544822214061,
+			"popularity": 0.04590317760626364,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.794597e-8
+}

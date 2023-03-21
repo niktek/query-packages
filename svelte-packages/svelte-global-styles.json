@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-global-styles",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Make global selectors in styles for svelte-components",
+		"keywords": [
+			"svelte",
+			"global",
+			"styles",
+			"postcss"
+		],
+		"date": "2020-04-07T06:48:32.195Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-global-styles"
+		},
+		"author": {
+			"name": "HeadMad",
+			"email": "kov.ps@yandex.ru"
+		},
+		"publisher": {
+			"username": "headmad",
+			"email": "kov.ps@ya.ru"
+		},
+		"maintainers": [
+			{
+				"username": "headmad",
+				"email": "kov.ps@ya.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17739403401547116,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.0014782372015374357,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.303096e-9
+}

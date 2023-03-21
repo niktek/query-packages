@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "crstore",
+		"scope": "unscoped",
+		"version": "0.12.1",
+		"description": "Conflict-free replicated svelte store.",
+		"keywords": [
+			"store",
+			"svelte",
+			"sync",
+			"conflict free",
+			"CRDT",
+			"sqlite",
+			"crsqlite",
+			"kysely",
+			"trpc"
+		],
+		"date": "2023-03-20T14:33:31.706Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/crstore",
+			"homepage": "https://github.com/Azarattum/CRStore#readme",
+			"repository": "https://github.com/Azarattum/CRStore",
+			"bugs": "https://github.com/Azarattum/CRStore/issues"
+		},
+		"author": {
+			"name": "Azarattum"
+		},
+		"publisher": {
+			"username": "azarattum",
+			"email": "azarattum@pm.me"
+		},
+		"maintainers": [
+			{
+				"username": "azarattum",
+				"email": "azarattum@pm.me"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25637981280448663,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.014056908529222234,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.6346512e-7
+}

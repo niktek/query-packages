@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@aredridel/fractal-svelte-adapter",
+		"scope": "aredridel",
+		"version": "2.0.0",
+		"description": "An adapter for fractal styleguide (1.x) to use svelte components",
+		"keywords": [
+			"fractal",
+			"svelte"
+		],
+		"date": "2021-05-12T17:11:52.922Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40aredridel%2Ffractal-svelte-adapter",
+			"homepage": "https://github.com/aredridel/fractal-svelte-adapter#readme",
+			"repository": "https://github.com/aredridel/fractal-svelte-adapter",
+			"bugs": "https://github.com/aredridel/fractal-svelte-adapter/issues"
+		},
+		"author": {
+			"name": "Aria Stewart",
+			"email": "aredridel@dinhe.net",
+			"username": "aredridel"
+		},
+		"publisher": {
+			"username": "aredridel",
+			"email": "aredridel@dinhe.net"
+		},
+		"maintainers": [
+			{
+				"username": "aredridel",
+				"email": "aredridel@dinhe.net"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19104601542830552,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0019112492482183752,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 8.4471505e-9
+}

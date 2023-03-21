@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "svelte-navigator",
+		"scope": "unscoped",
+		"version": "3.2.2",
+		"description": "Simple, accessible routing for Svelte",
+		"keywords": [
+			"svelte-navigator",
+			"svelte",
+			"router",
+			"routing",
+			"navigate",
+			"navigator",
+			"spa",
+			"declarative routing",
+			"hooks",
+			"a11y",
+			"accessibility",
+			"ssr",
+			"server side rendering",
+			"typescript"
+		],
+		"date": "2022-08-27T16:14:14.500Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-navigator",
+			"homepage": "https://github.com/mefechoel/svelte-navigator#readme",
+			"repository": "https://github.com/mefechoel/svelte-navigator",
+			"bugs": "https://github.com/mefechoel/svelte-navigator/issues"
+		},
+		"author": {
+			"name": "Michel Strelow @mefechoel"
+		},
+		"publisher": {
+			"username": "mefechoel",
+			"email": "mefechoel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mefechoel",
+				"email": "mefechoel@gmail.com"
+			},
+			{
+				"username": "svelte-navigator",
+				"email": "svelte.navigator@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3071822156417113,
+		"detail": {
+			"quality": 0.600959065094793,
+			"popularity": 0.06659962752636794,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 0.0000084695475
+}

@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@playbyteinc/svelte-schema-form",
+		"scope": "playbyteinc",
+		"version": "0.1.5",
+		"description": "JSON Schema based form generator in Svelte",
+		"keywords": [
+			"svelte",
+			"form generator",
+			"form builder",
+			"json schema"
+		],
+		"date": "2023-01-06T19:29:58.981Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40playbyteinc%2Fsvelte-schema-form",
+			"homepage": "https://github.com/playbyteinc/svelte-schema-form#readme",
+			"repository": "https://github.com/playbyteinc/svelte-schema-form",
+			"bugs": "https://github.com/playbyteinc/svelte-schema-form/issues"
+		},
+		"author": {
+			"name": "James Ellis-Jones"
+		},
+		"publisher": {
+			"username": "matthewrobb",
+			"email": "matthewwrobb@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "matthewrobb",
+				"email": "matthewwrobb@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2385363303466429,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0032116277862180025,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.31676e-7
+}

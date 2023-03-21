@@ -1,0 +1,65 @@
+{
+	"package": {
+		"name": "@alexkeating/walletconnect",
+		"scope": "alexkeating",
+		"version": "2.1.3",
+		"description": "WalletConnect SDK module for connecting to Web3-Onboard. Web3-Onboard makes it simple to connect Ethereum hardware and software wallets to your dapp. Features standardised spec compliant web3 providers for all supported wallets, framework agnostic modern",
+		"keywords": [
+			"Ethereum",
+			"Web3",
+			"EVM",
+			"dapp",
+			"Multichain",
+			"Wallet",
+			"Transaction",
+			"Provider",
+			"Hardware Wallet",
+			"Notifications",
+			"React",
+			"Svelte",
+			"Vue",
+			"Next",
+			"Nuxt",
+			"MetaMask",
+			"Coinbase",
+			"WalletConnect",
+			"Ledger",
+			"Trezor",
+			"Connect Wallet",
+			"Ethereum Hooks",
+			"Blocknative",
+			"Mempool",
+			"pending",
+			"confirmed",
+			"Injected Wallet",
+			"Crypto",
+			"Crypto Wallet"
+		],
+		"date": "2022-11-05T21:34:08.450Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40alexkeating%2Fwalletconnect",
+			"homepage": "https://onboard.blocknative.com",
+			"repository": "https://github.com/blocknative/web3-onboard",
+			"bugs": "https://github.com/blocknative/web3-onboard/issues"
+		},
+		"publisher": {
+			"username": "alexkeating",
+			"email": "atk315315@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "alexkeating",
+				"email": "atk315315@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3027973866264919,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.002125964715686419,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 5.4602424e-7
+}

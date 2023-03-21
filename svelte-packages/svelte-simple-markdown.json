@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-simple-markdown",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Simple and Extensible Markdown Parser for any framework.",
+		"date": "2022-06-06T04:20:38.123Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-simple-markdown",
+			"homepage": "https://github.com/davecaruso/svelte-simple-markdown#readme",
+			"repository": "https://github.com/davecaruso/svelte-simple-markdown",
+			"bugs": "https://github.com/davecaruso/svelte-simple-markdown/issues"
+		},
+		"publisher": {
+			"username": "davecaruso",
+			"email": "dave@davecode.net"
+		},
+		"maintainers": [
+			{
+				"username": "davecaruso",
+				"email": "dave@davecode.net"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27418144034007824,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.01966121868215854,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 8.457347e-7
+}

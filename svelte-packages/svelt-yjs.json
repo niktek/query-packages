@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelt-yjs",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "yjs bridge to Svelte",
+		"keywords": [
+			"svelte",
+			"yjs",
+			"store",
+			"reactive",
+			"crdt"
+		],
+		"date": "2021-03-05T14:44:13.946Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelt-yjs"
+		},
+		"author": {
+			"name": "Duane Johnson",
+			"email": "duane.johnson@gmail.com",
+			"username": "canadaduane"
+		},
+		"publisher": {
+			"username": "canadaduane",
+			"email": "duane.johnson@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "canadaduane",
+				"email": "duane.johnson@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18707146203128389,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.0035981546507043017,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.2262188e-9
+}

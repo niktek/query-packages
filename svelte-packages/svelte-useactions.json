@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-useactions",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "![](https://badgen.net/bundlephobia/minzip/svelte-useactions)",
+		"date": "2021-08-15T14:39:30.127Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-useactions"
+		},
+		"publisher": {
+			"username": "paolotiu17",
+			"email": "paolotiu17@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "paolotiu17",
+				"email": "paolotiu17@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21804081315894921,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.01987331809111759,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 5.6192643e-8
+}

@@ -1,0 +1,127 @@
+{
+	"package": {
+		"name": "@replit/codemirror-lang-svelte",
+		"scope": "replit",
+		"version": "6.0.0",
+		"description": "Svelte language support for CodeMirror 6",
+		"date": "2022-11-29T20:41:55.662Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40replit%2Fcodemirror-lang-svelte",
+			"homepage": "https://github.com/replit/codemirror-lang-svelte#readme",
+			"repository": "https://github.com/replit/codemirror-lang-svelte",
+			"bugs": "https://github.com/replit/codemirror-lang-svelte/issues"
+		},
+		"author": {
+			"name": "Brian Pool",
+			"email": "brian@repl.it",
+			"username": "brianpool"
+		},
+		"publisher": {
+			"username": "brianpool",
+			"email": "brian@repl.it"
+		},
+		"maintainers": [
+			{
+				"username": "bradymaddenreplit",
+				"email": "brady@repl.it"
+			},
+			{
+				"username": "ryantm",
+				"email": "ryan@repl.it"
+			},
+			{
+				"username": "alexisreplit",
+				"email": "alexis@repl.it"
+			},
+			{
+				"username": "ink404",
+				"email": "kirkpatrickian6@gmail.com"
+			},
+			{
+				"username": "brianpool",
+				"email": "brian@repl.it"
+			},
+			{
+				"username": "tobyho",
+				"email": "toby@repl.it"
+			},
+			{
+				"username": "brenoafb",
+				"email": "breno.afb@gmail.com"
+			},
+			{
+				"username": "xiaoyiatreplit",
+				"email": "xiaoyi@repl.it"
+			},
+			{
+				"username": "giuseppeatreplit",
+				"email": "giuseppe@repl.it"
+			},
+			{
+				"username": "masad-frost",
+				"email": "farismasad@gmail.com"
+			},
+			{
+				"username": "lincolnreplit",
+				"email": "lincoln@replit.com"
+			},
+			{
+				"username": "stkenned",
+				"email": "stkenned@gmail.com"
+			},
+			{
+				"username": "jnnnthnn-at-replit",
+				"email": "jonathan@repl.it"
+			},
+			{
+				"username": "replitmatt",
+				"email": "matthew@repl.it"
+			},
+			{
+				"username": "cbrewster",
+				"email": "cbrewster@hey.com"
+			},
+			{
+				"username": "wadeatreplit",
+				"email": "wade@replit.com"
+			},
+			{
+				"username": "ltazmin_replit",
+				"email": "laima@repl.it"
+			},
+			{
+				"username": "jeremypress",
+				"email": "jeremypress1@gmail.com"
+			},
+			{
+				"username": "moudy",
+				"email": "moudy.elkammash@gmail.com"
+			},
+			{
+				"username": "schestakov",
+				"email": "me@sergei.com"
+			},
+			{
+				"username": "lhchavez",
+				"email": "lhchavez@lhchavez.com"
+			},
+			{
+				"username": "slmjkdbtl",
+				"email": "tga@space55.xyz"
+			},
+			{
+				"username": "lunaroyster",
+				"email": "lunaroyster@outlook.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2914283288772896,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.04745749667836684,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 0.0000024673361
+}

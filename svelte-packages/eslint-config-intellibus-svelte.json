@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "eslint-config-intellibus-svelte",
+		"scope": "unscoped",
+		"version": "1.0.151",
+		"description": "ESLint Shareable Config for Intellibus Labs",
+		"keywords": [
+			"eslint",
+			"eslintconfig",
+			"intellibus"
+		],
+		"date": "2023-01-05T03:04:01.599Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/eslint-config-intellibus-svelte",
+			"homepage": "https://github.com/intellibus/eslint-config-intellibus",
+			"bugs": "https://github.com/intellibus/eslint-config-intellibus/issues"
+		},
+		"publisher": {
+			"username": "a-n-u-b-i-s",
+			"email": "watalanubhava@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "a-n-u-b-i-s",
+				"email": "watalanubhava@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24063751312354015,
+		"detail": {
+			"quality": 0.3798807882558806,
+			"popularity": 0.028590314228883786,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.3720323e-7
+}

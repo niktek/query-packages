@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "svelte-scrim",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "A vanilla JS scrim (backdrop) component made with Svelte.",
+		"keywords": [
+			"svelte",
+			"scrim",
+			"backdrop",
+			"overlay",
+			"dim",
+			"dark",
+			"lighting",
+			"browser"
+		],
+		"date": "2017-09-07T23:44:12.791Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-scrim",
+			"homepage": "https://github.com/m59peacemaker/svelte-scrim#readme",
+			"repository": "https://github.com/m59peacemaker/svelte-scrim",
+			"bugs": "https://github.com/m59peacemaker/svelte-scrim/issues"
+		},
+		"author": {
+			"name": "Johnny Hauser",
+			"email": "johnnyhauser@gmail.com",
+			"username": "m59"
+		},
+		"publisher": {
+			"username": "m59",
+			"email": "johnnyhauser@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "m59",
+				"email": "johnnyhauser@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16774067968723144,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.027045613817108342,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.3082534e-9
+}

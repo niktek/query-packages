@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "jsx2svelte",
+		"scope": "unscoped",
+		"version": "0.0.8",
+		"description": "Transpile JSX components to Svelte components",
+		"date": "2020-10-16T12:12:32.303Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/jsx2svelte",
+			"homepage": "https://github.com/SheikhSajid/jsx2svelte#readme",
+			"repository": "https://github.com/SheikhSajid/jsx2svelte",
+			"bugs": "https://github.com/SheikhSajid/jsx2svelte/issues"
+		},
+		"author": {
+			"name": "Sk Sajidul Kadir"
+		},
+		"publisher": {
+			"username": "sheikhsajid",
+			"email": "sheikh.sajid522@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sheikhsajid",
+				"email": "sheikh.sajid522@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.258273278994512,
+		"detail": {
+			"quality": 0.7541502487540728,
+			"popularity": 0.0017674578008090047,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.6400664e-7
+}

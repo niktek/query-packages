@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-checkable",
+		"scope": "unscoped",
+		"version": "2.3.5",
+		"description": "Data validation Svelte store using Specma",
+		"keywords": [
+			"svelte",
+			"store",
+			"specma",
+			"spec",
+			"schema",
+			"validation",
+			"composition",
+			"ensure",
+			"conform",
+			"validate",
+			"predicates"
+		],
+		"date": "2021-01-22T15:51:29.469Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-checkable"
+		},
+		"author": {
+			"name": "David Savoie"
+		},
+		"publisher": {
+			"username": "davidsavoie1",
+			"email": "david.savoie@softboxsi.com"
+		},
+		"maintainers": [
+			{
+				"username": "davidsavoie1",
+				"email": "david.savoie@softboxsi.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1738885040820647,
+		"detail": {
+			"quality": 0.47184784709682226,
+			"popularity": 0.0026415880428884257,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.6699132e-9
+}

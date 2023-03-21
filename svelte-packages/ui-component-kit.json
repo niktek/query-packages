@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "ui-component-kit",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "A design driven component library built with a kit of top-notch tooling: SvelteKit, Storybook, Chromatic Testing, Cypress Testing, SCSS, Tokens Studio, and Figma",
+		"keywords": [
+			"Component Library",
+			"SvelteKit",
+			"Svelte",
+			"Storybook",
+			"SCSS",
+			"Design System",
+			"Tokens Studio",
+			"Figma"
+		],
+		"date": "2023-03-12T20:26:46.525Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/ui-component-kit",
+			"homepage": "https://github.com/williamphelps13/ui-component-kit",
+			"repository": "https://github.com/williamphelps13/ui-component-kit",
+			"bugs": "https://github.com/williamphelps13/ui-component-kit/issues"
+		},
+		"author": {
+			"name": "William Phelps",
+			"email": "williamphelps13@gmail.com",
+			"username": "williamphelps13"
+		},
+		"publisher": {
+			"username": "williamphelps13",
+			"email": "williamphelps13@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "williamphelps13",
+				"email": "williamphelps13@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2532666502315183,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.005162158320741286,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.09865e-7
+}

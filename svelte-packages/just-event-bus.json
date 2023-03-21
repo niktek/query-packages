@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "just-event-bus",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Simple Event bus compatible with React.js/Vue.js/Svelte/anything else",
+		"keywords": [
+			"event-bus",
+			"bus"
+		],
+		"date": "2023-03-04T05:02:39.261Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/just-event-bus",
+			"homepage": "https://github.com/proton/just-event-bus#readme",
+			"repository": "https://github.com/proton/just-event-bus",
+			"bugs": "https://github.com/proton/just-event-bus/issues"
+		},
+		"author": {
+			"name": "Petr Savichev",
+			"url": "proton"
+		},
+		"publisher": {
+			"username": "proton2",
+			"email": "psavichev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "proton2",
+				"email": "psavichev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25431953657172585,
+		"detail": {
+			"quality": 0.8477317885724196,
+			"popularity": 0,
+			"maintenance": 0
+		}
+	},
+	"searchScore": 8.012487e-8
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@radix-svelte/collapsible",
+		"scope": "radix-svelte",
+		"version": "0.1.2",
+		"description": "## Installation",
+		"date": "2022-08-27T13:07:12.561Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40radix-svelte%2Fcollapsible"
+		},
+		"publisher": {
+			"username": "symsym",
+			"email": "symeon.smith@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "symsym",
+				"email": "symeon.smith@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2257100992450019,
+		"detail": {
+			"quality": 0.40527286678896896,
+			"popularity": 0.0015531792264761723,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 5.0229346e-8
+}

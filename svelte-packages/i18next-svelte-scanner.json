@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "i18next-svelte-scanner",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "i18next Svelte scanner",
+		"keywords": [
+			"i18next",
+			"svelte",
+			"scanner"
+		],
+		"date": "2019-11-26T21:47:41.837Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/i18next-svelte-scanner"
+		},
+		"author": {
+			"name": "Dalius Dobravolskas",
+			"email": "dalius.dobravolskas@gmail.com",
+			"username": "daliusd"
+		},
+		"publisher": {
+			"username": "daliusd",
+			"email": "dalius.dobravolskas@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "daliusd",
+				"email": "dalius.dobravolskas@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24290244969040292,
+		"detail": {
+			"quality": 0.7030825645338892,
+			"popularity": 0.0016231034063688972,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.398381e-7
+}

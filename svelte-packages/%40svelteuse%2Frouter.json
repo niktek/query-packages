@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@svelteuse/router",
+		"scope": "svelteuse",
+		"version": "0.2.6",
+		"description": "Useful svelte router helper",
+		"keywords": [
+			"router",
+			"svelte",
+			"svelteuse",
+			"typescript"
+		],
+		"date": "2022-03-02T08:53:48.879Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelteuse%2Frouter",
+			"homepage": "https://github.com/svelteuse/router#readme",
+			"repository": "https://github.com/svelteuse/router",
+			"bugs": "https://github.com/svelteuse/router/issues"
+		},
+		"author": {
+			"name": "Alexander Niebuhr",
+			"email": "tech@nbhr.io"
+		},
+		"publisher": {
+			"username": "alexanderniebuhr",
+			"email": "alexander@nbhr.io"
+		},
+		"maintainers": [
+			{
+				"username": "alexanderniebuhr",
+				"email": "alexander@nbhr.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21837867916083406,
+		"detail": {
+			"quality": 0.3250597658551564,
+			"popularity": 0.023446512356865755,
+			"maintenance": 0.3218699145125261
+		}
+	},
+	"searchScore": 3.9864645e-8
+}

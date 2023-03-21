@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "mdi-svelte",
+		"scope": "unscoped",
+		"version": "1.1.2",
+		"description": "Using Material Design Icons in your Svelte projects.",
+		"keywords": [
+			"svelte",
+			"mdi",
+			"material",
+			"icons"
+		],
+		"date": "2020-09-29T09:47:15.474Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/mdi-svelte",
+			"homepage": "https://github.com/AlexxNB/mdi-svelte#readme",
+			"repository": "https://github.com/AlexxNB/mdi-svelte",
+			"bugs": "https://github.com/AlexxNB/mdi-svelte/issues"
+		},
+		"author": {
+			"name": "Alexey Schebelev"
+		},
+		"publisher": {
+			"username": "alexxnb",
+			"email": "alexxnb@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "alexxnb",
+				"email": "alexxnb@mail.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19105541481667876,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.008824340834223456,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.1051052e-8
+}

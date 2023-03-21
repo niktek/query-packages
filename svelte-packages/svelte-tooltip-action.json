@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-tooltip-action",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "Nice tooltip in the form of Svelte 3 action",
+		"keywords": [
+			"svelte",
+			"tooltip"
+		],
+		"date": "2021-06-21T06:25:15.439Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tooltip-action"
+		},
+		"author": {
+			"name": "Denis Stasyev"
+		},
+		"publisher": {
+			"username": "denisstasyev",
+			"email": "denis.stasev@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "denisstasyev",
+				"email": "denis.stasev@mail.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23017277622525395,
+		"detail": {
+			"quality": 0.6350078740767695,
+			"popularity": 0.0063392474026482525,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 1.2032017e-7
+}

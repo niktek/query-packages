@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "primo-demo",
+		"scope": "unscoped",
+		"version": "1.6.19",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2022-10-03T16:59:03.745Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/primo-demo"
+		},
+		"publisher": {
+			"username": "mateomorris",
+			"email": "mateo@primo.so"
+		},
+		"maintainers": [
+			{
+				"username": "mateomorris",
+				"email": "mateo@primo.so"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2566893757366999,
+		"detail": {
+			"quality": 0.44657146648242796,
+			"popularity": 0.01871642799064792,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 8.862691e-8
+}

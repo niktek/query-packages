@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@bjornlu/svelte-router",
+		"scope": "bjornlu",
+		"version": "0.5.0",
+		"description": "An easy-to-use SPA router for Svelte",
+		"keywords": [
+			"svelte",
+			"router"
+		],
+		"date": "2021-09-09T17:01:16.692Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bjornlu%2Fsvelte-router",
+			"homepage": "https://github.com/bluwy/svelte-router",
+			"repository": "https://github.com/bluwy/svelte-router",
+			"bugs": "https://github.com/bluwy/svelte-router/issues"
+		},
+		"author": {
+			"name": "Bjorn Lu",
+			"url": "https://bjornlu.com"
+		},
+		"publisher": {
+			"username": "bjornlu",
+			"email": "bjornlu.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bjornlu",
+				"email": "bjornlu.my@gmail.com"
+			},
+			{
+				"username": "bluwy",
+				"email": "bjornlu.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17170502425470577,
+		"detail": {
+			"quality": 0.4244496140979511,
+			"popularity": 0.01976703604006927,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 2.721979e-9
+}

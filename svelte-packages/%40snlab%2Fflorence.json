@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@snlab/florence",
+		"scope": "snlab",
+		"version": "0.4.0",
+		"description": "Florence is a data visualization framework, based on the grammar of graphics, built on top of Svelte's template syntax.",
+		"date": "2022-02-20T18:10:38.101Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40snlab%2Fflorence",
+			"homepage": "https://gitlab.com/spatialnetworkslab/florence#readme",
+			"repository": "https://gitlab.com/spatialnetworkslab/florence",
+			"bugs": "https://gitlab.com/spatialnetworkslab/florence/issues"
+		},
+		"publisher": {
+			"username": "luucvanderzee",
+			"email": "luuc_v_d_zee@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "atepoorthuis",
+				"email": "ate.poorthuis@kuleuven.be"
+			},
+			{
+				"username": "luucvanderzee",
+				"email": "luuc_v_d_zee@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2696120361267496,
+		"detail": {
+			"quality": 0.6423255006112466,
+			"popularity": 0.021670798500677654,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 6.729673e-8
+}

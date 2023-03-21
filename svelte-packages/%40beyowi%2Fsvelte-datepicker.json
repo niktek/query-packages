@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "@beyowi/svelte-datepicker",
+		"scope": "beyowi",
+		"version": "12.0.10",
+		"description": "<a href=\"https://beyonk.com\">     <br />     <br />     <img src=\"https://user-images.githubusercontent.com/218949/144224348-1b3a20d5-d68e-4a7a-b6ac-6946f19f4a86.png\" width=\"198\" />     <br />     <br /> </a>",
+		"date": "2022-10-21T18:42:07.797Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40beyowi%2Fsvelte-datepicker"
+		},
+		"publisher": {
+			"username": "cedricbyw",
+			"email": "cedric@beyowi.com"
+		},
+		"maintainers": [
+			{
+				"username": "cedricbyw",
+				"email": "cedric@beyowi.com"
+			},
+			{
+				"username": "pascalbyw",
+				"email": "support@beyowi.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3812796614970842,
+		"detail": {
+			"quality": 0.8788367301487212,
+			"popularity": 0.002748502245146364,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00006657024
+}

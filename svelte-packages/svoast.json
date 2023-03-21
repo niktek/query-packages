@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svoast",
+		"scope": "unscoped",
+		"version": "1.3.1",
+		"description": "<p align=\"center\">\r \t<img width=\"300px\" src=\"https://user-images.githubusercontent.com/122556307/221425114-757c3e73-3b0a-4df8-a5df-4475a7277124.svg\" />\r </p>",
+		"keywords": [
+			"toast",
+			"svelte",
+			"svelte-component"
+		],
+		"date": "2023-03-16T10:00:14.434Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svoast",
+			"homepage": "https://github.com/Gibbu/svoast#readme",
+			"repository": "https://github.com/Gibbu/svoast",
+			"bugs": "https://github.com/Gibbu/svoast/issues"
+		},
+		"publisher": {
+			"username": "gibbu",
+			"email": "Gibbu_@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gibbu",
+				"email": "Gibbu_@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20402298690817483,
+		"detail": {
+			"quality": 0.2783006264728339,
+			"popularity": 0.011046092284737158,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.527673e-9
+}

@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-extend",
+		"scope": "unscoped",
+		"version": "4.0.0",
+		"description": "Create new Svelte components by extending existing ones",
+		"keywords": [
+			"svelte",
+			"extend",
+			"sfc",
+			"webpack",
+			"rollup"
+		],
+		"date": "2022-05-21T05:37:28.479Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-extend",
+			"homepage": "https://homer0.github.io/svelte-extend/",
+			"repository": "https://github.com/homer0/svelte-extend",
+			"bugs": "https://github.com/homer0/svelte-extend/issues"
+		},
+		"author": {
+			"name": "Leonardo Apiwan",
+			"email": "me@homer0.com",
+			"url": "@homer0",
+			"username": "homer0"
+		},
+		"publisher": {
+			"username": "homer0",
+			"email": "me@homer0.com"
+		},
+		"maintainers": [
+			{
+				"username": "homer0",
+				"email": "me@homer0.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3427722948859913,
+		"detail": {
+			"quality": 0.9089333222659529,
+			"popularity": 0.002179119251619947,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 0.000025440386
+}

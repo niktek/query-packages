@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "fivem-resource-cli",
+		"scope": "unscoped",
+		"version": "1.0.9",
+		"description": "This is a FiveM resource CLI made to make it easier for people to create their own resources.",
+		"keywords": [
+			"fivem",
+			"cli",
+			"resource",
+			"qbcore",
+			"esx",
+			"react",
+			"svelte",
+			"vue"
+		],
+		"date": "2022-12-03T20:57:30.638Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/fivem-resource-cli",
+			"homepage": "https://github.com/Z3rio/fivem-resource-cli#readme",
+			"repository": "https://github.com/Z3rio/fivem-resource-cli",
+			"bugs": "https://github.com/Z3rio/fivem-resource-cli/issues"
+		},
+		"author": {
+			"name": "Zerio#0880"
+		},
+		"publisher": {
+			"username": "zerio2",
+			"email": "neoboij@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "zerio2",
+				"email": "neoboij@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2531651602670088,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.02213943405132578,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.2209665e-7
+}

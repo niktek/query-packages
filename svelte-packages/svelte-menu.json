@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-menu",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "```bash npm add svelte-menu or yarn add svelte-menu ```",
+		"date": "2022-09-04T14:35:07.307Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-menu"
+		},
+		"author": {
+			"name": "Vladislav Emelyanov"
+		},
+		"publisher": {
+			"username": "hardwayder",
+			"email": "hardwayder@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hardwayder",
+				"email": "hardwayder@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22381667462506633,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.005133980416978953,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 5.6844872e-8
+}

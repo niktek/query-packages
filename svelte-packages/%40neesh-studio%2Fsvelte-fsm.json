@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@neesh-studio/svelte-fsm",
+		"scope": "neesh-studio",
+		"version": "1.1.3",
+		"description": "Tiny (<1kb), expressive, Svelte-optimized Finite State Machine (FSM) library",
+		"keywords": [
+			"svelte",
+			"fsm",
+			"finite",
+			"state",
+			"machine"
+		],
+		"date": "2022-04-20T09:45:28.836Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40neesh-studio%2Fsvelte-fsm",
+			"homepage": "https://github.com/neesh-studio/svelte-fsm#README",
+			"repository": "https://github.com/kenkunz/svelte-fsm",
+			"bugs": "https://github.com/neesh-studio/svelte-fsm/issues"
+		},
+		"author": {
+			"name": "Ken Kunz"
+		},
+		"publisher": {
+			"username": "lksslr",
+			"email": "lukas.seiler@neesh.de"
+		},
+		"maintainers": [
+			{
+				"username": "lksslr",
+				"email": "lukas.seiler@neesh.de"
+			},
+			{
+				"username": "ocupe",
+				"email": "jonas.schell@neesh.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.34319874044605847,
+		"detail": {
+			"quality": 0.8718576712889783,
+			"popularity": 0.0010024629158716884,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 0.00002153756
+}

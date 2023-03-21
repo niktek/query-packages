@@ -1,0 +1,58 @@
+{
+	"package": {
+		"name": "@svelteuidev/core",
+		"scope": "svelteuidev",
+		"version": "0.10.0",
+		"description": "Svelte component library for creating fully functional and accessible web applications quickly",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"svelteui",
+			"ui",
+			"components",
+			"ui-kit",
+			"library",
+			"frontend",
+			"design",
+			"stitches"
+		],
+		"date": "2023-02-16T21:33:04.526Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelteuidev%2Fcore",
+			"homepage": "https://svelteui.org/",
+			"repository": "https://github.com/svelteuidev/svelteui",
+			"bugs": "https://github.com/svelteuidev/svelteui/issues"
+		},
+		"author": {
+			"name": "Kamell Perry",
+			"email": "kamellperry33@gmail.com",
+			"username": "uxtitan"
+		},
+		"publisher": {
+			"username": "lowkey_daisy",
+			"email": "just2playgg@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lowkey_daisy",
+				"email": "just2playgg@gmail.com"
+			},
+			{
+				"username": "uxtitan",
+				"email": "kamellperry33@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2863390189811071,
+		"detail": {
+			"quality": 0.5222123194114958,
+			"popularity": 0.037167589974261915,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000015050997
+}

@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@budgetdraw/sveltekit-cloudflare-adapter",
+		"scope": "budgetdraw",
+		"version": "0.3.0",
+		"description": "Alternative SvelteKit adaptor for Cloudflare workers. Designed to be standalone and not use wrangler.",
+		"date": "2021-11-17T23:26:29.636Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40budgetdraw%2Fsveltekit-cloudflare-adapter"
+		},
+		"author": {
+			"name": "Thomas Yandell",
+			"email": "thomasyandell@gmail.com"
+		},
+		"publisher": {
+			"username": "budgetdrawdev",
+			"email": "dev@budgetdraw.com"
+		},
+		"maintainers": [
+			{
+				"username": "budgetdrawdev",
+				"email": "dev@budgetdraw.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2733521989062293,
+		"detail": {
+			"quality": 0.673564551761557,
+			"popularity": 0.018822312578880524,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 3.965867e-7
+}

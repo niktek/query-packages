@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "pekfinger-red",
+		"scope": "unscoped",
+		"version": "1.0.0-alpha.25",
+		"description": "A web-framework. Basically Svelte for Node-RED. With some sugar.",
+		"keywords": [
+			"node-red",
+			"svelte",
+			"nodes",
+			"flow",
+			"web",
+			"serve",
+			"app",
+			"webclient",
+			"webserver"
+		],
+		"date": "2022-12-15T15:34:56.250Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/pekfinger-red",
+			"homepage": "https://gitlab.com/2WeltenChris/pekfinger-red#readme",
+			"repository": "https://gitlab.com/2WeltenChris/pekfinger-red",
+			"bugs": "https://gitlab.com/2WeltenChris/pekfinger-red/issues"
+		},
+		"author": {
+			"name": "Christian Geiger"
+		},
+		"publisher": {
+			"username": "meijey",
+			"email": "meier@lohrmann.de"
+		},
+		"maintainers": [
+			{
+				"username": "2weltenchris",
+				"email": "chris@lohrmann.de"
+			},
+			{
+				"username": "meijey",
+				"email": "meier@lohrmann.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20204872116142902,
+		"detail": {
+			"quality": 0.2789709984822165,
+			"popularity": 0.004830728428849733,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.459665e-9
+}

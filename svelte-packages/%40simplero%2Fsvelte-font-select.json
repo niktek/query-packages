@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@simplero/svelte-font-select",
+		"scope": "simplero",
+		"version": "0.1.9",
+		"description": "Install the dependencies...",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-07-26T21:20:16.683Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40simplero%2Fsvelte-font-select"
+		},
+		"publisher": {
+			"username": "owaissimplero",
+			"email": "owais@simplero.com"
+		},
+		"maintainers": [
+			{
+				"username": "owaissimplero",
+				"email": "owais@simplero.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2195889547907946,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.022269139193095703,
+			"maintenance": 0.3162660568321895
+		}
+	},
+	"searchScore": 5.0901026e-8
+}

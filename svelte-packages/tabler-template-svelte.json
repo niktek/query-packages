@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "tabler-template-svelte",
+		"scope": "unscoped",
+		"version": "0.1.5",
+		"description": "Svelte version for the Tabler template.",
+		"keywords": [
+			"tabler",
+			"sveltekit"
+		],
+		"date": "2023-03-09T17:01:34.825Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/tabler-template-svelte",
+			"homepage": "https://magnum.9-dev.com/tabler/",
+			"repository": "https://github.com/Wtower/tabler-template-svelte",
+			"bugs": "https://github.com/Wtower/tabler-template-svelte/issues"
+		},
+		"author": {
+			"name": "George Karakostas"
+		},
+		"publisher": {
+			"username": "wtower",
+			"email": "gckarakostas@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wtower",
+				"email": "gckarakostas@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.27539875879690207,
+		"detail": {
+			"quality": 0.5204008338216807,
+			"popularity": 0.007462405667803474,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.875845e-7
+}

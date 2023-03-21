@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@sveltestuff/adapter-cloudflare",
+		"scope": "sveltestuff",
+		"version": "1.0.0-next.33",
+		"description": "[Adapter](https://kit.svelte.dev/docs/adapters) for building SvelteKit applications on [Cloudflare Pages](https://developers.cloudflare.com/pages/) with [Workers integration](https://developers.cloudflare.com/pages/platform/functions).",
+		"date": "2022-07-29T23:52:19.459Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltestuff%2Fadapter-cloudflare",
+			"homepage": "https://kit.svelte.dev",
+			"repository": "https://github.com/sveltejs/kit",
+			"bugs": "https://github.com/sveltejs/kit/issues"
+		},
+		"publisher": {
+			"username": "yektagg",
+			"email": "ngyekta@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "yektagg",
+				"email": "ngyekta@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2360600907103117,
+		"detail": {
+			"quality": 0.4400607440318174,
+			"popularity": 0.0013064029192055117,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 4.241147e-8
+}

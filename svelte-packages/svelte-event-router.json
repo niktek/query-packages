@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-event-router",
+		"scope": "unscoped",
+		"version": "2.0.1",
+		"description": "A simple SPA router that enforces event-driven user interfaces. Your router does a lot for you. Choose a good one.",
+		"keywords": [
+			"svelte",
+			"svelte router",
+			"router",
+			"state machine"
+		],
+		"date": "2020-06-23T18:11:23.467Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-event-router",
+			"homepage": "https://www.npmjs.com/package/svelte-event-router"
+		},
+		"author": {
+			"name": "Lucas Hugdahl",
+			"email": "lucashugdahl@gmail.com",
+			"url": "https://lucashugdahl.com"
+		},
+		"publisher": {
+			"username": "lucashugdahl",
+			"email": "lucashugdahl@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lucashugdahl",
+				"email": "lucas.hugdahl@qudocreative.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.203432277626778,
+		"detail": {
+			"quality": 0.5704511825501514,
+			"popularity": 0.0025352249249302335,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.0242553e-8
+}

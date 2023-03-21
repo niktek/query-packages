@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-intl2",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Simple svelte i18n implementation",
+		"keywords": [
+			"svelte",
+			"i18n"
+		],
+		"date": "2020-05-08T12:13:40.392Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-intl2",
+			"homepage": "https://github.com/kjj6198/svelte-intl2#readme",
+			"repository": "https://github.com/kjj6198/svelte-intl2",
+			"bugs": "https://github.com/kjj6198/svelte-intl2/issues"
+		},
+		"author": {
+			"name": "Kalan",
+			"email": "kjj6198@gmail.com",
+			"username": "kjj6198"
+		},
+		"publisher": {
+			"username": "kjj6198",
+			"email": "kjj6198@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kjj6198",
+				"email": "kjj6198@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17803162736331313,
+		"detail": {
+			"quality": 0.487046316308575,
+			"popularity": 0.0014518238078102884,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.9279704e-9
+}

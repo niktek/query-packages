@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@responsive-ui/chip",
+		"scope": "responsive-ui",
+		"version": "1.1.0-alpha.30",
+		"description": "A chip component of responsive-ui.",
+		"keywords": [
+			"svelte",
+			"ui-component",
+			"responsive-ui",
+			"chip",
+			"svelte-chip"
+		],
+		"date": "2022-08-03T06:58:18.223Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40responsive-ui%2Fchip",
+			"homepage": "https://github.com/wetix/responsive-ui/blob/main/components/chip#README.md",
+			"repository": "https://github.com/wetix/responsive-ui",
+			"bugs": "https://github.com/wetix/responsive-ui/issues"
+		},
+		"author": {
+			"name": "Si3nLoong",
+			"email": "sianloong90@gmail.com",
+			"url": "https://github.com/si3nloong"
+		},
+		"publisher": {
+			"username": "mohamadharith",
+			"email": "harith@revenuemonster.my"
+		},
+		"maintainers": [
+			{
+				"username": "mohamadharith",
+				"email": "harith@revenuemonster.my"
+			},
+			{
+				"username": "charu.yussuf",
+				"email": "yussuf@revenuemonster.my"
+			},
+			{
+				"username": "apacventure",
+				"email": "apacventure@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2990715388561596,
+		"detail": {
+			"quality": 0.6283691853647854,
+			"popularity": 0.0033261085738524143,
+			"maintenance": 0.3125618435596447
+		}
+	},
+	"searchScore": 0.0000013709496
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-transitions-fade",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Fade transition plugin for Svelte",
+		"keywords": [
+			"svelte",
+			"transitions",
+			"css",
+			"animation"
+		],
+		"date": "2017-05-07T03:18:57.539Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-transitions-fade",
+			"homepage": "https://github.com/sveltejs/svelte-transitions-fade#readme",
+			"repository": "https://github.com/sveltejs/svelte-transitions-fade",
+			"bugs": "https://github.com/sveltejs/svelte-transitions-fade/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "rich_harris",
+			"email": "richard.a.harris@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20679198618762773,
+		"detail": {
+			"quality": 0.55,
+			"popularity": 0.029663977284630577,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.6865796e-8
+}

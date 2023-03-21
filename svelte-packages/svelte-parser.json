@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-parser",
+		"scope": "unscoped",
+		"version": "3.1.2",
+		"description": "The internal parser used by Svelte.",
+		"date": "2019-04-28T23:54:20.067Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-parser"
+		},
+		"publisher": {
+			"username": "clebert",
+			"email": "clebert@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "clebert",
+				"email": "clebert@me.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1845797927675708,
+		"detail": {
+			"quality": 0.5087006752868104,
+			"popularity": 0.0015999886957733678,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.196779e-9
+}

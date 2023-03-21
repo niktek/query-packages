@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "urql-svelte-codegen-client",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "### Install ``` yarn add urql-svelte-codegen-client yarn install or npm run install yarn dev # start the dev server yarn gen # Generate graphql types",
+		"date": "2021-09-26T08:30:15.924Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/urql-svelte-codegen-client"
+		},
+		"publisher": {
+			"username": "dreilacadin",
+			"email": "dreilacadin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dreilacadin",
+				"email": "dreilacadin@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2479905663777603,
+		"detail": {
+			"quality": 0.6254637251533857,
+			"popularity": 0.001707923805054072,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 2.0733967e-7
+}

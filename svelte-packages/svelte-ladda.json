@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-ladda",
+		"scope": "unscoped",
+		"version": "1.0.5",
+		"description": "Buttons with loading indicators for Svelte",
+		"keywords": [
+			"ladda",
+			"svelte",
+			"loading",
+			"buttons"
+		],
+		"date": "2018-06-17T06:14:44.140Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ladda",
+			"homepage": "https://github.com/adonespitogo/svelte-ladda#readme",
+			"repository": "https://github.com/adonespitogo/svelte-ladda",
+			"bugs": "https://github.com/adonespitogo/svelte-ladda/issues"
+		},
+		"author": {
+			"name": "Adones B. Pitogo"
+		},
+		"publisher": {
+			"username": "adonesp",
+			"email": "pitogo.adones@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "adonesp",
+				"email": "pitogo.adones@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18865308730218228,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0019605479356621046,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.428445e-9
+}

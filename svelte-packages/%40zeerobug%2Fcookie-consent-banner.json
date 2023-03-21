@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@zeerobug/cookie-consent-banner",
+		"scope": "zeerobug",
+		"version": "1.0.1",
+		"description": "GDPR Cookie Consent Banner in vanilla js",
+		"keywords": [
+			"gdpr",
+			"cookie consent",
+			"banner",
+			"data protection",
+			"eu",
+			"consent",
+			"cookie",
+			"svelte",
+			"vanilla",
+			"dependency free",
+			"beyonk"
+		],
+		"date": "2022-07-22T08:32:54.193Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40zeerobug%2Fcookie-consent-banner"
+		},
+		"author": {
+			"name": "Antony Jones"
+		},
+		"publisher": {
+			"username": "zeerobug",
+			"email": "zeerobug@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "zeerobug",
+				"email": "zeerobug@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.36561856660238834,
+		"detail": {
+			"quality": 0.9460353551434679,
+			"popularity": 0.0014782372015374357,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 0.000013068398
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@foxkdev/svelte-easy-forms",
+		"scope": "foxkdev",
+		"version": "1.0.5",
+		"description": "Easy Forms in Svelte",
+		"keywords": [
+			"svelte",
+			"forms",
+			"validations",
+			"svelte-easy-forms"
+		],
+		"date": "2022-12-03T13:08:15.289Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40foxkdev%2Fsvelte-easy-forms",
+			"homepage": "https://github.com/foxkdev/svelte-easy-forms#readme",
+			"repository": "https://github.com/foxkdev/svelte-easy-forms",
+			"bugs": "https://github.com/foxkdev/svelte-easy-forms/issues"
+		},
+		"author": {
+			"name": "foxkdev"
+		},
+		"publisher": {
+			"username": "foxkdev",
+			"email": "foxkdev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "foxkdev",
+				"email": "foxkdev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26303938949924704,
+		"detail": {
+			"quality": 0.462301421479959,
+			"popularity": 0.021959467157185497,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 6.4853936e-7
+}

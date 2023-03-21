@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "stock-ui",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-06-10T15:31:01.746Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/stock-ui"
+		},
+		"publisher": {
+			"username": "jiangzimao",
+			"email": "jiangzimao@126.com"
+		},
+		"maintainers": [
+			{
+				"username": "jiangzimao",
+				"email": "jiangzimao@126.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26482324564681364,
+		"detail": {
+			"quality": 0.6105534223370335,
+			"popularity": 0.0010475483054105574,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.2761973e-7
+}

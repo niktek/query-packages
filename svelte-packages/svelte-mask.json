@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-mask",
+		"scope": "unscoped",
+		"version": "0.3.5",
+		"description": "The simplest component of an input mask with validation for digits of a given format, which can contain arbitrary non-numeric characters",
+		"keywords": [
+			"input",
+			"mask"
+		],
+		"date": "2022-09-07T12:06:45.601Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-mask",
+			"homepage": "https://github.com/Sanshain/svelte-input-mask#readme",
+			"repository": "https://github.com/Sanshain/svelte-input-mask",
+			"bugs": "https://github.com/Sanshain/svelte-input-mask/issues"
+		},
+		"author": {
+			"name": "Sanshain"
+		},
+		"publisher": {
+			"username": "sanshain",
+			"email": "digital-mag@ya.ru"
+		},
+		"maintainers": [
+			{
+				"username": "sanshain",
+				"email": "digital-mag@ya.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2394648443093177,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.004437437189797748,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.265756e-7
+}

@@ -1,0 +1,59 @@
+{
+	"package": {
+		"name": "@elderjs/plugin-images",
+		"scope": "elderjs",
+		"version": "1.8.0-beta.8",
+		"description": "Easily generate and manage responsive images for your Elder.js site.",
+		"keywords": [
+			"elderjs",
+			"elder.js",
+			"Svelte",
+			"responsive",
+			"picture",
+			"images",
+			"lqip",
+			"sharp",
+			"generator",
+			"sapper"
+		],
+		"date": "2022-07-31T10:09:16.869Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40elderjs%2Fplugin-images",
+			"homepage": "https://elderguide.com/tech/elderjs/",
+			"repository": "https://github.com/Elderjs/plugins",
+			"bugs": "https://github.com/Elderjs/plugins/issues"
+		},
+		"author": {
+			"name": "Nick Reese",
+			"email": "npm@nicholasreese.com",
+			"username": "nickreese"
+		},
+		"publisher": {
+			"username": "nickreese",
+			"email": "npm@nicholasreese.com"
+		},
+		"maintainers": [
+			{
+				"username": "eight04",
+				"email": "eight04@gmail.com"
+			},
+			{
+				"username": "vonadz",
+				"email": "alex.zdanov@gmail.com"
+			},
+			{
+				"username": "nickreese",
+				"email": "npm@nicholasreese.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27669895758608665,
+		"detail": {
+			"quality": 0.5269283442548052,
+			"popularity": 0.0058528460170508756,
+			"maintenance": 0.33306273772479233
+		}
+	},
+	"searchScore": 3.150036e-7
+}

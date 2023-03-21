@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@w5/svelte-preprocess",
+		"scope": "w5",
+		"version": "5.0.10",
+		"description": "A Svelte preprocessor wrapper with baked-in support for commonly used preprocessors",
+		"keywords": [
+			"svelte",
+			"preprocess",
+			"less",
+			"stylus",
+			"sass",
+			"scss",
+			"pug",
+			"coffeescript"
+		],
+		"date": "2023-03-20T06:38:44.180Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40w5%2Fsvelte-preprocess",
+			"homepage": "https://github.com/sveltejs/svelte-preprocess#readme",
+			"repository": "https://github.com/sveltejs/svelte-preprocess",
+			"bugs": "https://github.com/sveltejs/svelte-preprocess/issues"
+		},
+		"author": {
+			"name": "Christian Kaisermann",
+			"email": "christian@kaisermann.me"
+		},
+		"publisher": {
+			"username": "i-user",
+			"email": "iuser.link@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "i-user",
+				"email": "iuser.link@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16632665312527617,
+		"detail": {
+			"quality": 0.5544221770842539,
+			"popularity": 0,
+			"maintenance": 0
+		}
+	},
+	"searchScore": 1.5034589e-9
+}

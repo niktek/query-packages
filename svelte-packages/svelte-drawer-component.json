@@ -1,0 +1,32 @@
+{
+	"package": {
+		"name": "svelte-drawer-component",
+		"scope": "unscoped",
+		"version": "1.2.2",
+		"description": "[Check out the demo](https://svelte.dev/repl/32443b9fad6447fe899a60596537db31?version=3.24.1)",
+		"date": "2022-01-31T03:05:18.388Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-drawer-component",
+			"bugs": "https://github.com/rsdavis/svelte-drawer/issues"
+		},
+		"publisher": {
+			"username": "rsdavis",
+			"email": "ryanscdavis@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rsdavis",
+				"email": "ryanscdavis@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1777136117010948,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.010996365073466685,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 2.7021776e-9
+}

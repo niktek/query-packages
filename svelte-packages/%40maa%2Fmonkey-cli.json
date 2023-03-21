@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@maa/monkey-cli",
+		"scope": "maa",
+		"version": "1.1.3",
+		"description": "Save a lot of time by generating services, components, tests for Monkey Boilerplate projects",
+		"keywords": [
+			"cli",
+			"oclif",
+			"moleculer",
+			"react",
+			"monkey",
+			"svelte",
+			"scaffold",
+			"generate"
+		],
+		"date": "2020-01-21T09:33:19.143Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40maa%2Fmonkey-cli"
+		},
+		"publisher": {
+			"username": "zan",
+			"email": "anlasheng@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "zan",
+				"email": "anlasheng@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31031241758192607,
+		"detail": {
+			"quality": 0.907397073296747,
+			"popularity": 0.01909628987112834,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000022594313
+}

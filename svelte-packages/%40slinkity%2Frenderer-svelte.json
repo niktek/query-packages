@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@slinkity/renderer-svelte",
+		"scope": "slinkity",
+		"version": "1.0.0",
+		"description": "Svelte component renderer for the legendary 11ty tool, Slinkity",
+		"date": "2022-04-17T01:23:22.952Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40slinkity%2Frenderer-svelte"
+		},
+		"author": {
+			"name": "bholmesdev"
+		},
+		"publisher": {
+			"username": "bholmesdev",
+			"email": "bholmesdev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bholmesdev",
+				"email": "bholmesdev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2117000009121822,
+		"detail": {
+			"quality": 0.34885910079244453,
+			"popularity": 0.0032208989345281843,
+			"maintenance": 0.30261416013532566
+		}
+	},
+	"searchScore": 2.3487505e-8
+}

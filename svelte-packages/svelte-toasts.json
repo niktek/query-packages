@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-toasts",
+		"scope": "unscoped",
+		"version": "1.1.2",
+		"description": "A highly configurable notification/toast component with individual toast state management capabilities.",
+		"keywords": [
+			"svelte",
+			"svelte-toast",
+			"svelte-toasts",
+			"toasts",
+			"toastify",
+			"svelte-toast-store",
+			"svelte-bootstrap-toast",
+			"component",
+			"library"
+		],
+		"date": "2021-03-16T12:21:46.651Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-toasts",
+			"homepage": "https://mzohaibqc.github.io/svelte-toasts"
+		},
+		"author": {
+			"name": "Zohaib Ijaz @mzohaibqc"
+		},
+		"publisher": {
+			"username": "mzohaibqc",
+			"email": "mzohaib.qc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mzohaibqc",
+				"email": "mzohaib.qc@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23798530170489368,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.041850032322401656,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 2.7152902e-7
+}

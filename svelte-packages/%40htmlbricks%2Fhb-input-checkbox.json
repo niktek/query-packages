@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@htmlbricks/hb-input-checkbox",
+		"scope": "htmlbricks",
+		"version": "0.19.31",
+		"description": "Svelte-Bootstrap Checkbox Input WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2023-02-28T18:24:02.252Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fhb-input-checkbox"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2382567714536581,
+		"detail": {
+			"quality": 0.34566170191199597,
+			"popularity": 0.051118840609693336,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.297041e-7
+}

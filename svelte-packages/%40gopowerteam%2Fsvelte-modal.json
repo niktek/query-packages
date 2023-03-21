@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@gopowerteam/svelte-modal",
+		"scope": "gopowerteam",
+		"version": "0.1.7",
+		"description": "基于`Svelte 3`的`API`式弹窗组件",
+		"date": "2021-08-04T03:19:46.648Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40gopowerteam%2Fsvelte-modal",
+			"homepage": "https://github.com/gopowerteam/package.svelte-modal",
+			"repository": "https://github.com/gopowerteam/package.svelte-modal",
+			"bugs": "https://github.com/gopowerteam/package.svelte-modal/issues"
+		},
+		"author": {
+			"name": "zhuchentong",
+			"email": "2037630@gmail.com",
+			"username": "zhuchentong"
+		},
+		"publisher": {
+			"username": "zct1989",
+			"email": "2037630@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "zhuchentong",
+				"email": "2037630@gmail.com"
+			},
+			{
+				"username": "zct1989",
+				"email": "2037630@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24579621533725265,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.002192334293793494,
+			"maintenance": 0.3149590576623792
+		}
+	},
+	"searchScore": 1.8098869e-7
+}

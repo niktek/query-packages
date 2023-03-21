@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svweb3",
+		"scope": "unscoped",
+		"version": "0.0.8",
+		"description": "This is a simple project to provide utilities to work with the web3 environment and Svelte.",
+		"date": "2021-12-27T16:16:51.796Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svweb3"
+		},
+		"author": {
+			"name": "Matías Hernández Arellano",
+			"email": "hola@matiashernandez.dev",
+			"url": "https://matiashernandez.dev",
+			"username": "matiasfha"
+		},
+		"publisher": {
+			"username": "matiasfha",
+			"email": "hola@matiashernandez.dev"
+		},
+		"maintainers": [
+			{
+				"username": "matiasfha",
+				"email": "hola@matiashernandez.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20861712790342402,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0025352249249302335,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 3.7592827e-9
+}

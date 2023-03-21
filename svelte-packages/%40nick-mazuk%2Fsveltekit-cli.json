@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@nick-mazuk/sveltekit-cli",
+		"scope": "nick-mazuk",
+		"version": "1.2.3",
+		"description": "Blast through your Sveltekit development and stop writing all boilerplate code. Works best if starting with my [sveltekit-template](https://github.com/Nick-Mazuk/sveltekit-template).",
+		"date": "2021-06-08T00:04:02.743Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nick-mazuk%2Fsveltekit-cli"
+		},
+		"publisher": {
+			"username": "nick-m",
+			"email": "npm@nickmazuk.com"
+		},
+		"maintainers": [
+			{
+				"username": "nick-m",
+				"email": "npm@nickmazuk.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2656253938201708,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.003277407838648214,
+			"maintenance": 0.3145022494603246
+		}
+	},
+	"searchScore": 2.1454568e-7
+}

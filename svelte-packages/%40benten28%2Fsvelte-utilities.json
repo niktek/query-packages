@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@benten28/svelte-utilities",
+		"scope": "benten28",
+		"version": "0.2.1",
+		"description": "A collection of utilities for Svelte and SvelteKit.",
+		"date": "2022-04-09T22:44:48.897Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40benten28%2Fsvelte-utilities"
+		},
+		"author": {
+			"name": "Benton B.C.",
+			"url": "https://benten.ca"
+		},
+		"publisher": {
+			"username": "benten28",
+			"email": "ben@benten.ca"
+		},
+		"maintainers": [
+			{
+				"username": "benten28",
+				"email": "ben@benten.ca"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2336359490798573,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0017865519597952627,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 8.948745e-8
+}

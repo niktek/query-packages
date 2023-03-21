@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-autoselect",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "## Usage:",
+		"date": "2022-06-27T19:47:00.471Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-autoselect"
+		},
+		"author": {
+			"name": "NickRTR"
+		},
+		"publisher": {
+			"username": "nickrtrrtr",
+			"email": "nickrtrrtr@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nickrtrrtr",
+				"email": "nickrtrrtr@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19137708740860823,
+		"detail": {
+			"quality": 0.250467591409605,
+			"popularity": 0.0023864992238944067,
+			"maintenance": 0.3297186721638963
+		}
+	},
+	"searchScore": 5.561244e-9
+}

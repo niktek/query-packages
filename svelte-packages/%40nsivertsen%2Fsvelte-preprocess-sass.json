@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@nsivertsen/svelte-preprocess-sass",
+		"scope": "nsivertsen",
+		"version": "0.1.1",
+		"description": "Svelte preprocessor function for Sass",
+		"date": "2018-11-28T19:44:46.614Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nsivertsen%2Fsvelte-preprocess-sass"
+		},
+		"author": {
+			"name": "Nikolai Sivertsen",
+			"email": "nikolai.sivertsen@gmail.com",
+			"username": "nsivertsen"
+		},
+		"publisher": {
+			"username": "nsivertsen",
+			"email": "nikolai.sivertsen@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nsivertsen",
+				"email": "nikolai.sivertsen@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1696941578151902,
+		"detail": {
+			"quality": 0.4397711452609957,
+			"popularity": 0.018152057425384126,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.7141158e-9
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@beyowi/svelte-google-places-autocomplete",
+		"scope": "beyowi",
+		"version": "1.1.7",
+		"description": "A minimal port of the [Google Places Autocomplete API](https://developers.google.com/maps/documentation/javascript/places-autocomplete) as a Svelte component.",
+		"keywords": [
+			"svelte",
+			"places",
+			"autocomplete"
+		],
+		"date": "2022-09-23T17:57:00.104Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40beyowi%2Fsvelte-google-places-autocomplete",
+			"homepage": "https://github.com/beyowi/svelte-google-places-autocomplete#readme",
+			"repository": "https://github.com/beyowi/svelte-google-places-autocomplete",
+			"bugs": "https://github.com/beyowi/svelte-google-places-autocomplete/issues"
+		},
+		"publisher": {
+			"username": "cedricbyw",
+			"email": "cedric@beyowi.com"
+		},
+		"maintainers": [
+			{
+				"username": "cedricbyw",
+				"email": "cedric@beyowi.com"
+			},
+			{
+				"username": "pascalbyw",
+				"email": "support@beyowi.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27339621114626667,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.001919210755223953,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 8.119691e-7
+}

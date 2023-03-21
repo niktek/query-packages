@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-auto-clock",
+		"scope": "unscoped",
+		"version": "0.0.9",
+		"description": "A simple Analog and Digital Clock display with Date.  This was built with tailwindcss and may update it to standard css in the future.",
+		"date": "2022-03-25T21:35:34.137Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-auto-clock"
+		},
+		"publisher": {
+			"username": "leelaing",
+			"email": "lcharleslaing@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "leelaing",
+				"email": "lcharleslaing@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20303449777407345,
+		"detail": {
+			"quality": 0.28896411309638304,
+			"popularity": 0.0026963673936996175,
+			"maintenance": 0.3297186721638963
+		}
+	},
+	"searchScore": 1.1275727e-8
+}

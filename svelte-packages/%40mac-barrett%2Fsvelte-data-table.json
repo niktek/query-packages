@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@mac-barrett/svelte-data-table",
+		"scope": "mac-barrett",
+		"version": "0.1.1",
+		"description": "A simple Svelte Component that wraps around the DataTables API",
+		"keywords": [
+			"Svelte",
+			"SvelteKit",
+			"DataTables",
+			"datatables",
+			"tables"
+		],
+		"date": "2023-03-01T18:37:13.711Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mac-barrett%2Fsvelte-data-table",
+			"homepage": "https://github.com/Mac-Barrett/svelte-data-tables.git",
+			"bugs": "https://github.com/Mac-Barrett/svelte-data-tables/issues"
+		},
+		"author": {
+			"name": "Mac Barrett",
+			"email": "maccabee.barrett3@gmail.com",
+			"username": "mac-barrett"
+		},
+		"publisher": {
+			"username": "mac-barrett",
+			"email": "maccabee.barrett3@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mac-barrett",
+				"email": "maccabee.barrett3@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1884638774608234,
+		"detail": {
+			"quality": 0.23323956251455696,
+			"popularity": 0.0053074912940738045,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 5.02869e-9
+}

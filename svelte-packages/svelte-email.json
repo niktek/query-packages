@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-email",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "Build emails with Svelte",
+		"date": "2023-02-09T08:49:17.539Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-email"
+		},
+		"author": {
+			"name": "Carsten Lebek"
+		},
+		"publisher": {
+			"username": "carstenlebek",
+			"email": "carsten.lebek@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "carstenlebek",
+				"email": "carsten.lebek@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2255348002292875,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.010032861810690265,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.6374184e-8
+}

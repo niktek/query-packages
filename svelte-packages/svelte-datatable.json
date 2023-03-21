@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-datatable",
+		"scope": "unscoped",
+		"version": "2.0.1",
+		"description": "Datatable for Svelte with Materialize",
+		"keywords": [
+			"Svelte",
+			"Datatable",
+			"Materialize",
+			"Table Component"
+		],
+		"date": "2020-03-01T22:08:03.299Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-datatable"
+		},
+		"author": {
+			"name": "Kiho Chang"
+		},
+		"publisher": {
+			"username": "sjafferi",
+			"email": "sibtain462@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sjafferi",
+				"email": "sibtain462@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1869470241059074,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.007462940536478507,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.93389e-9
+}

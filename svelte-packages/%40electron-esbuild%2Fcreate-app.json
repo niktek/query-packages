@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@electron-esbuild/create-app",
+		"scope": "electron-esbuild",
+		"version": "4.0.1",
+		"description": "Create Electron esbuild powered apps with one command",
+		"keywords": [
+			"electron",
+			"react",
+			"esbuild",
+			"svelte",
+			"cli",
+			"create-app"
+		],
+		"date": "2023-01-14T10:05:44.955Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40electron-esbuild%2Fcreate-app",
+			"homepage": "https://github.com/Kiyozz/electron-esbuild#readme",
+			"repository": "https://github.com/Kiyozz/electron-esbuild",
+			"bugs": "https://github.com/Kiyozz/electron-esbuild/issues"
+		},
+		"author": {
+			"name": "Kiyozz"
+		},
+		"publisher": {
+			"username": "lyrod",
+			"email": "kevinturmel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lyrod",
+				"email": "kevinturmel@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30639348325161064,
+		"detail": {
+			"quality": 0.6081416904986702,
+			"popularity": 0.020936926265296935,
+			"maintenance": 0.3332087197404448
+		}
+	},
+	"searchScore": 0.0000016835954
+}

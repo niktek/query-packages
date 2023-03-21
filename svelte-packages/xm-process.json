@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "xm-process",
+		"scope": "unscoped",
+		"version": "0.0.65",
+		"description": "本项目用 svelte 编写，直接编译成操作原生 dom 的 js 语句，组件和动画也都是纯手写的，不依赖任何库和框架，可以运行在任何项目里,支持 theme。",
+		"date": "2021-10-28T13:36:06.627Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/xm-process"
+		},
+		"publisher": {
+			"username": "littleone",
+			"email": "87183780@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "littleone",
+				"email": "87183780@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21663160862452102,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.020912332419215963,
+			"maintenance": 0.32904204121621045
+		}
+	},
+	"searchScore": 5.45967e-9
+}

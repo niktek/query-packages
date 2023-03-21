@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-a11y-dialog",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Svelte component wrapping for a11y-dialog",
+		"keywords": [
+			"modal",
+			"dialog",
+			"accessibile dialog",
+			"accessibility",
+			"a11y",
+			"a11y-dialog",
+			"svelte",
+			"component"
+		],
+		"date": "2022-03-18T15:55:40.801Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-a11y-dialog"
+		},
+		"author": {
+			"name": "Rob Levin",
+			"url": "https://www.agnosticui.com"
+		},
+		"publisher": {
+			"username": "rlevin",
+			"email": "roblevinillustration@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rlevin",
+				"email": "roblevinillustration@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22888790650320273,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.031736216777119394,
+			"maintenance": 0.25051357763796994
+		}
+	},
+	"searchScore": 1.1546088e-7
+}

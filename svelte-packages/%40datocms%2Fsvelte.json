@@ -1,0 +1,63 @@
+{
+	"package": {
+		"name": "@datocms/svelte",
+		"scope": "datocms",
+		"version": "1.0.1",
+		"description": "A set of components and utilities to work faster with DatoCMS in Svelte",
+		"keywords": [
+			"svelte",
+			"datocms"
+		],
+		"date": "2023-03-20T16:33:04.644Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40datocms%2Fsvelte",
+			"homepage": "https://github.com/datocms/datocms-svelte",
+			"repository": "https://github.com/datocms/datocms-svelte",
+			"bugs": "https://github.com/datocms/datocms-svelte/issues"
+		},
+		"author": {
+			"name": "Silvano Stralla",
+			"email": "silvano@datocms.com",
+			"username": "sistrall_"
+		},
+		"publisher": {
+			"username": "sistrall_",
+			"email": "silvano@datocms.com"
+		},
+		"maintainers": [
+			{
+				"username": "sistrall_",
+				"email": "silvano@datocms.com"
+			},
+			{
+				"username": "marcelofinamorvieira",
+				"email": "marcelofinamorvieira@gmail.com"
+			},
+			{
+				"username": "stefanoverna",
+				"email": "s.verna@datocms.com"
+			},
+			{
+				"username": "delphaber",
+				"email": "monti.fabrizio@gmail.com"
+			},
+			{
+				"username": "mat_jack1",
+				"email": "m.giaccone@datocms.com"
+			},
+			{
+				"username": "souljuse",
+				"email": "i.oppo@datocms.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3623871999248229,
+		"detail": {
+			"quality": 0.8126730793631625,
+			"popularity": 0.005481741283450009,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00005155386
+}

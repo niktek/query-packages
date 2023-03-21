@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-pagination",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Svelte raw component for pagination",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"svelte-components",
+			"svelte-paginate",
+			"pagination",
+			"svelte-pagination",
+			"sveltejs"
+		],
+		"date": "2020-09-13T14:57:15.819Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-pagination"
+		},
+		"author": {
+			"name": "thecodejack"
+		},
+		"publisher": {
+			"username": "thecodejack",
+			"email": "aadisrikanth@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thecodejack",
+				"email": "aadisrikanth@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18588407049141387,
+		"detail": {
+			"quality": 0.5091677549204802,
+			"popularity": 0.004926142506465133,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.568873e-9
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-preprocess-css-global",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "A Svelte preprocessor to create global prefixed css and postcss styles.",
+		"keywords": [
+			"svelte",
+			"preprocess",
+			"css",
+			"postccs"
+		],
+		"date": "2019-05-12T20:39:25.326Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-preprocess-css-global"
+		},
+		"author": {
+			"name": "Andreas Heissenberger",
+			"email": "andreas@heissenberger.at",
+			"username": "aheissenberger"
+		},
+		"publisher": {
+			"username": "aheissenberger",
+			"email": "andreas@heissenberger.at"
+		},
+		"maintainers": [
+			{
+				"username": "aheissenberger",
+				"email": "andreas@heissenberger.at"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24318129752867867,
+		"detail": {
+			"quality": 0.7030825645338892,
+			"popularity": 0.002419811515728193,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.2823671e-7
+}

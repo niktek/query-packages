@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-confetti",
+		"scope": "unscoped",
+		"version": "1.2.2",
+		"description": "Confetti in Svelte! Celebrate things with some extra flair. Animates using just HTML and CSS meaning it can work with SSR in SvelteKit!",
+		"keywords": [
+			"svelte",
+			"confetti"
+		],
+		"date": "2022-11-12T13:16:33.210Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-confetti",
+			"homepage": "https://mitcheljager.github.io/svelte-confetti/",
+			"repository": "https://github.com/Mitcheljager/svelte-confetti",
+			"bugs": "https://github.com/Mitcheljager/svelte-confetti/issues"
+		},
+		"author": {
+			"name": "mitcheljager",
+			"email": "mitchel_jager@hotmail.com",
+			"username": "mitcheljager"
+		},
+		"publisher": {
+			"username": "mitcheljager",
+			"email": "mitchel_jager@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mitcheljager",
+				"email": "mitchel_jager@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.311761730131794,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.02656145854691488,
+			"maintenance": 0.3330831618846197
+		}
+	},
+	"searchScore": 0.000007543235
+}

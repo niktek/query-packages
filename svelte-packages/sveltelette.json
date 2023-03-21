@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "sveltelette",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "CLI tool for simplifying development of small Svelte apps",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2023-02-01T15:08:35.273Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltelette"
+		},
+		"author": {
+			"name": "William Croteau"
+		},
+		"publisher": {
+			"username": "willcro",
+			"email": "npm@willcro.com"
+		},
+		"maintainers": [
+			{
+				"username": "willcro",
+				"email": "npm@willcro.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2402231874664617,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0066041319244949945,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.33839e-7
+}

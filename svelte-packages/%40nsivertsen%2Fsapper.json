@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@nsivertsen/sapper",
+		"scope": "nsivertsen",
+		"version": "0.24.3",
+		"description": "Military-grade apps, engineered by Svelte",
+		"keywords": [
+			"svelte",
+			"isomorphic",
+			"universal",
+			"template",
+			"express"
+		],
+		"date": "2019-01-29T08:50:05.096Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nsivertsen%2Fsapper",
+			"homepage": "https://github.com/sveltejs/sapper#readme",
+			"repository": "https://github.com/sveltejs/sapper",
+			"bugs": "https://github.com/sveltejs/sapper/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "nsivertsen",
+			"email": "nikolai.sivertsen@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nsivertsen",
+				"email": "nikolai.sivertsen@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23696375572660783,
+		"detail": {
+			"quality": 0.6635908777876904,
+			"popularity": 0.018505423577981808,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.911764e-8
+}

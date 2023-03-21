@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@wccg/svelte-components",
+		"scope": "wccg",
+		"version": "0.1.9",
+		"description": "Reusable Svelte components for WCCG",
+		"date": "2022-01-18T10:24:02.447Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40wccg%2Fsvelte-components"
+		},
+		"publisher": {
+			"username": "sajuthankappan",
+			"email": "sajuthankappan@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sajuthankappan",
+				"email": "sajuthankappan@gmail.com"
+			},
+			{
+				"username": "ashokyak",
+				"email": "kumarashok092@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19835106428174057,
+		"detail": {
+			"quality": 0.3317215263717297,
+			"popularity": 0.023983014969817074,
+			"maintenance": 0.25840157465938773
+		}
+	},
+	"searchScore": 1.3133667e-8
+}

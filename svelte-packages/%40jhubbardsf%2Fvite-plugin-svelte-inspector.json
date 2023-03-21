@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@jhubbardsf/vite-plugin-svelte-inspector",
+		"scope": "jhubbardsf",
+		"version": "0.2.8",
+		"description": "![logo](https://github.com/tanhauhau/vite-plugin-svelte-inspector/blob/master/src/logo.png?raw=true)",
+		"date": "2022-08-30T17:00:20.616Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40jhubbardsf%2Fvite-plugin-svelte-inspector"
+		},
+		"publisher": {
+			"username": "jhubbardsf",
+			"email": "josh@joshuahubbard.dev"
+		},
+		"maintainers": [
+			{
+				"username": "jhubbardsf",
+				"email": "josh@joshuahubbard.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24528164567402222,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.01900269626593881,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 1.6920673e-7
+}

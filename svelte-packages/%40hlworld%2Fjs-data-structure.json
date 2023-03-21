@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@hlworld/js-data-structure",
+		"scope": "hlworld",
+		"version": "1.2.0",
+		"description": "provide svelte component",
+		"keywords": [
+			"core-graphic",
+			"point",
+			"size",
+			"frame"
+		],
+		"date": "2021-08-11T09:43:30.269Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40hlworld%2Fjs-data-structure",
+			"homepage": "https://github.com/presscommandz/js-data-structure#readme",
+			"repository": "https://github.com/presscommandz/js-data-structure",
+			"bugs": "https://github.com/presscommandz/js-data-structure/issues"
+		},
+		"author": {
+			"name": "PressCommandZ"
+		},
+		"publisher": {
+			"username": "thanhbinh01234",
+			"email": "thanhbinh01234@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thanhbinh01234",
+				"email": "thanhbinh01234@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21934369377776936,
+		"detail": {
+			"quality": 0.4938361439986762,
+			"popularity": 0.018565218865749824,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 1.4426932e-8
+}

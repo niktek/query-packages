@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-steps-wizard",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Step wizard component for Svelte",
+		"keywords": [
+			"svelte",
+			"wizard"
+		],
+		"date": "2023-01-27T23:35:57.142Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-steps-wizard",
+			"homepage": "https://github.com/JeanChuquispuma/svelte-step-wizard#readme",
+			"repository": "https://github.com/JeanChuquispuma/svelte-step-wizard",
+			"bugs": "https://github.com/JeanChuquispuma/svelte-step-wizard/issues"
+		},
+		"author": {
+			"name": "Jean Chuquispuma"
+		},
+		"publisher": {
+			"username": "chuquis",
+			"email": "chuquis432@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "chuquis",
+				"email": "chuquis432@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23934983128881956,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.004201056883049299,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 1.5975995e-7
+}

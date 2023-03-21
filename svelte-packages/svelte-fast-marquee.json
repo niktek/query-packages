@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-fast-marquee",
+		"scope": "unscoped",
+		"version": "0.4.1",
+		"description": "A Marquee component for Svelte inspired by react-fast-marquee.",
+		"keywords": [
+			"svelte",
+			"marquee",
+			"svelte-component",
+			"component",
+			"fast-marquee"
+		],
+		"date": "2021-07-25T14:14:22.348Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-fast-marquee"
+		},
+		"author": {
+			"name": "Alex Bosch",
+			"email": "abosch19@gmail.com",
+			"url": "https://github.com/abosch19",
+			"username": "abosch19"
+		},
+		"publisher": {
+			"username": "abosch19",
+			"email": "abosch19@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "abosch19",
+				"email": "abosch19@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22005782857403183,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.015751301964302494,
+			"maintenance": 0.25051357763796994
+		}
+	},
+	"searchScore": 6.109241e-8
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-select",
+		"scope": "unscoped",
+		"version": "5.5.2",
+		"description": "A <Select> component for Svelte apps",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2023-03-08T21:18:01.220Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-select",
+			"homepage": "https://github.com/rob-balfre/svelte-select#readme",
+			"repository": "https://github.com/rob-balfre/svelte-select",
+			"bugs": "https://github.com/rob-balfre/svelte-select/issues"
+		},
+		"author": {
+			"name": "Robert Balfré",
+			"email": "rob.balfre@gmail.com",
+			"url": "https://github.com/rob-balfre",
+			"username": "rob-balfre"
+		},
+		"publisher": {
+			"username": "rob-balfre",
+			"email": "rob.balfre@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rob-balfre",
+				"email": "rob.balfre@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31272285170036823,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0977009352713267,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000013867919
+}

@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-onsenui",
+		"scope": "unscoped",
+		"version": "0.1.14",
+		"description": "Svelte component bindings for Onsen UI",
+		"keywords": [
+			"svelte",
+			"mobile",
+			"onsenui",
+			"ui"
+		],
+		"date": "2021-10-16T14:06:48.943Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-onsenui"
+		},
+		"author": {
+			"name": "David Mortell",
+			"email": "dmortell@yahoo.com"
+		},
+		"publisher": {
+			"username": "dmortell",
+			"email": "dmortell@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dmortell",
+				"email": "dmortell@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21398461235517557,
+		"detail": {
+			"quality": 0.4397711452609957,
+			"popularity": 0.002179119251619947,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 3.971261e-8
+}

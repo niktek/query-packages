@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "wp-headless",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Tools for headless WordPress.",
+		"keywords": [
+			"svelte",
+			"wordpress",
+			"headless"
+		],
+		"date": "2022-06-01T02:44:50.888Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/wp-headless",
+			"homepage": "https://github.com/RevNelson/svelte-wp-headless#readme",
+			"repository": "https://github.com/RevNelson/svelte-wp-headless",
+			"bugs": "https://github.com/RevNelson/svelte-wp-headless/issues"
+		},
+		"author": {
+			"name": "Michael Nelson"
+		},
+		"publisher": {
+			"username": "revnelson",
+			"email": "revnelson@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "revnelson",
+				"email": "revnelson@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21361758452343588,
+		"detail": {
+			"quality": 0.4397711452609957,
+			"popularity": 0.001130468303792204,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.3654921e-8
+}

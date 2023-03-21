@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "huggingface-widgets",
+		"scope": "unscoped",
+		"version": "0.15.0",
+		"description": "<h1 align=\"center\">huggingface-widgets</h1>",
+		"keywords": [
+			"hugging face",
+			"machine learning inference",
+			"svelte"
+		],
+		"date": "2021-09-09T08:45:53.317Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/huggingface-widgets",
+			"homepage": "https://github.com/huggingface/huggingface_hub#readme",
+			"repository": "https://github.com/huggingface/huggingface_hub",
+			"bugs": "https://github.com/huggingface/huggingface_hub/issues"
+		},
+		"publisher": {
+			"username": "mishig",
+			"email": "dmishig@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mishig",
+				"email": "dmishig@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24664881298489139,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0025149676818215115,
+			"maintenance": 0.3304802738238068
+		}
+	},
+	"searchScore": 7.565895e-8
+}

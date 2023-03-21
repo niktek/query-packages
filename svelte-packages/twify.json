@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "twify",
+		"scope": "unscoped",
+		"version": "0.5.0",
+		"description": "A Tool to Setup TailwindCSS in your Project with a Single Command",
+		"keywords": [
+			"tailwindcss",
+			"tailwind",
+			"nuxt tailwind",
+			"nextjs tailwind",
+			"remix tailwind",
+			"svelte tailwind"
+		],
+		"date": "2023-01-23T08:22:41.661Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/twify",
+			"homepage": "https://github.com/tzsk/twify#readme",
+			"repository": "https://github.com/tzsk/twify",
+			"bugs": "https://github.com/tzsk/twify/issues"
+		},
+		"author": {
+			"name": "Kazi Ahmed",
+			"email": "mailtokmahmed@gmail.com",
+			"url": "https://github.com/tzsk",
+			"username": "tzsk"
+		},
+		"publisher": {
+			"username": "tzsk",
+			"email": "mailtokmahmed@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tzsk",
+				"email": "mailtokmahmed@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24558789145194065,
+		"detail": {
+			"quality": 0.4244496140979511,
+			"popularity": 0.004532402307891349,
+			"maintenance": 0.33333333261369535
+		}
+	},
+	"searchScore": 6.016157e-8
+}

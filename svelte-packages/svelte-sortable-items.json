@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "svelte-sortable-items",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "svelte-sortable-items is a svelte/sveltekit package to create sortable drag-and-drop items. This package allows you to relate a javascript array to sortable HTML elements.",
+		"keywords": [
+			"drag-and-drop",
+			"reorder",
+			"reordering",
+			"sortable-lists",
+			"sortable-table",
+			"table-sorting",
+			"svelte",
+			"sveltekit"
+		],
+		"date": "2023-02-25T18:17:11.654Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-sortable-items",
+			"homepage": "https://github.com/joaquimnetocel/svelte-sortable-items#readme",
+			"repository": "https://github.com/joaquimnetocel/svelte-sortable-items",
+			"bugs": "https://github.com/joaquimnetocel/svelte-sortable-items/issues"
+		},
+		"author": {
+			"name": "Joaquim Neto",
+			"email": "joaquim.neto.cel@gmail.com",
+			"username": "joaquim.neto.cel"
+		},
+		"publisher": {
+			"username": "joaquim.neto.cel",
+			"email": "joaquim.neto.cel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "joaquim.neto.cel",
+				"email": "joaquim.neto.cel@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25366320444274176,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.006295170352808231,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.2863974e-7
+}

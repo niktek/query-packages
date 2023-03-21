@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "forval",
+		"scope": "unscoped",
+		"version": "6.11.3",
+		"description": "A swagger client generator for typescript",
+		"keywords": [
+			"rest",
+			"client",
+			"swagger",
+			"open-api",
+			"fetch",
+			"data fetching",
+			"code-generation",
+			"angular",
+			"react",
+			"react-query",
+			"svelte",
+			"svelte-query",
+			"vue",
+			"vue-query",
+			"msw",
+			"mock",
+			"axios",
+			"vue-query",
+			"vue",
+			"swr"
+		],
+		"date": "2022-06-21T19:26:19.764Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/forval",
+			"homepage": "https://github.com/botika/forval#readme",
+			"repository": "https://github.com/botika/forval",
+			"bugs": "https://github.com/botika/forval/issues"
+		},
+		"publisher": {
+			"username": "botikass",
+			"email": "mhpoin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "botikass",
+				"email": "mhpoin@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3665944331597913,
+		"detail": {
+			"quality": 0.8089504953032751,
+			"popularity": 0.021670798500677654,
+			"maintenance": 0.3323557288387759
+		}
+	},
+	"searchScore": 0.000016144817
+}

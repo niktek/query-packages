@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-cryptocurrency-icons",
+		"scope": "unscoped",
+		"version": "0.3.1",
+		"description": "Crypto currency SVG icon components for Svelte",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"crypto currency icons",
+			"svg icons",
+			"icons"
+		],
+		"date": "2023-03-07T01:28:29.965Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-cryptocurrency-icons",
+			"homepage": "https://svelte-cryptocurrency-icons.codewithshin.com",
+			"repository": "https://github.com/shinokada/svelte-cryptocurrency-icons",
+			"bugs": "https://github.com/shinokada/svelte-cryptocurrency-icons/issues"
+		},
+		"author": {
+			"name": "Shinichi Okada",
+			"email": "connect@codewithshin.com",
+			"url": "https://blog.codewithshin.com"
+		},
+		"publisher": {
+			"username": "shinichiokada",
+			"email": "okada.shin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shinichiokada",
+				"email": "okada.shin@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28308151362738276,
+		"detail": {
+			"quality": 0.5486021661567133,
+			"popularity": 0.005240563182006044,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000015483516
+}

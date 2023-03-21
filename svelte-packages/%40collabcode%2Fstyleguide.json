@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@collabcode/styleguide",
+		"scope": "collabcode",
+		"version": "0.0.17",
+		"description": "CollabCode's styleguide",
+		"keywords": [
+			"styleguide",
+			"css",
+			"svelte"
+		],
+		"date": "2020-01-21T22:22:16.144Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40collabcode%2Fstyleguide",
+			"homepage": "https://github.com/CollabCodeTech/styleguide#readme",
+			"repository": "https://github.com/CollabCodeTech/styleguide",
+			"bugs": "https://github.com/CollabCodeTech/styleguide/issues"
+		},
+		"author": {
+			"name": "CollabCode"
+		},
+		"publisher": {
+			"username": "marcobrunobr",
+			"email": "marco.bruno.br@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "joviane",
+				"email": "joviane@gmail.com"
+			},
+			{
+				"username": "marcobrunobr",
+				"email": "marco.bruno.br@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24910468745049297,
+		"detail": {
+			"quality": 0.7030733193493743,
+			"popularity": 0.019344064129234687,
+			"maintenance": 0.0897493405727101
+		}
+	},
+	"searchScore": 1.5622247e-7
+}

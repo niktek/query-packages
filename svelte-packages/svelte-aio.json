@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-aio",
+		"scope": "unscoped",
+		"version": "0.1.2",
+		"description": "[![NPM](https://img.shields.io/npm/v/svelte-aio)](https://www.npmjs.com/package/svelte-aio)",
+		"date": "2022-12-28T10:37:15.968Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-aio",
+			"homepage": "https://github.com/rayriffy/svelte-aio#readme",
+			"repository": "https://github.com/rayriffy/svelte-aio",
+			"bugs": "https://github.com/rayriffy/svelte-aio/issues"
+		},
+		"author": {
+			"name": "Phumrapee Limpiancop",
+			"email": "contact@rayriffy.com",
+			"url": "https://rayriffy.com",
+			"username": "rayriffy"
+		},
+		"publisher": {
+			"username": "rayriffy",
+			"email": "contact@rayriffy.com"
+		},
+		"maintainers": [
+			{
+				"username": "rayriffy",
+				"email": "contact@rayriffy.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24916106792007162,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.006932007738913297,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 2.5864665e-7
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@lagunovsky/svelte-svg-pre-loader",
+		"scope": "lagunovsky",
+		"version": "1.1.0",
+		"description": "Prepares SVG for loading with a svelte-loader",
+		"keywords": [
+			"loader",
+			"svelte",
+			"svelte-svg-loader",
+			"svelte-svg-pre-loader",
+			"svg",
+			"webpack",
+			"webpack-loader"
+		],
+		"date": "2021-12-26T11:25:22.703Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40lagunovsky%2Fsvelte-svg-pre-loader",
+			"homepage": "https://github.com/lagunovsky/svelte-svg-pre-loader#readme",
+			"repository": "https://github.com/lagunovsky/svelte-svg-pre-loader",
+			"bugs": "https://github.com/lagunovsky/svelte-svg-pre-loader/issues"
+		},
+		"publisher": {
+			"username": "lagunovsky",
+			"email": "ivan.lagunovsky@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lagunovsky",
+				"email": "ivan.lagunovsky@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20989138850990774,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.022627549618088515,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 3.603326e-8
+}

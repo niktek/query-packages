@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-free-transform",
+		"scope": "unscoped",
+		"version": "1.1.6",
+		"description": "A freely user-transformable container component for Svelte.",
+		"keywords": [
+			"svelte",
+			"drag",
+			"resize",
+			"rotate"
+		],
+		"date": "2021-08-04T18:58:28.335Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-free-transform"
+		},
+		"author": {
+			"name": "mononaut"
+		},
+		"publisher": {
+			"username": "mononaut",
+			"email": "npm@monospace.live"
+		},
+		"maintainers": [
+			{
+				"username": "mononaut",
+				"email": "npm@monospace.live"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23503112390690872,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.002328988822759875,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.3100843e-7
+}

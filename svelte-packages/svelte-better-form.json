@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-better-form",
+		"scope": "unscoped",
+		"version": "1.0.8",
+		"description": "A form management library for Svelte that is very lightweight and simple!",
+		"keywords": [
+			"svelte",
+			"state",
+			"management"
+		],
+		"date": "2022-01-01T11:06:32.927Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-better-form"
+		},
+		"author": {
+			"name": "ragokan"
+		},
+		"publisher": {
+			"username": "rago",
+			"email": "okanyldrmop@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rago",
+				"email": "okanyldrmop@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24194553279335984,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.02208444278404879,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 2.3613376e-7
+}

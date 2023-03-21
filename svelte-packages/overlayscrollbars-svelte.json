@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "overlayscrollbars-svelte",
+		"scope": "unscoped",
+		"version": "0.4.0",
+		"description": "OverlayScrollbars for Svelte.",
+		"keywords": [
+			"overlayscrollbars",
+			"svelte",
+			"component",
+			"styleable",
+			"scrollbar",
+			"scrollbars",
+			"scroll"
+		],
+		"date": "2022-11-12T11:41:13.903Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/overlayscrollbars-svelte",
+			"homepage": "https://kingsora.github.io/OverlayScrollbars",
+			"repository": "https://github.com/KingSora/OverlayScrollbars",
+			"bugs": "https://github.com/KingSora/OverlayScrollbars/issues"
+		},
+		"author": {
+			"name": "Rene Haas | KingSora"
+		},
+		"publisher": {
+			"username": "kingsora",
+			"email": "king-sora@hotmail.de"
+		},
+		"maintainers": [
+			{
+				"username": "kingsora",
+				"email": "king-sora@hotmail.de"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2818463246336055,
+		"detail": {
+			"quality": 0.5227169650975687,
+			"popularity": 0.025325854597400194,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 0.0000018965711
+}

@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "coc-svelte",
+		"scope": "unscoped",
+		"version": "0.4.2",
+		"description": "Svelte language support for coc.nim",
+		"keywords": [
+			"svelte",
+			"coc.nvim"
+		],
+		"date": "2022-03-14T03:03:22.896Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/coc-svelte",
+			"homepage": "https://github.com/coc-extensions/coc-svelte#readme",
+			"repository": "https://github.com/coc-extensions/coc-svelte",
+			"bugs": "https://github.com/coc-extensions/coc-svelte/issues"
+		},
+		"author": {
+			"name": "iamcco",
+			"email": "ooiss@qq.com",
+			"username": "yuuko"
+		},
+		"publisher": {
+			"username": "yuuko",
+			"email": "ooiss@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "yuuko",
+				"email": "ooiss@qq.com"
+			},
+			{
+				"username": "davidroeca",
+				"email": "david.roeca@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19860190595790284,
+		"detail": {
+			"quality": 0.3530825645338893,
+			"popularity": 0.022975034110006214,
+			"maintenance": 0.24181678474066817
+		}
+	},
+	"searchScore": 1.8730772e-8
+}

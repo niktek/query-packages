@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@devlego/bbui",
+		"scope": "devlego",
+		"version": "1.1.34",
+		"description": "A UI solution used in the different Budibase projects.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-08-09T02:11:33.435Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40devlego%2Fbbui"
+		},
+		"publisher": {
+			"username": "lisipeng",
+			"email": "leesipeng@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lisipeng",
+				"email": "leesipeng@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2560696125327264,
+		"detail": {
+			"quality": 0.4412719742964627,
+			"popularity": 0.026362893464148184,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 2.1864943e-7
+}

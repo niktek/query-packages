@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@aknakos/sveltekit-danfojs-table",
+		"scope": "aknakos",
+		"version": "0.0.1",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"danfojs",
+			"table"
+		],
+		"date": "2022-06-27T21:13:52.218Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40aknakos%2Fsveltekit-danfojs-table",
+			"homepage": "https://github.com/aknakos/sveltekit-danfojs-table#readme",
+			"repository": "https://github.com/aknakos/sveltekit-danfojs-table",
+			"bugs": "https://github.com/aknakos/sveltekit-danfojs-table/issues"
+		},
+		"publisher": {
+			"username": "aknakos",
+			"email": "leomilho@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "aknakos",
+				"email": "leomilho@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17557695896532144,
+		"detail": {
+			"quality": 0.31214430752912636,
+			"popularity": 0.0018373990507818032,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.3929987e-9
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-fontpreview",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "## Developing",
+		"date": "2022-10-18T11:04:57.143Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-fontpreview"
+		},
+		"publisher": {
+			"username": "akufadhl",
+			"email": "punyafadhl@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "akufadhl",
+				"email": "punyafadhl@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.222434887597639,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0015277809179988784,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 4.428354e-8
+}

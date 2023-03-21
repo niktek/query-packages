@@ -1,0 +1,69 @@
+{
+	"package": {
+		"name": "@egjs/svelte-axes",
+		"scope": "egjs",
+		"version": "3.2.4",
+		"description": "A module used to change the information of user action entered by various input devices such as touch screen or mouse into the logical virtual coordinates. You can easily create a UI that responds to user actions.",
+		"date": "2023-01-12T10:09:55.521Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40egjs%2Fsvelte-axes",
+			"homepage": "https://github.com/naver/egjs-axes",
+			"repository": "https://github.com/naver/egjs-axes",
+			"bugs": "https://github.com/naver/egjs-axes/issues"
+		},
+		"author": {
+			"name": "NAVER Corp."
+		},
+		"publisher": {
+			"username": "braixen",
+			"email": "malangfox@naver.com"
+		},
+		"maintainers": [
+			{
+				"username": "braixen",
+				"email": "malangfox@naver.com"
+			},
+			{
+				"username": "ajaxpf",
+				"email": "ajaxpf@gmail.com"
+			},
+			{
+				"username": "jongmoon",
+				"email": "jongmoon.yoon@navercorp.com"
+			},
+			{
+				"username": "sculove",
+				"email": "sculove@gmail.com"
+			},
+			{
+				"username": "happyhj",
+				"email": "heejae.kim@navercorp.com"
+			},
+			{
+				"username": "mixed",
+				"email": "i.nevalose@gmail.com"
+			},
+			{
+				"username": "netil",
+				"email": "alberto.park@gmail.com"
+			},
+			{
+				"username": "younkue",
+				"email": "daybrush@gmail.com"
+			},
+			{
+				"username": "woodneck",
+				"email": "saiyu915@naver.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.296648084159221,
+		"detail": {
+			"quality": 0.5954431028717606,
+			"popularity": 0.003868036144079901,
+			"maintenance": 0.3333181161350424
+		}
+	},
+	"searchScore": 0.0000021394872
+}

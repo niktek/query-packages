@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@prioritymaster/date-picker-svelte",
+		"scope": "prioritymaster",
+		"version": "1.0.2",
+		"description": "Date and time picker for Svelte - Modified for use by Priority Beast",
+		"keywords": [
+			"date",
+			"time",
+			"date-picker",
+			"datepicker",
+			"date-time-picker",
+			"calendar",
+			"svelte",
+			"front-end"
+		],
+		"date": "2022-05-28T23:00:23.367Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40prioritymaster%2Fdate-picker-svelte",
+			"homepage": "https://date-picker-svelte.kasper.space",
+			"repository": "https://github.com/probablykasper/date-picker-svelte",
+			"bugs": "https://github.com/probablykasper/date-picker-svelte/issues"
+		},
+		"author": {
+			"name": "Kasper Henningsen",
+			"url": "https://kasper.space"
+		},
+		"publisher": {
+			"username": "prioritymaster",
+			"email": "prioritybeast.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "prioritymaster",
+				"email": "prioritybeast.dev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2959577152771232,
+		"detail": {
+			"quality": 0.6395190192584685,
+			"popularity": 0.0014782372015374357,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 0.0000025010456
+}

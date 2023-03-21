@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@brewer/beerui",
+		"scope": "brewer",
+		"version": "1.1.8",
+		"description": "A Svelte Ui Components",
+		"keywords": [
+			"svelte",
+			"beerui",
+			"components",
+			"UI",
+			"framework",
+			"templates"
+		],
+		"date": "2022-12-23T07:53:20.503Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40brewer%2Fbeerui",
+			"homepage": "https://github.com/beerui/BeerUi",
+			"repository": "https://github.com/beerui/BeerUi",
+			"bugs": "https://github.com/beerui/BeerUi/issues"
+		},
+		"author": {
+			"name": "beerui"
+		},
+		"publisher": {
+			"username": "beer-ui",
+			"email": "motou2021@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "beerer",
+				"email": "beerui2021@gmail.com"
+			},
+			{
+				"username": "beer-ui",
+				"email": "motou2021@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31054822637212776,
+		"detail": {
+			"quality": 0.6134882399665573,
+			"popularity": 0.028100250615696945,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000029499615
+}

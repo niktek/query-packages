@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@abineo/svelte-forms",
+		"scope": "abineo",
+		"version": "3.0.0",
+		"description": "Well tested form validation for svelte & sveltekit (js/ts)",
+		"keywords": [
+			"form",
+			"validation",
+			"svelte",
+			"sveltekit"
+		],
+		"date": "2023-03-03T16:43:52.460Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40abineo%2Fsvelte-forms",
+			"homepage": "https://github.com/abineo-ag/svelte-forms#readme",
+			"repository": "https://github.com/abineo-ag/svelte-forms",
+			"bugs": "https://github.com/abineo-ag/svelte-forms/issues"
+		},
+		"publisher": {
+			"username": "christoph-jeanluc-schneider",
+			"email": "christoph.schneider@abineo.com"
+		},
+		"maintainers": [
+			{
+				"username": "christoph-jeanluc-schneider",
+				"email": "christoph.schneider@abineo.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2758705531096198,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.007561671589313175,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000011368229
+}

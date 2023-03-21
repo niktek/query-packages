@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@boringer-avatars/svelte",
+		"scope": "boringer-avatars",
+		"version": "0.2.1",
+		"description": "Procedurally generate Avatars for your applications. Use these avatars as placeholders until your users upload their own images. Several variants and styles to choose from.",
+		"date": "2023-02-22T02:54:27.316Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40boringer-avatars%2Fsvelte"
+		},
+		"publisher": {
+			"username": "cmgriffing",
+			"email": "cmgriffing@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cmgriffing",
+				"email": "cmgriffing@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24027090241204457,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.006740460340445955,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.2044474e-7
+}

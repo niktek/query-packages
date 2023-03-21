@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "sveltekit-zero-api",
+		"scope": "unscoped",
+		"version": "0.12.1",
+		"description": "Provides type-safety between front- and backend of your SvelteKit project",
+		"keywords": [
+			"sveltekit",
+			"api",
+			"endpoint",
+			"typesafety",
+			"typescript"
+		],
+		"date": "2023-02-11T23:55:32.240Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-zero-api",
+			"homepage": "https://github.com/Refzlund/sveltekit-zero-api",
+			"repository": "https://github.com/refzlund/sveltekit-zero-api",
+			"bugs": "https://github.com/Refzlund/sveltekit-zero-api/issues"
+		},
+		"publisher": {
+			"username": "refzlund",
+			"email": "arthur@refzlund.com"
+		},
+		"maintainers": [
+			{
+				"username": "refzlund",
+				"email": "arthur@refzlund.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23970950373341327,
+		"detail": {
+			"quality": 0.4001092787167645,
+			"popularity": 0.00860015271919222,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.0100974e-8
+}

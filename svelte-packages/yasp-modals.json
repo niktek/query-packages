@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "yasp-modals",
+		"scope": "unscoped",
+		"version": "1.0.7",
+		"description": "Yet Another Svelte Package: Modals",
+		"keywords": [
+			"svelte",
+			"component",
+			"template"
+		],
+		"date": "2021-06-25T07:56:57.895Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/yasp-modals"
+		},
+		"publisher": {
+			"username": "dievardump",
+			"email": "dievardump@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dievardump",
+				"email": "dievardump@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3065695485348491,
+		"detail": {
+			"quality": 0.8370463163085748,
+			"popularity": 0.0026508662911773418,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 0.0000026426178
+}

@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-copy-db",
+		"scope": "unscoped",
+		"version": "1.3.1",
+		"description": "Ever wanted to copy something to clipboard? Say hello to Svelte Copy ✨",
+		"date": "2023-03-20T04:56:42.452Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-copy-db",
+			"homepage": "https://github.com/ghostdevv/svelte-copy#readme",
+			"repository": "https://github.com/ghostdevv/svelte-copy",
+			"bugs": "https://github.com/ghostdevv/svelte-copy/issues"
+		},
+		"author": {
+			"name": "GHOST",
+			"email": "ghostdevbusiness@gmail.com",
+			"url": "https://ghostdev.xyz"
+		},
+		"publisher": {
+			"username": "cosmocraig",
+			"email": "craigcosmo@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cosmocraig",
+				"email": "craigcosmo@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2700943422550122,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.001435070880607717,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.5728835e-7
+}

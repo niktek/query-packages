@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@aredridel/svelte-lens-store",
+		"scope": "aredridel",
+		"version": "1.0.0",
+		"description": "Functional lenses over svelte stores",
+		"keywords": [
+			"svelte",
+			"store",
+			"functional",
+			"lens"
+		],
+		"date": "2022-05-15T21:35:43.809Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40aredridel%2Fsvelte-lens-store",
+			"bugs": "https://github.com/aredridel/svelte-lens-store/issues"
+		},
+		"author": {
+			"name": "Aria Stewart",
+			"email": "aredridel@dinhe.net",
+			"username": "aredridel"
+		},
+		"publisher": {
+			"username": "aredridel",
+			"email": "aredridel@dinhe.net"
+		},
+		"maintainers": [
+			{
+				"username": "aredridel",
+				"email": "aredridel@dinhe.net"
+			}
+		]
+	},
+	"score": {
+		"final": 0.348808417211672,
+		"detail": {
+			"quality": 0.8895361922957907,
+			"popularity": 0.0018770928117855673,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 0.0000272677
+}

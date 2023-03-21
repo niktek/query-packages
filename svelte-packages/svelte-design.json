@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-design",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "A UI library based on Svelte",
+		"keywords": [
+			"svelte",
+			"svelted",
+			"svelte-design",
+			"library",
+			"ui",
+			"typescript"
+		],
+		"date": "2022-12-01T10:54:24.243Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-design"
+		},
+		"author": {
+			"name": "vnaki",
+			"email": "wqynqa@163.com",
+			"username": "vnaki"
+		},
+		"publisher": {
+			"username": "vnaki",
+			"email": "wqynqa@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "vnaki",
+				"email": "wqynqa@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20586042265501564,
+		"detail": {
+			"quality": 0.2940457565562239,
+			"popularity": 0.002892311241765645,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 2.1345503e-8
+}

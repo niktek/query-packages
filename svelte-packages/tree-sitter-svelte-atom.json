@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "tree-sitter-svelte-atom",
+		"scope": "unscoped",
+		"version": "0.1.0-2",
+		"description": "Tree-sitter-grammar for svelte",
+		"keywords": [
+			"tree-sitter",
+			"svelte",
+			"grammar"
+		],
+		"date": "2022-02-13T23:59:23.383Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/tree-sitter-svelte-atom",
+			"homepage": "https://github.com/rixo/tree-sitter-svelte-atom#readme",
+			"repository": "https://github.com/rixo/tree-sitter-svelte-atom",
+			"bugs": "https://github.com/rixo/tree-sitter-svelte-atom/issues"
+		},
+		"author": {
+			"name": "Himujjal",
+			"email": "himu@tuta.io"
+		},
+		"publisher": {
+			"username": "rixo",
+			"email": "rixo@rixo.fr"
+		},
+		"maintainers": [
+			{
+				"username": "rixo",
+				"email": "rixo@rixo.fr"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2367428069677775,
+		"detail": {
+			"quality": 0.6242484912780071,
+			"popularity": 0.0012054692026613517,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.485258e-7
+}

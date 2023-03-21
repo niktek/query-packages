@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-sourcemap-patch",
+		"scope": "unscoped",
+		"version": "3.30.0-patched",
+		"description": "Cybernetically enhanced web apps",
+		"keywords": [
+			"UI",
+			"framework",
+			"templates",
+			"templating"
+		],
+		"date": "2020-11-29T19:03:59.481Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-sourcemap-patch"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "sdwvit",
+			"email": "sdwvit@inet.ua"
+		},
+		"maintainers": [
+			{
+				"username": "sdwvit",
+				"email": "sdwvit@inet.ua"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22558620272361773,
+		"detail": {
+			"quality": 0.6454716817809788,
+			"popularity": 0.0015288687180486996,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.276967e-8
+}

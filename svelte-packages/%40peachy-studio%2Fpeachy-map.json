@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@peachy-studio/peachy-map",
+		"scope": "peachy-studio",
+		"version": "1.0.2-alpha5",
+		"description": "Peachy Map Widget",
+		"keywords": [
+			"svelte",
+			"web-components",
+			"library"
+		],
+		"date": "2021-12-02T22:13:58.728Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40peachy-studio%2Fpeachy-map"
+		},
+		"publisher": {
+			"username": "aeviou",
+			"email": "aeviousaur@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mesfahani",
+				"email": "esfahanimichael@gmail.com"
+			},
+			{
+				"username": "kadecall.peachystudio",
+				"email": "kade.call@peachystudio.com"
+			},
+			{
+				"username": "sam.chung.peachy",
+				"email": "sam.chung@peachystudio.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23082571124235435,
+		"detail": {
+			"quality": 0.40646061931605937,
+			"popularity": 0.0024249158161431935,
+			"maintenance": 0.30868229974824696
+		}
+	},
+	"searchScore": 3.508493e-8
+}

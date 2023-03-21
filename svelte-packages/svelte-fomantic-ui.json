@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-fomantic-ui",
+		"scope": "unscoped",
+		"version": "0.0.23",
+		"description": "Fomantic UI for Svelte",
+		"keywords": [
+			"svelte",
+			"fomantic-ui",
+			"code"
+		],
+		"date": "2023-03-18T20:55:00.499Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-fomantic-ui",
+			"homepage": "https://github.com/roycdaviesuoa/svelte-fomantic-ui",
+			"repository": "https://github.com/roycdaviesuoa/svelte-fomantic-ui",
+			"bugs": "https://github.com/roycdaviesuoa/svelte-fomantic-ui/issues"
+		},
+		"author": {
+			"name": "Roy C. Davies"
+		},
+		"publisher": {
+			"username": "roycdavies",
+			"email": "roy.c.davies@ieee.org"
+		},
+		"maintainers": [
+			{
+				"username": "roycdavies",
+				"email": "roy.c.davies@ieee.org"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3279633573999961,
+		"detail": {
+			"quality": 0.6879865979685138,
+			"popularity": 0.014002032407929431,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000013130334
+}

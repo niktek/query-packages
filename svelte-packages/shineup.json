@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "shineup",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "A simple and flexible css-in-js implementation for Svelte",
+		"keywords": [
+			"svelte",
+			"css-in-js",
+			"simple",
+			"flexible",
+			"css",
+			"js",
+			"shine"
+		],
+		"date": "2019-12-10T01:11:24.687Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/shineup",
+			"homepage": "https://github.com/Vehmloewff/shineup#readme",
+			"repository": "https://github.com/Vehmloewff/shineup",
+			"bugs": "https://github.com/Vehmloewff/shineup/issues"
+		},
+		"author": {
+			"name": "Elijah Mooring",
+			"url": "https://github.com/Vehmloewff"
+		},
+		"publisher": {
+			"username": "vehmloewff",
+			"email": "ejsisgreat@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vehmloewff",
+				"email": "ejsisgreat@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2956583865143923,
+		"detail": {
+			"quality": 0.8788367301487212,
+			"popularity": 0.001707923805054072,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000013437445
+}

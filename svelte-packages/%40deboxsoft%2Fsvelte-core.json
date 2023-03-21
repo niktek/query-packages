@@ -1,0 +1,30 @@
+{
+	"package": {
+		"name": "@deboxsoft/svelte-core",
+		"scope": "deboxsoft",
+		"version": "1.1.23",
+		"date": "2023-03-18T06:51:28.723Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40deboxsoft%2Fsvelte-core"
+		},
+		"publisher": {
+			"username": "nurdiansyah",
+			"email": "deboxserver@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nurdiansyah",
+				"email": "deboxserver@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20287611219309976,
+		"detail": {
+			"quality": 0.2483002422810951,
+			"popularity": 0.0334839224060131,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.5849475e-8
+}

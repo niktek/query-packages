@@ -1,0 +1,83 @@
+{
+	"package": {
+		"name": "@0xsequence/web3-onboard-plugin",
+		"scope": "0xsequence",
+		"version": "2.0.5",
+		"description": "Sequence is the smartest Web3 wallet. Easy, fun and secure.",
+		"keywords": [
+			"Ethereum",
+			"Web3",
+			"EVM",
+			"dapp",
+			"Multichain",
+			"Wallet",
+			"Transaction",
+			"Provider",
+			"Hardware Wallet",
+			"Notifications",
+			"React",
+			"Svelte",
+			"Vue",
+			"Next",
+			"Nuxt",
+			"MetaMask",
+			"Coinbase",
+			"WalletConnect",
+			"Ledger",
+			"Trezor",
+			"Connect Wallet",
+			"Ethereum Hooks",
+			"Blocknative",
+			"Mempool",
+			"pending",
+			"confirmed",
+			"Injected Wallet"
+		],
+		"date": "2022-12-01T21:20:18.653Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%400xsequence%2Fweb3-onboard-plugin",
+			"homepage": "https://onboard.blocknative.com",
+			"repository": "https://github.com/blocknative/web3-onboard",
+			"bugs": "https://github.com/blocknative/web3-onboard/issues"
+		},
+		"publisher": {
+			"username": "pkieltyka",
+			"email": "pk@horizon.io"
+		},
+		"maintainers": [
+			{
+				"username": "naivesheep",
+				"email": "wh@horizongames.net"
+			},
+			{
+				"username": "pkieltyka",
+				"email": "pk@horizon.io"
+			},
+			{
+				"username": "phabc",
+				"email": "ph.castonguay@gmail.com"
+			},
+			{
+				"username": "agusx1211",
+				"email": "agusxrun@gmail.com"
+			},
+			{
+				"username": "acrylix",
+				"email": "michaelyykk@gmail.com"
+			},
+			{
+				"username": "samuelea",
+				"email": "batonenbois@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30488096879041254,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.008079056612602427,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 6.6736203e-7
+}

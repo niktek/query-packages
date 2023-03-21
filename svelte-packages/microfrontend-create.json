@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "microfrontend-create",
+		"scope": "unscoped",
+		"version": "1.8.1",
+		"description": "This is a microfrontend project builder through webpack v5 (ModuleFederationPlugin). You can create a 'container' or 'child' microfrontend. You will also be able to decide under which development environment to work, be it 'React', 'Vue', 'Angular', 'Svel",
+		"keywords": [
+			"microfrontend",
+			"builder",
+			"generator",
+			"react",
+			"vue",
+			"angular",
+			"vanillajs",
+			"svelte",
+			"webpack",
+			"modulefederationplugin",
+			"js",
+			"webcomponents",
+			"lit"
+		],
+		"date": "2022-07-29T04:19:33.472Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/microfrontend-create",
+			"homepage": "https://github.com/GastonMGrecco/microfrontend-create#readme",
+			"repository": "https://github.com/GastonMGrecco/microfrontend-create",
+			"bugs": "https://github.com/GastonMGrecco/microfrontend-create/issues"
+		},
+		"author": {
+			"name": "Gastón Maximiliano Grecco",
+			"email": "gastonmgrecco@gmail.com",
+			"username": "gastonmgrecco"
+		},
+		"publisher": {
+			"username": "gastonmgrecco",
+			"email": "gastonmgrecco@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gastonmgrecco",
+				"email": "gastonmgrecco@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27081428478786673,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.003492049545906315,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.1181744e-7
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "braintapper-svelte-css",
+		"scope": "unscoped",
+		"version": "0.0.12",
+		"description": "Svelte component for common CSS for Braintapper applications",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-08-30T21:16:50.310Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/braintapper-svelte-css",
+			"homepage": "https://github.com/braintapper/braintapper-svelte-css#readme",
+			"repository": "https://github.com/braintapper/braintapper-svelte-css",
+			"bugs": "https://github.com/braintapper/braintapper-svelte-css/issues"
+		},
+		"author": {
+			"name": "braintapper"
+		},
+		"publisher": {
+			"username": "braintapper",
+			"email": "steven.ng@braintapper.com"
+		},
+		"maintainers": [
+			{
+				"username": "braintapper",
+				"email": "steven.ng@braintapper.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20000847053565546,
+		"detail": {
+			"quality": 0.4090286091929441,
+			"popularity": 0.022772232313239264,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 2.009363e-8
+}

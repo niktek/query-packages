@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "@veljs/svelte",
+		"scope": "veljs",
+		"version": "0.1.11",
+		"date": "2023-01-05T21:57:17.334Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40veljs%2Fsvelte"
+		},
+		"publisher": {
+			"username": "matschik",
+			"email": "mathieu.schimmerling@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "matschik",
+				"email": "mathieu.schimmerling@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21332555656128965,
+		"detail": {
+			"quality": 0.31214430752912636,
+			"popularity": 0.008615993245385962,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.6806546e-8
+}

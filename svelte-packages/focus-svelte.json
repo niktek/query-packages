@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "focus-svelte",
+		"scope": "unscoped",
+		"version": "0.3.4",
+		"description": "Focus lock for svelte with zero dependencies.",
+		"keywords": [
+			"focus",
+			"tabindex",
+			"focus trap",
+			"focus lock",
+			"accessibility",
+			"ada",
+			"svelte",
+			"sveltekit",
+			"aria"
+		],
+		"date": "2021-10-17T16:55:36.762Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/focus-svelte",
+			"homepage": "https://github.com/chanced/focus-svelte#readme",
+			"repository": "https://github.com/chanced/focus-svelte",
+			"bugs": "https://github.com/chanced/focus-svelte/issues"
+		},
+		"author": {
+			"name": "chance dinkins",
+			"email": "chanceusc@gmail.com",
+			"username": "chance--"
+		},
+		"publisher": {
+			"username": "chanced",
+			"email": "chanceusc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "chance--",
+				"email": "chanceusc@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2541669052288865,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.03514527286645107,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 5.032641e-7
+}

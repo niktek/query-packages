@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@svelte-put/select",
+		"scope": "svelte-put",
+		"version": "0.2.0",
+		"description": "Svelte feature-rich, extensible, type-safe, accessible select component",
+		"keywords": [
+			"svelte",
+			"component",
+			"select",
+			"async",
+			"creatable",
+			"accessible"
+		],
+		"date": "2023-02-17T05:56:15.816Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-put%2Fselect",
+			"homepage": "https://github.com/vnphanquang/svelte-put/tree/main/packages/components/select",
+			"repository": "https://github.com/vnphanquang/svelte-put",
+			"bugs": "https://github.com/vnphanquang/svelte-put/issues"
+		},
+		"author": {
+			"name": "Quang Phan"
+		},
+		"publisher": {
+			"username": "vnphanquang",
+			"email": "vnphanquang@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vnphanquang",
+				"email": "vnphanquang@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2466295024137139,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.008850614382316425,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.421635e-7
+}

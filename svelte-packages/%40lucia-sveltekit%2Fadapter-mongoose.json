@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@lucia-sveltekit/adapter-mongoose",
+		"scope": "lucia-sveltekit",
+		"version": "0.10.0",
+		"description": "Mongoose (MongoDB) adapter for Lucia",
+		"keywords": [
+			"sveltekit",
+			"lucia",
+			"mongodb"
+		],
+		"date": "2022-10-23T04:37:52.355Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40lucia-sveltekit%2Fadapter-mongoose",
+			"homepage": "https://github.com/pilcrowOnPaper/lucia-sveltekit#readme",
+			"repository": "https://github.com/pilcrowOnPaper/lucia-sveltekit",
+			"bugs": "https://github.com/pilcrowOnPaper/lucia-sveltekit/issues"
+		},
+		"author": {
+			"name": "pilcrowonpaper"
+		},
+		"publisher": {
+			"username": "pilcrowonpaper",
+			"email": "pilcrowonpaper@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pilcrowonpaper",
+				"email": "pilcrowonpaper@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24527614761329908,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.004983886381131174,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.776862e-8
+}

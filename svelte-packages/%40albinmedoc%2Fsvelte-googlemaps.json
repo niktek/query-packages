@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@albinmedoc/svelte-googlemaps",
+		"scope": "albinmedoc",
+		"version": "1.4.1",
+		"description": "Easily implement Google maps and places autocomplete to Svelte.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-12-01T18:45:18.135Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40albinmedoc%2Fsvelte-googlemaps",
+			"homepage": "https://github.com/albinmedoc/svelte-googlemaps#readme",
+			"repository": "https://github.com/albinmedoc/svelte-googlemaps",
+			"bugs": "https://github.com/albinmedoc/svelte-googlemaps/issues"
+		},
+		"author": {
+			"name": "Albin Médoc"
+		},
+		"publisher": {
+			"username": "albinmedoc",
+			"email": "stamline203@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "albinmedoc",
+				"email": "stamline203@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17059266621224856,
+		"detail": {
+			"quality": 0.45996070681572593,
+			"popularity": 0.0034138857986391437,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.0702846e-9
+}

@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "gincko",
+		"scope": "unscoped",
+		"version": "1.1.3",
+		"description": "Build complex, dynamic forms or inputs-based UIs in seconds",
+		"keywords": [
+			"dynamic",
+			"ui",
+			"forms",
+			"engine",
+			"inputs",
+			"fields",
+			"multi",
+			"steps",
+			"react",
+			"vue",
+			"svelte"
+		],
+		"date": "2022-09-28T16:46:07.002Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/gincko",
+			"homepage": "https://github.com/openizr/gincko#readme",
+			"repository": "https://github.com/openizr/gincko",
+			"bugs": "https://github.com/openizr/gincko/issues"
+		},
+		"publisher": {
+			"username": "openizr2",
+			"email": "matthieu.jabbour@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "openizr2",
+				"email": "matthieu.jabbour@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.308016050343623,
+		"detail": {
+			"quality": 0.6092927348046654,
+			"popularity": 0.024461658920155054,
+			"maintenance": 0.33333328365762616
+		}
+	},
+	"searchScore": 0.0000015566688
+}

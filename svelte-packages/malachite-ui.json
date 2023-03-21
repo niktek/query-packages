@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "malachite-ui",
+		"scope": "unscoped",
+		"version": "0.9.0-0",
+		"description": "**Malachite UI** is a **component library** inspired by _Tailwind's Headless UI_. Built completely from scratch in _TypeScript_ for **Svelte**, designed to work nicely with CSS Frameworks like **Tailwind CSS** or **WindiCSS**.",
+		"date": "2023-02-13T20:13:49.912Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/malachite-ui",
+			"homepage": "https://github.com/OGShawnLee/malachite-ui/tree/main#readme",
+			"repository": "https://github.com/OGShawnLee/malachite-ui/tree/main",
+			"bugs": "https://github.com/OGShawnLee/malachite-ui/issues"
+		},
+		"author": {
+			"name": "Edgar Vázquez García",
+			"email": "OGShawnLee@gmail.com",
+			"url": "https://github.com/OGShawnLee",
+			"username": "og_shawn_lee"
+		},
+		"publisher": {
+			"username": "og_shawn_lee",
+			"email": "OGShawnLee@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "og_shawn_lee",
+				"email": "OGShawnLee@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23689133521382857,
+		"detail": {
+			"quality": 0.3732197866205331,
+			"popularity": 0.023596378745719952,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.7085668e-8
+}

@@ -1,0 +1,59 @@
+{
+	"package": {
+		"name": "swiper-chw-test",
+		"scope": "unscoped",
+		"version": "1.1.2",
+		"description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
+		"keywords": [
+			"swiper",
+			"swipe",
+			"slider",
+			"touch",
+			"ios",
+			"mobile",
+			"cordova",
+			"phonegap",
+			"app",
+			"framework",
+			"framework7",
+			"carousel",
+			"gallery",
+			"plugin",
+			"react",
+			"solid-js",
+			"vue",
+			"angular",
+			"svelte",
+			"slideshow"
+		],
+		"date": "2022-08-28T22:58:01.825Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/swiper-chw-test",
+			"homepage": "https://swiperjs.com",
+			"repository": "https://github.com/nolimits4web/Swiper",
+			"bugs": "https://github.com/nolimits4web/swiper/issues"
+		},
+		"author": {
+			"name": "Vladimir Kharlampidi"
+		},
+		"publisher": {
+			"username": "carlhampuswall",
+			"email": "carl.hampus.wall@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "carlhampuswall",
+				"email": "carl.hampus.wall@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2779290490856199,
+		"detail": {
+			"quality": 0.6075140412473209,
+			"popularity": 0.0013675232066606574,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 2.4716394e-7
+}

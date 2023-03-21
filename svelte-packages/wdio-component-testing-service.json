@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "wdio-component-testing-service",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "A WebdriverIO service that allows to run component tests for Lit, Vue or Svelte web components.",
+		"keywords": [
+			"webdriverio",
+			"wdio",
+			"wdio-service",
+			"vscode",
+			"tests"
+		],
+		"date": "2022-10-03T05:35:14.539Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/wdio-component-testing-service"
+		},
+		"author": {
+			"name": "Christian Bromann",
+			"email": "mail@bromann.dev"
+		},
+		"publisher": {
+			"username": "wdio-user",
+			"email": "christian+webdriverio@saucelabs.com"
+		},
+		"maintainers": [
+			{
+				"username": "wdio-user",
+				"email": "christian+webdriverio@saucelabs.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22728230641150465,
+		"detail": {
+			"quality": 0.36872506351612505,
+			"popularity": 0.001421718175492416,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.1058642e-8
+}

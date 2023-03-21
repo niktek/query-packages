@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-cusdis",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "This is Cusdis integration for Svelte",
+		"keywords": [
+			"cusdis",
+			"svelte",
+			"svelte cusdis"
+		],
+		"date": "2022-12-28T00:20:24.895Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-cusdis",
+			"homepage": "https://github.com/kudadam/svelte-cusdis#readme",
+			"repository": "https://github.com/kudadam/svelte-cusdis",
+			"bugs": "https://github.com/kudadam/svelte-cusdis/issues"
+		},
+		"author": {
+			"name": "Lucretius Biah",
+			"email": "lucretiusbiah@protonmail.com",
+			"url": "https://www.kudadam.com",
+			"username": "kudadam"
+		},
+		"publisher": {
+			"username": "kudadam",
+			"email": "lucretiusbiah@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kudadam",
+				"email": "lucretiusbiah@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22261156253840336,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0029431384281327294,
+			"maintenance": 0.3320709490276504
+		}
+	},
+	"searchScore": 6.411848e-8
+}

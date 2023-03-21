@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@e-xisto/doccia.configurador",
+		"scope": "e-xisto",
+		"version": "0.2.9",
+		"description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+		"date": "2023-01-30T09:05:12.435Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40e-xisto%2Fdoccia.configurador"
+		},
+		"publisher": {
+			"username": "cesaregarcia",
+			"email": "cesar@e-xisto.com"
+		},
+		"maintainers": [
+			{
+				"username": "e-xisto-2",
+				"email": "info@existo.es"
+			},
+			{
+				"username": "juanmiguelguerrero",
+				"email": "juanmiguel@existo.es"
+			},
+			{
+				"username": "cesaregarcia",
+				"email": "cesar@e-xisto.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2190447705438321,
+		"detail": {
+			"quality": 0.31214430752912636,
+			"popularity": 0.024956604624078706,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.456255e-9
+}

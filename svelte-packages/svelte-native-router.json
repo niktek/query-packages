@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-native-router",
+		"scope": "unscoped",
+		"version": "0.1.2",
+		"description": "native web app router for Svelte3",
+		"date": "2021-12-21T09:19:12.588Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-native-router"
+		},
+		"author": {
+			"name": "ido2020",
+			"email": "757857957@qq.com",
+			"username": "ido2020"
+		},
+		"publisher": {
+			"username": "ido2020",
+			"email": "757857957@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "ido2020",
+				"email": "757857957@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19546508981012917,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.01909628987112834,
+			"maintenance": 0.25051357763796994
+		}
+	},
+	"searchScore": 9.474761e-9
+}

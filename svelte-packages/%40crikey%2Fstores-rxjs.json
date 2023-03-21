@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@crikey/stores-rxjs",
+		"scope": "crikey",
+		"version": "0.0.14",
+		"description": "Simple conversion functions to allow interop of [Svelte](https://svelte.dev/) style stores with [RxJS](https://rxjs.dev/) style stores",
+		"date": "2023-02-17T08:03:33.631Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40crikey%2Fstores-rxjs"
+		},
+		"publisher": {
+			"username": "whenderson-crikey",
+			"email": "npmjs.crikey@to.maily.dev"
+		},
+		"maintainers": [
+			{
+				"username": "whenderson-crikey",
+				"email": "npmjs.crikey@to.maily.dev"
+			},
+			{
+				"username": "whenderson",
+				"email": "crikey@to.maily.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24495114487926334,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0040553071410291235,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.9321304e-8
+}

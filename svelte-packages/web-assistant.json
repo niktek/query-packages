@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "web-assistant",
+		"scope": "unscoped",
+		"version": "1.2.8",
+		"description": "A simple web component built with svelte, providing version introduction & guideline instruction UI.",
+		"keywords": [
+			"svelte",
+			"component",
+			"guideline",
+			"introduction",
+			"instruction",
+			"walkthrough",
+			"cursor",
+			"pointer"
+		],
+		"date": "2022-11-17T10:02:44.870Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/web-assistant",
+			"homepage": "http://guidebook.topurl.cn",
+			"repository": "https://github.com/icheer/web-assistant",
+			"bugs": "https://github.com/icheer/web-assistant/issues"
+		},
+		"author": {
+			"name": "icheer@live.com"
+		},
+		"publisher": {
+			"username": "icheer",
+			"email": "icheer@live.com"
+		},
+		"maintainers": [
+			{
+				"username": "icheer",
+				"email": "icheer@live.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3102226397570026,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.02191388602736867,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000023525809
+}

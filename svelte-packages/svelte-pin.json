@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "svelte-pin",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Input masking component for Svelte",
+		"keywords": [
+			"svelte",
+			"pin",
+			"input",
+			"mask",
+			"svelte-component",
+			"svelte-pin",
+			"svelte-pin-input",
+			"svelte-input-mask",
+			"svelte-mask-input",
+			"svelte-text-mask",
+			"svelte-input"
+		],
+		"date": "2020-12-29T06:48:55.762Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-pin",
+			"homepage": "https://github.com/rebotak/svelte-pin#readme",
+			"repository": "https://github.com/rebotak/svelte-pin",
+			"bugs": "https://github.com/rebotak/svelte-pin/issues"
+		},
+		"author": {
+			"name": "Pais Rebotak",
+			"url": "rebotak@gmail.com"
+		},
+		"publisher": {
+			"username": "rebotak",
+			"email": "rebotak@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rebotak",
+				"email": "rebotak@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19399415700431316,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0020677290787681686,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.3275779e-8
+}

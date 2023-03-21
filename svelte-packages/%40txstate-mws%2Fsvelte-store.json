@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@txstate-mws/svelte-store",
+		"scope": "txstate-mws",
+		"version": "1.0.8",
+		"description": "Support library offering several new types of store compatible with the basic svelte readable/writable stores.",
+		"keywords": [
+			"svelte",
+			"store",
+			"subscribe",
+			"subscription"
+		],
+		"date": "2023-03-15T12:35:23.182Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40txstate-mws%2Fsvelte-store",
+			"homepage": "https://github.com/txstate-etc/svelte-store#readme",
+			"repository": "https://github.com/txstate-etc/svelte-store"
+		},
+		"author": {
+			"name": "Nick Wing"
+		},
+		"publisher": {
+			"username": "wickning1",
+			"email": "wickning1@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wickning1",
+				"email": "wickning1@gmail.com"
+			},
+			{
+				"username": "jsnider",
+				"email": "jsnider@txstate.edu"
+			},
+			{
+				"username": "rmcew",
+				"email": "ram146@txstate.edu"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26584042170101885,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.03442593033971755,
+			"maintenance": 0.2778115562726407
+		}
+	},
+	"searchScore": 8.329424e-7
+}

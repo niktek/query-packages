@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@glade-software/glade-annotatable",
+		"scope": "glade-software",
+		"version": "4.1.2",
+		"description": "a component that makes DOM annotatable",
+		"keywords": [
+			"glade",
+			"glade-element",
+			"annotations",
+			"typescript",
+			"svelte",
+			"web-components"
+		],
+		"date": "2022-11-27T23:06:39.079Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40glade-software%2Fglade-annotatable",
+			"homepage": "https://github.com/glade-software/glade-element#readme",
+			"repository": "https://github.com/glade-software/glade-element",
+			"bugs": "https://github.com/glade-software/glade-element/issues"
+		},
+		"author": {
+			"name": "Matt Johnston"
+		},
+		"publisher": {
+			"username": "mattjohnston",
+			"email": "m@ttjohnston.com"
+		},
+		"maintainers": [
+			{
+				"username": "mattjohnston",
+				"email": "m@ttjohnston.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27618406572274734,
+		"detail": {
+			"quality": 0.5275559935061546,
+			"popularity": 0.0040873028732149085,
+			"maintenance": 0.3328191761865021
+		}
+	},
+	"searchScore": 3.3422003e-7
+}

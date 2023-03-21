@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "vite-plugin-svelte-purgecss",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Vite plugin for PurgeCSS for Svelte",
+		"keywords": [
+			"purgeCSS",
+			"sveltekit",
+			"svelte",
+			"rollup",
+			"tailwind",
+			"vite",
+			"skeleton",
+			"vite-plugin"
+		],
+		"date": "2023-02-16T00:49:27.626Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-plugin-svelte-purgecss",
+			"homepage": "https://github.com/AdrianGonz97/vite-plugin-svelte-purgecss#readme",
+			"repository": "https://github.com/AdrianGonz97/vite-plugin-svelte-purgecss",
+			"bugs": "https://github.com/AdrianGonz97/vite-plugin-svelte-purgecss/issues"
+		},
+		"author": {
+			"name": "AdrianGonz97"
+		},
+		"publisher": {
+			"username": "cokakoala",
+			"email": "cokakoala.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cokakoala",
+				"email": "cokakoala.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25398703009593665,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.007220386504793716,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.2757737e-7
+}

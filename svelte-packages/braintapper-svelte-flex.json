@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "braintapper-svelte-flex",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Svelte component for flexbox rows and columns",
+		"keywords": [
+			"svelte",
+			"flexbox"
+		],
+		"date": "2020-11-20T16:51:24.967Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/braintapper-svelte-flex",
+			"homepage": "https://github.com/braintapper/braintapper-svelte-flex#readme",
+			"repository": "https://github.com/braintapper/braintapper-svelte-flex",
+			"bugs": "https://github.com/braintapper/braintapper-svelte-flex/issues"
+		},
+		"author": {
+			"name": "braintapper"
+		},
+		"publisher": {
+			"username": "braintapper",
+			"email": "steven.ng@braintapper.com"
+		},
+		"maintainers": [
+			{
+				"username": "braintapper",
+				"email": "steven.ng@braintapper.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16666257769712123,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.02396532241679335,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.9850817e-9
+}

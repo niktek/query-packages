@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@svelteaction/shared",
+		"scope": "svelteaction",
+		"version": "3.0.39",
+		"description": "Shared utilities",
+		"keywords": [
+			"svelte",
+			"svelte-action",
+			"utils"
+		],
+		"date": "2022-09-23T09:14:22.532Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelteaction%2Fshared",
+			"homepage": "https://github.com/Mohamed-Kaizen/svelteaction/tree/main/packages/shared#readme",
+			"repository": "https://github.com/Mohamed-Kaizen/svelteaction",
+			"bugs": "https://github.com/Mohamed-Kaizen/svelteaction/issues"
+		},
+		"author": {
+			"name": "Mohamed Nesredin",
+			"email": "https://github.com/Mohamed-Kaizen"
+		},
+		"publisher": {
+			"username": "svelteaction",
+			"email": "mohamednesredin19@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "npm",
+				"email": "npm@npmjs.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23546103757175466,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.0037324097196410467,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.562457e-8
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@saasak/req-serializer",
+		"scope": "saasak",
+		"version": "2.0.0",
+		"description": "Utils to manipulate Request in SvelteKit",
+		"keywords": [
+			"sveltekit"
+		],
+		"date": "2023-03-16T05:39:43.976Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40saasak%2Freq-serializer"
+		},
+		"author": {
+			"name": "SaaSAK"
+		},
+		"publisher": {
+			"username": "gplk",
+			"email": "georges.plancke@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gplk",
+				"email": "georges.plancke@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2380417620789478,
+		"detail": {
+			"quality": 0.40458365137427055,
+			"popularity": 0,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.717723e-8
+}

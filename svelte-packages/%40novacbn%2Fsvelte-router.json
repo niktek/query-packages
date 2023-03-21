@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@novacbn/svelte-router",
+		"scope": "novacbn",
+		"version": "0.0.3",
+		"description": "Simple declarative clientside Svelte Router modeled on Web APIs and SvelteKit.",
+		"date": "2022-07-15T21:57:21.567Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40novacbn%2Fsvelte-router",
+			"homepage": "https://github.com/novacbn/svelte-router#readme",
+			"repository": "https://github.com/novacbn/svelte-router",
+			"bugs": "https://github.com/novacbn/svelte-router/issues"
+		},
+		"author": {
+			"name": "novacbn"
+		},
+		"publisher": {
+			"username": "novacbn",
+			"email": "novacbn@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "novacbn",
+				"email": "novacbn@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2080019976978541,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.01862595203753467,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 2.1961595e-8
+}

@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@abbieben/checkbox",
+		"scope": "abbieben",
+		"version": "3.0.12",
+		"description": "This is the description for the plugin seed. This is what will be published to NPM.",
+		"keywords": [
+			"NativeScript",
+			"JavaScript",
+			"Android",
+			"iOS",
+			"Angular",
+			"React",
+			"Svelte",
+			"Vue"
+		],
+		"date": "2022-12-15T04:20:49.198Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40abbieben%2Fcheckbox",
+			"homepage": "https://github.com/abbieben07/checkbox#readme",
+			"repository": "https://github.com/abbieben07/checkbox",
+			"bugs": "https://github.com/abbieben07/checkbox/issues"
+		},
+		"author": {
+			"name": "Abraham Ben-Obaje"
+		},
+		"publisher": {
+			"username": "abbieben",
+			"email": "abbieben07@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "abbieben",
+				"email": "abbieben07@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24832631564658142,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.008074884698362109,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.9145e-8
+}

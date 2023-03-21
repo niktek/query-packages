@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-tags-input",
+		"scope": "unscoped",
+		"version": "5.0.0",
+		"description": "Fully customizable Svelte component to enter tags.",
+		"keywords": [
+			"svelte",
+			"tags",
+			"input"
+		],
+		"date": "2023-03-05T20:54:29.619Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tags-input",
+			"homepage": "https://svelte-tags-input.vercel.app/",
+			"repository": "https://github.com/agustinl/svelte-tags-input",
+			"bugs": "https://github.com/agustinl/svelte-tags-input/issues"
+		},
+		"author": {
+			"name": "Agustin Lautaro",
+			"email": "aencaje@gmail.com",
+			"username": "agustinl"
+		},
+		"publisher": {
+			"username": "agustinl",
+			"email": "aencaje@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "agustinl",
+				"email": "aencaje@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31528702117767715,
+		"detail": {
+			"quality": 0.621149076937051,
+			"popularity": 0.04236451767679189,
+			"maintenance": 0.32604204831338496
+		}
+	},
+	"searchScore": 0.000009260821
+}

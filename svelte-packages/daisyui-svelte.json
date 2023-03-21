@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "daisyui-svelte",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "An Unofficial DaisyUi for Svelte Porting",
+		"date": "2022-08-08T14:34:26.186Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/daisyui-svelte"
+		},
+		"publisher": {
+			"username": "organetto8",
+			"email": "stefano.squillante7423@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "organetto8",
+				"email": "stefano.squillante7423@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17879781862135302,
+		"detail": {
+			"quality": 0.25699407419986914,
+			"popularity": 0.0185811222065711,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 3.2565906e-9
+}

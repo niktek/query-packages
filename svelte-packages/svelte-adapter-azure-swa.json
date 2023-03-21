@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-adapter-azure-swa",
+		"scope": "unscoped",
+		"version": "0.15.0",
+		"description": "SvelteKit adapter for Azure Static Web Apps.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"sveltekit-adapter",
+			"azure",
+			"staticwebapp"
+		],
+		"date": "2023-03-20T14:41:01.740Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-adapter-azure-swa",
+			"homepage": "https://github.com/geoffrich/svelte-adapter-azure-swa#readme",
+			"bugs": "https://github.com/geoffrich/svelte-adapter-azure-swa/issues"
+		},
+		"publisher": {
+			"username": "geoffrich",
+			"email": "geoff.s.rich@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "geoffrich",
+				"email": "geoff.s.rich@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25256002956923307,
+		"detail": {
+			"quality": 0.4244496140979511,
+			"popularity": 0.024452796209088842,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.489021e-7
+}

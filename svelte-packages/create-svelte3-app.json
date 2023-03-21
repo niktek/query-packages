@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "create-svelte3-app",
+		"scope": "unscoped",
+		"version": "2.0.3",
+		"description": "Create a configured Svelte 3 app quickly.",
+		"keywords": [
+			"create-svelte3-app",
+			"IogaMaster"
+		],
+		"date": "2022-05-15T04:09:23.016Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-svelte3-app"
+		},
+		"author": {
+			"name": "IogaMaster",
+			"email": "iogamastercode@gmail.com",
+			"url": "https://github.com/IogaMaster/create-svelte3-app",
+			"username": "iogamaster"
+		},
+		"publisher": {
+			"username": "iogamaster",
+			"email": "iogamastercode@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "iogamaster",
+				"email": "iogamastercode@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2533409188150322,
+		"detail": {
+			"quality": 0.45895049530327514,
+			"popularity": 0.0019112492482183752,
+			"maintenance": 0.32853380853478065
+		}
+	},
+	"searchScore": 1.8199944e-7
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-copy-url-button",
+		"scope": "unscoped",
+		"version": "1.0.6",
+		"description": "Svelte based button component that copies the current url.",
+		"keywords": [
+			"svelte",
+			"button",
+			"copy",
+			"url",
+			"component",
+			"clipboard"
+		],
+		"date": "2020-12-01T17:24:45.982Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-copy-url-button"
+		},
+		"author": {
+			"name": "Kostadin Terziev"
+		},
+		"publisher": {
+			"username": "kostadinterziev",
+			"email": "kterziev9707@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kostadinterziev",
+				"email": "kterziev9707@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22061246793432043,
+		"detail": {
+			"quality": 0.6258202115054826,
+			"popularity": 0.00416231527048171,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.096074e-8
+}

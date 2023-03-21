@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-glitched-writer",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-04-30T14:55:24.880Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-glitched-writer"
+		},
+		"publisher": {
+			"username": "mhzrerfani",
+			"email": "mhzrerfani@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mhzrerfani",
+				"email": "mhzrerfani@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1930117331827942,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.018184354900300084,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 8.672313e-9
+}

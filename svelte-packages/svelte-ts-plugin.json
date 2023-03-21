@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-ts-plugin",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "TypeScript Language Service Plugin for Svelte",
+		"keywords": [
+			"typescript",
+			"svelte"
+		],
+		"date": "2020-01-08T14:27:35.427Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ts-plugin"
+		},
+		"author": {
+			"name": "Dalius Dobravolskas"
+		},
+		"publisher": {
+			"username": "daliusd",
+			"email": "dalius.dobravolskas@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "daliusd",
+				"email": "dalius.dobravolskas@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16664875919610062,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0012741054442895535,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.4806878e-9
+}

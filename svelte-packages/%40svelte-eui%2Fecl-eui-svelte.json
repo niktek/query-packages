@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@svelte-eui/ecl-eui-svelte",
+		"scope": "svelte-eui",
+		"version": "0.0.0",
+		"description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+		"keywords": [
+			"svelte",
+			"eui",
+			"ecl",
+			"europa",
+			"component",
+			"library",
+			"user",
+			"interface"
+		],
+		"date": "2023-02-11T02:21:06.632Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-eui%2Fecl-eui-svelte",
+			"homepage": "https://github.com/alfu32/ecl-eui-svelte#readme",
+			"repository": "https://github.com/alfu32/ecl-eui-svelte",
+			"bugs": "https://github.com/alfu32/ecl-eui-svelte/issues"
+		},
+		"author": {
+			"name": "Ioan ALFERARU"
+		},
+		"publisher": {
+			"username": "alfu32",
+			"email": "ioan.alferaru@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "alfu32",
+				"email": "ioan.alferaru@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21535640318126842,
+		"detail": {
+			"quality": 0.32356455176155713,
+			"popularity": 0.004629631388956082,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.811387e-8
+}

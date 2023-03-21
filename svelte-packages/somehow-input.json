@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "somehow-input",
+		"scope": "unscoped",
+		"version": "1.2.0",
+		"description": "some easy interactive svelte components",
+		"date": "2020-09-18T21:15:23.864Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/somehow-input",
+			"homepage": "https://github.com/spencermountain/somehow-input/"
+		},
+		"author": {
+			"name": "Spencer Kelly",
+			"url": "spencermountain"
+		},
+		"publisher": {
+			"username": "spencermountain",
+			"email": "spencermountain@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "spencermountain",
+				"email": "spencermountain@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21307745881929613,
+		"detail": {
+			"quality": 0.5832805440879806,
+			"popularity": 0.01909628987112834,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 9.918143e-9
+}

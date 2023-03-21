@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@maiji/svelte_element",
+		"scope": "maiji",
+		"version": "0.0.4",
+		"description": "svelte_element UI",
+		"keywords": [
+			"element ui",
+			"svelte",
+			"javascript"
+		],
+		"date": "2022-03-08T16:13:42.719Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40maiji%2Fsvelte_element",
+			"homepage": "https://pdwl.github.io/svelte_element/",
+			"repository": "https://github.com/pdwl/svelte_element",
+			"bugs": "https://github.com/pdwl/svelte_element/issues"
+		},
+		"author": {
+			"name": "Maiji"
+		},
+		"publisher": {
+			"username": "maiji",
+			"email": "pd87@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "maiji",
+				"email": "pd87@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26565653009823165,
+		"detail": {
+			"quality": 0.5019129540676174,
+			"popularity": 0.018381854632114513,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 4.810341e-7
+}

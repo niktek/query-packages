@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "vite-plugin-svemix",
+		"scope": "unscoped",
+		"version": "0.4.2",
+		"description": "The Full-Stack addition to SvelteKit. Write your server code inside svelte files, handle sessions, forms and SEO easily.",
+		"keywords": [
+			"svemix",
+			"svelte server-only scripts",
+			"server only load",
+			"sveltekit getServerSideProps",
+			"full-stack svelte",
+			"svelte seo",
+			"sveltekit seo",
+			"sveltekit session",
+			"svelte remix",
+			"svelte",
+			"forms"
+		],
+		"date": "2021-12-31T16:49:26.064Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-plugin-svemix",
+			"homepage": "https://svemix.com",
+			"repository": "https://github.com/svemix/svemix",
+			"bugs": "https://github.com/svemix/svemix/issues"
+		},
+		"author": {
+			"name": "pixelmund"
+		},
+		"publisher": {
+			"username": "pixelmund",
+			"email": "pixelmund@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pixelmund",
+				"email": "pixelmund@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3656966655763682,
+		"detail": {
+			"quality": 0.847221811324384,
+			"popularity": 0.004155242479826828,
+			"maintenance": 0.3145022494603246
+		}
+	},
+	"searchScore": 0.000026040892
+}

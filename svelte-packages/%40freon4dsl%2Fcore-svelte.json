@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@freon4dsl/core-svelte",
+		"scope": "freon4dsl",
+		"version": "0.5.0",
+		"description": "*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*",
+		"date": "2023-02-02T12:45:11.956Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40freon4dsl%2Fcore-svelte",
+			"homepage": "https://github.com/freon4dsl/Freon4dsl#readme",
+			"repository": "https://github.com/freon4dsl/Freon4dsl",
+			"bugs": "https://github.com/freon4dsl/Freon4dsl/issues"
+		},
+		"publisher": {
+			"username": "jwarmer",
+			"email": "jos.warmer@openmodeling.nl"
+		},
+		"maintainers": [
+			{
+				"username": "annekekleppe",
+				"email": "anneke@warmerkleppe.nl"
+			},
+			{
+				"username": "jwarmer",
+				"email": "jos.warmer@openmodeling.nl"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3203653028081659,
+		"detail": {
+			"quality": 0.673564551761557,
+			"popularity": 0.0046550588943775175,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000006489419
+}

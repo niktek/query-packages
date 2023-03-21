@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@6edesign/svelte-router",
+		"scope": "6edesign",
+		"version": "1.1.0",
+		"description": "page.js based router for svelte",
+		"keywords": [
+			"svelte",
+			"svelte-router",
+			"router",
+			"page.js"
+		],
+		"date": "2020-06-17T15:51:09.055Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%406edesign%2Fsvelte-router",
+			"homepage": "https://github.com/6eDesign/svelte-router#readme",
+			"repository": "https://github.com/6eDesign/svelte-router",
+			"bugs": "https://github.com/6eDesign/svelte-router/issues"
+		},
+		"author": {
+			"name": "Jonathan Greenemeier"
+		},
+		"publisher": {
+			"username": "6edesign",
+			"email": "jon@6eDesign.net"
+		},
+		"maintainers": [
+			{
+				"username": "6edesign",
+				"email": "jon@6eDesign.net"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2708153638724969,
+		"detail": {
+			"quality": 0.7935876851482173,
+			"popularity": 0.003798469114356071,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.000001092994
+}

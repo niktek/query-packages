@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@koj/svelte-api-client",
+		"scope": "koj",
+		"version": "1.1.2",
+		"description": "Koj's Fetch-powered API client for webapps",
+		"keywords": [
+			"koj",
+			"template",
+			"nodejs",
+			"typescript"
+		],
+		"date": "2021-02-24T16:13:27.637Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40koj%2Fsvelte-api-client"
+		},
+		"author": {
+			"name": "Anand Chowdhary",
+			"email": "mail@anandchowdhary.com"
+		},
+		"publisher": {
+			"username": "kojbot",
+			"email": "npm@koj.co"
+		},
+		"maintainers": [
+			{
+				"username": "anandchowdhary",
+				"email": "npm@anandchowdhary.com"
+			},
+			{
+				"username": "kojbot",
+				"email": "npm@koj.co"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2936949621446088,
+		"detail": {
+			"quality": 0.8718576712889783,
+			"popularity": 0.0020801903425950283,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000021613564
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-tauri-filedrop",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Tauri file drop handling component for Svelte",
+		"keywords": [
+			"tauri",
+			"svelte",
+			"file",
+			"drag",
+			"drop",
+			"dropzone"
+		],
+		"date": "2021-12-01T05:22:54.515Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tauri-filedrop"
+		},
+		"author": {
+			"name": "Kasper Henningsen",
+			"url": "https://kasper.space"
+		},
+		"publisher": {
+			"username": "probablykasper",
+			"email": "kasperkh.kh@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "probablykasper",
+				"email": "kasperkh.kh@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20682733862663066,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0046400858113430825,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 2.6043638e-8
+}

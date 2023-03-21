@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@timonforrer/simplest-quiz",
+		"scope": "timonforrer",
+		"version": "0.0.7",
+		"description": "This template should help get you started developing with Svelte in Vite.",
+		"date": "2022-12-26T23:42:12.879Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40timonforrer%2Fsimplest-quiz",
+			"homepage": "https://github.com/timonforrer/simplest-quiz#readme",
+			"repository": "https://github.com/timonforrer/simplest-quiz",
+			"bugs": "https://github.com/timonforrer/simplest-quiz/issues"
+		},
+		"author": {
+			"name": "Timon Forrer"
+		},
+		"publisher": {
+			"username": "timonforrer",
+			"email": "info@timonforrer.ch"
+		},
+		"maintainers": [
+			{
+				"username": "timonforrer",
+				"email": "info@timonforrer.ch"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23515953276042129,
+		"detail": {
+			"quality": 0.3876538050506292,
+			"popularity": 0.006276355938759659,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.9727665e-8
+}

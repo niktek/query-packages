@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "bubbles-ui",
+		"scope": "unscoped",
+		"version": "0.7.8",
+		"description": "Opinionated Svelte Kit UI Components",
+		"date": "2022-04-03T07:47:57.245Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/bubbles-ui",
+			"homepage": "https://bubbles-pied.vercel.app/",
+			"repository": "https://github.com/vpanyushenko/bubbles",
+			"bugs": "https://github.com/vpanyushenko/bubbles/issues"
+		},
+		"author": {
+			"name": "Valentin Panyushenko"
+		},
+		"publisher": {
+			"username": "vpanyushenko",
+			"email": "me@panyushenko.com"
+		},
+		"maintainers": [
+			{
+				"username": "vpanyushenko",
+				"email": "me@panyushenko.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2510282465804497,
+		"detail": {
+			"quality": 0.43476815925336065,
+			"popularity": 0.011231806107928234,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.663412e-8
+}

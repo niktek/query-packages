@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@sveltejs/adapter-auto",
+		"scope": "sveltejs",
+		"version": "2.0.0",
+		"description": "Automatically chooses the SvelteKit adapter for your current environment, if possible.",
+		"date": "2023-02-06T16:22:01.891Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltejs%2Fadapter-auto",
+			"homepage": "https://kit.svelte.dev",
+			"repository": "https://github.com/sveltejs/kit",
+			"bugs": "https://github.com/sveltejs/kit/issues"
+		},
+		"publisher": {
+			"username": "svelte-admin",
+			"email": "richard.a.harris+svelte@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			},
+			{
+				"username": "svelte-admin",
+				"email": "richard.a.harris+svelte@gmail.com"
+			},
+			{
+				"username": "conduitry",
+				"email": "npm@chor.date"
+			},
+			{
+				"username": "dominik_g",
+				"email": "dominik.goepel@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.34515209717156703,
+		"detail": {
+			"quality": 0.6072384660286602,
+			"popularity": 0.1323254019894352,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00001849557
+}

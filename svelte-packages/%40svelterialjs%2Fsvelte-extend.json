@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@svelterialjs/svelte-extend",
+		"scope": "svelterialjs",
+		"version": "1.0.0",
+		"description": "Generate new Svelte components by extending existing ones.",
+		"keywords": [
+			"svelte",
+			"extend"
+		],
+		"date": "2021-06-19T19:47:19.709Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelterialjs%2Fsvelte-extend"
+		},
+		"author": {
+			"name": "TheComputerM"
+		},
+		"publisher": {
+			"username": "thecomputerm",
+			"email": "mudit.harshit99@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thecomputerm",
+				"email": "mudit.harshit99@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21201336302172888,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.019457298368766533,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 4.5616705e-8
+}

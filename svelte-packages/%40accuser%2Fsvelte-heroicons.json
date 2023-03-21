@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "@accuser/svelte-heroicons",
+		"scope": "accuser",
+		"version": "1.0.5",
+		"date": "2022-01-27T11:26:51.858Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40accuser%2Fsvelte-heroicons",
+			"homepage": "https://github.com/accuser/heroicons#readme",
+			"repository": "https://github.com/accuser/heroicons",
+			"bugs": "https://github.com/accuser/heroicons/issues"
+		},
+		"publisher": {
+			"username": "accuser",
+			"email": "mhgibbons@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "accuser",
+				"email": "mhgibbons@me.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17266467602311314,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.0013965308105763623,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.5733568e-9
+}

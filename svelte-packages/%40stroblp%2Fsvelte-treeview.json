@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@stroblp/svelte-treeview",
+		"scope": "stroblp",
+		"version": "1.0.3",
+		"description": "A Svelte collapsable treeview with custom components added to nodes. Tree state is persistant trough the usage of indexeddb/localstorage",
+		"date": "2022-03-23T16:49:01.082Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40stroblp%2Fsvelte-treeview"
+		},
+		"publisher": {
+			"username": "stroblp",
+			"email": "stroblp.npm@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "stroblp",
+				"email": "stroblp.npm@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.234105832658125,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.0018237123985175437,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 8.945534e-8
+}

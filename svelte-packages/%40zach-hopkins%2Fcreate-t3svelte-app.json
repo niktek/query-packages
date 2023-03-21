@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@zach-hopkins/create-t3svelte-app",
+		"scope": "zach-hopkins",
+		"version": "1.0.3",
+		"description": "Rapidly setup T3 Stack with SvelteKit",
+		"keywords": [
+			"cli",
+			"create-t3svelte-app"
+		],
+		"date": "2022-09-12T06:18:10.090Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40zach-hopkins%2Fcreate-t3svelte-app"
+		},
+		"author": {
+			"name": "Zach Hopkins"
+		},
+		"publisher": {
+			"username": "zach-hopkins",
+			"email": "zh93@nau.edu"
+		},
+		"maintainers": [
+			{
+				"username": "zach-hopkins",
+				"email": "zh93@nau.edu"
+			}
+		]
+	},
+	"score": {
+		"final": 0.29838462634507695,
+		"detail": {
+			"quality": 0.5833367675165585,
+			"popularity": 0.019201275828185694,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 0.0000013714031
+}

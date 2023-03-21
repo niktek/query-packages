@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-react",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Use React components inside Svelte apps.",
+		"keywords": [
+			"svelte",
+			"react"
+		],
+		"date": "2020-02-07T17:48:34.443Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-react"
+		},
+		"author": {
+			"name": "Jesse Skinner",
+			"email": "jesse@thefutureoftheweb.com",
+			"username": "jesseskinner"
+		},
+		"publisher": {
+			"username": "jesseskinner",
+			"email": "jesse@thefutureoftheweb.com"
+		},
+		"maintainers": [
+			{
+				"username": "jesseskinner",
+				"email": "jesse@thefutureoftheweb.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.29026922959715357,
+		"detail": {
+			"quality": 0.8597513359337761,
+			"popularity": 0.0026692419400392224,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000030143337
+}

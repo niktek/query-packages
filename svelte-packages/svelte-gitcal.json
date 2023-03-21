@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-gitcal",
+		"scope": "unscoped",
+		"version": "2.1.8",
+		"description": "A Svelte component library for a github lookalike calendar",
+		"keywords": [
+			"component",
+			"svelte",
+			"git",
+			"gitcal",
+			"calendar"
+		],
+		"date": "2021-05-11T08:36:55.527Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-gitcal"
+		},
+		"author": {
+			"name": "J de Neef"
+		},
+		"publisher": {
+			"username": "jdeneef",
+			"email": "jm@deneef.biz"
+		},
+		"maintainers": [
+			{
+				"username": "jdeneef",
+				"email": "jm@deneef.biz"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22221938973197675,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0017281615521824118,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 6.984274e-8
+}

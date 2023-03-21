@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-holopin",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "[![npm version](https://img.shields.io/npm/v/svelte-holopin.svg)](https://www.npmjs.com/package/svelte-holopin)\r [![npm downloads](https://img.shields.io/npm/dw/svelte-holopin.svg)](https://www.npmjs.com/package/svelte-holopin)\r ![license](https://img.shi",
+		"keywords": [
+			"svelte",
+			"Holopin",
+			"library"
+		],
+		"date": "2022-12-23T20:55:43.573Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-holopin",
+			"homepage": "https://triangle100.com",
+			"repository": "https://github.com/zaneshaw/svelte-holopin",
+			"bugs": "https://github.com/zaneshaw/svelte-holopin/issues"
+		},
+		"publisher": {
+			"username": "squidee_",
+			"email": "zaneshaw.home@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "zaneshaw",
+				"email": "zaneshaw.home@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30723172265655624,
+		"detail": {
+			"quality": 0.6286699595355018,
+			"popularity": 0.00561162322639735,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000005373283
+}

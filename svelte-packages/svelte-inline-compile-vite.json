@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "svelte-inline-compile-vite",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"date": "2022-04-04T07:09:54.436Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-inline-compile-vite"
+		},
+		"publisher": {
+			"username": "couetilc",
+			"email": "couetilc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "couetilc",
+				"email": "couetilc@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24895849362074068,
+		"detail": {
+			"quality": 0.4825402237398069,
+			"popularity": 0.0017480000564400972,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 1.756389e-7
+}

@@ -1,0 +1,30 @@
+{
+	"package": {
+		"name": "svelte-tetris2",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"date": "2022-03-28T22:48:17.593Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tetris2"
+		},
+		"publisher": {
+			"username": "avettfan",
+			"email": "sstchur@yahoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "avettfan",
+				"email": "sstchur@yahoo.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19924673282282646,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.0013375093737225834,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.0895897e-8
+}

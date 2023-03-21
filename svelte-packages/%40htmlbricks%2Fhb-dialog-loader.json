@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@htmlbricks/hb-dialog-loader",
+		"scope": "htmlbricks",
+		"version": "0.19.31",
+		"description": "Svelte-Bootstrap Downloader WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2023-02-28T18:24:17.808Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fhb-dialog-loader"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2273718428394428,
+		"detail": {
+			"quality": 0.34512357220938283,
+			"popularity": 0.02048029859988946,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.1345122e-8
+}

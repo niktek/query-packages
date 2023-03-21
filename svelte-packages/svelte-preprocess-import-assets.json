@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-preprocess-import-assets",
+		"scope": "unscoped",
+		"version": "0.2.6",
+		"description": "Import assets in markup",
+		"keywords": [
+			"svelte",
+			"preprocess",
+			"import",
+			"assets"
+		],
+		"date": "2023-02-23T06:36:45.756Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-preprocess-import-assets",
+			"homepage": "https://github.com/bluwy/svelte-preprocess-import-assets",
+			"repository": "https://github.com/bluwy/svelte-preprocess-import-assets",
+			"bugs": "https://github.com/bluwy/svelte-preprocess-import-assets/issues"
+		},
+		"author": {
+			"name": "Bjorn Lu"
+		},
+		"publisher": {
+			"username": "bluwy",
+			"email": "bjornlu.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bluwy",
+				"email": "bjornlu.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2584278773175535,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.019908521423699085,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.2818763e-7
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-dev-helper",
+		"scope": "unscoped",
+		"version": "1.1.9",
+		"description": "Helper for svelte components to ease development",
+		"keywords": [
+			"svelte",
+			"dev",
+			"helper"
+		],
+		"date": "2018-07-04T15:39:03.543Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dev-helper",
+			"homepage": "https://github.com/ekhaled/svelte-dev-helper#readme",
+			"repository": "https://github.com/ekhaled/svelte-dev-helper",
+			"bugs": "https://github.com/ekhaled/svelte-dev-helper/issues"
+		},
+		"author": {
+			"name": "ekhaled"
+		},
+		"publisher": {
+			"username": "ekhaled",
+			"email": "me.khaled@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ekhaled",
+				"email": "me.khaled@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.361155449160644,
+		"detail": {
+			"quality": 0.9862840192096918,
+			"popularity": 0.09674471217065572,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.00009703846
+}

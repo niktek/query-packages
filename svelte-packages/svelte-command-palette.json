@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-command-palette",
+		"scope": "unscoped",
+		"version": "1.2.1",
+		"description": "#### Increase your productivity exponentially. 🚀🚀",
+		"keywords": [
+			"svelte",
+			"svelte-command-palette",
+			"command-palette",
+			"cmd-palette",
+			"palette",
+			"sveltejs",
+			"sveltejs command palette"
+		],
+		"date": "2022-10-24T21:09:40.123Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-command-palette",
+			"homepage": "https://svelte-command-palette.vercel.app/",
+			"repository": "https://github.com/rohitpotato/svelte-command-palette",
+			"bugs": "https://github.com/rohitpotato/svelte-command-palette/issues"
+		},
+		"publisher": {
+			"username": "rohitpotato",
+			"email": "rohit.mmm1996@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rohitpotato",
+				"email": "rohit.mmm1996@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2687618107876914,
+		"detail": {
+			"quality": 0.4832149164437268,
+			"popularity": 0.020444915637159975,
+			"maintenance": 0.33326175823304965
+		}
+	},
+	"searchScore": 8.001633e-7
+}

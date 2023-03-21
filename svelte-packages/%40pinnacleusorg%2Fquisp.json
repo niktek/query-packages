@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@pinnacleusorg/quisp",
+		"scope": "pinnacleusorg",
+		"version": "0.12.0",
+		"description": "Quick UI for Svelte at Pinnacle",
+		"date": "2022-09-24T05:44:05.737Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40pinnacleusorg%2Fquisp",
+			"homepage": "https://github.com/pinnacleusorg/quisp#readme",
+			"repository": "https://github.com/pinnacleusorg/quisp",
+			"bugs": "https://github.com/pinnacleusorg/quisp/issues"
+		},
+		"author": {
+			"name": "pinnacle",
+			"email": "ivy@pinnacle.us.org"
+		},
+		"publisher": {
+			"username": "sdbagel",
+			"email": "sdbagel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sdbagel",
+				"email": "sdbagel@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22227152112091902,
+		"detail": {
+			"quality": 0.3490509578708993,
+			"popularity": 0.0026322482020618857,
+			"maintenance": 0.333242705396936
+		}
+	},
+	"searchScore": 1.1040634e-8
+}

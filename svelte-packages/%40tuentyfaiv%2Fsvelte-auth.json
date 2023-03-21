@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@tuentyfaiv/svelte-auth",
+		"scope": "tuentyfaiv",
+		"version": "0.0.5",
+		"description": "A library for authorization in svelte",
+		"keywords": [
+			"Svelte",
+			"Authorization"
+		],
+		"date": "2023-02-14T17:10:33.133Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tuentyfaiv%2Fsvelte-auth",
+			"homepage": "https://github.com/TuentyFaiv/svelte-auth#readme",
+			"repository": "https://github.com/TuentyFaiv/svelte-auth",
+			"bugs": "https://github.com/TuentyFaiv/svelte-auth/issues"
+		},
+		"author": {
+			"name": "Tonalli López",
+			"email": "contact@tuentyfaiv.com",
+			"username": "tuentyfaiv"
+		},
+		"publisher": {
+			"username": "tuentyfaiv",
+			"email": "contact@tuentyfaiv.com"
+		},
+		"maintainers": [
+			{
+				"username": "tuentyfaiv",
+				"email": "contact@tuentyfaiv.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24894570314208436,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.006224451478560713,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.7958788e-7
+}

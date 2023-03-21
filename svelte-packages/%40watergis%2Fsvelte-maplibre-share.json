@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@watergis/svelte-maplibre-share",
+		"scope": "watergis",
+		"version": "0.1.14",
+		"description": "This is a svelte component to add share control plugin to maplibre.",
+		"keywords": [
+			"maplibre",
+			"maplibre-gl-js",
+			"share"
+		],
+		"date": "2023-02-19T10:30:21.166Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40watergis%2Fsvelte-maplibre-share",
+			"homepage": "https://github.com/watergis/svelte-maplibre-components/tree/main/packages/share#readme",
+			"repository": "https://github.com/watergis/svelte-maplibre-components",
+			"bugs": "https://github.com/watergis/svelte-maplibre-components/issues"
+		},
+		"author": {
+			"name": "Jin IGARASHI"
+		},
+		"publisher": {
+			"username": "j_igarashi",
+			"email": "info@water-gis.com"
+		},
+		"maintainers": [
+			{
+				"username": "j_igarashi",
+				"email": "info@water-gis.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.258219972998962,
+		"detail": {
+			"quality": 0.4629360028651223,
+			"popularity": 0.007635729922167581,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.32606e-7
+}

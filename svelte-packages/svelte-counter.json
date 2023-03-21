@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-counter",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Dynamic Counter Component for Svelte 3",
+		"keywords": [
+			"svelte3",
+			"svelte",
+			"counter"
+		],
+		"date": "2020-04-23T17:07:06.855Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-counter",
+			"homepage": "https://github.com/rallisf1/svelte-counter#readme",
+			"repository": "https://github.com/rallisf1/svelte-counter",
+			"bugs": "https://github.com/rallisf1/svelte-counter/issues"
+		},
+		"author": {
+			"name": "rallisf1"
+		},
+		"publisher": {
+			"username": "rallisf1",
+			"email": "rallisf1@yahoo.gr"
+		},
+		"maintainers": [
+			{
+				"username": "rallisf1",
+				"email": "rallisf1@yahoo.gr"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18688461219203528,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.007284620782558142,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.1144e-9
+}

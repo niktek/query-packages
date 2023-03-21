@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@htmlbricks/hb-page-invoice",
+		"scope": "htmlbricks",
+		"version": "0.19.31",
+		"description": "Svelte Invoice WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents",
+			"html5-webcomponents"
+		],
+		"date": "2023-02-28T18:24:27.064Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fhb-page-invoice"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23473136949771173,
+		"detail": {
+			"quality": 0.34512357220938283,
+			"popularity": 0.04150751762351494,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.275747e-8
+}

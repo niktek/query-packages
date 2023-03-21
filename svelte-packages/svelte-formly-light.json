@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-formly-light",
+		"scope": "unscoped",
+		"version": "0.0.10",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-07-24T00:06:51.780Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-formly-light"
+		},
+		"publisher": {
+			"username": "marocdevelop",
+			"email": "maroc.develop@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "marocdevelop",
+				"email": "maroc.develop@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22414774011581617,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.030064394497656827,
+			"maintenance": 0.3306483258170397
+		}
+	},
+	"searchScore": 6.6946065e-8
+}

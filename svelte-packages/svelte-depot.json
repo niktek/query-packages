@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-depot",
+		"scope": "unscoped",
+		"version": "0.9.4",
+		"description": "Repository pattern for Svelte stores",
+		"keywords": [
+			"depot",
+			"svelte",
+			"repository",
+			"store"
+		],
+		"date": "2021-05-01T16:37:44.464Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-depot",
+			"homepage": "https://github.com/ubermanu/depot#readme",
+			"repository": "https://github.com/ubermanu/depot",
+			"bugs": "https://github.com/ubermanu/depot/issues"
+		},
+		"author": {
+			"name": "ubermanu"
+		},
+		"publisher": {
+			"username": "ubermanu",
+			"email": "e.vodor@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ubermanu",
+				"email": "e.vodor@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23480688726486842,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0026873827639538367,
+			"maintenance": 0.2830659289854068
+		}
+	},
+	"searchScore": 1.3547866e-7
+}

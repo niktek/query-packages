@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@hisystems/snowpack-app-template-svelte",
+		"scope": "hisystems",
+		"version": "1.8.11",
+		"description": "> ✨ Bootstrapped with Create Snowpack App (CSA).",
+		"keywords": [
+			"csa-template"
+		],
+		"date": "2020-09-29T23:44:20.036Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40hisystems%2Fsnowpack-app-template-svelte"
+		},
+		"publisher": {
+			"username": "caiusrsm",
+			"email": "caiusrsm@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "caiusrsm",
+				"email": "caiusrsm@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2815799569641693,
+		"detail": {
+			"quality": 0.8124265852715404,
+			"popularity": 0.018406820699143272,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000012354594
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-shiki",
+		"scope": "unscoped",
+		"version": "0.0.6",
+		"description": "A preprocessor for Svelte, adding syntax highligting through the Shiki library.",
+		"keywords": [
+			"svelte",
+			"shiki",
+			"preprocessor",
+			"syntax highlighting"
+		],
+		"date": "2020-05-19T09:47:10.548Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-shiki"
+		},
+		"author": {
+			"name": "Morsby"
+		},
+		"publisher": {
+			"username": "morsby",
+			"email": "npm@morsby.dk"
+		},
+		"maintainers": [
+			{
+				"username": "morsby",
+				"email": "npm@morsby.dk"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26473133196295134,
+		"detail": {
+			"quality": 0.7744496140979511,
+			"popularity": 0.0028195817015971183,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.25327e-7
+}

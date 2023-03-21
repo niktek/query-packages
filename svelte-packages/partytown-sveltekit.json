@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "partytown-sveltekit",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "A simple svelte wrapper for [@builder.io/partytown](https://partytown.builder.io/)",
+		"date": "2022-04-12T14:18:17.090Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/partytown-sveltekit",
+			"homepage": "https://github.com/romaindurand/partytown-sveltekit#readme",
+			"repository": "https://github.com/romaindurand/partytown-sveltekit",
+			"bugs": "https://github.com/romaindurand/partytown-sveltekit/issues"
+		},
+		"publisher": {
+			"username": "romaindurand",
+			"email": "romaindurand89@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "romaindurand",
+				"email": "romaindurand89@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21023442822766747,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.02500432497985856,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 1.563368e-8
+}

@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "fluent-svelte",
+		"scope": "unscoped",
+		"version": "1.6.0",
+		"description": "A faithful implementation of Microsoft's Fluent Design System in Svelte.",
+		"keywords": [
+			"design",
+			"design-system",
+			"design-language",
+			"microsoft",
+			"fluent",
+			"fluentui",
+			"fluent-design",
+			"fluent-design-system",
+			"svelte",
+			"svelte3",
+			"sveltejs",
+			"svelte-component",
+			"svelte-components",
+			"ui-components",
+			"winui",
+			"windows"
+		],
+		"date": "2022-06-05T01:14:26.483Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/fluent-svelte",
+			"homepage": "https://github.com/tropix126/fluent-svelte",
+			"repository": "https://github.com/tropix126/fluent-svelte",
+			"bugs": "https://github.com/tropix126/fluent-svelte/issues"
+		},
+		"author": {
+			"name": "tropix126",
+			"url": "https://github.com/tropix126/"
+		},
+		"publisher": {
+			"username": "tropix126",
+			"email": "nh126person@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tropix126",
+				"email": "nh126person@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2669184836240507,
+		"detail": {
+			"quality": 0.45895049530327514,
+			"popularity": 0.04291349857118036,
+			"maintenance": 0.3263246015233001
+		}
+	},
+	"searchScore": 0.0000010527336
+}

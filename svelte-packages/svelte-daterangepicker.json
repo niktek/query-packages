@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-daterangepicker",
+		"scope": "unscoped",
+		"version": "13.2.0",
+		"description": "This package was forked from `@beyonk/svelte-datepicker` and then cleaned-up and updated to use `svelte-package` to generate importable Svelte components that play nicely in other codebases (such as MeteorJS apps).",
+		"date": "2023-01-31T10:31:39.009Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-daterangepicker"
+		},
+		"publisher": {
+			"username": "vpalos",
+			"email": "hi@vpalos.com"
+		},
+		"maintainers": [
+			{
+				"username": "vpalos",
+				"email": "hi@vpalos.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.36690433350472895,
+		"detail": {
+			"quality": 0.8056940205034193,
+			"popularity": 0.024369887677247196,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000055663164
+}

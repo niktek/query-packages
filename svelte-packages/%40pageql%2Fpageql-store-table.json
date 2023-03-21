@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@pageql/pageql-store-table",
+		"scope": "pageql",
+		"version": "1.0.4",
+		"description": "PageQL Table functionality in the form of a Svelte Store",
+		"keywords": [
+			"table",
+			"datatable",
+			"data-table",
+			"graphql",
+			"svelte"
+		],
+		"date": "2020-08-07T07:13:21.762Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40pageql%2Fpageql-store-table",
+			"homepage": "https://github.com/pageql/pageql-store-table#readme",
+			"repository": "https://github.com/pageql/pageql-store-table",
+			"bugs": "https://github.com/pageql/pageql-store-table/issues"
+		},
+		"author": {
+			"name": "Conner Aldrich"
+		},
+		"publisher": {
+			"username": "conprogramming",
+			"email": "connercaldrich@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "conprogramming",
+				"email": "connercaldrich@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20982331465505488,
+		"detail": {
+			"quality": 0.5711742087327785,
+			"popularity": 0.020175593992040875,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.6555498e-8
+}

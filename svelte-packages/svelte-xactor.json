@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "svelte-xactor",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "This middleware allows you to easily convert your [xactor](https://github.com/statelyai/xactor) machines into a global store that implements store contract.",
+		"keywords": [
+			"svelte",
+			"store",
+			"xactor"
+		],
+		"date": "2021-09-17T18:29:05.637Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-xactor"
+		},
+		"publisher": {
+			"username": "wobsoriano",
+			"email": "sorianorobertc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wobsoriano",
+				"email": "sorianorobertc@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20608227987246863,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0013675232066606574,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 2.4094984e-8
+}

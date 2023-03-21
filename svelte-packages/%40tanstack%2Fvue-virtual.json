@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@tanstack/vue-virtual",
+		"scope": "tanstack",
+		"version": "3.0.0-beta.27",
+		"description": "Headless UI for virtualizing scrollable elements in Solid",
+		"keywords": [
+			"react",
+			"vue",
+			"solid",
+			"svelte",
+			"virtual",
+			"virtual-core",
+			"datagrid"
+		],
+		"date": "2022-12-05T14:44:04.526Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tanstack%2Fvue-virtual",
+			"homepage": "https://github.com/tanstack/virtual#readme",
+			"repository": "https://github.com/tanstack/virtual",
+			"bugs": "https://github.com/tanstack/virtual/issues"
+		},
+		"author": {
+			"name": "Tanner Linsley"
+		},
+		"publisher": {
+			"username": "tannerlinsley",
+			"email": "tannerlinsley@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nksaraf",
+				"email": "nsaraf98@gmail.com"
+			},
+			{
+				"username": "tannerlinsley",
+				"email": "tannerlinsley@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25096567932212305,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.015615923771338209,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.942831e-8
+}

@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@htmlbricks/hb-card-video",
+		"scope": "htmlbricks",
+		"version": "0.19.31",
+		"description": "Svelte Boostrap Video Card WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2023-02-28T18:23:59.280Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fhb-card-video"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23580771942194617,
+		"detail": {
+			"quality": 0.3445850424719881,
+			"popularity": 0.04504440003909456,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.0651832e-7
+}

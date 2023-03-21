@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "svelte-grid-layout",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "![npm](https://img.shields.io/npm/v/svelte-grid-layout?style=plastic) ![GitHub](https://img.shields.io/github/license/wiviwonderwoman/svelte-grid-layout?style=plastic) ![npm](https://img.shields.io/npm/dw/svelte-grid-layout?style=plastic) \r ## Description",
+		"keywords": [
+			"svelte",
+			"grid",
+			"layout",
+			"template",
+			"svelte component"
+		],
+		"date": "2021-12-22T12:52:59.118Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-grid-layout",
+			"homepage": "https://github.com/MarieanneWU20/svelte-grid-layout#readme",
+			"repository": "https://github.com/MarieanneWU20/svelte-grid-layout",
+			"bugs": "https://github.com/MarieanneWU20/svelte-grid-layout/issues"
+		},
+		"author": {
+			"name": "Marie Eriksson",
+			"email": "erma20xg@student.ju.se",
+			"url": "https://github.com/kerstinmarie"
+		},
+		"publisher": {
+			"username": "wiviwonderwoman",
+			"email": "w.grapenholt@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wiviwonderwoman",
+				"email": "w.grapenholt@gmail.com"
+			},
+			{
+				"username": "kerstinmarie",
+				"email": "marieeriksson044@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21360766118917843,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0026530997401997096,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 3.8978573e-8
+}

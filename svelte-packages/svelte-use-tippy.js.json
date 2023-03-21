@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-use-tippy.js",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Use tippy.js in svelte",
+		"keywords": [
+			"svelte",
+			"plugin",
+			"component",
+			"popperjs",
+			"tippy.js"
+		],
+		"date": "2021-05-27T22:15:38.302Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-use-tippy.js"
+		},
+		"author": {
+			"name": "wareset",
+			"email": "git@wareset.com",
+			"username": "nk12"
+		},
+		"publisher": {
+			"username": "nk12",
+			"email": "git@wareset.com"
+		},
+		"maintainers": [
+			{
+				"username": "nk12",
+				"email": "git@wareset.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19457687360439402,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0016225565897266057,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 1.1697677e-8
+}

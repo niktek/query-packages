@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@michmich112/svelte-chartjs",
+		"scope": "michmich112",
+		"version": "1.1.1",
+		"description": "[![npm version](https://badge.fury.io/js/svelte-chartjs.svg)](https://badge.fury.io/js/svelte-chartjs) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSauravKanchan%2Fsvelte-chartjs.svg?type=shield)](https://app.fossa.com/projects/g",
+		"keywords": [
+			"svelte",
+			"chartjs"
+		],
+		"date": "2021-11-14T20:30:55.969Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40michmich112%2Fsvelte-chartjs",
+			"homepage": "https://github.com/michmich112/svelte-chartjs#readme",
+			"repository": "https://github.com/michmich112/svelte-chartjs",
+			"bugs": "https://github.com/michmich112/svelte-chartjs"
+		},
+		"author": {
+			"name": "Saurav Kanchan"
+		},
+		"publisher": {
+			"username": "michmich112",
+			"email": "cantacuzene.michel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "michmich112",
+				"email": "cantacuzene.michel@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20943579220276068,
+		"detail": {
+			"quality": 0.4969965248782887,
+			"popularity": 0.0016661692551382154,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 2.887696e-8
+}

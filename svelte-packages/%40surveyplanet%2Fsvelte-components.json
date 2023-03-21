@@ -1,0 +1,63 @@
+{
+	"package": {
+		"name": "@surveyplanet/svelte-components",
+		"scope": "surveyplanet",
+		"version": "0.2.1",
+		"description": "A collection of Svelte UI components",
+		"keywords": [
+			"svelte",
+			"component",
+			"avatar",
+			"badge",
+			"breadcrumbs",
+			"button",
+			"checkbox",
+			"icon",
+			"radio",
+			"toggle"
+		],
+		"date": "2023-02-22T20:29:54.669Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40surveyplanet%2Fsvelte-components",
+			"homepage": "https://ui.surveyplanet.com",
+			"repository": "https://github.com/surveyplanet/svelte_components",
+			"bugs": "https://github.com/surveyplanet/svelte_components/issues"
+		},
+		"author": {
+			"name": "Jonah Werre",
+			"email": "jonahwerre@gmail.com",
+			"url": "https://github.com/jwerre",
+			"username": "jwerre"
+		},
+		"publisher": {
+			"username": "jwerre",
+			"email": "jonahwerre@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "serferdinand2",
+				"email": "ognjen@surveyplanet.com"
+			},
+			{
+				"username": "jwerre",
+				"email": "jonahwerre@gmail.com"
+			},
+			{
+				"username": "jw310",
+				"email": "jw@surveyplanet.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.27916200909873273,
+		"detail": {
+			"quality": 0.5314309668399496,
+			"popularity": 0.008760149657374844,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000012838931
+}

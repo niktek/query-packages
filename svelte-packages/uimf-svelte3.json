@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "uimf-svelte3",
+		"scope": "unscoped",
+		"version": "1.3.2",
+		"description": "* Resolve\r   * Create `FormInstance`\r   * Initialize `FormInstance` input fields from URL parameters\r * Create Svelte component (`Form`)\r * Initialize Svelte component (`Form`)\r   * If `postOnLoad == true` and all required inputs have values, post the for",
+		"date": "2021-09-07T19:32:02.503Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/uimf-svelte3",
+			"homepage": "https://github.com/UNOPS/uimf-client-svelte3",
+			"repository": "https://github.com/UNOPS/uimf-client-svelte3",
+			"bugs": "https://github.com/UNOPS/uimf-client-svelte3/issues"
+		},
+		"author": {
+			"name": "unops_pmu"
+		},
+		"publisher": {
+			"username": "nehad136",
+			"email": "nehadh@unops.org"
+		},
+		"maintainers": [
+			{
+				"username": "mohammedta",
+				"email": "mohammedta@unops.org"
+			},
+			{
+				"username": "samar-elhissi",
+				"email": "samarel@unops.org"
+			},
+			{
+				"username": "it.mmu",
+				"email": "it.mmu@unops.org"
+			},
+			{
+				"username": "nehad136",
+				"email": "nehadh@unops.org"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20712915857621228,
+		"detail": {
+			"quality": 0.471894681147537,
+			"popularity": 0.0024735150194204183,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 1.0673923e-8
+}

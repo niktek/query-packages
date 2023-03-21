@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@responsive-ui/badge",
+		"scope": "responsive-ui",
+		"version": "1.1.0-alpha.8",
+		"description": "A notification bell component of responsive-ui.",
+		"keywords": [
+			"svelte",
+			"ui-component",
+			"responsive-ui",
+			"badge",
+			"svelte-badge"
+		],
+		"date": "2022-03-14T06:40:02.769Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40responsive-ui%2Fbadge",
+			"homepage": "https://github.com/wetix/responsive-ui/blob/main/components/badge#README.md",
+			"repository": "https://github.com/wetix/responsive-ui",
+			"bugs": "https://github.com/wetix/responsive-ui/issues"
+		},
+		"author": {
+			"name": "Si3nLoong",
+			"email": "sianloong90@gmail.com",
+			"url": "https://github.com/si3nloong"
+		},
+		"publisher": {
+			"username": "mohamadharith",
+			"email": "harith@revenuemonster.my"
+		},
+		"maintainers": [
+			{
+				"username": "mohamadharith",
+				"email": "harith@revenuemonster.my"
+			},
+			{
+				"username": "charu.yussuf",
+				"email": "yussuf@revenuemonster.my"
+			},
+			{
+				"username": "apacventure",
+				"email": "apacventure@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.29763617233102946,
+		"detail": {
+			"quality": 0.6173293530699571,
+			"popularity": 0.0033793024073221463,
+			"maintenance": 0.31787031590708464
+		}
+	},
+	"searchScore": 0.0000012780202
+}

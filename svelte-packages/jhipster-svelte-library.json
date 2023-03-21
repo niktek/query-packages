@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "jhipster-svelte-library",
+		"scope": "unscoped",
+		"version": "0.10.0",
+		"description": "Svelte components and utility functions library for use in the JHipster generated projects.",
+		"keywords": [
+			"svelte",
+			"tailwindcss"
+		],
+		"date": "2022-11-20T10:07:05.388Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/jhipster-svelte-library",
+			"homepage": "https://github.com/vishal423/jhipster-svelte-library",
+			"repository": "https://github.com/vishal423/jhipster-svelte-library",
+			"bugs": "https://github.com/vishal423/jhipster-svelte-library/issues"
+		},
+		"author": {
+			"name": "Vishal Mahajan",
+			"email": "vishal423@gmail.com",
+			"url": "https://twitter.com/vishal423",
+			"username": "vishal423"
+		},
+		"publisher": {
+			"username": "vishal423",
+			"email": "vishal423@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vishal423",
+				"email": "vishal423@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3149149966920822,
+		"detail": {
+			"quality": 0.6553019777140612,
+			"popularity": 0.004736390603420673,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000006853881
+}

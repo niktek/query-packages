@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "phosphor-svelte",
+		"scope": "unscoped",
+		"version": "1.2.1",
+		"description": "A clean and friendly icon family for Svelte",
+		"keywords": [
+			"icons",
+			"icon-pack",
+			"web",
+			"html",
+			"css",
+			"svg",
+			"svg-icons",
+			"icon-font"
+		],
+		"date": "2022-05-19T10:04:58.121Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/phosphor-svelte",
+			"homepage": "https://phosphoricons.com/",
+			"bugs": "https://github.com/haruaki07/phosphor-svelte/issues"
+		},
+		"author": {
+			"name": "haruaki07"
+		},
+		"publisher": {
+			"username": "haruaki07",
+			"email": "misbahulk2236@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "haruaki07",
+				"email": "misbahulk2236@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2884730338596858,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.034703913566123484,
+			"maintenance": 0.25840157465938773
+		}
+	},
+	"searchScore": 0.000002500946
+}

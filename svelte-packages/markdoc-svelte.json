@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "markdoc-svelte",
+		"scope": "unscoped",
+		"version": "0.5.0",
+		"description": "A preprocessor to render Markdoc in Svelte",
+		"keywords": [
+			"svelte",
+			"Markdoc",
+			"Markdown"
+		],
+		"date": "2023-01-04T20:46:30.211Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/markdoc-svelte",
+			"homepage": "https://github.com/CollierCZ/markdoc-svelte#readme",
+			"repository": "https://github.com/CollierCZ/markdoc-svelte",
+			"bugs": "https://github.com/CollierCZ/markdoc-svelte/issues"
+		},
+		"author": {
+			"name": "Aaron Collier"
+		},
+		"publisher": {
+			"username": "colliercz",
+			"email": "aaron@collier.cz"
+		},
+		"maintainers": [
+			{
+				"username": "colliercz",
+				"email": "aaron@collier.cz"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25246552475981954,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.003283571805700158,
+			"maintenance": 0.33292298992923514
+		}
+	},
+	"searchScore": 3.5340025e-7
+}

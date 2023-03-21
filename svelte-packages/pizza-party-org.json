@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "pizza-party-org",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-08-24T19:02:51.295Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/pizza-party-org"
+		},
+		"publisher": {
+			"username": "addlightness",
+			"email": "marlinwmack@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "addlightness",
+				"email": "marlinwmack@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2205985362821743,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.002231133777026417,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 9.422898e-9
+}

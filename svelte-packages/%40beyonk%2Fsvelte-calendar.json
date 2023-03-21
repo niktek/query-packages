@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@beyonk/svelte-calendar",
+		"scope": "beyonk",
+		"version": "2.2.3",
+		"description": "**THIS PROJECT IS ARCHIVED IN FAVOUR OF https://github.com/beyonk-adventures/svelte-datepicker**",
+		"date": "2020-12-03T11:30:43.184Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40beyonk%2Fsvelte-calendar",
+			"homepage": "https://github.com/beyonk-adventures/svelte-calendar#readme",
+			"repository": "https://github.com/beyonk-adventures/svelte-calendar",
+			"bugs": "https://github.com/beyonk-adventures/svelte-calendar/issues"
+		},
+		"publisher": {
+			"username": "antony",
+			"email": "aj@desirableobjects.co.uk"
+		},
+		"maintainers": [
+			{
+				"username": "dextermb",
+				"email": "dexter.mb@outlook.com"
+			},
+			{
+				"username": "ghostsos",
+				"email": "ghostdevbusiness@gmail.com"
+			},
+			{
+				"username": "ahpercival",
+				"email": "adrian.percival@beyonk.com"
+			},
+			{
+				"username": "alex.dilley",
+				"email": "alex.dilley@gmail.com"
+			},
+			{
+				"username": "antony",
+				"email": "aj@desirableobjects.co.uk"
+			},
+			{
+				"username": "adampond",
+				"email": "adam@beyonk.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.29933900297712096,
+		"detail": {
+			"quality": 0.8895361922957907,
+			"popularity": 0.003053003286790613,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000032692803
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@thomaslandro/sveltekit-lambda-adapter",
+		"scope": "thomaslandro",
+		"version": "0.0.15",
+		"description": "Forked from @djverral/sveltekit-lambda-adapter. A small adapter to bundle sveltekit for deployment to aws lambda",
+		"date": "2022-07-13T06:39:23.238Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40thomaslandro%2Fsveltekit-lambda-adapter"
+		},
+		"author": {
+			"name": "Daniel Verrall"
+		},
+		"publisher": {
+			"username": "thomaslandro",
+			"email": "tlj@tlj.no"
+		},
+		"maintainers": [
+			{
+				"username": "thomaslandro",
+				"email": "tlj@tlj.no"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3167419175172864,
+		"detail": {
+			"quality": 0.7836682615264048,
+			"popularity": 0.0010024629158716884,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 0.0000024450305
+}

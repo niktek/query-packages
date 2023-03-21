@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "vite-plugin-svelte-bind-spread",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "A vite plugin for svelte that by default, if a object is spread into a component, it will bind each property in the object as props.",
+		"keywords": [
+			"vite",
+			"plugin",
+			"svelte",
+			"bind",
+			"spread"
+		],
+		"date": "2022-12-05T14:47:32.390Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-plugin-svelte-bind-spread",
+			"homepage": "https://github.com/SanjayDookhoo/vite-plugin-svelte-bind-spread#readme",
+			"repository": "https://github.com/SanjayDookhoo/vite-plugin-svelte-bind-spread",
+			"bugs": "https://github.com/SanjayDookhoo/vite-plugin-svelte-bind-spread/issues"
+		},
+		"author": {
+			"name": "Sanjay Dookhoo"
+		},
+		"publisher": {
+			"username": "sanjaydookhoo",
+			"email": "sanjaydookhoo@msn.com"
+		},
+		"maintainers": [
+			{
+				"username": "sanjaydookhoo",
+				"email": "sanjaydookhoo@msn.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2739623171017098,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0024613810501606438,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 8.104867e-7
+}

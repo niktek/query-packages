@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@ztl-uwu/labui",
+		"scope": "ztl-uwu",
+		"version": "0.1.83",
+		"description": "A Svelte frontend UI library.",
+		"date": "2022-10-24T06:53:20.365Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ztl-uwu%2Flabui",
+			"homepage": "https://github.com/ZTL-UwU/LabUI#readme",
+			"repository": "https://github.com/ZTL-UwU/LabUI",
+			"bugs": "https://github.com/ZTL-UwU/LabUI/issues"
+		},
+		"publisher": {
+			"username": "ztl-uwu",
+			"email": "zhangtianli2006@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "ztl-uwu",
+				"email": "zhangtianli2006@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.246522187503584,
+		"detail": {
+			"quality": 0.40984857097124905,
+			"popularity": 0.019716998701550484,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.6318605e-8
+}

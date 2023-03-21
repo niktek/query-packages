@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "template-svelte-experiment",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Template for building Svelte libraries with Storybook and Rollup",
+		"date": "2020-09-01T04:52:39.813Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/template-svelte-experiment"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "codeofficer",
+			"email": "codeofficer@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "codeofficer",
+				"email": "codeofficer@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3246907616409689,
+		"detail": {
+			"quality": 0.9758202115054826,
+			"popularity": 0.0015288687180486996,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000098643
+}

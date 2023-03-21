@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@budibase/bbui",
+		"scope": "budibase",
+		"version": "2.4.34",
+		"description": "A UI solution used in the different Budibase projects.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2023-03-20T10:43:18.083Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40budibase%2Fbbui"
+		},
+		"publisher": {
+			"username": "shogunpurple",
+			"email": "martin@budibase.com"
+		},
+		"maintainers": [
+			{
+				"username": "mike_chuckles",
+				"email": "me@michaeldrury.co.uk"
+			},
+			{
+				"username": "shogunpurple",
+				"email": "martin@budibase.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26793854556546925,
+		"detail": {
+			"quality": 0.4412719742964627,
+			"popularity": 0.053972247456753726,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.098493e-7
+}

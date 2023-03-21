@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-q",
+		"scope": "unscoped",
+		"version": "0.4.2",
+		"description": "svelteQ is a data fetching library built for Svelte",
+		"keywords": [
+			"svelte",
+			"request",
+			"fetch",
+			"cache",
+			"query"
+		],
+		"date": "2022-07-15T14:35:00.953Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-q"
+		},
+		"author": {
+			"name": "maxam2017"
+		},
+		"publisher": {
+			"username": "maxam2017",
+			"email": "whk0313@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "maxam2017",
+				"email": "whk0313@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25738658882890547,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.019618418972426804,
+			"maintenance": 0.3306483258170397
+		}
+	},
+	"searchScore": 5.336464e-7
+}

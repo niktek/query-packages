@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-hmr",
+		"scope": "unscoped",
+		"version": "0.15.1",
+		"description": "Bundler agnostic HMR utils for Svelte 3",
+		"date": "2022-11-14T21:53:40.167Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-hmr",
+			"homepage": "https://github.com/sveltejs/svelte-hmr",
+			"repository": "https://github.com/sveltejs/svelte-hmr",
+			"bugs": "https://github.com/sveltejs/svelte-hmr/issues"
+		},
+		"author": {
+			"name": "rixo",
+			"email": "rixo@rixo.fr",
+			"username": "rixo"
+		},
+		"publisher": {
+			"username": "rixo",
+			"email": "rixo@rixo.fr"
+		},
+		"maintainers": [
+			{
+				"username": "rixo",
+				"email": "rixo@rixo.fr"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.31063617024609225,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.1704296296281748,
+			"maintenance": 0.33197877635325396
+		}
+	},
+	"searchScore": 0.000017395889
+}

@@ -1,0 +1,32 @@
+{
+	"package": {
+		"name": "svelte-result-store",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Svelte store with error handling and propagation",
+		"date": "2021-05-30T06:26:51.201Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-result-store",
+			"homepage": "https://github.com/greymass/svelte-result-store"
+		},
+		"publisher": {
+			"username": "jnordberg",
+			"email": "code@johan-nordberg.com"
+		},
+		"maintainers": [
+			{
+				"username": "jnordberg",
+				"email": "code@johan-nordberg.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20031818373366636,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0028732818103797825,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 1.4046157e-8
+}

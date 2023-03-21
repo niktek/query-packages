@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@yungezeit/eslint-config-svelte",
+		"scope": "yungezeit",
+		"version": "0.0.10",
+		"description": "Personal Svelte ESLint config",
+		"keywords": [
+			"eslint",
+			"eslint-config",
+			"yungezeit",
+			"typescript",
+			"svelte"
+		],
+		"date": "2023-02-23T13:47:27.564Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40yungezeit%2Feslint-config-svelte",
+			"homepage": "https://github.com/yungezeit/eslint-config/tree/main/packages/svelte",
+			"repository": "https://github.com/yungezeit/eslint-config",
+			"bugs": "https://github.com/yungezeit/eslint-config/issues"
+		},
+		"author": {
+			"name": "Charles Gruenais"
+		},
+		"publisher": {
+			"username": "charles.gruenais",
+			"email": "charles.gruenais@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "charles.gruenais",
+				"email": "charles.gruenais@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22130836602180542,
+		"detail": {
+			"quality": 0.3225776017021793,
+			"popularity": 0.022481196698528532,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.8505655e-8
+}

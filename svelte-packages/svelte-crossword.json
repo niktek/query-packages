@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-crossword",
+		"scope": "unscoped",
+		"version": "0.3.4",
+		"description": "Crossword component for Svelte",
+		"keywords": [
+			"svelte",
+			"crossword",
+			"puzzle"
+		],
+		"date": "2020-11-30T14:42:53.271Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-crossword",
+			"homepage": "https://github.com/russellgoldenberg/svelte-crossword#readme",
+			"repository": "https://github.com/russellgoldenberg/svelte-crossword",
+			"bugs": "https://github.com/russellgoldenberg/svelte-crossword/issues"
+		},
+		"author": {
+			"name": "russell goldenberg"
+		},
+		"publisher": {
+			"username": "codenberg",
+			"email": "russellgoldenberg@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "russellsamora",
+				"email": "russellsamora@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22555608059271143,
+		"detail": {
+			"quality": 0.4088071151157153,
+			"popularity": 0.00512036863864287,
+			"maintenance": 0.28891947724134814
+		}
+	},
+	"searchScore": 8.05652e-8
+}

@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "simple-svelte-autocomplete",
+		"scope": "unscoped",
+		"version": "2.5.2",
+		"description": "Autocomplete / Select / Typeahead component made with Svelte 3",
+		"keywords": [
+			"svelte",
+			"autocomplete",
+			"svelte3",
+			"svelte-components",
+			"autocomplete",
+			"auto complete",
+			"autosuggest",
+			"auto suggest",
+			"typeahead",
+			"type ahead"
+		],
+		"date": "2023-02-09T16:21:48.586Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/simple-svelte-autocomplete",
+			"homepage": "https://github.com/pstanoev/simple-svelte-autocomplete#readme",
+			"repository": "https://github.com/pstanoev/simple-svelte-autocomplete",
+			"bugs": "https://github.com/pstanoev/simple-svelte-autocomplete/issues"
+		},
+		"publisher": {
+			"username": "pstanoev",
+			"email": "peceps@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pstanoev",
+				"email": "peceps@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.38692993905297823,
+		"detail": {
+			"quality": 0.8370463163085748,
+			"popularity": 0.05471250712496897,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00015245145
+}

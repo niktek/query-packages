@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "vite-plugin-redirect",
+		"scope": "unscoped",
+		"version": "0.2.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-09-06T04:42:15.721Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vite-plugin-redirect"
+		},
+		"publisher": {
+			"username": "ebeloded",
+			"email": "belodedevgenij@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ebeloded",
+				"email": "belodedevgenij@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23403840078738447,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.03548300821673635,
+			"maintenance": 0.33217918852184997
+		}
+	},
+	"searchScore": 2.9621695e-8
+}

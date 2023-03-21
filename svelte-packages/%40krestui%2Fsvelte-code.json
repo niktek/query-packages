@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@krestui/svelte-code",
+		"scope": "krestui",
+		"version": "0.3.0",
+		"description": "Code component of svelte to highlight code",
+		"date": "2022-07-19T23:35:56.705Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40krestui%2Fsvelte-code",
+			"homepage": "https://github.com/krestui/krestui#readme",
+			"repository": "https://github.com/krestui/krestui",
+			"bugs": "https://github.com/krestui/krestui/issues"
+		},
+		"author": {
+			"name": "KrestUI"
+		},
+		"publisher": {
+			"username": "hellokarthik",
+			"email": "karthiknetworklink@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hellokarthik",
+				"email": "karthiknetworklink@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1718837306843526,
+		"detail": {
+			"quality": 0.25385225265414757,
+			"popularity": 0.0015195751400454995,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 1.349989e-9
+}

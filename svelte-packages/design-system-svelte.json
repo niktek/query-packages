@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "design-system-svelte",
+		"scope": "unscoped",
+		"version": "0.0.15",
+		"description": "Design System with ready to use and customizable components",
+		"date": "2021-12-11T19:23:09.577Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/design-system-svelte"
+		},
+		"author": {
+			"name": "Priyav K Kaneria",
+			"email": "priyavkaneria@gmail.com",
+			"username": "priyavkaneria"
+		},
+		"publisher": {
+			"username": "priyavkaneria",
+			"email": "priyavkaneria@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "priyavkaneria",
+				"email": "priyavkaneria@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18081523669604094,
+		"detail": {
+			"quality": 0.2564197569473003,
+			"popularity": 0.024837445779309904,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 3.2528196e-9
+}

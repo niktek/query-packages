@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@kuiper/svelte-scan-qrcode",
+		"scope": "kuiper",
+		"version": "0.0.5",
+		"description": "Scan QR Code on browser by open camera or upload QR Code image. Support open cameras on Android and iOS browsers.",
+		"keywords": [
+			"qrcode scanner",
+			"scan",
+			"scan qrcode",
+			"qrcode",
+			"svelte"
+		],
+		"date": "2022-10-09T07:26:12.519Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kuiper%2Fsvelte-scan-qrcode",
+			"homepage": "https://github.com/kofkuiper/svelte-scan-qrcode#readme",
+			"repository": "https://github.com/kofkuiper/svelte-scan-qrcode",
+			"bugs": "https://github.com/kofkuiper/svelte-scan-qrcode/issues"
+		},
+		"author": {
+			"name": "kuiper",
+			"email": "kofkuiper@gmail.com",
+			"url": "https://github.com/kofkuiper",
+			"username": "kuiper"
+		},
+		"publisher": {
+			"username": "kuiper",
+			"email": "kofkuiper@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kuiper",
+				"email": "kofkuiper@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2118035801153794,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.0028266731331170374,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.260061e-8
+}

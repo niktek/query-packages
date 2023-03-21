@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@unidriver/jsdom-svelte",
+		"scope": "unidriver",
+		"version": "1.2.0",
+		"description": "JSDom Svelte adapter for Unidriver",
+		"date": "2021-12-08T11:29:10.863Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40unidriver%2Fjsdom-svelte"
+		},
+		"author": {
+			"name": "Wix.com"
+		},
+		"publisher": {
+			"username": "gabigrin",
+			"email": "gabi.grinberg@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gabigrin",
+				"email": "gabi.grinberg@gmail.com"
+			},
+			{
+				"username": "borisd",
+				"email": "xbmanx9@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26678043771464455,
+		"detail": {
+			"quality": 0.7416267583440455,
+			"popularity": 0.0027141694500215944,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 6.8469905e-7
+}

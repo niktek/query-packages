@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "remixicon-sveltejs",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "All Remixicon icons made into Svelte components for easy integration",
+		"date": "2022-12-16T16:18:53.861Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/remixicon-sveltejs",
+			"homepage": "https://github.com/wimogas/remixicon-sveltejs#readme",
+			"repository": "https://github.com/wimogas/remixicon-sveltejs",
+			"bugs": "https://github.com/wimogas/remixicon-sveltejs/issues"
+		},
+		"publisher": {
+			"username": "wimogas",
+			"email": "wimogas@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wimogas",
+				"email": "wimogas@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24326320748270014,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.005090055344337643,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 8.86622e-8
+}

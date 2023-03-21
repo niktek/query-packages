@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-fuzzy",
+		"scope": "unscoped",
+		"version": "2.1.0",
+		"description": "Fuse.js binding for fuzzy text match highlighting.",
+		"keywords": [
+			"svelte",
+			"svelte 3",
+			"fuzzy",
+			"fuse.js",
+			"highlight",
+			"match",
+			"text highlighting"
+		],
+		"date": "2021-09-08T15:47:20.996Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-fuzzy",
+			"homepage": "https://github.com/metonym/svelte-fuzzy",
+			"repository": "https://github.com/metonym/svelte-fuzzy",
+			"bugs": "https://github.com/metonym/svelte-fuzzy/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22553885171182994,
+		"detail": {
+			"quality": 0.594320376382809,
+			"popularity": 0.011143679694468292,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 9.299866e-8
+}

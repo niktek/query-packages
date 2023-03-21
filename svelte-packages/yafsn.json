@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "yafsn",
+		"scope": "unscoped",
+		"version": "0.2.5",
+		"description": "Yet another svelte navigator",
+		"keywords": [
+			"svelte",
+			"navigation"
+		],
+		"date": "2023-01-25T17:12:11.228Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/yafsn",
+			"homepage": "https://github.com/jkbz64/yafsn#readme",
+			"repository": "https://github.com/jkbz64/yafsn",
+			"bugs": "https://github.com/jkbz64/yafsn/issues"
+		},
+		"author": {
+			"name": "jkbz64"
+		},
+		"publisher": {
+			"username": "jkbz",
+			"email": "kamiljkbz@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jkbz",
+				"email": "kamiljkbz@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24428210635994618,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0036985082536804374,
+			"maintenance": 0.33177859359406153
+		}
+	},
+	"searchScore": 1.0765645e-7
+}

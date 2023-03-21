@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@detachhead/smui-textfield",
+		"scope": "detachhead",
+		"version": "7.0.0-beta.0-7aa154b58dd17d39757ade237397a003da4f0bdc",
+		"description": "Svelte Material UI - Text Field",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"material-ui",
+			"material-design",
+			"material",
+			"svelte-components",
+			"sveltejs"
+		],
+		"date": "2022-11-25T05:50:42.139Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40detachhead%2Fsmui-textfield",
+			"homepage": "https://github.com/hperrin/svelte-material-ui#readme",
+			"repository": "https://github.com/hperrin/svelte-material-ui",
+			"bugs": "https://github.com/hperrin/svelte-material-ui/issues"
+		},
+		"author": {
+			"name": "Hunter Perrin",
+			"email": "hperrin@gmail.com"
+		},
+		"publisher": {
+			"username": "detachhead",
+			"email": "detachhead@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "detachhead",
+				"email": "detachhead@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27804956541011316,
+		"detail": {
+			"quality": 0.509525699750053,
+			"popularity": 0.02436773124243675,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 7.334113e-7
+}

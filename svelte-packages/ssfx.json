@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "ssfx",
+		"scope": "unscoped",
+		"version": "0.0.2-fix",
+		"description": "A set of componets that apply css keyframe animation on scroll action.",
+		"keywords": [
+			"javascript",
+			"svelte",
+			"scroll",
+			"animation",
+			"custom"
+		],
+		"date": "2022-01-25T19:48:00.485Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/ssfx",
+			"homepage": "https://github.com/damiano-cmd/Svelte-Scroll-FX#readme",
+			"repository": "https://github.com/damiano-cmd/Svelte-Scroll-FX",
+			"bugs": "https://github.com/damiano-cmd/Svelte-Scroll-FX/issues"
+		},
+		"author": {
+			"name": "damian-deni"
+		},
+		"publisher": {
+			"username": "damian-deni",
+			"email": "damiandeni888@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "damian-deni",
+				"email": "damiandeni888@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18160360666946135,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0017281615521824118,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 1.4155006e-9
+}

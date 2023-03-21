@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@peter.naydenov/visual-controller-for-svelte3",
+		"scope": "peter.naydenov",
+		"version": "2.0.0",
+		"description": "Tool for building a micro-frontends(MFE) based on Svelte component",
+		"keywords": [
+			"'micro",
+			"frontend",
+			"MFE",
+			"svelte3",
+			"svelte",
+			"widgets",
+			"visual",
+			"controller'"
+		],
+		"date": "2022-11-22T09:22:41.028Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40peter.naydenov%2Fvisual-controller-for-svelte3"
+		},
+		"author": {
+			"name": "Peter Naydenov"
+		},
+		"publisher": {
+			"username": "dreamgfx",
+			"email": "peter.naydenov@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dreamgfx",
+				"email": "peter.naydenov@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.37348978165902963,
+		"detail": {
+			"quality": 0.8597513359337761,
+			"popularity": 0.002064279757490295,
+			"maintenance": 0.32811966561078637
+		}
+	},
+	"searchScore": 0.000041688687
+}

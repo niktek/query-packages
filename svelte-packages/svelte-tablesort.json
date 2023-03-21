@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-tablesort",
+		"scope": "unscoped",
+		"version": "2.0.2",
+		"description": "A Svelte 3 component that makes it possible to sort a table by clicking the headers.",
+		"date": "2022-03-05T18:16:53.301Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tablesort"
+		},
+		"author": {
+			"name": "Mattias Holmlund",
+			"email": "mattias@holmlund.se",
+			"url": "https://mattias.holmlund.se",
+			"username": "mattiash"
+		},
+		"publisher": {
+			"username": "mattiash",
+			"email": "mattias@holmlund.se"
+		},
+		"maintainers": [
+			{
+				"username": "mattiash",
+				"email": "mattias@holmlund.se"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20433618785269983,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.0025352249249302335,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.9104272e-8
+}

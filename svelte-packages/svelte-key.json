@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-key",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Emulates React's `key` feature: force some content (e.g. some component) to be recreated when the value of the key changes.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-11-26T11:26:04.452Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-key",
+			"homepage": "https://github.com/rixo/svelte-key",
+			"repository": "https://github.com/rixo/svelte-key",
+			"bugs": "https://github.com/rixo/svelte-key/issues"
+		},
+		"author": {
+			"name": "rixo",
+			"email": "rixo@rixo.fr",
+			"username": "rixo"
+		},
+		"publisher": {
+			"username": "rixo",
+			"email": "rixo@rixo.fr"
+		},
+		"maintainers": [
+			{
+				"username": "rixo",
+				"email": "rixo@rixo.fr"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1893434243225925,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.00393293942254837,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.800927e-9
+}

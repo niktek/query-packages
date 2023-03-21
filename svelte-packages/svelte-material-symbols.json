@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "svelte-material-symbols",
+		"scope": "unscoped",
+		"version": "0.0.6",
+		"description": "Svelte components for easy use of Google Material Symbols",
+		"keywords": [
+			"material-symbols",
+			"material-design-symbols",
+			"material-icons",
+			"material-design-icons",
+			"material-design",
+			"icons",
+			"material",
+			"google"
+		],
+		"date": "2023-01-31T07:22:23.454Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-material-symbols",
+			"homepage": "https://github.com/physphile/svelte-material-symbols#readme",
+			"repository": "https://github.com/physphile/svelte-material-symbols",
+			"bugs": "https://github.com/physphile/svelte-material-symbols/issues"
+		},
+		"author": {
+			"name": "physphile",
+			"email": "netsvetaev.mgn@gmail.com",
+			"url": "https://github.com/physphile",
+			"username": "physphile"
+		},
+		"publisher": {
+			"username": "physphile",
+			"email": "netsvetaev.mgn@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "physphile",
+				"email": "netsvetaev.mgn@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24085790329630952,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.008417605724060086,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.4227952e-7
+}

@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@statsforvalteren/staf-komponentbibliotek-svelte",
+		"scope": "statsforvalteren",
+		"version": "1.1.4",
+		"description": "Dette bibliotek er en fork av [Sveltestrap](https://sveltestrap.js.org/?path=/story/components--styles) hvor vi lagt vår egen stil oppå og modifisert / lagt til komponenter. \r ___",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-02-01T08:54:31.521Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40statsforvalteren%2Fstaf-komponentbibliotek-svelte"
+		},
+		"publisher": {
+			"username": "krdon",
+			"email": "krdon@statsforvalteren.no"
+		},
+		"maintainers": [
+			{
+				"username": "pekaaw",
+				"email": "pekaaw@gmail.com"
+			},
+			{
+				"username": "krdon",
+				"email": "krdon@statsforvalteren.no"
+			}
+		]
+	},
+	"score": {
+		"final": 0.32868712642820774,
+		"detail": {
+			"quality": 0.8370463163085748,
+			"popularity": 0.023553214478562286,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 0.000014004308
+}

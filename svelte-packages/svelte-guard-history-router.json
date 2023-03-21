@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-guard-history-router",
+		"scope": "unscoped",
+		"version": "5.5.28",
+		"description": "svelte router for SPA (history mode only)",
+		"keywords": [
+			"component",
+			"router",
+			"spa",
+			"svelte",
+			"vite",
+			"web"
+		],
+		"date": "2023-02-02T09:50:37.676Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-guard-history-router",
+			"homepage": "https://github.com/arlac77/svelte-guard-history-router#readme",
+			"repository": "https://github.com/arlac77/svelte-guard-history-router",
+			"bugs": "https://github.com/arlac77/svelte-guard-history-router/issues"
+		},
+		"publisher": {
+			"username": "arlac77",
+			"email": "markus.felten@gmx.de"
+		},
+		"maintainers": [
+			{
+				"username": "arlac77",
+				"email": "markus.felten@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31707116570439925,
+		"detail": {
+			"quality": 0.6081979139272481,
+			"popularity": 0.05127178531302336,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000009579636
+}

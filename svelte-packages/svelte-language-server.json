@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "svelte-language-server",
+		"scope": "unscoped",
+		"version": "0.15.8",
+		"description": "A language server for Svelte",
+		"keywords": [
+			"svelte",
+			"vscode",
+			"atom",
+			"editor",
+			"language-server"
+		],
+		"date": "2023-03-13T10:40:13.719Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-language-server",
+			"homepage": "https://github.com/sveltejs/language-tools#readme",
+			"repository": "https://github.com/sveltejs/language-tools",
+			"bugs": "https://github.com/sveltejs/language-tools/issues"
+		},
+		"author": {
+			"name": "James Birtles",
+			"email": "jameshbirtles@gmail.com"
+		},
+		"publisher": {
+			"username": "svelte-language-tools-deploy",
+			"email": "svelte-language-tools-deploy@orta.io"
+		},
+		"maintainers": [
+			{
+				"username": "dummdidumm",
+				"email": "sholthausen@web.de"
+			},
+			{
+				"username": "svelte-language-tools-deploy",
+				"email": "svelte-language-tools-deploy@orta.io"
+			},
+			{
+				"username": "orta",
+				"email": "orta.therox@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22229358945855682,
+		"detail": {
+			"quality": 0.28289375109608383,
+			"popularity": 0.0593108498944715,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.771944e-8
+}

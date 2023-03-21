@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@crypto-pepe/pepekit",
+		"scope": "crypto-pepe",
+		"version": "0.0.38",
+		"description": "PepeKit is a minimalistic UI/UX component framework for Svelte",
+		"keywords": [
+			"ui",
+			"ux",
+			"components",
+			"svelte",
+			"framework",
+			"css",
+			"pepekit",
+			"javascript",
+			"typescript"
+		],
+		"date": "2022-01-11T20:04:31.903Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40crypto-pepe%2Fpepekit"
+		},
+		"publisher": {
+			"username": "stupid_boar",
+			"email": "stupid.boar@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "stupid_boar",
+				"email": "stupid.boar@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24251398709928762,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.020536959908504727,
+			"maintenance": 0.32594564715739754
+		}
+	},
+	"searchScore": 8.365935e-8
+}

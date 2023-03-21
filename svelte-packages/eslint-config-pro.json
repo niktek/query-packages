@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "eslint-config-pro",
+		"scope": "unscoped",
+		"version": "3.0.18",
+		"description": "Almost all ESLint v5 rules are proven in practice for professional developers",
+		"keywords": [
+			"eslint",
+			"config",
+			"eslintconfig",
+			"ja",
+			"javascript",
+			"ts",
+			"typescript",
+			"svelte",
+			"html",
+			"node"
+		],
+		"date": "2022-07-17T17:02:23.164Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/eslint-config-pro",
+			"homepage": "https://github.com/NikolayMakhonin/eslint-config-pro",
+			"repository": "https://github.com/NikolayMakhonin/eslint-config-pro",
+			"bugs": "https://github.com/NikolayMakhonin/eslint-config-pro/issues"
+		},
+		"author": {
+			"name": "Nikolay Makhonin",
+			"url": "https://github.com/NikolayMakhonin/"
+		},
+		"publisher": {
+			"username": "nikolay_makhonin",
+			"email": "nikolay.makhonin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nikolay_makhonin",
+				"email": "nikolay.makhonin@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30559629998345195,
+		"detail": {
+			"quality": 0.6243084119297001,
+			"popularity": 0.004924336904138167,
+			"maintenance": 0.3330864528231245
+		}
+	},
+	"searchScore": 0.0000012548301
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-recordable",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "⌛️⏳ Undo &amp; Redo &amp; History management in Svelte Store",
+		"date": "2020-08-04T00:10:36.932Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-recordable"
+		},
+		"author": {
+			"name": "hmmhmmhm"
+		},
+		"publisher": {
+			"username": "hmmhmmhm",
+			"email": "hmmhmmhm@naver.com"
+		},
+		"maintainers": [
+			{
+				"username": "hmmhmmhm",
+				"email": "hmmhmmhm@naver.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16724017924386975,
+		"detail": {
+			"quality": 0.4505193645273665,
+			"popularity": 0.0019279307075792103,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.3477056e-9
+}

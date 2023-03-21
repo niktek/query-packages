@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@reshadow/svelte",
+		"scope": "reshadow",
+		"version": "0.0.1",
+		"description": "reshadow svelte",
+		"date": "2022-03-09T09:25:27.285Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40reshadow%2Fsvelte",
+			"homepage": "https://reshadow.dev",
+			"repository": "https://github.com/lttb/reshadow",
+			"bugs": "https://github.com/lttb/reshadow/issues"
+		},
+		"author": {
+			"name": "Kenzhaev Artur",
+			"email": "kenzhaev.artur@gmail.com",
+			"username": "lttb"
+		},
+		"publisher": {
+			"username": "smelukov",
+			"email": "s.melukov@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "smelukov",
+				"email": "s.melukov@gmail.com"
+			},
+			{
+				"username": "lttb",
+				"email": "kenzhaev.artur@gmail.com"
+			},
+			{
+				"username": "antonk52",
+				"email": "halloy52@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3277069841889265,
+		"detail": {
+			"quality": 0.6793155098194755,
+			"popularity": 0.025636215573760668,
+			"maintenance": 0.32839901654933606
+		}
+	},
+	"searchScore": 0.000012722103
+}

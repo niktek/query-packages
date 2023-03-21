@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "manuel-ui-kit-svelte",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "## Svelte + Vite + TailwindCss + Storybook",
+		"date": "2022-03-09T09:55:55.787Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/manuel-ui-kit-svelte"
+		},
+		"publisher": {
+			"username": "mpalma.job",
+			"email": "mpalma.job@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mpalma.job",
+				"email": "mpalma.job@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1973032503691842,
+		"detail": {
+			"quality": 0.28310937519404406,
+			"popularity": 0.0017281615521824118,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 8.372709e-9
+}

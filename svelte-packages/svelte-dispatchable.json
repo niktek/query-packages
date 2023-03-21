@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-dispatchable",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "Dispatchable reactive store, alternative to svelte stores",
+		"keywords": [
+			"svelte",
+			"dispatchable",
+			"svelte-dispatchable",
+			"svelte/store"
+		],
+		"date": "2022-01-22T21:57:11.071Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dispatchable",
+			"homepage": "https://github.com/ravid7000/svelte-dispatchable#readme",
+			"repository": "https://github.com/ravid7000/svelte-dispatchable",
+			"bugs": "https://github.com/ravid7000/svelte-dispatchable/issues"
+		},
+		"author": {
+			"name": "Ravi Dhiman",
+			"email": "ravid7000@gmail.com",
+			"username": "ravid7000"
+		},
+		"publisher": {
+			"username": "ravid7000",
+			"email": "ravid7000@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ravid7000",
+				"email": "ravid7000@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1922349204360433,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0019279307075792103,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 1.0087021e-8
+}

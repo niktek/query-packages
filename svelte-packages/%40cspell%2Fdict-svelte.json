@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@cspell/dict-svelte",
+		"scope": "cspell",
+		"version": "1.0.2",
+		"description": "Svelte dictionary for cspell.",
+		"keywords": [
+			"cspell",
+			"cspell-ext",
+			"svelte",
+			"Svelte",
+			"dictionary",
+			"spelling"
+		],
+		"date": "2023-01-05T20:25:49.237Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cspell%2Fdict-svelte",
+			"homepage": "https://github.com/streetsidesoftware/cspell-dicts/blob/main/dictionaries/svelte#readme",
+			"repository": "https://github.com/streetsidesoftware/cspell-dicts",
+			"bugs": "https://github.com/streetsidesoftware/cspell-dicts/issues"
+		},
+		"author": {
+			"name": "Jason Dent"
+		},
+		"publisher": {
+			"username": "jason-dent",
+			"email": "jason@streetsidesoftware.nl"
+		},
+		"maintainers": [
+			{
+				"username": "jason-dent",
+				"email": "jason@streetsidesoftware.nl"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31343696119907327,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.114986494453855,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 0.00001474833
+}

@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@htmlbricks/navbarbootstrap-component",
+		"scope": "htmlbricks",
+		"version": "0.2.4",
+		"description": "Svelte Navbar WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2022-01-02T19:14:36.731Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fnavbarbootstrap-component"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2193774125804096,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.004819135205363592,
+			"maintenance": 0.3331116545045359
+		}
+	},
+	"searchScore": 2.6885862e-8
+}

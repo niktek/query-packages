@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "@svizzle/time_region_value",
+		"scope": "svizzle",
+		"version": "0.9.0",
+		"description": "Svelte components to be used as SvelteKit/Sapper routes for the {time, region, value} domain.",
+		"keywords": [
+			"component",
+			"data visualization",
+			"routes",
+			"sapper",
+			"svelte",
+			"sveltekit"
+		],
+		"date": "2023-01-11T17:59:54.578Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svizzle%2Ftime_region_value",
+			"homepage": "https://github.com/nestauk/svizzle",
+			"repository": "https://github.com/nestauk/svizzle",
+			"bugs": "https://github.com/nestauk/svizzle/issues"
+		},
+		"author": {
+			"name": "nestauk",
+			"url": "https://www.nesta.org.uk/"
+		},
+		"publisher": {
+			"username": "nestauk-dev",
+			"email": "software_development@nesta.org.uk"
+		},
+		"maintainers": [
+			{
+				"username": "nestauk-dev",
+				"email": "software_development@nesta.org.uk"
+			},
+			{
+				"username": "mindrones",
+				"email": "mindrones@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24058247071563243,
+		"detail": {
+			"quality": 0.40972221691000327,
+			"popularity": 0.003002686776407823,
+			"maintenance": 0.33318532934539635
+		}
+	},
+	"searchScore": 6.844301e-8
+}

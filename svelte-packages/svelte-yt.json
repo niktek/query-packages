@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-yt",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "A wrapper around the YouTube IFrame API.",
+		"keywords": [
+			"svelte",
+			"youtube"
+		],
+		"date": "2023-02-15T10:59:33.972Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-yt",
+			"homepage": "https://github.com/zusorio/svelte-yt#readme",
+			"repository": "https://github.com/zusorio/svelte-yt",
+			"bugs": "https://github.com/zusorio/svelte-yt/issues"
+		},
+		"author": {
+			"name": "Tobias Messner"
+		},
+		"publisher": {
+			"username": "zusor",
+			"email": "tobias.d.messner@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "zusor",
+				"email": "tobias.d.messner@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24874985600039923,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.005664888216603098,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.7851056e-7
+}

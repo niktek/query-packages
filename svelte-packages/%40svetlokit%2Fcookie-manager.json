@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@svetlokit/cookie-manager",
+		"scope": "svetlokit",
+		"version": "1.0.4",
+		"description": "Cookie manager for SvelteKit",
+		"date": "2022-03-06T05:56:05.942Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svetlokit%2Fcookie-manager",
+			"homepage": "https://github.com/aksenovdev/svetlokit-cookie-manager#readme",
+			"repository": "https://github.com/aksenovdev/svetlokit-cookie-manager",
+			"bugs": "https://github.com/aksenovdev/svetlokit-cookie-manager/issues"
+		},
+		"publisher": {
+			"username": "aksenovdev",
+			"email": "aksenovdev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "aksenovdev",
+				"email": "aksenovdev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25178051204316687,
+		"detail": {
+			"quality": 0.44117676171200826,
+			"popularity": 0.01935146700051499,
+			"maintenance": 0.3218699145125261
+		}
+	},
+	"searchScore": 2.8920587e-8
+}

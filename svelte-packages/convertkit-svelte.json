@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "convertkit-svelte",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "ConvertKit Forms for Svelte",
+		"keywords": [
+			"convertkit",
+			"forms",
+			"newsletter",
+			"svelte"
+		],
+		"date": "2021-04-13T03:05:06.743Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/convertkit-svelte",
+			"homepage": "https://github.com/ConvertKit/convertkit-svelte#readme",
+			"repository": "https://github.com/ConvertKit/convertkit-svelte",
+			"bugs": "https://github.com/ConvertKit/convertkit-svelte/issues"
+		},
+		"author": {
+			"name": "Joseph Rex",
+			"email": "joerexko@gmail.com",
+			"username": "josephrexme"
+		},
+		"publisher": {
+			"username": "josephrexme",
+			"email": "joerexko@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "josephrexme",
+				"email": "joerexko@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16508613848888187,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.3047503e-9
+}

@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-json-tree-auto",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Svelte JSON Viewer Component",
+		"keywords": [
+			"svelte",
+			"json viewer",
+			"json",
+			"json tree",
+			"component"
+		],
+		"date": "2020-08-19T10:56:48.948Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-json-tree-auto",
+			"homepage": "https://github.com/popey456963/svelte-json-tree#readme",
+			"repository": "https://github.com/popey456963/svelte-json-tree",
+			"bugs": "https://github.com/popey456963/svelte-json-tree/issues"
+		},
+		"author": {
+			"name": "Alexander Craggs",
+			"email": "github@femto.host"
+		},
+		"publisher": {
+			"username": "codefined",
+			"email": "npm@femto.host"
+		},
+		"maintainers": [
+			{
+				"username": "codefined",
+				"email": "npm@femto.host"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16658503088178755,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.039801034621596273,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.1765316e-9
+}

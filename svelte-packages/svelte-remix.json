@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-remix",
+		"scope": "unscoped",
+		"version": "0.3.3",
+		"description": "Svelte Remix Icon components",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"Remix icons",
+			"svg icons",
+			"icons"
+		],
+		"date": "2023-03-07T04:45:44.848Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-remix",
+			"homepage": "https://github.com/shinokada/svelte-remix-icons#readme",
+			"repository": "https://github.com/shinokada/svelte-remix-icons",
+			"bugs": "https://github.com/shinokada/svelte-remix-icons/issues"
+		},
+		"author": {
+			"name": "Shinichi Okada",
+			"email": "connect@codewithshin.com",
+			"url": "https://blog.codewithshin.com"
+		},
+		"publisher": {
+			"username": "shinichiokada",
+			"email": "okada.shin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shinichiokada",
+				"email": "okada.shin@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2827761641901385,
+		"detail": {
+			"quality": 0.5355947797183326,
+			"popularity": 0.015517324594205989,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000018462872
+}

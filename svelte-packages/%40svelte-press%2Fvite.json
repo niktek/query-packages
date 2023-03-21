@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@svelte-press/vite",
+		"scope": "svelte-press",
+		"version": "0.10.0",
+		"description": "Sveltepress plugin for vite",
+		"keywords": [
+			"vite",
+			"vite plugin",
+			"sveltepress",
+			"sveltepress vite",
+			"sveltekit"
+		],
+		"date": "2023-01-29T02:53:36.320Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-press%2Fvite",
+			"homepage": "https://sveltepress.site/",
+			"repository": "https://github.com/Blackman99/sveltepress",
+			"bugs": "https://github.com/Blackman99/sveltepress/issues"
+		},
+		"author": {
+			"name": "Dongsheng Zhao",
+			"email": "1197160272@qq.com",
+			"username": "philadelphia"
+		},
+		"publisher": {
+			"username": "philadelphia",
+			"email": "1197160272@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "philadelphia",
+				"email": "1197160272@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23400232582976077,
+		"detail": {
+			"quality": 0.37907214022682356,
+			"popularity": 0.010325763128705801,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.0220392e-7
+}

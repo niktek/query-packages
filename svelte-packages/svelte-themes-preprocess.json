@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "svelte-themes-preprocess",
+		"scope": "unscoped",
+		"version": "1.0.6",
+		"description": "Add support flexible themes for svelte components",
+		"keywords": [
+			"svelte",
+			"preprocess",
+			"preprocessor",
+			"style",
+			"styles",
+			"stylesheet",
+			"css",
+			"scss",
+			"less",
+			"styl",
+			"stylus",
+			"sass",
+			"theme",
+			"themes",
+			"theming",
+			"cascading"
+		],
+		"date": "2020-01-13T14:02:29.649Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-themes-preprocess",
+			"homepage": "https://github.com/NikolayMakhonin/svelte-themes-preprocess",
+			"bugs": "https://github.com/NikolayMakhonin/svelte-themes-preprocess/issues"
+		},
+		"author": {
+			"name": "Nikolay Makhonin"
+		},
+		"publisher": {
+			"username": "nikolay_makhonin",
+			"email": "nikolay.makhonin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nikolay_makhonin",
+				"email": "nikolay.makhonin@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.33203933080210146,
+		"detail": {
+			"quality": 0.9995413988708891,
+			"popularity": 0.002192334293793494,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.00001538253
+}

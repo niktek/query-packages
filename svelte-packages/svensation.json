@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svensation",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Create seamless page transitions in the browser with Svelte",
+		"keywords": [
+			"navigation",
+			"transition",
+			"browser"
+		],
+		"date": "2022-05-23T11:24:45.652Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svensation",
+			"homepage": "https://github.com/n00pper/svensation#readme",
+			"repository": "https://github.com/n00pper/svensation",
+			"bugs": "https://github.com/n00pper/svensation/issues"
+		},
+		"publisher": {
+			"username": "noopper",
+			"email": "vartefol@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "noopper",
+				"email": "vartefol@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2393094692581485,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0015999886957733678,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 2.712749e-8
+}

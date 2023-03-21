@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@casual-ui/svelte-button",
+		"scope": "casual-ui",
+		"version": "0.0.2",
+		"description": "Casual UI button component for Svelte",
+		"keywords": [
+			"Svelte",
+			"Svelte Button"
+		],
+		"date": "2022-11-18T09:50:29.096Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40casual-ui%2Fsvelte-button"
+		},
+		"author": {
+			"name": "Dongsheng Zhao",
+			"email": "1197160272@qq.com",
+			"username": "philadelphia"
+		},
+		"publisher": {
+			"username": "philadelphia",
+			"email": "1197160272@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "philadelphia",
+				"email": "1197160272@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22016587099079216,
+		"detail": {
+			"quality": 0.3225776017021793,
+			"popularity": 0.019568737521937885,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 5.7964623e-8
+}

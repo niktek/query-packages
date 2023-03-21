@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "steps-samelet",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-09-18T12:27:37.169Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/steps-samelet"
+		},
+		"publisher": {
+			"username": "samelet-dev",
+			"email": "rotem@raynw.com"
+		},
+		"maintainers": [
+			{
+				"username": "samelet-dev",
+				"email": "rotem@raynw.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21506813147400455,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.002864735637392451,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 6.6357053e-9
+}

@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelma-fixed",
+		"scope": "unscoped",
+		"version": "0.4.5-fixed2",
+		"description": "Bulma components for Svelte",
+		"keywords": [
+			"svelte",
+			"svelte.js",
+			"sveltejs",
+			"bulma",
+			"component",
+			"components"
+		],
+		"date": "2022-11-05T00:28:10.588Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelma-fixed",
+			"homepage": "https://github.com/c0bra/svelma#readme",
+			"repository": "https://github.com/c0bra/svelma",
+			"bugs": "https://github.com/c0bra/svelma/issues"
+		},
+		"author": {
+			"name": "Abby Chau, Brian Hann"
+		},
+		"publisher": {
+			"username": "cherrydt",
+			"email": "cherry@cherrytree.at"
+		},
+		"maintainers": [
+			{
+				"username": "cherrydt",
+				"email": "cherry@cherrytree.at"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28434513337458234,
+		"detail": {
+			"quality": 0.5584076846461011,
+			"popularity": 0.0037576163137577135,
+			"maintenance": 0.3300218922026766
+		}
+	},
+	"searchScore": 7.9643405e-7
+}

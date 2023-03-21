@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "@metamodern/svelte-render",
+		"scope": "metamodern",
+		"version": "3.0.3",
+		"description": "A friendly Jamstack-focused build tool for Svelte apps",
+		"keywords": [
+			"svelte",
+			"sapper",
+			"render",
+			"ssr",
+			"hydrate",
+			"hydration",
+			"Jamstack",
+			"static",
+			"serverless",
+			"Netlify",
+			"Zeit",
+			"Vercel"
+		],
+		"date": "2020-12-25T04:46:08.278Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40metamodern%2Fsvelte-render",
+			"homepage": "https://github.com/metamodern-design/svelte-render#readme",
+			"repository": "https://github.com/metamodern-design/svelte-render",
+			"bugs": "https://github.com/metamodern-design/svelte-render/issues"
+		},
+		"author": {
+			"name": "Daniel C. Narey",
+			"email": "os@metamodern.design",
+			"username": "danielnarey"
+		},
+		"publisher": {
+			"username": "danielnarey",
+			"email": "os@metamodern.design"
+		},
+		"maintainers": [
+			{
+				"username": "danielnarey",
+				"email": "os@metamodern.design"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16990157510076964,
+		"detail": {
+			"quality": 0.45895049530327514,
+			"popularity": 0.002305235347943021,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.7452598e-9
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-history-router",
+		"scope": "unscoped",
+		"version": "1.0.0-beta.16",
+		"description": "A svelte history router.",
+		"date": "2021-05-11T11:21:48.244Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-history-router",
+			"homepage": "https://github.com/wetix/svelte-history-router#readme"
+		},
+		"author": {
+			"name": "Si3nLoong",
+			"email": "sianloong90@gmail.com",
+			"url": "https://github.com/si3nloong",
+			"username": "sianloong"
+		},
+		"publisher": {
+			"username": "sianloong",
+			"email": "sianloong90@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sianloong",
+				"email": "sianloong90@gmail.com"
+			},
+			{
+				"username": "mohamadharith",
+				"email": "harith@revenuemonster.my"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25901152684610385,
+		"detail": {
+			"quality": 0.5183554174917671,
+			"popularity": 0.003639321706757072,
+			"maintenance": 0.2920889685748822
+		}
+	},
+	"searchScore": 3.9474082e-7
+}

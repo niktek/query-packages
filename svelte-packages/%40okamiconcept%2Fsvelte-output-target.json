@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@okamiconcept/svelte-output-target",
+		"scope": "okamiconcept",
+		"version": "0.0.7",
+		"description": "Svelte output target for @stencil/core components.",
+		"date": "2021-01-14T20:16:05.175Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40okamiconcept%2Fsvelte-output-target",
+			"homepage": "https://stenciljs.com/",
+			"repository": "https://github.com/okamiconcept/stencil-ds-output-targets",
+			"bugs": "https://github.com/ionic-team/stencil-ds-output-targets/issues"
+		},
+		"author": {
+			"name": "Ionic Team"
+		},
+		"publisher": {
+			"username": "maxime.gravouil",
+			"email": "maxime@okamiconcept.com"
+		},
+		"maintainers": [
+			{
+				"username": "maxime.gravouil",
+				"email": "maxime@okamiconcept.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16978513166840709,
+		"detail": {
+			"quality": 0.4397488053591676,
+			"popularity": 0.018431131207570745,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.7126336e-9
+}

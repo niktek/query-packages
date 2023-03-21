@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "@kahi-ui/framework",
+		"scope": "kahi-ui",
+		"version": "0.6.4",
+		"description": "Straight-forward Svelte UI for the Web",
+		"keywords": [
+			"component-library",
+			"css",
+			"css-framework",
+			"html",
+			"kahi-ui",
+			"javascript",
+			"svelte",
+			"sveltejs",
+			"svelte-components",
+			"typescript",
+			"typescript-definitions",
+			"ui-components",
+			"ui-library",
+			"ui-kit"
+		],
+		"date": "2022-03-19T19:31:18.325Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kahi-ui%2Fframework",
+			"homepage": "https://github.com/novacbn/kahi-ui#readme",
+			"repository": "https://github.com/novacbn/kahi-ui",
+			"bugs": "https://github.com/novacbn/kahi-ui/issues"
+		},
+		"author": {
+			"name": "novacbn"
+		},
+		"publisher": {
+			"username": "novacbn",
+			"email": "novacbn@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "novacbn",
+				"email": "novacbn@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2879061461165342,
+		"detail": {
+			"quality": 0.5492200220748142,
+			"popularity": 0.021020784833407614,
+			"maintenance": 0.33080818514970645
+		}
+	},
+	"searchScore": 9.266144e-7
+}

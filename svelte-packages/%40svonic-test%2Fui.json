@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@svonic-test/ui",
+		"scope": "svonic-test",
+		"version": "0.10.31",
+		"description": "Testing",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"ionic"
+		],
+		"date": "2022-04-11T08:44:54.018Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svonic-test%2Fui"
+		},
+		"author": {
+			"name": "Robert"
+		},
+		"publisher": {
+			"username": "daimyo",
+			"email": "robusa8818@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "daimyo",
+				"email": "robusa8818@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19931645223959732,
+		"detail": {
+			"quality": 0.2789709984822165,
+			"popularity": 0.002096586229496404,
+			"maintenance": 0.32826099289888183
+		}
+	},
+	"searchScore": 5.024974e-9
+}

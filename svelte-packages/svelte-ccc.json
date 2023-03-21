@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-ccc",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-11-25T23:55:38.849Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ccc"
+		},
+		"publisher": {
+			"username": "themajashurka",
+			"email": "mmartonbene@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "themajashurka",
+				"email": "mmartonbene@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22270520124160526,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0023001056150453556,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 5.203184e-8
+}

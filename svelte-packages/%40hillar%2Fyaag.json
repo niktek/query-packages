@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@hillar/yaag",
+		"scope": "hillar",
+		"version": "0.0.37",
+		"keywords": [
+			"svelte",
+			"component",
+			"graph"
+		],
+		"date": "2021-05-25T07:32:43.299Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40hillar%2Fyaag",
+			"homepage": "https://github.com/hillar/yaag/tree/main/packages/yaag#readme",
+			"repository": "https://github.com/hillar/yaag",
+			"bugs": "https://github.com/hillar/yaag/issues"
+		},
+		"author": {
+			"name": "hillar@aarelaid.net"
+		},
+		"publisher": {
+			"username": "hillar",
+			"email": "hillar@aarelaid.net"
+		},
+		"maintainers": [
+			{
+				"username": "hillar",
+				"email": "hillar@aarelaid.net"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22184223070266146,
+		"detail": {
+			"quality": 0.32945786041682146,
+			"popularity": 0.02511789155559997,
+			"maintenance": 0.3263246015233001
+		}
+	},
+	"searchScore": 2.657648e-8
+}

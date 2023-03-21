@@ -1,0 +1,79 @@
+{
+	"package": {
+		"name": "svelte-inview",
+		"scope": "unscoped",
+		"version": "4.0.0",
+		"description": "A Svelte action that monitors an element enters or leaves the viewport or a parent element. Performant and efficient thanks to using Intersection Observer under the hood.",
+		"keywords": [
+			"svelte",
+			"observer",
+			"observing",
+			"intersection",
+			"viewport",
+			"inviewport",
+			"in-view",
+			"in-viewport",
+			"inview",
+			"observe",
+			"waypoint",
+			"intersection-observer",
+			"intersection-observer-api",
+			"performance",
+			"monitor",
+			"scroll-direction",
+			"scroll",
+			"direction",
+			"lazy",
+			"lazy-loading",
+			"scrolling",
+			"animations",
+			"compile",
+			"compiler",
+			"root",
+			"root-margin",
+			"threshold",
+			"visibility",
+			"visible",
+			"infinite-scrolling",
+			"infinite",
+			"scrolling",
+			"intersecting",
+			"async",
+			"asynchronously",
+			"asynchronous",
+			"preload",
+			"detect"
+		],
+		"date": "2023-03-15T20:07:07.739Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-inview",
+			"homepage": "https://github.com/maciekgrzybek/svelte-inview",
+			"bugs": "https://github.com/maciekgrzybek/svelte-inview/issues"
+		},
+		"author": {
+			"name": "Maciek Grzybek",
+			"email": "maciekgrzybek1@gmail.com",
+			"url": "https://maciekgrzybek.dev",
+			"username": "maciekgrzybek"
+		},
+		"publisher": {
+			"username": "maciekgrzybek",
+			"email": "maciekgrzybek1@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "maciekgrzybek",
+				"email": "maciekgrzybek1@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.4069640170559501,
+		"detail": {
+			"quality": 0.8895361922957907,
+			"popularity": 0.06696140771584652,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00030070316
+}

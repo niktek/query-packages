@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "create-sweet-app",
+		"scope": "unscoped",
+		"version": "1.0.11",
+		"description": "Scaffold a full-stack SvelteKit application with tRPC and WindiCSS out of the box",
+		"keywords": [
+			"create-sweet-app",
+			"svelte-kit",
+			"sweet-stack",
+			"windi",
+			"tRPC",
+			"typescript"
+		],
+		"date": "2022-12-27T13:26:42.281Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-sweet-app",
+			"homepage": "https://github.com/sproott/create-sweet-app#readme",
+			"repository": "https://github.com/sproott/create-sweet-app",
+			"bugs": "https://github.com/sproott/create-sweet-app/issues"
+		},
+		"author": {
+			"name": "David Hrabě",
+			"email": "david.hrabe12@seznam.cz",
+			"username": "sproott"
+		},
+		"publisher": {
+			"username": "sproott",
+			"email": "david.hrabe12@seznam.cz"
+		},
+		"maintainers": [
+			{
+				"username": "sproott",
+				"email": "david.hrabe12@seznam.cz"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25224174345012185,
+		"detail": {
+			"quality": 0.4482510331562057,
+			"popularity": 0.003314062414666231,
+			"maintenance": 0.3331614618803627
+		}
+	},
+	"searchScore": 9.905226e-8
+}

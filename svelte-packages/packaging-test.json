@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "packaging-test",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-09-16T09:08:56.991Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/packaging-test"
+		},
+		"publisher": {
+			"username": "kyleshepherd13",
+			"email": "kyleshepherddev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kyleshepherd13",
+				"email": "kyleshepherddev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2286453132741626,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.019012270262150917,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 1.8267084e-8
+}

@@ -1,0 +1,60 @@
+{
+	"package": {
+		"name": "@silintl/ui-components",
+		"scope": "silintl",
+		"version": "9.1.1",
+		"description": "Reusable Svelte components for some internal applications",
+		"keywords": [
+			"material",
+			"material-design",
+			"svelte",
+			"svelte-components",
+			"ui-components"
+		],
+		"date": "2023-02-22T05:04:56.765Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40silintl%2Fui-components",
+			"homepage": "https://github.com/silinternational/ui-components#readme",
+			"repository": "https://github.com/silinternational/ui-components",
+			"bugs": "https://github.com/silinternational/ui-components/issues"
+		},
+		"author": {
+			"name": "Michael Wilson"
+		},
+		"publisher": {
+			"username": "hobbitronics",
+			"email": "michael_wilson@sil.org"
+		},
+		"maintainers": [
+			{
+				"username": "fillup",
+				"email": "phillip.shipley@gmail.com"
+			},
+			{
+				"username": "wcjr11",
+				"email": "billy.govols@gmail.com"
+			},
+			{
+				"username": "matt-h",
+				"email": "matt_henderson@sil.org"
+			},
+			{
+				"username": "schparky",
+				"email": "steve_schram@sil.org"
+			},
+			{
+				"username": "hobbitronics",
+				"email": "michael_wilson@sil.org"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2825333601227045,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.011445245049430466,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.0672504e-7
+}

@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@manchtools/svelte-cookie-consent",
+		"scope": "manchtools",
+		"version": "0.2.0",
+		"description": "## A user friendly way to ask for consent",
+		"keywords": [
+			"svelte",
+			"cookie",
+			"cookies",
+			"banner",
+			"consent",
+			"svelte-cookie-consent",
+			"gdpr",
+			"complience"
+		],
+		"date": "2023-01-08T15:08:58.039Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40manchtools%2Fsvelte-cookie-consent",
+			"homepage": "https://github.com/manchtools/svelte-cookie-consent#readme",
+			"repository": "https://github.com/manchtools/svelte-cookie-consent",
+			"bugs": "https://github.com/manchtools/svelte-cookie-consent/issues"
+		},
+		"author": {
+			"name": "Paul Dotterer",
+			"email": "paul.dotterer@icloud.com",
+			"username": "pauldotterer"
+		},
+		"publisher": {
+			"username": "pauldotterer",
+			"email": "paul.dotterer@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "pauldotterer",
+				"email": "paul.dotterer@icloud.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24948074487552496,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.007753142145533745,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.3761972e-7
+}

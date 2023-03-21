@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-idle",
+		"scope": "unscoped",
+		"version": "2.0.3",
+		"description": "<h1 align=\"center\"> svelte-idle ⌛ </h1>",
+		"date": "2022-06-13T11:39:38.418Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-idle"
+		},
+		"publisher": {
+			"username": "mathiaswp",
+			"email": "mathiaswpicker@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mathiaswp",
+				"email": "mathiaswpicker@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2672325029213364,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.008142547592337354,
+			"maintenance": 0.30807231393521367
+		}
+	},
+	"searchScore": 6.831558e-7
+}

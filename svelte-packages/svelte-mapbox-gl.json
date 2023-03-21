@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-mapbox-gl",
+		"scope": "unscoped",
+		"version": "0.2.2",
+		"description": "Mapbox GL components for Svelte",
+		"keywords": [
+			"mapbox",
+			"svelte",
+			"components",
+			"mapboxgl"
+		],
+		"date": "2021-07-26T02:07:53.494Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-mapbox-gl"
+		},
+		"author": {
+			"name": "Saravanabalagi Ramachandran"
+		},
+		"publisher": {
+			"username": "saravanabalagi",
+			"email": "saravanabalagi@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "saravanabalagi",
+				"email": "saravanabalagi@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17564875968235394,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.006302372344311708,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 3.0287695e-9
+}

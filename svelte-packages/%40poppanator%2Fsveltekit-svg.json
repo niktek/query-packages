@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@poppanator/sveltekit-svg",
+		"scope": "poppanator",
+		"version": "3.0.0",
+		"description": "Import SVG files as Svelte components in SvelteKit",
+		"keywords": [
+			"sveltekit-plugin",
+			"svg",
+			"svgo",
+			"svelte",
+			"sveltekit",
+			"vite",
+			"vite-plugin"
+		],
+		"date": "2023-03-18T11:22:09.516Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40poppanator%2Fsveltekit-svg",
+			"homepage": "https://github.com/poppa/sveltekit-svg#readme",
+			"repository": "https://github.com/poppa/sveltekit-svg",
+			"bugs": "https://github.com/poppa/sveltekit-svg/issues"
+		},
+		"author": {
+			"name": "Pontus Östlund",
+			"url": "https://github.com/poppa"
+		},
+		"publisher": {
+			"username": "poppanator_",
+			"email": "poppanator@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "poppanator_",
+				"email": "poppanator@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2934992078599919,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.04277623858453711,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000023008768
+}

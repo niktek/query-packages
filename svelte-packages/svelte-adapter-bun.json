@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-adapter-bun",
+		"scope": "unscoped",
+		"version": "0.4.3",
+		"description": "Adapter for SvelteKit apps that generates a standalone Bun.js server.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"sveltekit-adapter",
+			"bun"
+		],
+		"date": "2023-01-21T01:42:40.937Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-adapter-bun",
+			"homepage": "https://github.com/gornostay25/svelte-adapter-bun#readme",
+			"repository": "https://github.com/gornostay25/svelte-adapter-bun",
+			"bugs": "https://github.com/gornostay25/svelte-adapter-bun/issues"
+		},
+		"author": {
+			"name": "Volodymyr Palamar",
+			"email": "@gornostay25"
+		},
+		"publisher": {
+			"username": "gornostay25",
+			"email": "volodymyr.palamar25@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gornostay25",
+				"email": "volodymyr.palamar25@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26129393887374247,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.02809726872709609,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.2331577e-7
+}

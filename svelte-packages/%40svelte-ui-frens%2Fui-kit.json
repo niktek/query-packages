@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@svelte-ui-frens/ui-kit",
+		"scope": "svelte-ui-frens",
+		"version": "0.0.2",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"keywords": [
+			"components",
+			"ant-design",
+			"ui-library",
+			"svelte-ui-frens",
+			"ui",
+			"svelte",
+			"sveltekit"
+		],
+		"date": "2022-11-27T21:00:42.602Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelte-ui-frens%2Fui-kit"
+		},
+		"publisher": {
+			"username": "ktruong008",
+			"email": "ktruong008@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ktruong008",
+				"email": "ktruong008@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.332824075262945,
+		"detail": {
+			"quality": 0.717504610740846,
+			"popularity": 0.002940456266374436,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 0.000013439695
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "thumb-ui",
+		"scope": "unscoped",
+		"version": "0.0.17",
+		"description": "A collection of Svelte components for thumb-driven web UIs.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-09-28T21:08:44.057Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/thumb-ui"
+		},
+		"publisher": {
+			"username": "buhrmi",
+			"email": "buhrmi@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "buhrmi",
+				"email": "buhrmi@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18029475782707136,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.01252369071540269,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 2.4004012e-9
+}

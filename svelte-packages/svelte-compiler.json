@@ -1,0 +1,32 @@
+{
+	"package": {
+		"name": "svelte-compiler",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"date": "2019-05-15T13:59:45.985Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-compiler",
+			"homepage": "https://bitbucket.org/shavyg2/svelte-ts-compiler#readme",
+			"repository": "https://bitbucket.org/shavyg2/svelte-ts-compiler"
+		},
+		"publisher": {
+			"username": "shavyg2",
+			"email": "shavyg2@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shavyg2",
+				"email": "shavyg2@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21260339712510867,
+		"detail": {
+			"quality": 0.594877410565971,
+			"popularity": 0.007801656620886728,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.3825454e-8
+}

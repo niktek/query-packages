@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "@nowmade/sveltify-lib",
+		"scope": "nowmade",
+		"version": "1.0.7",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-03-01T16:28:31.053Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nowmade%2Fsveltify-lib"
+		},
+		"publisher": {
+			"username": "aderbey",
+			"email": "a.derbey@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "plcharriere",
+				"email": "plcharriere@gmail.com"
+			},
+			{
+				"username": "aderbey",
+				"email": "a.derbey@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2598202472267571,
+		"detail": {
+			"quality": 0.4660379081226978,
+			"popularity": 0.00954916606651755,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 9.615375e-8
+}

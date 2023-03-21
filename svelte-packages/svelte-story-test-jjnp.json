@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-story-test-jjnp",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-10-20T14:49:15.179Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-story-test-jjnp"
+		},
+		"publisher": {
+			"username": "jjnp",
+			"email": "jacob.palecek@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "jjnp",
+				"email": "jacob.palecek@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2229848796549982,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0027473744555778735,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.2629132e-8
+}

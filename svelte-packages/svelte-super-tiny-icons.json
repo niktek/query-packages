@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-super-tiny-icons",
+		"scope": "unscoped",
+		"version": "0.4.1",
+		"description": "Super Tiny Icons as Svelte components",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"super-tiny-icons",
+			"icon",
+			"svg"
+		],
+		"date": "2021-07-30T12:58:18.950Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-super-tiny-icons"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20223011717548314,
+		"detail": {
+			"quality": 0.5260551644706876,
+			"popularity": 0.019891115494230477,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 2.2647521e-8
+}

@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "casually-components",
+		"scope": "unscoped",
+		"version": "0.0.46",
+		"description": "Delightfully deviant, easy-use, and customizable components for Svelte, React, Vue, and Solid.",
+		"keywords": [
+			"casually-components",
+			"casuallycomponents",
+			"casually",
+			"uitoolkit"
+		],
+		"date": "2023-01-31T01:25:20.163Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/casually-components",
+			"homepage": "https://github.com/andreaabellera/Casually-Components#readme",
+			"repository": "https://github.com/andreaabellera/Casually-Components",
+			"bugs": "https://github.com/andreaabellera/Casually-Components/issues"
+		},
+		"author": {
+			"name": "Andrea Abellera"
+		},
+		"publisher": {
+			"username": "andreaabellera",
+			"email": "andrea.abellera@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "andreaabellera",
+				"email": "andrea.abellera@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24878265187111148,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.015002469974880916,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.6041304e-8
+}

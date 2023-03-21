@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-design-icons",
+		"scope": "unscoped",
+		"version": "0.1.3-0",
+		"description": "svg icons for svelte-design",
+		"keywords": [
+			"icons",
+			"svg",
+			"svelte-design"
+		],
+		"date": "2022-12-15T08:11:18.621Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-design-icons"
+		},
+		"author": {
+			"name": "vnaki",
+			"email": "wqynqa@163.com",
+			"username": "vnaki"
+		},
+		"publisher": {
+			"username": "vnaki",
+			"email": "wqynqa@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "vnaki",
+				"email": "wqynqa@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22515250784904792,
+		"detail": {
+			"quality": 0.3381927440304505,
+			"popularity": 0.020080051352131725,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.9212676e-8
+}

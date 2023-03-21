@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-accessible-accordion",
+		"scope": "unscoped",
+		"version": "2.1.0",
+		"description": "Accessible accordion component for Svelte",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"accordion",
+			"accessible",
+			"wai-aria",
+			"a11y"
+		],
+		"date": "2021-11-02T15:09:57.828Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-accessible-accordion",
+			"homepage": "https://github.com/metonym/svelte-accessible-accordion",
+			"repository": "https://github.com/metonym/svelte-accessible-accordion",
+			"bugs": "https://github.com/metonym/svelte-accessible-accordion/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2555822860742174,
+		"detail": {
+			"quality": 0.6191815227934985,
+			"popularity": 0.028783296389120465,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 5.756444e-7
+}

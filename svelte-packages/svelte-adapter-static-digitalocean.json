@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-adapter-static-digitalocean",
+		"scope": "unscoped",
+		"version": "2.0.1",
+		"description": "SvelteKit adapter for DigitalOcean App Platform static sites.",
+		"keywords": [
+			"svelte",
+			"kit",
+			"adapter",
+			"digitalocean"
+		],
+		"date": "2023-02-09T19:08:31.867Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-adapter-static-digitalocean",
+			"homepage": "https://github.com/TorstenDittmann/svelte-adapter-static-digitalocean#readme",
+			"repository": "https://github.com/TorstenDittmann/svelte-adapter-static-digitalocean",
+			"bugs": "https://github.com/TorstenDittmann/svelte-adapter-static-digitalocean/issues"
+		},
+		"author": {
+			"name": "Torsten Dittmann",
+			"email": "torsten@appwrite.io",
+			"url": "https://github.com/TorstenDittmann/"
+		},
+		"publisher": {
+			"username": "torstendittmann",
+			"email": "torsten.dittmann@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "torstendittmann",
+				"email": "torsten.dittmann@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2728349035838118,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.00926524610574939,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.5618393e-7
+}

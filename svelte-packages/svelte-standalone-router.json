@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-standalone-router",
+		"scope": "unscoped",
+		"version": "1.0.25",
+		"description": "A standalone router based on https://github.com/hjalmar/standalone-router",
+		"date": "2021-07-03T11:36:52.952Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-standalone-router"
+		},
+		"author": {
+			"name": "Jens Hjalmarsson"
+		},
+		"publisher": {
+			"username": "jensilaijnen",
+			"email": "jens.hjalmarsson@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jensilaijnen",
+				"email": "jens.hjalmarsson@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2009707743893849,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0030600631393372852,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.2737828e-8
+}

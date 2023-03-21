@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "mdsvex",
+		"scope": "unscoped",
+		"version": "0.10.6",
+		"description": "Markdown preprocessor for Svelte",
+		"keywords": [
+			"test",
+			"preprocessor",
+			"mdx",
+			"markdown",
+			"svelte"
+		],
+		"date": "2022-05-27T14:30:17.298Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/mdsvex",
+			"homepage": "https://github.com/pngwn/MDsveX#readme",
+			"repository": "https://github.com/pngwn/MDsveX",
+			"bugs": "https://github.com/pngwn/MDsveX/issues"
+		},
+		"author": {
+			"name": "pngwn",
+			"email": "hello@pngwn.io",
+			"username": "evilpingwin"
+		},
+		"publisher": {
+			"username": "evilpingwin",
+			"email": "hello@pngwn.io"
+		},
+		"maintainers": [
+			{
+				"username": "evilpingwin",
+				"email": "hello@pngwn.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2076768736274242,
+		"detail": {
+			"quality": 0.2419919047096637,
+			"popularity": 0.08998478781565863,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 2.6719176e-8
+}

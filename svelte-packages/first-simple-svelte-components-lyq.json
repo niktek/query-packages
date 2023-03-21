@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "first-simple-svelte-components-lyq",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-05-25T12:19:20.141Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/first-simple-svelte-components-lyq"
+		},
+		"author": {
+			"name": "lyq"
+		},
+		"publisher": {
+			"username": "litstronger",
+			"email": "1589015065@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "litstronger",
+				"email": "1589015065@qq.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21682835990720728,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0014782372015374357,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 4.028277e-8
+}

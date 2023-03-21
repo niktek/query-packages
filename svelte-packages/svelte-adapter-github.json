@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-adapter-github",
+		"scope": "unscoped",
+		"version": "1.0.0-next.0",
+		"description": "[Adapter](https://kit.svelte.dev/docs/adapters) for SvelteKit apps that prerenders your entire site as a collection of static files on GitHub. If you'd like to prerender only some pages, you will need to use a different adapter together with [the `prerend",
+		"date": "2022-09-27T17:06:23.746Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-adapter-github",
+			"homepage": "https://malynium.com",
+			"repository": "https://github.com/malynium/svelte-adapter-github",
+			"bugs": "https://github.com/malynium/svelte-adapter-github/issues"
+		},
+		"publisher": {
+			"username": "j4w8n",
+			"email": "jason@malynium.com"
+		},
+		"maintainers": [
+			{
+				"username": "j4w8n",
+				"email": "jason@malynium.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3843186965026532,
+		"detail": {
+			"quality": 0.870646441024333,
+			"popularity": 0.023665374947365966,
+			"maintenance": 0.32811966561078637
+		}
+	},
+	"searchScore": 0.00008732913
+}

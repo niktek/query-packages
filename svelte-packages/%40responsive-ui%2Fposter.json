@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "@responsive-ui/poster",
+		"scope": "responsive-ui",
+		"version": "1.1.0-alpha.8",
+		"description": "A poster component of responsive-ui.",
+		"keywords": [
+			"svelte",
+			"ui-component",
+			"responsive-ui",
+			"poster",
+			"svelte-poster",
+			"ssr-compatible"
+		],
+		"date": "2022-03-14T06:40:07.588Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40responsive-ui%2Fposter",
+			"homepage": "https://github.com/wetix/responsive-ui/blob/main/components/poster#README.md",
+			"repository": "https://github.com/wetix/responsive-ui",
+			"bugs": "https://github.com/wetix/responsive-ui/issues"
+		},
+		"author": {
+			"name": "Si3nLoong",
+			"email": "sianloong90@gmail.com",
+			"url": "https://github.com/si3nloong"
+		},
+		"publisher": {
+			"username": "mohamadharith",
+			"email": "harith@revenuemonster.my"
+		},
+		"maintainers": [
+			{
+				"username": "mohamadharith",
+				"email": "harith@revenuemonster.my"
+			},
+			{
+				"username": "charu.yussuf",
+				"email": "yussuf@revenuemonster.my"
+			},
+			{
+				"username": "apacventure",
+				"email": "apacventure@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30437126310561835,
+		"detail": {
+			"quality": 0.6173293530699571,
+			"popularity": 0.02262241890614745,
+			"maintenance": 0.31787031590708464
+		}
+	},
+	"searchScore": 0.0000019048821
+}

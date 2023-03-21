@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "vue-subscribe-store",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "Ability to integrate subscribable state into vue components",
+		"keywords": [
+			"vue",
+			"vuejs",
+			"vuex",
+			"svelte",
+			"svelte-store",
+			"state"
+		],
+		"date": "2019-09-11T03:09:47.155Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vue-subscribe-store",
+			"homepage": "https://github.com/davidchubbs/vue-subscribe-store",
+			"repository": "https://github.com/davidchubbs/vue-subscribe-store",
+			"bugs": "https://github.com/davidchubbs/vue-subscribe-store/issues"
+		},
+		"author": {
+			"name": "David Chubbs",
+			"email": "davidchubbuck@gmail.com",
+			"url": "https://github.com/davidchubbs",
+			"username": "davidchubbs"
+		},
+		"publisher": {
+			"username": "davidchubbs",
+			"email": "davidchubbuck@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "davidchubbs",
+				"email": "davidchubbuck@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18174211020402387,
+		"detail": {
+			"quality": 0.49962193053505155,
+			"popularity": 0.0012741054442895535,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.9249327e-9
+}

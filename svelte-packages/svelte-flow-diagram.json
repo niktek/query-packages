@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-flow-diagram",
+		"scope": "unscoped",
+		"version": "0.12.0",
+		"description": "Early preview version...",
+		"date": "2022-06-29T13:26:22.646Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-flow-diagram"
+		},
+		"publisher": {
+			"username": "timopruesse",
+			"email": "chroma91@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "andre_biel",
+				"email": "andre@no.studio"
+			},
+			{
+				"username": "timopruesse",
+				"email": "chroma91@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21610312024201117,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.004400753065054408,
+			"maintenance": 0.3333273390387707
+		}
+	},
+	"searchScore": 2.717761e-8
+}

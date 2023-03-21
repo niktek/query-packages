@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-forms-lib",
+		"scope": "unscoped",
+		"version": "2.0.1",
+		"description": "Svelte forms lib - A lightweight library for managing forms in Svelte v3",
+		"keywords": [
+			"svelte",
+			"forms",
+			"validation",
+			"form-validation"
+		],
+		"date": "2022-01-06T07:30:34.155Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-forms-lib",
+			"homepage": "https://svelte-forms-lib-sapper-docs.now.sh",
+			"repository": "https://github.com/tjinauyeung/svelte-forms-lib"
+		},
+		"author": {
+			"name": "Tjin Au Yeung"
+		},
+		"publisher": {
+			"username": "tjinauyeung",
+			"email": "tjinauyeung@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "larrybotha",
+				"email": "larry@fixate.it"
+			},
+			{
+				"username": "tjinauyeung",
+				"email": "tjinauyeung@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3053387309713217,
+		"detail": {
+			"quality": 0.6395190192584685,
+			"popularity": 0.06583564017998697,
+			"maintenance": 0.25840157465938773
+		}
+	},
+	"searchScore": 0.000007624726
+}

@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@danielschischkin/publish-svelte",
+		"scope": "danielschischkin",
+		"version": "0.8.1",
+		"description": "A command-line tool for publishing svelte components to npm",
+		"keywords": [
+			"svelte",
+			"cli",
+			"publish",
+			"share",
+			"npm",
+			"components"
+		],
+		"date": "2021-09-17T12:19:35.260Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40danielschischkin%2Fpublish-svelte",
+			"homepage": "https://github.com/fourhundredfour/publish-svelte#readme",
+			"repository": "https://github.com/fourhundredfour/publish-svelte",
+			"bugs": "https://github.com/fourhundredfour/publish-svelte/issues"
+		},
+		"author": {
+			"name": "Philip Christiansen"
+		},
+		"publisher": {
+			"username": "danielschischkin",
+			"email": "daniel@schischkin.info"
+		},
+		"maintainers": [
+			{
+				"username": "danielschischkin",
+				"email": "daniel@schischkin.info"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16596681151799178,
+		"detail": {
+			"quality": 0.36872506351612505,
+			"popularity": 0.018008420284886778,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.5263238e-9
+}

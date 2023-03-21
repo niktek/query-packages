@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-gitlab-icons",
+		"scope": "unscoped",
+		"version": "0.15.0",
+		"description": "GitLab SVG icons as Svelte components",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"gitlab",
+			"@gitlab/svgs",
+			"icon",
+			"svg"
+		],
+		"date": "2023-03-11T20:48:41.124Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-gitlab-icons",
+			"homepage": "https://github.com/metonym/svelte-gitlab-icons",
+			"repository": "https://github.com/metonym/svelte-gitlab-icons",
+			"bugs": "https://github.com/metonym/svelte-gitlab-icons/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2805557896746381,
+		"detail": {
+			"quality": 0.5260551644706876,
+			"popularity": 0.01735038067683007,
+			"maintenance": 0.33333316313297523
+		}
+	},
+	"searchScore": 0.0000015773909
+}

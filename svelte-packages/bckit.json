@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "bckit",
+		"scope": "unscoped",
+		"version": "1.9.3",
+		"description": "This is the [SvelteKit](https://kit.svelte.dev) framework and CLI.",
+		"date": "2023-03-03T16:57:09.466Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/bckit",
+			"homepage": "https://kit.svelte.dev",
+			"repository": "https://github.com/sveltejs/kit",
+			"bugs": "https://github.com/sveltejs/kit/issues"
+		},
+		"publisher": {
+			"username": "briancray",
+			"email": "bcrayzie@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "briancray",
+				"email": "bcrayzie@icloud.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2729712134137883,
+		"detail": {
+			"quality": 0.9099040447126278,
+			"popularity": 0,
+			"maintenance": 0
+		}
+	},
+	"searchScore": 9.3309914e-8
+}

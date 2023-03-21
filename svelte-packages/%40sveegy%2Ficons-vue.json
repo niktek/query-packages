@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@sveegy/icons-vue",
+		"scope": "sveegy",
+		"version": "0.1.1",
+		"description": "- Official docs - https://sveegy.vercel.app/docs/vue",
+		"keywords": [
+			"svg",
+			"icons",
+			"ui",
+			"sveegy",
+			"svelte",
+			"vue"
+		],
+		"date": "2022-03-21T10:50:32.562Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveegy%2Ficons-vue",
+			"homepage": "https://sveegy.vercel.app",
+			"repository": "https://github.com/Sveegy/sveegy-icons",
+			"bugs": "https://github.com/Sveegy/sveegy-icons/issues"
+		},
+		"author": {
+			"name": "Dominik Michal"
+		},
+		"publisher": {
+			"username": "dmc0125",
+			"email": "domikmic@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dmc0125",
+				"email": "domikmic@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23031876167405863,
+		"detail": {
+			"quality": 0.4161326345901549,
+			"popularity": 0.018302560434627937,
+			"maintenance": 0.2830659289854068
+		}
+	},
+	"searchScore": 3.7735116e-8
+}

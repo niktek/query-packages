@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@simtropolis/fractalcomponents",
+		"scope": "simtropolis",
+		"version": "0.0.3",
+		"description": "Svelte wrappers for the component library.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"sveltejs",
+			"fractalcomponents",
+			"icons"
+		],
+		"date": "2022-04-13T21:49:46.047Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40simtropolis%2Ffractalcomponents"
+		},
+		"publisher": {
+			"username": "asvegah",
+			"email": "ahmadvegah@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "asvegah",
+				"email": "ahmadvegah@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20788881063683678,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.018302560434627937,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 1.31652955e-8
+}

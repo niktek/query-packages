@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-bootstrap-toast",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-05-04T19:13:40.901Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-bootstrap-toast"
+		},
+		"publisher": {
+			"username": "demetrius-mp",
+			"email": "demetrius.mp789@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "demetrius-mp",
+				"email": "demetrius.mp789@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20694890449505648,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.018274482791670935,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 2.1325015e-8
+}

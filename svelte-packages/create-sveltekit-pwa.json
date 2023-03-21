@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "create-sveltekit-pwa",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "A CLI tool to add PWA functionality to you Sveltekit Project that works GREAT in 5 Minutes!",
+		"keywords": [
+			"sveltekit",
+			"svelte",
+			"PWA",
+			"pwa",
+			"pwa-svelte",
+			"pwa-sveltekit",
+			"svelte-pwa",
+			"sveltekit-pwa"
+		],
+		"date": "2022-06-09T18:47:07.995Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-sveltekit-pwa",
+			"homepage": "https://github.com/lcharleslaing/create-sveltekit-auth0",
+			"repository": "https://github.com/lcharleslaing/create-sveltekit-auth0",
+			"bugs": "https://github.com/lcharleslaing/create-sveltekit-auth0/issues"
+		},
+		"author": {
+			"name": "Lee Charles Laing",
+			"email": "big2tinydev@gmail.com"
+		},
+		"publisher": {
+			"username": "leelaing",
+			"email": "lcharleslaing@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "leelaing",
+				"email": "lcharleslaing@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2437829288728241,
+		"detail": {
+			"quality": 0.46557312155307506,
+			"popularity": 0.001503902651019941,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 1.4118841e-7
+}

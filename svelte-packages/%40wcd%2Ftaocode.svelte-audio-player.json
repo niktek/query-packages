@@ -1,0 +1,58 @@
+{
+	"package": {
+		"name": "@wcd/taocode.svelte-audio-player",
+		"scope": "wcd",
+		"version": "0.14.0",
+		"keywords": [
+			"wcd"
+		],
+		"date": "2023-03-04T18:15:48.662Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40wcd%2Ftaocode.svelte-audio-player",
+			"homepage": "https://studio.webcomponents.dev/edit/wpsgjENLAcAH6CMeL78q/",
+			"repository": "https://github.com/taocode/wc-svelte-audio-player",
+			"bugs": "https://github.com/taocode/wc-svelte-audio-player/issues"
+		},
+		"author": {
+			"name": "Mark Jones"
+		},
+		"publisher": {
+			"username": "_divriots_",
+			"email": "admin+npm@divriots.com"
+		},
+		"maintainers": [
+			{
+				"username": "gluck",
+				"email": "francois.valdy@gmail.com"
+			},
+			{
+				"username": "gqio",
+				"email": "quinio.gregory@gmail.com"
+			},
+			{
+				"username": "georges-gomes",
+				"email": "georges.gomes@gmail.com"
+			},
+			{
+				"username": "_wcd_",
+				"email": "admin@divriots.com"
+			},
+			{
+				"username": "_divriots_",
+				"email": "admin+npm@divriots.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2452603862227224,
+		"detail": {
+			"quality": 0.3954791606050344,
+			"popularity": 0.028428489641558287,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.6856644e-8
+}

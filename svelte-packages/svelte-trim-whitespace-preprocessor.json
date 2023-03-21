@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-trim-whitespace-preprocessor",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Trim whitespace between inline elements in Svelte components",
+		"keywords": [
+			"svelte",
+			"whitespace",
+			"preprocessor"
+		],
+		"date": "2020-10-11T13:03:16.277Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-trim-whitespace-preprocessor"
+		},
+		"author": {
+			"name": "Kim Schmider"
+		},
+		"publisher": {
+			"username": "mad-liberation",
+			"email": "kontakt@schmider.kim"
+		},
+		"maintainers": [
+			{
+				"username": "mad-liberation",
+				"email": "kontakt@schmider.kim"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18490288972454422,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0016225565897266057,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.4676947e-9
+}

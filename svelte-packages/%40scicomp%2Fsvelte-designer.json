@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@scicomp/svelte-designer",
+		"scope": "scicomp",
+		"version": "1.0.1",
+		"description": "A graphical user interface for laying out and styling Svelte components.",
+		"date": "2021-09-28T15:59:10.399Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40scicomp%2Fsvelte-designer"
+		},
+		"author": {
+			"name": "Thomas Butterfield"
+		},
+		"publisher": {
+			"username": "butterfieldt",
+			"email": "thomas.butterfield@nhs.net"
+		},
+		"maintainers": [
+			{
+				"username": "butterfieldt",
+				"email": "thomas.butterfield@nhs.net"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16615806998555294,
+		"detail": {
+			"quality": 0.3687250635161251,
+			"popularity": 0.018554873049347147,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.2878898e-9
+}

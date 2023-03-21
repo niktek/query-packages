@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-quicksearch-bar",
+		"scope": "unscoped",
+		"version": "1.0.5",
+		"description": "QuickSearchBar for svelte apps",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-02-21T15:37:18.966Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-quicksearch-bar"
+		},
+		"author": {
+			"name": "Sarodus"
+		},
+		"publisher": {
+			"username": "sarodus",
+			"email": "jordiavellapol@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sarodus",
+				"email": "jordiavellapol@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19189265719381932,
+		"detail": {
+			"quality": 0.5039755837380318,
+			"popularity": 0.009280870460324539,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 1.1146085e-8
+}

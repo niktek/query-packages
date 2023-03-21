@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@digibib/deichman-admin-frontend-common",
+		"scope": "digibib",
+		"version": "3.1.0",
+		"description": "Set of common Deichman Svelte components",
+		"date": "2022-11-04T18:21:02.853Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40digibib%2Fdeichman-admin-frontend-common"
+		},
+		"publisher": {
+			"username": "atomcat1978",
+			"email": "tom@lambdac.no"
+		},
+		"maintainers": [
+			{
+				"username": "petterg",
+				"email": "petter.goksoyr.asen@deichman.no"
+			},
+			{
+				"username": "bensinober",
+				"email": "bensinober@gmail.com"
+			},
+			{
+				"username": "atomcat1978",
+				"email": "tom@lambdac.no"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26740927585423896,
+		"detail": {
+			"quality": 0.4781262400947439,
+			"popularity": 0.02087067759756891,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.6483878e-7
+}

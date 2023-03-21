@@ -1,0 +1,66 @@
+{
+	"package": {
+		"name": "@cloudcannon/svelte-connector",
+		"scope": "cloudcannon",
+		"version": "1.0.3",
+		"description": "A connector for live editing Svelte components in CloudCannon",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"CloudCannon",
+			"live",
+			"editing",
+			"CMS"
+		],
+		"date": "2022-08-03T02:14:58.260Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cloudcannon%2Fsvelte-connector",
+			"homepage": "https://github.com/CloudCannon/svelte-connector#readme",
+			"repository": "https://github.com/CloudCannon/svelte-connector",
+			"bugs": "https://github.com/CloudCannon/svelte-connector/issues"
+		},
+		"publisher": {
+			"username": "bigelowcc",
+			"email": "liam@cloudcannon.com"
+		},
+		"maintainers": [
+			{
+				"username": "gphillips_nz",
+				"email": "george@cloudcannon.com"
+			},
+			{
+				"username": "tate-cc",
+				"email": "tate@cloudcannon.com"
+			},
+			{
+				"username": "ryan-collins",
+				"email": "ryan@cloudcannon.com"
+			},
+			{
+				"username": "bigelowcc",
+				"email": "liam@cloudcannon.com"
+			},
+			{
+				"username": "nathancc",
+				"email": "nathan@cloudcannon.com"
+			},
+			{
+				"username": "jonatah",
+				"email": "jonatah@cloudcannon.com"
+			},
+			{
+				"username": "rphillips-cc",
+				"email": "ross@cloudcannon.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27131380907752806,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.006903044202834925,
+			"maintenance": 0.32097269205669243
+		}
+	},
+	"searchScore": 8.910605e-7
+}

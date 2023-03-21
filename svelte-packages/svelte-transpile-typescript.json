@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-transpile-typescript",
+		"scope": "unscoped",
+		"version": "0.1.2",
+		"description": "Transpile typescript in the svelte files",
+		"keywords": [
+			"svelte",
+			"transpile",
+			"typescript"
+		],
+		"date": "2021-02-23T05:15:11.458Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-transpile-typescript",
+			"homepage": "https://github.com/andrelmlins/svelte-transpile-typescript",
+			"repository": "https://github.com/andrelmlins/svelte-transpile-typescript",
+			"bugs": "https://github.com/andrelmlins/svelte-transpile-typescript/issues"
+		},
+		"author": {
+			"name": "André Lins",
+			"email": "andrelucas01@hotmail.com",
+			"url": "https://andrelmlins.github.io/",
+			"username": "andrelmlins"
+		},
+		"publisher": {
+			"username": "andrelmlins",
+			"email": "andrelucas01@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "andrelmlins",
+				"email": "andrelucas01@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1777099979186163,
+		"detail": {
+			"quality": 0.4843066085097907,
+			"popularity": 0.002881203507634478,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.5163656e-9
+}

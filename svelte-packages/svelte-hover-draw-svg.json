@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-hover-draw-svg",
+		"scope": "unscoped",
+		"version": "2.1.7",
+		"description": "A lightweight Svelte component to draw SVG on hover.",
+		"keywords": [
+			"svelte",
+			"svg",
+			"animation",
+			"component"
+		],
+		"date": "2022-12-17T06:57:26.506Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-hover-draw-svg",
+			"homepage": "https://github.com/davipon/svelte-hover-draw-svg#readme",
+			"repository": "https://github.com/davipon/svelte-hover-draw-svg",
+			"bugs": "https://github.com/davipon/svelte-hover-draw-svg/issues"
+		},
+		"author": {
+			"name": "Peng Wei Che"
+		},
+		"publisher": {
+			"username": "davipon",
+			"email": "david19930304@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "davipon",
+				"email": "david19930304@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28230587462339196,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.010795287199603945,
+			"maintenance": 0.33333333261369535
+		}
+	},
+	"searchScore": 0.0000015002619
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@n0n3br/pbkit",
+		"scope": "n0n3br",
+		"version": "0.0.1",
+		"description": "A set of svelte components to facilitate the integration between your app and pocketbase",
+		"date": "2023-01-12T13:14:30.509Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40n0n3br%2Fpbkit"
+		},
+		"publisher": {
+			"username": "n0n3br",
+			"email": "rogeriol@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "n0n3br",
+				"email": "rogeriol@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21518527390255537,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.0031994282903948326,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 5.492607e-9
+}

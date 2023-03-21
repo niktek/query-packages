@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-svg",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "Svelte Library for SVG (Scalable Vector Graphics)",
+		"keywords": [
+			"svelte",
+			"component",
+			"svg"
+		],
+		"date": "2020-01-07T20:57:20.700Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-svg"
+		},
+		"publisher": {
+			"username": "manuel3108",
+			"email": "mserret99@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "manuel3108",
+				"email": "mserret99@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18170156125680842,
+		"detail": {
+			"quality": 0.49548795701127646,
+			"popularity": 0.004701657186909791,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.403532e-9
+}

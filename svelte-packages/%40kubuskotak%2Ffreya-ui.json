@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@kubuskotak/freya-ui",
+		"scope": "kubuskotak",
+		"version": "0.1.9",
+		"description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+		"keywords": [
+			"svelte",
+			"component",
+			"ui"
+		],
+		"date": "2021-10-26T07:27:21.253Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kubuskotak%2Ffreya-ui"
+		},
+		"author": {
+			"name": "suryakencana007"
+		},
+		"publisher": {
+			"username": "kubuskotak",
+			"email": "nanang.ask@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kubuskotak",
+				"email": "nanang.ask@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19119997428028862,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0017865519597952627,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 3.762182e-9
+}

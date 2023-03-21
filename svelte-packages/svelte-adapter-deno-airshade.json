@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-adapter-deno-airshade",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "[Adapter](https://kit.svelte.dev/docs/adapters) for SvelteKit apps that generates a standalone Deno server.",
+		"date": "2022-12-22T11:28:10.585Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-adapter-deno-airshade"
+		},
+		"publisher": {
+			"username": "zulfirman",
+			"email": "zulfirman098@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "zulfirman",
+				"email": "zulfirman098@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22319685195955066,
+		"detail": {
+			"quality": 0.34835864020984353,
+			"popularity": 0.005778837799802711,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.0803357e-8
+}

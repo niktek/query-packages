@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@raythurnevoid/svelte-group-components",
+		"scope": "raythurnevoid",
+		"version": "0.0.29",
+		"date": "2021-08-26T13:15:15.076Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40raythurnevoid%2Fsvelte-group-components",
+			"homepage": "https://github.com/raythurnevoid/svelte-group-components#readme",
+			"repository": "https://github.com/raythurnevoid/svelte-group-components",
+			"bugs": "https://github.com/raythurnevoid/svelte-group-components/issues"
+		},
+		"author": {
+			"name": "Ray Thurne"
+		},
+		"publisher": {
+			"username": "raythurnevoid",
+			"email": "monkeythedev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "raythurnevoid",
+				"email": "monkeythedev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17052334052755497,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.020421201416272287,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 1.3658389e-9
+}

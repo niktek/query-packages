@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "html-svelte-parser",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "HTML to Svelte parser.",
+		"keywords": [
+			"svelte",
+			"svelte-parser",
+			"html-svelte-parser",
+			"html-to-svelte"
+		],
+		"date": "2022-11-30T14:12:38.153Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/html-svelte-parser",
+			"homepage": "https://github.com/PatrickG/html-svelte-parser#readme",
+			"repository": "https://github.com/PatrickG/html-svelte-parser",
+			"bugs": "https://github.com/PatrickG/html-svelte-parser/issues"
+		},
+		"author": {
+			"name": "Patrick Günther",
+			"url": "https://patrick.id/"
+		},
+		"publisher": {
+			"username": "pehgeh",
+			"email": "Patrick@ShowYou.us"
+		},
+		"maintainers": [
+			{
+				"username": "pehgeh",
+				"email": "Patrick@ShowYou.us"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2487102577261341,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.006978837922765226,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 2.8904563e-7
+}

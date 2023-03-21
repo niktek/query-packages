@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@vsych/svelte-select",
+		"scope": "vsych",
+		"version": "3.1.2",
+		"description": "A <Select> component for Svelte apps",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-12-06T12:27:40.598Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40vsych%2Fsvelte-select",
+			"homepage": "https://github.com/rob-balfre/svelte-select#readme",
+			"repository": "https://github.com/rob-balfre/svelte-select",
+			"bugs": "https://github.com/rob-balfre/svelte-select/issues"
+		},
+		"author": {
+			"name": "rob-balfre"
+		},
+		"publisher": {
+			"username": "vsych",
+			"email": "victor.sych@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vsych",
+				"email": "victor.sych@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17428768361387048,
+		"detail": {
+			"quality": 0.47466485451177404,
+			"popularity": 0.0013675232066606574,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.7258085e-9
+}

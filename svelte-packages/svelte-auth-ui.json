@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-auth-ui",
+		"scope": "unscoped",
+		"version": "0.0.9",
+		"description": "Save time and simplify authentication in Svelte with Svelte Auth UI",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"lucia auth",
+			"authentication",
+			"@auth",
+			"next auth",
+			"authjs",
+			"components",
+			"social login",
+			"svelte components"
+		],
+		"date": "2023-02-13T10:40:19.252Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-auth-ui"
+		},
+		"publisher": {
+			"username": "chrisjayden",
+			"email": "yo@chrisjayden.com"
+		},
+		"maintainers": [
+			{
+				"username": "chrisjayden",
+				"email": "yo@chrisjayden.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22569779117212185,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.010498550218788365,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.4980726e-8
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@simonnystrom/svelte-form",
+		"scope": "simonnystrom",
+		"version": "0.0.21",
+		"description": "An extensible Svelte form component.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-10-12T20:09:38.677Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40simonnystrom%2Fsvelte-form"
+		},
+		"publisher": {
+			"username": "simonnystrom",
+			"email": "simon.nystrom90@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "simonnystrom",
+				"email": "simon.nystrom90@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16918438888713955,
+		"detail": {
+			"quality": 0.436215500346057,
+			"popularity": 0.019743270415186927,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.3445528e-9
+}

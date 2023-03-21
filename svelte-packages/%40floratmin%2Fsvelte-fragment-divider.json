@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@floratmin/svelte-fragment-divider",
+		"scope": "floratmin",
+		"version": "4.2.1",
+		"description": "Divide svelte files into script, style and HTML fragments",
+		"keywords": [
+			"svelte",
+			"fragments"
+		],
+		"date": "2022-03-11T12:39:26.034Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40floratmin%2Fsvelte-fragment-divider",
+			"homepage": "https://github.com/floratmin/svelte-fragment-divider#readme",
+			"repository": "https://github.com/floratmin/svelte-fragment-divider",
+			"bugs": "https://github.com/floratmin/svelte-fragment-divider/issues"
+		},
+		"author": {
+			"name": "Florian Murat Koch",
+			"email": "florian.murat.koch@gmail.com"
+		},
+		"publisher": {
+			"username": "floratmin",
+			"email": "florat.min@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "floratmin",
+				"email": "florat.min@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27391112064017553,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.019583247986460064,
+			"maintenance": 0.3218699145125261
+		}
+	},
+	"searchScore": 0.0000010838438
+}

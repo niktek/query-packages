@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@bradgarropy/eslint-config-svelte",
+		"scope": "bradgarropy",
+		"version": "1.0.1",
+		"description": "🟠 svelte eslint configuration",
+		"keywords": [
+			"eslint",
+			"eslint-config",
+			"svelte"
+		],
+		"date": "2022-02-03T15:39:03.531Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bradgarropy%2Feslint-config-svelte",
+			"homepage": "https://github.com/bradgarropy/eslint-config-svelte",
+			"repository": "https://github.com/bradgarropy/eslint-config-svelte",
+			"bugs": "https://github.com/bradgarropy/eslint-config-svelte/issues"
+		},
+		"author": {
+			"name": "Brad Garropy",
+			"email": "bradgarropy@gmail.com",
+			"url": "https://bradgarropy.com",
+			"username": "bradgarropy"
+		},
+		"publisher": {
+			"username": "bradgarropy",
+			"email": "bradgarropy@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bradgarropy",
+				"email": "bradgarropy@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3078968218966129,
+		"detail": {
+			"quality": 0.8989570985728543,
+			"popularity": 0.002165756895601047,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 0.000005565005
+}

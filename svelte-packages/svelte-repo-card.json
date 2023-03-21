@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-repo-card",
+		"scope": "unscoped",
+		"version": "1.3.0",
+		"description": "A simple GitHub repo card, based on Tarptaeya/repo-card",
+		"keywords": [
+			"component",
+			"svelte",
+			"github",
+			"card"
+		],
+		"date": "2021-03-21T03:05:28.017Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-repo-card"
+		},
+		"author": {
+			"name": "thislooksfun",
+			"email": "tlf@thislooks.fun",
+			"url": "https://thislooks.fun",
+			"username": "thislooksfun"
+		},
+		"publisher": {
+			"username": "thislooksfun",
+			"email": "tlf@thislooks.fun"
+		},
+		"maintainers": [
+			{
+				"username": "thislooksfun",
+				"email": "tlf@thislooks.fun"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20346285683193735,
+		"detail": {
+			"quality": 0.55,
+			"popularity": 0.002889084058974696,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 1.925785e-8
+}

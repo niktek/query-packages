@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-preprocess-cssmodules",
+		"scope": "unscoped",
+		"version": "2.2.4",
+		"description": "Svelte preprocessor to generate CSS Modules classname on Svelte components",
+		"keywords": [
+			"svelte",
+			"svelte-preprocess",
+			"css-modules"
+		],
+		"date": "2023-01-20T15:05:51.671Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-preprocess-cssmodules",
+			"homepage": "https://github.com/micantoine/svelte-preprocess-cssmodules",
+			"repository": "https://github.com/micantoine/svelte-preprocess-cssmodules",
+			"bugs": "https://github.com/micantoine/svelte-preprocess-cssmodules/issues"
+		},
+		"author": {
+			"name": "micantoine"
+		},
+		"publisher": {
+			"username": "micantoine",
+			"email": "antoine.michael83@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "micantoine",
+				"email": "antoine.michael83@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28263597719003497,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.03361478424926423,
+			"maintenance": 0.33276653982074905
+		}
+	},
+	"searchScore": 0.00000205355
+}

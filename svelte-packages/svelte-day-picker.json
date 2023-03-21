@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-day-picker",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "A solid calendar component for Svelte",
+		"date": "2022-09-27T11:42:02.188Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-day-picker",
+			"homepage": "https://github.com/m93a/svelte-day-picker",
+			"bugs": "https://github.com/m93a/svelte-day-picker/issues"
+		},
+		"author": {
+			"name": "Michal Grňo",
+			"url": "m93a"
+		},
+		"publisher": {
+			"username": "c.sha",
+			"email": "m93a.cz@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "c.sha",
+				"email": "m93a.cz@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25367333871084696,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.01987331809111759,
+			"maintenance": 0.333191996917241
+		}
+	},
+	"searchScore": 3.3514053e-7
+}

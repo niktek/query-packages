@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-micro",
+		"scope": "unscoped",
+		"version": "2.2.0",
+		"description": "Light & reactive router for Svelte",
+		"keywords": [
+			"svelte",
+			"router"
+		],
+		"date": "2023-02-20T06:46:57.049Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-micro",
+			"homepage": "https://github.com/ayndqy/svelte-micro#readme",
+			"repository": "https://github.com/ayndqy/svelte-micro",
+			"bugs": "https://github.com/ayndqy/svelte-micro/issues"
+		},
+		"author": {
+			"name": "ayndqy"
+		},
+		"publisher": {
+			"username": "ayndqy",
+			"email": "ayndqy@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ayndqy",
+				"email": "ayndqy@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2729691687610049,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.00964886089772971,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00000111604
+}

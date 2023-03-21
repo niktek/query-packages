@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "svelte-intersection-observer-action",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Svelte use:action for element position notifications using IntersectionObserver.",
+		"keywords": [
+			"svelte",
+			"use",
+			"action",
+			"intersection",
+			"intersectionobserver"
+		],
+		"date": "2023-02-24T22:38:42.435Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-intersection-observer-action",
+			"homepage": "https://captaincodeman.github.io/svelte-intersection-observer-action/",
+			"repository": "https://github.com/captaincodeman/svelte-intersection-observer-action",
+			"bugs": "https://github.com/captaincodeman/svelte-intersection-observer-action/issues"
+		},
+		"author": {
+			"name": "Simon Green",
+			"email": "simon@captaincodeman.com",
+			"url": "https://www.captaincodeman.com/",
+			"username": "captaincodeman"
+		},
+		"publisher": {
+			"username": "captaincodeman",
+			"email": "simon@captaincodeman.com"
+		},
+		"maintainers": [
+			{
+				"username": "captaincodeman",
+				"email": "simon@captaincodeman.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24920397804270128,
+		"detail": {
+			"quality": 0.43476815925336065,
+			"popularity": 0.0060196102857898,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.5088448e-7
+}

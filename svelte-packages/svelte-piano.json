@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-piano",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "A typescript / svelte rewrite of the awesome [AudioKeys](https://github.com/kylestetz/AudioKeys) project.",
+		"date": "2023-02-08T08:10:42.596Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-piano"
+		},
+		"publisher": {
+			"username": "bradenwiggins",
+			"email": "braden@fractal-hq.com"
+		},
+		"maintainers": [
+			{
+				"username": "bradenwiggins",
+				"email": "braden@fractal-hq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22282973484217294,
+		"detail": {
+			"quality": 0.34835864020984353,
+			"popularity": 0.0047299317501520895,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.1397436e-8
+}

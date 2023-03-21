@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svekyll-cli",
+		"scope": "unscoped",
+		"version": "0.0.33",
+		"keywords": [
+			"blog",
+			"jekyll",
+			"static-blog",
+			"svelte"
+		],
+		"date": "2023-03-11T16:32:16.804Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svekyll-cli"
+		},
+		"author": {
+			"name": "chris@extrastatic.com"
+		},
+		"publisher": {
+			"username": "chris",
+			"email": "xrdawson@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "chris",
+				"email": "xrdawson@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21199524521619495,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.015987677836912184,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.1373636e-8
+}

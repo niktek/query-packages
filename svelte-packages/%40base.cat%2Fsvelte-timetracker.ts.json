@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "@base.cat/svelte-timetracker.ts",
+		"scope": "base.cat",
+		"version": "1.0.0",
+		"description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+		"date": "2022-11-09T07:17:36.274Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40base.cat%2Fsvelte-timetracker.ts"
+		},
+		"author": {
+			"name": "Octavi Fornés",
+			"email": "ofornes@base.cat",
+			"username": "ofornes-base"
+		},
+		"publisher": {
+			"username": "ofornes-base",
+			"email": "ofornes@base.cat"
+		},
+		"maintainers": [
+			{
+				"username": "ofornes-base",
+				"email": "ofornes@base.cat"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24154325731606469,
+		"detail": {
+			"quality": 0.4160617952064585,
+			"popularity": 0.0015929507396638162,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.3613538e-7
+}

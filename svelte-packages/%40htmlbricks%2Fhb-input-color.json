@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@htmlbricks/hb-input-color",
+		"scope": "htmlbricks",
+		"version": "0.19.31",
+		"description": "Svelte-Bootstrap Color Input WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2023-02-28T18:24:02.152Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fhb-input-color"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23795168539307468,
+		"detail": {
+			"quality": 0.3445850424719881,
+			"popularity": 0.05117001709946169,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.2756631e-7
+}

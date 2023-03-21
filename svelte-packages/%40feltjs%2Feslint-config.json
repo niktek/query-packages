@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@feltjs/eslint-config",
+		"scope": "feltjs",
+		"version": "0.2.1",
+		"description": "an ESLint config for TypeScript, Svelte, and Prettier",
+		"keywords": [
+			"eslint",
+			"eslintconfig"
+		],
+		"date": "2023-01-25T16:20:41.181Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40feltjs%2Feslint-config",
+			"homepage": "https://github.com/feltjs/eslint-config",
+			"repository": "https://github.com/feltjs/eslint-config",
+			"bugs": "https://github.com/feltjs/eslint-config/issues"
+		},
+		"author": {
+			"name": "Felt Co-op",
+			"email": "team@felt.social",
+			"url": "https://felt.social"
+		},
+		"publisher": {
+			"username": "ryanatkn",
+			"email": "mail@ryanatkn.com"
+		},
+		"maintainers": [
+			{
+				"username": "greatbacon",
+				"email": "hamiltonjreed@gmail.com"
+			},
+			{
+				"username": "ryanatkn",
+				"email": "mail@ryanatkn.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2598231962365085,
+		"detail": {
+			"quality": 0.4629360028651223,
+			"popularity": 0.013643455376362919,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 9.592152e-8
+}

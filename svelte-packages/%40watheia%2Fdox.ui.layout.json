@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "@watheia/dox.ui.layout",
+		"scope": "watheia",
+		"version": "0.0.1",
+		"keywords": [
+			"watheia",
+			"micro",
+			"domain-specific",
+			"micro-component",
+			"micro-frontend",
+			"webcomponent",
+			"snowpack",
+			"svelte",
+			"preact"
+		],
+		"date": "2021-05-10T14:09:05.867Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40watheia%2Fdox.ui.layout",
+			"homepage": "https://gitlab.com/watheia/watheia-micro#readme",
+			"repository": "https://gitlab.com/watheia/watheia-micro",
+			"bugs": "https://gitlab.com/watheia/watheia-micro/issues"
+		},
+		"author": {
+			"name": "Aaron R Miller",
+			"email": "amiller@watheia.org"
+		},
+		"publisher": {
+			"username": "waweb",
+			"email": "admin@watheia.org"
+		},
+		"maintainers": [
+			{
+				"username": "waweb",
+				"email": "admin@watheia.org"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1943666613153866,
+		"detail": {
+			"quality": 0.5023602899106222,
+			"popularity": 0.0009032098236473717,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 2.745403e-9
+}

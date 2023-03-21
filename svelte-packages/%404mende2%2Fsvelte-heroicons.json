@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@4mende2/svelte-heroicons",
+		"scope": "4mende2",
+		"version": "1.1.7",
+		"description": "Prepackaged heroicons to use with svelte",
+		"keywords": [
+			"svelte",
+			"heroicons"
+		],
+		"date": "2020-10-26T17:30:35.791Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%404mende2%2Fsvelte-heroicons",
+			"homepage": "https://gitlab.com/aldomendez/svelte-heroicons",
+			"repository": "https://gitlab.com/aldomendez/svelte-heroicons",
+			"bugs": "https://gitlab.com/aldomendez/svelte-heroicons/issues"
+		},
+		"author": {
+			"name": "Aldo Mendez"
+		},
+		"publisher": {
+			"username": "4mende2",
+			"email": "aldomendez86@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "4mende2",
+				"email": "aldomendez86@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18889469872661263,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0026508662911773418,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.0066105e-9
+}

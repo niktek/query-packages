@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-nerdfonts",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Use all nerdfont-icons in your Svelte project",
+		"keywords": [
+			"nerdfonts",
+			"icons",
+			"svelte"
+		],
+		"date": "2020-09-19T11:07:35.041Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-nerdfonts"
+		},
+		"author": {
+			"name": "icalvin102"
+		},
+		"publisher": {
+			"username": "icalvin102",
+			"email": "calvin@icalvin.de"
+		},
+		"maintainers": [
+			{
+				"username": "icalvin102",
+				"email": "calvin@icalvin.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19141889108320848,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.020239703328767397,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.2874032e-8
+}

@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "sveltetube",
+		"scope": "unscoped",
+		"version": "0.0.11",
+		"description": "A Svelte component for Youtube videos.",
+		"keywords": [
+			"svelte",
+			"youtube"
+		],
+		"date": "2022-11-25T12:32:21.078Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltetube",
+			"homepage": "https://github.com/bmehder/sveltetube#readme",
+			"repository": "https://github.com/bmehder/sveltetube",
+			"bugs": "https://github.com/bmehder/sveltetube/issues"
+		},
+		"publisher": {
+			"username": "bmehder",
+			"email": "brad@mehder.com"
+		},
+		"maintainers": [
+			{
+				"username": "bmehder",
+				"email": "brad@mehder.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21105417488002004,
+		"detail": {
+			"quality": 0.3096464268903387,
+			"popularity": 0.004267371846433615,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.1282279e-8
+}

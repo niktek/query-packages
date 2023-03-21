@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-distill",
+		"scope": "unscoped",
+		"version": "0.0.11",
+		"description": "This is a library that ports the Distill HTML template into svelte styled components.",
+		"date": "2022-07-26T22:36:42.131Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-distill"
+		},
+		"publisher": {
+			"username": "xnought",
+			"email": "bertuccd@oregonstate.edu"
+		},
+		"maintainers": [
+			{
+				"username": "xnought",
+				"email": "bertuccd@oregonstate.edu"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18480351731297667,
+		"detail": {
+			"quality": 0.28896411309638304,
+			"popularity": 0.0025149676818215115,
+			"maintenance": 0.2778115562726407
+		}
+	},
+	"searchScore": 4.017833e-9
+}

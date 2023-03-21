@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "webfont-importer",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "Svelte element to import webfonts using google or bunny fonts.",
+		"keywords": [
+			"svelte",
+			"sveltejs",
+			"component",
+			"buymeacoffee",
+			"javascript"
+		],
+		"date": "2022-08-16T02:17:37.274Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/webfont-importer"
+		},
+		"author": {
+			"name": "Samuel C. 'Skaman Sam' Tyler",
+			"email": "skamansam@gmail.com",
+			"url": "https://rudeboy.dev",
+			"username": "skamansam"
+		},
+		"publisher": {
+			"username": "skamansam",
+			"email": "skamansam@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "skamansam",
+				"email": "skamansam@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2162914304025612,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.002082247683659026,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 1.7237761e-8
+}

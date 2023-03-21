@@ -1,0 +1,97 @@
+{
+	"package": {
+		"name": "@square/svelte-store",
+		"scope": "square",
+		"version": "1.0.15",
+		"description": "Extension of svelte default stores for dead-simple handling of complex asynchronous behavior.",
+		"date": "2023-02-27T23:17:09.856Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40square%2Fsvelte-store",
+			"homepage": "https://github.com/square/svelte-store#readme",
+			"repository": "https://github.com/square/svelte-store",
+			"bugs": "https://github.com/square/svelte-store/issues"
+		},
+		"author": {
+			"name": "Square"
+		},
+		"publisher": {
+			"username": "akolyte01",
+			"email": "npm@akolyte.com"
+		},
+		"maintainers": [
+			{
+				"username": "akolyte01",
+				"email": "npm@akolyte.com"
+			},
+			{
+				"username": "amoghk",
+				"email": "me@amoghk.com"
+			},
+			{
+				"username": "jguze-sq",
+				"email": "jguze@squareup.com"
+			},
+			{
+				"username": "xiao-square",
+				"email": "xiao@squareup.com"
+			},
+			{
+				"username": "joanc",
+				"email": "joanc@squareup.com"
+			},
+			{
+				"username": "square-owner",
+				"email": "npmjs@squareup.com"
+			},
+			{
+				"username": "adrw",
+				"email": "dev+npmjs_adrw@adrw.ch"
+			},
+			{
+				"username": "square-developers",
+				"email": "devplat-external-sdk-accounts+npm@squareup.com"
+			},
+			{
+				"username": "matahwoosh",
+				"email": "mbyczkowski@gmail.com"
+			},
+			{
+				"username": "hirokiosame",
+				"email": "hiroki.osame@gmail.com"
+			},
+			{
+				"username": "bmishkin",
+				"email": "bm641024@gmail.com"
+			},
+			{
+				"username": "dpapastrat",
+				"email": "dpapastrat@squareup.com"
+			},
+			{
+				"username": "maxbeatty",
+				"email": "npm@maxbeatty.com"
+			},
+			{
+				"username": "linnea",
+				"email": "linneagrambo@gmail.com"
+			},
+			{
+				"username": "pretzelhammer",
+				"email": "kfedorov91@gmail.com"
+			},
+			{
+				"username": "alexandersmanning",
+				"email": "alexandersmanning@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.289233311546763,
+		"detail": {
+			"quality": 0.55,
+			"popularity": 0.02161898537170385,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000019300712
+}

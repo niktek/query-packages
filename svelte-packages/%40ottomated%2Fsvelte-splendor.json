@@ -1,0 +1,30 @@
+{
+	"package": {
+		"name": "@ottomated/svelte-splendor",
+		"scope": "ottomated",
+		"version": "2.1.4",
+		"date": "2022-12-20T17:57:21.245Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ottomated%2Fsvelte-splendor"
+		},
+		"publisher": {
+			"username": "ottomated",
+			"email": "otto@ottomated.pw"
+		},
+		"maintainers": [
+			{
+				"username": "ottomated",
+				"email": "otto@ottomated.pw"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19961658044644826,
+		"detail": {
+			"quality": 0.2483002422810951,
+			"popularity": 0.02417097455843731,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.142233e-8
+}

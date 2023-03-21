@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "pluma-svelte-forms",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "Form validation for Svelte",
+		"date": "2021-04-20T19:12:44.405Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/pluma-svelte-forms",
+			"homepage": "https://github.com/plumacloud/pluma-svelte-forms#readme",
+			"repository": "https://github.com/plumacloud/pluma-svelte-forms",
+			"bugs": "https://github.com/plumacloud/pluma-svelte-forms/issues"
+		},
+		"publisher": {
+			"username": "plumacloud",
+			"email": "hello@pluma.cloud"
+		},
+		"maintainers": [
+			{
+				"username": "plumacloud",
+				"email": "hello@pluma.cloud"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19722414088522167,
+		"detail": {
+			"quality": 0.4397711452609957,
+			"popularity": 0.001707923805054072,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 1.0324539e-8
+}

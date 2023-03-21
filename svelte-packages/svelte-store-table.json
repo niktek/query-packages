@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-store-table",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "Table based on Svelte stores.",
+		"date": "2021-03-25T16:20:24.987Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-store-table"
+		},
+		"publisher": {
+			"username": "selevt",
+			"email": "selevt@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "selevt",
+				"email": "selevt@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1718798797818945,
+		"detail": {
+			"quality": 0.4397711452609957,
+			"popularity": 0.00713388226371314,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 1.872238e-9
+}

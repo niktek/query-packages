@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "braintapper-svelte-icon",
+		"scope": "unscoped",
+		"version": "0.0.25",
+		"description": "Svelte component for SVG icons from materialdesignicons.com",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-10-08T19:25:48.494Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/braintapper-svelte-icon",
+			"homepage": "https://github.com/braintapper/braintapper-svelte-icon#readme",
+			"repository": "https://github.com/braintapper/braintapper-svelte-icon",
+			"bugs": "https://github.com/braintapper/braintapper-svelte-icon/issues"
+		},
+		"author": {
+			"name": "braintapper"
+		},
+		"publisher": {
+			"username": "braintapper",
+			"email": "steven.ng@braintapper.com"
+		},
+		"maintainers": [
+			{
+				"username": "braintapper",
+				"email": "steven.ng@braintapper.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22180555215267828,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.020744797903292294,
+			"maintenance": 0.25051357763796994
+		}
+	},
+	"searchScore": 7.3608696e-8
+}

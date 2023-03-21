@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-reactive-css-preprocess-with-object-array-support",
+		"scope": "unscoped",
+		"version": "0.0.2-a",
+		"description": "Svelte preprocessor to automatically create and update css variables using svelte's reactivity",
+		"keywords": [
+			"svelte",
+			"preprocess",
+			"css",
+			"styles"
+		],
+		"date": "2022-11-30T19:09:16.629Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-reactive-css-preprocess-with-object-array-support",
+			"homepage": "https://github.com/SBHattarj/svelte-reactive-css-preprocess/tree/main#readme",
+			"repository": "https://github.com/SBHattarj/svelte-reactive-css-preprocess/tree/main",
+			"bugs": "https://github.com/SBHattarj/svelte-reactive-css-preprocess/issues"
+		},
+		"author": {
+			"name": "Subham Bhattacharjee",
+			"email": "subhambhsubhambh@gmail.com",
+			"username": "subhambh"
+		},
+		"publisher": {
+			"username": "subhambh",
+			"email": "subhambhsubhambh@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "subhambh",
+				"email": "subhambhsubhambh@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23740142258165509,
+		"detail": {
+			"quality": 0.39802258930009876,
+			"popularity": 0.0037942260713109545,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.03229766e-7
+}

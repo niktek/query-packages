@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "material-svelte",
+		"scope": "unscoped",
+		"version": "1.8.3",
+		"description": "<p align=\"center\">   <a href=\"https://material-svelte.dev\" target=\"_blank\" rel=\"noopener noreferrer\">     <img width=\"180\" src=\"https://material-svelte.dev/logo.svg\" alt=\"Material Svelte logo\">   </a> </p> <br/> <p align=\"center\">   <img src=\"https://img.",
+		"date": "2021-11-02T20:40:28.076Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/material-svelte",
+			"homepage": "https://material-svelte.dev",
+			"repository": "https://github.com/material-svelte/material-svelte",
+			"bugs": "https://github.com/material-svelte/material-svelte/issues"
+		},
+		"publisher": {
+			"username": "material-svelte-bot",
+			"email": "bot@material-svelte.dev"
+		},
+		"maintainers": [
+			{
+				"username": "material-svelte-bot",
+				"email": "bot@material-svelte.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.29010044940089363,
+		"detail": {
+			"quality": 0.6216909006757587,
+			"popularity": 0.0038915434198778347,
+			"maintenance": 0.2920889685748822
+		}
+	},
+	"searchScore": 0.0000019616857
+}

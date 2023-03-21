@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@magidoc/plugin-svelte-marked",
+		"scope": "magidoc",
+		"version": "3.5.0",
+		"description": "A markdown parser library that renders to svelte components.",
+		"keywords": [
+			"svelte",
+			"magidoc",
+			"browser",
+			"marked",
+			"markdown"
+		],
+		"date": "2023-03-03T16:03:55.210Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40magidoc%2Fplugin-svelte-marked",
+			"homepage": "https://github.com/magidoc-org/magidoc#readme",
+			"repository": "https://github.com/magidoc-org/magidoc",
+			"bugs": "https://github.com/magidoc-org/magidoc/issues"
+		},
+		"publisher": {
+			"username": "pelletier197",
+			"email": "sunnypelletier01@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pelletier197",
+				"email": "sunnypelletier01@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2901012674763899,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.04822085549437084,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000028376458
+}

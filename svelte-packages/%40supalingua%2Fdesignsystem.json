@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@supalingua/designsystem",
+		"scope": "supalingua",
+		"version": "0.0.3",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-05-28T09:13:22.050Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40supalingua%2Fdesignsystem"
+		},
+		"author": {
+			"name": "Supalingua",
+			"email": "jean.mallol@fdti-consulting.com"
+		},
+		"publisher": {
+			"username": "jean_m",
+			"email": "jean.mallol@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jean_m",
+				"email": "jean.mallol@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22664867523469065,
+		"detail": {
+			"quality": 0.4088071151157153,
+			"popularity": 0.0012054692026613517,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 1.4042541e-8
+}

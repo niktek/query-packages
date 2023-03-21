@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "wc-js-utils",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Webcomponents jsutils",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2023-02-16T19:20:48.450Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/wc-js-utils"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2199278064693287,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.03865213856015148,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.2133332e-8
+}

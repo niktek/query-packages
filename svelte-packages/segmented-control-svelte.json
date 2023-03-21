@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "segmented-control-svelte",
+		"scope": "unscoped",
+		"version": "3.8.3",
+		"description": "Segmented Control is a set of two or more Segments, each of which functions as a mutually exclusive button. It features a background, which can be animated with a sliding effect.",
+		"keywords": [
+			"segmented control",
+			"ui components",
+			"svelte components",
+			"svelte",
+			"sveltejs"
+		],
+		"date": "2022-06-21T19:54:43.190Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/segmented-control-svelte",
+			"homepage": "https://github.com/stuymedova/segmented-control-svelte#readme",
+			"repository": "https://github.com/stuymedova/segmented-control-svelte",
+			"bugs": "https://github.com/stuymedova/segmented-control-svelte/issues"
+		},
+		"publisher": {
+			"username": "stuymedova",
+			"email": "stuymedova@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "stuymedova",
+				"email": "stuymedova@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2704924507401121,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.003017226793005795,
+			"maintenance": 0.33288863023550624
+		}
+	},
+	"searchScore": 7.693717e-7
+}

@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@canutin/svelte-currency-input",
+		"scope": "canutin",
+		"version": "0.8.0",
+		"description": "A form input that converts numbers to currencies as you type in localized formats",
+		"keywords": [
+			"svelte",
+			"currency",
+			"money",
+			"input",
+			"i18n",
+			"positive",
+			"negative"
+		],
+		"date": "2023-01-31T16:20:02.628Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40canutin%2Fsvelte-currency-input",
+			"homepage": "https://github.com/canutin/svelte-currency-input#readme",
+			"repository": "https://github.com/canutin/svelte-currency-input",
+			"bugs": "https://github.com/canutin/svelte-currency-input/issues"
+		},
+		"author": {
+			"name": "Fernando Maclen",
+			"email": "hello@fernando.is"
+		},
+		"publisher": {
+			"username": "fmaclen",
+			"email": "npm@fernando.is"
+		},
+		"maintainers": [
+			{
+				"username": "fmaclen",
+				"email": "npm@fernando.is"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2565514975153677,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.02795529254508456,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.0317343e-7
+}

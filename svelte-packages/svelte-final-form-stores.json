@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-final-form-stores",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Svelte stores that wraps [final-form](https://github.com/final-form/final-form). The stores exposed can be used by any svelte project that wishes to use stores and final-form's APIs. For usage examples you can take a look at [svelte-final-form](https://gi",
+		"date": "2020-12-17T10:24:06.730Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-final-form-stores",
+			"homepage": "https://github.com/omerman/svelte-final-form-stores#readme",
+			"repository": "https://github.com/omerman/svelte-final-form-stores",
+			"bugs": "https://github.com/omerman/svelte-final-form-stores/issues"
+		},
+		"author": {
+			"name": "Omer Prizner",
+			"email": "omer.prizner@gmail.com",
+			"username": "omerman"
+		},
+		"publisher": {
+			"username": "omerman",
+			"email": "omer.prizner@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "omerman",
+				"email": "omer.prizner@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18148985928158856,
+		"detail": {
+			"quality": 0.4984838703075482,
+			"popularity": 0.0015288687180486996,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.272374e-9
+}

@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "wootwoot",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Small set of utilty functions for my svelte projects",
+		"date": "2022-12-15T18:28:59.556Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/wootwoot",
+			"homepage": "https://github.com/yfi/good#readme",
+			"repository": "https://github.com/yfi/wompwomp",
+			"bugs": "https://github.com/yfi/good/issues"
+		},
+		"author": {
+			"name": "yfi"
+		},
+		"publisher": {
+			"username": "y_fi",
+			"email": "yarek@yarekwaszul.com"
+		},
+		"maintainers": [
+			{
+				"username": "y_fi",
+				"email": "yarek@yarekwaszul.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20687901684056936,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.002796970110615934,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 3.654562e-9
+}

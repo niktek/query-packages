@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-ddb-datatables",
+		"scope": "unscoped",
+		"version": "0.1.26",
+		"description": "A Datatable component for Svelte",
+		"keywords": [
+			"svelte table datatable simple-datatables"
+		],
+		"date": "2021-11-01T12:45:48.699Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ddb-datatables",
+			"homepage": "https://vincjo.fr/svelte-simple-datatables",
+			"repository": "https://github.com/Lattay/svelte-simple-datatables",
+			"bugs": "https://github.com/Lattay/svelte-simple-datatables/issues"
+		},
+		"author": {
+			"name": "vincjo"
+		},
+		"publisher": {
+			"username": "lattay",
+			"email": "theo.cavignac@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lattay",
+				"email": "theo.cavignac@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19991792426966068,
+		"detail": {
+			"quality": 0.520646441024333,
+			"popularity": 0.0010901173098212791,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.6409249e-8
+}

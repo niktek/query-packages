@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-dts",
+		"scope": "unscoped",
+		"version": "0.3.7",
+		"description": "Typescript declaration generator for svelte with typescript",
+		"keywords": [
+			"svelte",
+			"dts",
+			"typescript",
+			"generator"
+		],
+		"date": "2022-04-06T01:37:55.222Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dts"
+		},
+		"author": {
+			"name": "André Lins",
+			"email": "andrelucas01@hotmail.com",
+			"url": "https://andrelmlins.github.io/",
+			"username": "andrelmlins"
+		},
+		"publisher": {
+			"username": "andrelmlins",
+			"email": "andrelucas01@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "andrelmlins",
+				"email": "andrelucas01@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22801385639234412,
+		"detail": {
+			"quality": 0.4843066085097907,
+			"popularity": 0.014550151764657045,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 1.110068e-7
+}

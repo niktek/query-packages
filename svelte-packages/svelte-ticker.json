@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-ticker",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Ticker component for Svelte 3",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2019-12-16T00:09:47.095Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ticker",
+			"homepage": "https://github.com/PaulMaly/svelte-ticker#readme",
+			"repository": "https://github.com/PaulMaly/svelte-ticker"
+		},
+		"author": {
+			"name": "PaulMaly"
+		},
+		"publisher": {
+			"username": "paulmaly",
+			"email": "paul.malys@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "paulmaly",
+				"email": "paul.malys@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22822346959204415,
+		"detail": {
+			"quality": 0.6454716817809788,
+			"popularity": 0.009063916913552718,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.2573496e-7
+}

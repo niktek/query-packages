@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@samwise-app/shopkeep-svelte",
+		"scope": "samwise-app",
+		"version": "0.1.1",
+		"description": "The Samwise Design Library for Svelte components",
+		"date": "2022-07-23T18:51:07.305Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40samwise-app%2Fshopkeep-svelte"
+		},
+		"publisher": {
+			"username": "dchancellor",
+			"email": "me@chancellor.tech"
+		},
+		"maintainers": [
+			{
+				"username": "dchancellor",
+				"email": "me@chancellor.tech"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2936933804078812,
+		"detail": {
+			"quality": 0.6600618123215252,
+			"popularity": 0.0013675232066606574,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 0.000002040419
+}

@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "adapter-firebase-function",
+		"scope": "unscoped",
+		"version": "1.1.1",
+		"description": "SvelteKit firebase-function adapter",
+		"date": "2021-05-17T09:56:28.903Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/adapter-firebase-function",
+			"homepage": "https://github.com/suciptoid/adapter-firebase-function#readme",
+			"repository": "https://github.com/suciptoid/adapter-firebase-function",
+			"bugs": "https://github.com/suciptoid/adapter-firebase-function/issues"
+		},
+		"author": {
+			"name": "Sucipto",
+			"email": "sucipto@pm.me",
+			"url": "https://sucipto.id",
+			"username": "suciptoid"
+		},
+		"publisher": {
+			"username": "suciptoid",
+			"email": "sucipto@pm.me"
+		},
+		"maintainers": [
+			{
+				"username": "suciptoid",
+				"email": "sucipto@pm.me"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22380972271862004,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.0020381289711917687,
+			"maintenance": 0.22179805920507703
+		}
+	},
+	"searchScore": 5.2476734e-9
+}

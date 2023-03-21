@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@htmlbricks/hb-sidebar-desktop",
+		"scope": "htmlbricks",
+		"version": "0.19.31",
+		"description": "Svelte Boostrap Sidebar Desktop",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents",
+			"html5-webcomponents"
+		],
+		"date": "2023-02-28T18:24:20.837Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fhb-sidebar-desktop"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2290299521083301,
+		"detail": {
+			"quality": 0.3194544822214061,
+			"popularity": 0.04721983078640467,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.00001e-8
+}

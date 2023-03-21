@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@digitak/cox",
+		"scope": "digitak",
+		"version": "1.1.2",
+		"description": "Cox is an modern fully-typed Typescript and SvelteKit library to handle internationalisation.",
+		"date": "2022-05-04T15:57:58.973Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40digitak%2Fcox",
+			"homepage": "https://github.com/digital-loukoum/cox#readme",
+			"repository": "https://github.com/digital-loukoum/cox",
+			"bugs": "https://github.com/digital-loukoum/cox/issues"
+		},
+		"author": {
+			"name": "Gin Quin",
+			"email": "gin.the.quin@gmail.com",
+			"username": "gin-quin"
+		},
+		"publisher": {
+			"username": "gin-quin",
+			"email": "gin.the.quin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gin-quin",
+				"email": "gin.the.quin@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2491876735991871,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0030459120856052087,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 2.013975e-8
+}

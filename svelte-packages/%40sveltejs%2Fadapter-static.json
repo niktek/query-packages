@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@sveltejs/adapter-static",
+		"scope": "sveltejs",
+		"version": "2.0.1",
+		"description": "[Adapter](https://kit.svelte.dev/docs/adapters) for SvelteKit apps that prerenders your entire site as a collection of static files. It's also possible to create an SPA with it by specifying a fallback page which renders an empty shell. If you'd like to p",
+		"date": "2023-02-09T16:19:03.330Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltejs%2Fadapter-static",
+			"homepage": "https://kit.svelte.dev",
+			"repository": "https://github.com/sveltejs/kit",
+			"bugs": "https://github.com/sveltejs/kit/issues"
+		},
+		"publisher": {
+			"username": "svelte-admin",
+			"email": "richard.a.harris+svelte@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			},
+			{
+				"username": "svelte-admin",
+				"email": "richard.a.harris+svelte@gmail.com"
+			},
+			{
+				"username": "conduitry",
+				"email": "npm@chor.date"
+			},
+			{
+				"username": "dominik_g",
+				"email": "dominik.goepel@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.34471712497343004,
+		"detail": {
+			"quality": 0.619620376602523,
+			"popularity": 0.12046955807430425,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000016253733
+}

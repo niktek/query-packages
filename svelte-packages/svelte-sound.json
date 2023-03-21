@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-sound",
+		"scope": "unscoped",
+		"version": "0.3.0",
+		"description": "An utility for playing sounds in Svelte using svelte actions",
+		"keywords": [
+			"svelte",
+			"svelte-sound",
+			"howler",
+			"svelte",
+			"actions"
+		],
+		"date": "2022-11-26T17:04:28.013Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-sound",
+			"homepage": "https://github.com/Rajaniraiyn/svelte-sound#readme",
+			"repository": "https://github.com/Rajaniraiyn/svelte-sound",
+			"bugs": "https://github.com/Rajaniraiyn/svelte-sound/issues"
+		},
+		"author": {
+			"name": "Rajaniraiyn R",
+			"email": "rajaniraiyn@gmail.com",
+			"username": "rajaniraiyn"
+		},
+		"publisher": {
+			"username": "rajaniraiyn",
+			"email": "rajaniraiyn@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rajaniraiyn",
+				"email": "rajaniraiyn@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2396707124952905,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.005025632006862948,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.8407798e-7
+}

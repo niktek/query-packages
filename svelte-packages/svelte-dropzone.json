@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-dropzone",
+		"scope": "unscoped",
+		"version": "1.0.6",
+		"description": "A simple & ssr ready wrapper around dropzone.JS for svelte/sapper.",
+		"keywords": [
+			"svelte",
+			"sapper",
+			"svelte-components",
+			"dropzone",
+			"dropzonejs"
+		],
+		"date": "2019-12-05T08:32:15.596Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-dropzone"
+		},
+		"author": {
+			"name": "Arnaud DERBEY"
+		},
+		"publisher": {
+			"username": "aderbey",
+			"email": "a.derbey@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "aderbey",
+				"email": "a.derbey@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18587768800078724,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.004407694521849497,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 7.227656e-9
+}

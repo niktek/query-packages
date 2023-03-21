@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-virtual-infinite-list",
+		"scope": "unscoped",
+		"version": "1.7.12",
+		"description": "<div align=\"center\">   <img src=\"https://user-images.githubusercontent.com/55611095/113577028-91f6e800-965b-11eb-8081-4fb0f65fa07b.png\" title=\"svelte-virtual-infinite-list\"> </div>",
+		"keywords": [
+			"svelte",
+			"virtual",
+			"list",
+			"scroll",
+			"infinite",
+			"loading",
+			"virtual-scroll",
+			"virtual-list"
+		],
+		"date": "2023-01-09T10:15:14.604Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-virtual-infinite-list",
+			"homepage": "https://github.com/koheing/svelte-virtual-infinite-list#readme",
+			"repository": "https://github.com/koheing/svelte-virtual-infinite-list",
+			"bugs": "https://github.com/koheing/svelte-virtual-infinite-list/issues"
+		},
+		"publisher": {
+			"username": "koheing",
+			"email": "saandna111@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "koheing",
+				"email": "saandna111@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28190242469800403,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.009667632653760017,
+			"maintenance": 0.3333082730870023
+		}
+	},
+	"searchScore": 0.0000013082298
+}

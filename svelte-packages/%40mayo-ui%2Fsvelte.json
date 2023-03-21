@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@mayo-ui/svelte",
+		"scope": "mayo-ui",
+		"version": "0.10.0",
+		"description": "> For `svelte`",
+		"date": "2022-02-13T11:02:01.260Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mayo-ui%2Fsvelte"
+		},
+		"author": {
+			"name": "lamartire",
+			"email": "lamartire@gmail.com",
+			"username": "lamartire"
+		},
+		"publisher": {
+			"username": "lamartire",
+			"email": "lamartire@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lamartire",
+				"email": "lamartire@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2708157997522942,
+		"detail": {
+			"quality": 0.5902336927962253,
+			"popularity": 0.002305235347943021,
+			"maintenance": 0.26553959869041865
+		}
+	},
+	"searchScore": 7.6679333e-7
+}

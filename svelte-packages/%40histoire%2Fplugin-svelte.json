@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@histoire/plugin-svelte",
+		"scope": "histoire",
+		"version": "0.15.9",
+		"description": "Histoire plugin for Svelte support",
+		"date": "2023-03-16T22:07:50.884Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40histoire%2Fplugin-svelte",
+			"homepage": "https://github.com/Akryum/histoire#readme",
+			"repository": "https://github.com/Akryum/histoire",
+			"bugs": "https://github.com/Akryum/histoire/issues"
+		},
+		"author": {
+			"name": "Guillaume Chau"
+		},
+		"publisher": {
+			"username": "akryum",
+			"email": "guillaume.b.chau@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "akryum",
+				"email": "guillaume.b.chau@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21613356118263272,
+		"detail": {
+			"quality": 0.2742484912780071,
+			"popularity": 0.049120991807325515,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.038176e-8
+}

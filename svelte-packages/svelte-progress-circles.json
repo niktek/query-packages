@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-progress-circles",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "This is a Svelte component for a circular progress bar, i.e. a \"progress circle\".",
+		"date": "2022-04-11T03:38:04.691Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-progress-circles"
+		},
+		"publisher": {
+			"username": "acarl005",
+			"email": "2yinyang2@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "acarl005",
+				"email": "2yinyang2@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20105144847670836,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 1.1591065e-8
+}

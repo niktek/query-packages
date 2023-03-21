@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "dcdc-tiptap-svelte-extensions",
+		"scope": "unscoped",
+		"version": "0.0.0",
+		"description": "Extensions for tiptap-svelte",
+		"date": "2020-08-20T22:44:58.783Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/dcdc-tiptap-svelte-extensions",
+			"homepage": "https://github.com/benbenbenbenbenben/tiptap-svelte#readme",
+			"repository": "https://github.com/benbenbenbenbenben/tiptap-svelte",
+			"bugs": "https://github.com/benbenbenbenbenben/tiptap-svelte/issues"
+		},
+		"publisher": {
+			"username": "benbenbenbenbenben",
+			"email": "work@benjaminbabik.com"
+		},
+		"maintainers": [
+			{
+				"username": "benbenbenbenbenben",
+				"email": "work@benjaminbabik.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18351744040014772,
+		"detail": {
+			"quality": 0.5059125725164324,
+			"popularity": 0.0009544985920313587,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.966039e-9
+}

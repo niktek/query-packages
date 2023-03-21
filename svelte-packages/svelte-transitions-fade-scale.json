@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-transitions-fade-scale",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Fade and scale transition plugin for Svelte",
+		"keywords": [
+			"svelte",
+			"transitions",
+			"css",
+			"animation",
+			"fade",
+			"scale"
+		],
+		"date": "2019-05-13T14:31:39.657Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-transitions-fade-scale"
+		},
+		"author": {
+			"name": "Fritz Lekschas"
+		},
+		"publisher": {
+			"username": "flekschas",
+			"email": "service@lekschas.de"
+		},
+		"maintainers": [
+			{
+				"username": "flekschas",
+				"email": "service@lekschas.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2229394325326634,
+		"detail": {
+			"quality": 0.6362840192096919,
+			"popularity": 0.0018418075192822218,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.784034e-8
+}

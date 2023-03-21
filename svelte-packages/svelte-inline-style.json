@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-inline-style",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "inline styles for svelte components",
+		"keywords": [
+			"svelte3",
+			"svelte-action",
+			"inline-styles"
+		],
+		"date": "2022-02-18T08:05:52.725Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-inline-style",
+			"homepage": "https://github.com/rozek/svelte-inline-style#readme",
+			"repository": "https://github.com/rozek/svelte-inline-style",
+			"bugs": "https://github.com/rozek/svelte-inline-style/issues"
+		},
+		"author": {
+			"name": "Andreas Rozek",
+			"email": "a.rozek@gmx.de",
+			"url": "https://www.rozek.de",
+			"username": "arozek"
+		},
+		"publisher": {
+			"username": "arozek",
+			"email": "a.rozek@gmx.de"
+		},
+		"maintainers": [
+			{
+				"username": "arozek",
+				"email": "a.rozek@gmx.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24693528242054744,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0030600631393372852,
+			"maintenance": 0.26553959869041865
+		}
+	},
+	"searchScore": 2.551499e-7
+}

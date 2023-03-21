@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@amadeus-it-group/tansu",
+		"scope": "amadeus-it-group",
+		"version": "0.0.17",
+		"description": "tansu is a lightweight, push-based state management library. It borrows the ideas and APIs originally designed and implemented by Svelte stores",
+		"keywords": [
+			"state management",
+			"Angular"
+		],
+		"date": "2023-03-08T13:11:23.757Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40amadeus-it-group%2Ftansu",
+			"homepage": "https://github.com/AmadeusITGroup/tansu#readme",
+			"repository": "https://github.com/AmadeusITGroup/tansu",
+			"bugs": "https://github.com/AmadeusITGroup/tansu/issues"
+		},
+		"publisher": {
+			"username": "divdavem",
+			"email": "david-emmanuel.divernois@amadeus.com"
+		},
+		"maintainers": [
+			{
+				"username": "basso",
+				"email": "fabrice.basso@amadeus.com"
+			},
+			{
+				"username": "olaf-k-1a",
+				"email": "olaf.k.code+pro@gmail.com"
+			},
+			{
+				"username": "divdavem",
+				"email": "david-emmanuel.divernois@amadeus.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24141579780911143,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.01001159004635129,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.2770903e-8
+}

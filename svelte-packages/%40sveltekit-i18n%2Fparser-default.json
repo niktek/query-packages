@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@sveltekit-i18n/parser-default",
+		"scope": "sveltekit-i18n",
+		"version": "1.0.3",
+		"description": "Default parser for sveltekit-i18n library.",
+		"keywords": [
+			"parser",
+			"sveltekit-i18n"
+		],
+		"date": "2022-03-31T20:32:28.020Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sveltekit-i18n%2Fparser-default",
+			"homepage": "https://github.com/sveltekit-i18n/parsers#readme",
+			"repository": "https://github.com/sveltekit-i18n/parsers",
+			"bugs": "https://github.com/sveltekit-i18n/lib/issues"
+		},
+		"author": {
+			"name": "Jarda Svoboda"
+		},
+		"publisher": {
+			"username": "jarda-svoboda",
+			"email": "scarabs04_chirps@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "jarda-svoboda",
+				"email": "scarabs04_chirps@icloud.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2880190902754931,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.054974572807121584,
+			"maintenance": 0.30547752029789527
+		}
+	},
+	"searchScore": 0.0000012032004
+}

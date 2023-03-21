@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@avitus/svelte-request-helper",
+		"scope": "avitus",
+		"version": "1.0.0",
+		"description": "A svelte compatible request helper for SSR and client requests to reduce boilerplate code",
+		"keywords": [
+			"svelte",
+			"request",
+			"helper"
+		],
+		"date": "2021-11-11T09:18:55.396Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40avitus%2Fsvelte-request-helper",
+			"homepage": "https://gitlab.com/avitusit/svelte-request-helper",
+			"repository": "https://gitlab.com/avitusit/svelte-request-helper",
+			"bugs": "https://gitlab.com/avitusit/svelte-request-helper/issues"
+		},
+		"author": {
+			"name": "Christoffer Lundberg",
+			"email": "christoffer@avitusit.se",
+			"url": "https://avitusit.se",
+			"username": "christoffer_one"
+		},
+		"publisher": {
+			"username": "christoffer_one",
+			"email": "christoffer@avitusit.se"
+		},
+		"maintainers": [
+			{
+				"username": "christoffer_one",
+				"email": "christoffer@avitusit.se"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24883749300844238,
+		"detail": {
+			"quality": 0.5960353551434681,
+			"popularity": 0.001992228563609958,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 2.7414524e-7
+}

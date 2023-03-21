@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "svelte-trigger-action",
+		"scope": "unscoped",
+		"version": "1.12.0",
+		"description": "A simple utility to trigger CSS animations on elements by calling a function",
+		"date": "2022-01-18T08:14:55.445Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-trigger-action"
+		},
+		"author": {
+			"name": "Evgenij",
+			"url": "Eugene"
+		},
+		"publisher": {
+			"username": "ebeloded",
+			"email": "belodedevgenij@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ebeloded",
+				"email": "belodedevgenij@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24696436255169696,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.0210372164487283,
+			"maintenance": 0.29945173897728533
+		}
+	},
+	"searchScore": 2.085289e-7
+}

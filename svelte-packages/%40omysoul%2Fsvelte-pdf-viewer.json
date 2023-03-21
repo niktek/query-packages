@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@omysoul/svelte-pdf-viewer",
+		"scope": "omysoul",
+		"version": "0.0.3",
+		"description": "```bash npm install @omysoul/svelte-pdf-view ```",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-10-11T13:46:06.356Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40omysoul%2Fsvelte-pdf-viewer"
+		},
+		"publisher": {
+			"username": "omysoul",
+			"email": "phil.m.holden@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "omysoul",
+				"email": "phil.m.holden@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16246039875892498,
+		"detail": {
+			"quality": 0.4149099988503061,
+			"popularity": 0.018793728473788844,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.2679291e-9
+}

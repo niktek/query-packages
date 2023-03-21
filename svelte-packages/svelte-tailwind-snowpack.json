@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-tailwind-snowpack",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "> ✨ Community template for Svelte and Tailwind.",
+		"keywords": [
+			"csa-template"
+		],
+		"date": "2021-02-12T08:04:43.614Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tailwind-snowpack"
+		},
+		"author": {
+			"name": "Agney Menon",
+			"email": "agney@outlook.in",
+			"username": "agney"
+		},
+		"publisher": {
+			"username": "agney",
+			"email": "agney@outlook.in"
+		},
+		"maintainers": [
+			{
+				"username": "agney",
+				"email": "agney@outlook.in"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22857611302030867,
+		"detail": {
+			"quality": 0.6550521998692723,
+			"popularity": 0.0018595969186283715,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.574508e-8
+}

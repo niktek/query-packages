@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@fractalhq/svelte-knobby",
+		"scope": "fractalhq",
+		"version": "0.3.4",
+		"description": "Add knobs to your Svelte apps. [Demo](https://svelte.dev/repl/85c0f69007524dd9a45a8bf72d2401ba)",
+		"date": "2022-03-30T18:52:20.954Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40fractalhq%2Fsvelte-knobby"
+		},
+		"publisher": {
+			"username": "bradenwiggins",
+			"email": "braden@fractal-hq.com"
+		},
+		"maintainers": [
+			{
+				"username": "bradenwiggins",
+				"email": "braden@fractal-hq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18974812909085886,
+		"detail": {
+			"quality": 0.3595566954747321,
+			"popularity": 0.0016872668846552522,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 5.511813e-9
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-lazyload",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "Lazy loading library using the svelte framework.",
+		"keywords": [
+			"lazy load",
+			"svelte",
+			"lazy"
+		],
+		"date": "2019-06-15T03:53:55.405Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-lazyload",
+			"homepage": "https://github.com/abrochard/svelte-lazyload#readme",
+			"repository": "https://github.com/abrochard/svelte-lazyload",
+			"bugs": "https://github.com/abrochard/svelte-lazyload/issues"
+		},
+		"author": {
+			"name": "Adrien Brochard"
+		},
+		"publisher": {
+			"username": "abrochard",
+			"email": "contact@abrochard.com"
+		},
+		"maintainers": [
+			{
+				"username": "abrochard",
+				"email": "contact@abrochard.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18356467610204663,
+		"detail": {
+			"quality": 0.49962193053505155,
+			"popularity": 0.006481436581497539,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.130203e-9
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-outclick",
+		"scope": "unscoped",
+		"version": "3.5.0",
+		"description": "A Svelte component that allows you to listen to the clicks that happen outside of an element.",
+		"date": "2023-02-26T16:35:59.947Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-outclick",
+			"homepage": "https://babakfp.ir/docs/svelte-outclick",
+			"repository": "https://github.com/babakfp/svelte-outclick",
+			"bugs": "https://github.com/babakfp/svelte-outclick/issues"
+		},
+		"publisher": {
+			"username": "babakfp",
+			"email": "babak.bxf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "babakfp",
+				"email": "babak.bxf@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3118891971436001,
+		"detail": {
+			"quality": 0.6334043120902548,
+			"popularity": 0.014875893912167985,
+			"maintenance": 0.3333181161350424
+		}
+	},
+	"searchScore": 0.0000056722038
+}

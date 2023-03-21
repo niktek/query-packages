@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@robakk08/svelte-evaicons",
+		"scope": "robakk08",
+		"version": "0.0.3",
+		"description": "Another take on svelte-eva-icons for Svelte",
+		"keywords": [
+			"svelte",
+			"eva-icons",
+			"flaticon"
+		],
+		"date": "2021-08-21T15:34:33.344Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40robakk08%2Fsvelte-evaicons",
+			"homepage": "https://github.com/Robak08/svelte-evaicons#readme",
+			"repository": "https://github.com/Robak08/svelte-evaicons",
+			"bugs": "https://github.com/Robak08/svelte-evaicons/issues"
+		},
+		"author": {
+			"name": "Robert Hamiga",
+			"email": "robert.hamiga@gmail.com",
+			"username": "robakk08"
+		},
+		"publisher": {
+			"username": "robakk08",
+			"email": "robert.hamiga@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "robakk08",
+				"email": "robert.hamiga@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18189158411233775,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 4.339185e-9
+}

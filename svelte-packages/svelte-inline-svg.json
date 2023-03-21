@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-inline-svg",
+		"scope": "unscoped",
+		"version": "1.2.0",
+		"description": "Inline SVGs in Svelte",
+		"keywords": [
+			"svelte",
+			"svg",
+			"inline"
+		],
+		"date": "2022-10-11T07:48:57.752Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-inline-svg",
+			"homepage": "https://github.com/robinscholz/svelte-inline-svg#readme",
+			"repository": "https://github.com/robinscholz/svelte-inline-svg",
+			"bugs": "https://github.com/robinscholz/svelte-inline-svg/issues"
+		},
+		"author": {
+			"name": "dev@studioscholz.info"
+		},
+		"publisher": {
+			"username": "robinscholz",
+			"email": "dev@studioscholz.info"
+		},
+		"maintainers": [
+			{
+				"username": "robinscholz",
+				"email": "dev@studioscholz.info"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2828471250856003,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.029653845293853377,
+			"maintenance": 0.33117422241730887
+		}
+	},
+	"searchScore": 0.0000020003188
+}

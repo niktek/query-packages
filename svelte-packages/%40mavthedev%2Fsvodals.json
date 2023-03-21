@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@mavthedev/svodals",
+		"scope": "mavthedev",
+		"version": "1.0.0",
+		"description": "Cybernatically enhanced svelte modals",
+		"keywords": [
+			"svelte",
+			"modal",
+			"tool"
+		],
+		"date": "2022-07-09T00:19:07.840Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40mavthedev%2Fsvodals",
+			"homepage": "https://github.com/mavthedev/svodals#readme",
+			"repository": "https://github.com/mavthedev/svodals",
+			"bugs": "https://github.com/mavthedev/svodals/issues"
+		},
+		"author": {
+			"name": "mavthedev",
+			"email": "redrangercj@gmail.com"
+		},
+		"publisher": {
+			"username": "maverickquill55",
+			"email": "vscode@toxik.cf"
+		},
+		"maintainers": [
+			{
+				"username": "maverickquill55",
+				"email": "vscode@toxik.cf"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19239537224246275,
+		"detail": {
+			"quality": 0.29422377678050504,
+			"popularity": 0.0015531792264761723,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 3.8030885e-9
+}

@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@benleed/toast",
+		"scope": "benleed",
+		"version": "1.0.4",
+		"description": "* Put the Toast component in parent component (Like App.svelte) * Use **postiveToast** or **negativeToast** to show toast with a message * 2nd param set to true will leave toast open until user acts",
+		"date": "2021-06-23T01:10:05.657Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40benleed%2Ftoast"
+		},
+		"publisher": {
+			"username": "benleed",
+			"email": "ben.leed@kynetec.com"
+		},
+		"maintainers": [
+			{
+				"username": "benleed",
+				"email": "ben.leed@kynetec.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21830661653276867,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0019605479356621046,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 2.6725007e-9
+}

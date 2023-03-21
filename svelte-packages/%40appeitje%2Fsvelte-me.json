@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@appeitje/svelte-me",
+		"scope": "appeitje",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-10-15T09:04:04.906Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40appeitje%2Fsvelte-me"
+		},
+		"publisher": {
+			"username": "garethloot",
+			"email": "garethloot@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "garethloot",
+				"email": "garethloot@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22221017820501332,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.001961029373969284,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 4.526091e-8
+}

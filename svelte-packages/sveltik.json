@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "sveltik",
+		"scope": "unscoped",
+		"version": "0.1.16",
+		"description": "Forms in Svelte, inspired by [Formik](https://jaredpalmer.com/formik/).",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-12-07T10:36:34.057Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltik"
+		},
+		"author": {
+			"name": "Nathan Cahill",
+			"email": "nathan@nathancahill"
+		},
+		"publisher": {
+			"username": "nathancahill",
+			"email": "nathan@nathancahill.com"
+		},
+		"maintainers": [
+			{
+				"username": "nathancahill",
+				"email": "nathan@nathancahill.com"
+			},
+			{
+				"username": "mapgrid",
+				"email": "noreply@mapgrid.org"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1747006060597236,
+		"detail": {
+			"quality": 0.4629360028651223,
+			"popularity": 0.012600603034799575,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.6924172e-9
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-html2pdf",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "*Psst — looking for an app template? Go here --> [sveltejs/template](https://github.com/sveltejs/template)*",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-05-27T10:11:16.231Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-html2pdf"
+		},
+		"publisher": {
+			"username": "manuel3108",
+			"email": "mserret99@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "manuel3108",
+				"email": "mserret99@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.178313961171775,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.001240504208122975,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 3.5461265e-9
+}

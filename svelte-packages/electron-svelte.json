@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "electron-svelte",
+		"scope": "unscoped",
+		"version": "1.4.1",
+		"description": "A simple and easy to use cli tool for generating modern templates for svelte/electron/ts.",
+		"keywords": [
+			"svelte-electron",
+			"svelte",
+			"electron-template",
+			"electron-typescript-svelte"
+		],
+		"date": "2022-05-31T23:31:34.019Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/electron-svelte"
+		},
+		"author": {
+			"name": "Tyler Laceby"
+		},
+		"publisher": {
+			"username": "tylerbadger23",
+			"email": "tylerbadger23@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tylerbadger23",
+				"email": "tylerbadger23@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.268830075639544,
+		"detail": {
+			"quality": 0.4848901895230866,
+			"popularity": 0.019538035916736776,
+			"maintenance": 0.3329277320336004
+		}
+	},
+	"searchScore": 9.779251e-7
+}

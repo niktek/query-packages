@@ -1,0 +1,64 @@
+{
+	"package": {
+		"name": "@healthtree/svelte-epic-form",
+		"scope": "healthtree",
+		"version": "0.0.20",
+		"description": "Svelte reactive forms with validations, conditional displaying, imperative and declarative definition, read only mode.",
+		"keywords": [
+			"svelte",
+			"form",
+			"validation",
+			"reactive",
+			"input"
+		],
+		"date": "2021-06-28T18:06:14.819Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40healthtree%2Fsvelte-epic-form",
+			"homepage": "https://github.com/HealthTree/svelte-epic-form#readme",
+			"repository": "https://github.com/HealthTree/svelte-epic-form",
+			"bugs": "https://github.com/HealthTree/svelte-epic-form/issues"
+		},
+		"publisher": {
+			"username": "diegofhe",
+			"email": "diegofhrg@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sahagun-jorge",
+				"email": "jrssa6@gmail.com"
+			},
+			{
+				"username": "alvarocapde",
+				"email": "alvaro@healthtree.org"
+			},
+			{
+				"username": "healthtree-admin",
+				"email": "accounts@healthtree.org"
+			},
+			{
+				"username": "diegofhe",
+				"email": "diegofhrg@gmail.com"
+			},
+			{
+				"username": "jpcapdevila",
+				"email": "juan@capdevila.me"
+			},
+			{
+				"username": "aureliob",
+				"email": "aurelio@bernalr.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21528956980506248,
+		"detail": {
+			"quality": 0.36509471722525466,
+			"popularity": 0.0027229885583892168,
+			"maintenance": 0.29945173897728533
+		}
+	},
+	"searchScore": 3.277538e-8
+}

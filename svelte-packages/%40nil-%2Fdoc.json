@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@nil-/doc",
+		"scope": "nil-",
+		"version": "0.2.57",
+		"description": "Svelte component library to help documentation",
+		"keywords": [
+			"svelte",
+			"documentation",
+			"component"
+		],
+		"date": "2023-03-11T23:50:52.887Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nil-%2Fdoc"
+		},
+		"author": {
+			"name": "Neil Aldea",
+			"email": "njaldea@gmail.com",
+			"username": "nil-"
+		},
+		"publisher": {
+			"username": "nil-",
+			"email": "njaldea@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nil-",
+				"email": "njaldea@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24018265996675447,
+		"detail": {
+			"quality": 0.3937319195412201,
+			"popularity": 0.015418335536347978,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.858689e-8
+}

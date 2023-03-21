@@ -1,0 +1,56 @@
+{
+	"package": {
+		"name": "codefend",
+		"scope": "unscoped",
+		"version": "2.1.0",
+		"description": "Code obfuscator CLI that protects your code regardless of the programming language or framework.",
+		"keywords": [
+			"obfuscator",
+			"uglifier",
+			"encrypt",
+			"angular",
+			"vue",
+			"react",
+			"svelte",
+			"typescript",
+			"css",
+			"html",
+			"python",
+			"c#",
+			"c++",
+			"obfuscate",
+			"uglify",
+			"obfuscation",
+			"uglification"
+		],
+		"date": "2023-02-12T17:56:34.234Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/codefend",
+			"homepage": "https://github.com/Codefend/core.git",
+			"repository": "https://github.com/Codefend/core",
+			"bugs": "https://github.com/Codefend/core/issues"
+		},
+		"author": {
+			"name": "Mounzer Adas"
+		},
+		"publisher": {
+			"username": "mounzz",
+			"email": "mounzer.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mounzz",
+				"email": "mounzer.dev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2900106058597904,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0328088042982472,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.0898503e-7
+}

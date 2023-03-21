@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "svelte-common-lib-terry",
+		"scope": "unscoped",
+		"version": "0.0.6",
+		"date": "2023-01-18T03:39:48.118Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-common-lib-terry"
+		},
+		"publisher": {
+			"username": "terry.you",
+			"email": "tyu469469@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "terry.you",
+				"email": "tyu469469@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1904681147692576,
+		"detail": {
+			"quality": 0.23926108599618262,
+			"popularity": 0.005780349439246192,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.4465174e-9
+}

@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@fouita/form-editor",
+		"scope": "fouita",
+		"version": "0.0.5",
+		"description": "Svelte component to build forms using nocode editor. Built with svelte and tailwindcss.",
+		"keywords": [
+			"svelte",
+			"tailwind",
+			"wysiwyg",
+			"editor",
+			"form",
+			"builder",
+			"fouita"
+		],
+		"date": "2022-12-30T09:50:05.324Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40fouita%2Fform-editor",
+			"homepage": "https://github.com/fouita/form-editor#readme",
+			"repository": "https://github.com/fouita/form-editor",
+			"bugs": "https://github.com/fouita/form-editor/issues"
+		},
+		"author": {
+			"name": "fouita"
+		},
+		"publisher": {
+			"username": "fouita",
+			"email": "hq@fouita.com"
+		},
+		"maintainers": [
+			{
+				"username": "fouita",
+				"email": "hq@fouita.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24552682382231505,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0217573786555045,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.0639777e-7
+}

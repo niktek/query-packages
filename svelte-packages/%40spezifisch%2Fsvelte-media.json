@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@spezifisch/svelte-media",
+		"scope": "spezifisch",
+		"version": "0.1.5",
+		"description": "Svelte.js util to easily observe media queries as a reactive store",
+		"keywords": [
+			"svelte",
+			"sapper",
+			"media",
+			"query",
+			"matchmedia",
+			"responsive",
+			"media-query"
+		],
+		"date": "2022-05-10T09:02:43.920Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40spezifisch%2Fsvelte-media",
+			"homepage": "https://github.com/cibernox/svelte-media#readme",
+			"repository": "https://github.com/cibernox/svelte-media",
+			"bugs": "https://github.com/cibernox/svelte-media/issues"
+		},
+		"author": {
+			"name": "Miguel Camba",
+			"email": "miguel.camba@gmail.com"
+		},
+		"publisher": {
+			"username": "spezifisch",
+			"email": "spezifisch-npm@below.fr"
+		},
+		"maintainers": [
+			{
+				"username": "spezifisch",
+				"email": "spezifisch-npm@below.fr"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21659194352413572,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0014518238078102884,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 3.8335397e-8
+}

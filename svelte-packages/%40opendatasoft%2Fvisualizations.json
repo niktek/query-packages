@@ -1,0 +1,67 @@
+{
+	"package": {
+		"name": "@opendatasoft/visualizations",
+		"scope": "opendatasoft",
+		"version": "0.12.3",
+		"description": "Opendatasoft's components to easily build dashboards and visualizations.",
+		"keywords": [
+			"Opendatasoft",
+			"ODS",
+			"Data visualization",
+			"Dataviz",
+			"JavaScript",
+			"TypeScript",
+			"Svelte"
+		],
+		"date": "2023-03-16T17:56:10.359Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40opendatasoft%2Fvisualizations",
+			"homepage": "https://github.com/opendatasoft/ods-dataviz-sdk"
+		},
+		"author": {
+			"name": "opendatasoft"
+		},
+		"publisher": {
+			"username": "richterb",
+			"email": "benoit.richter@opendatasoft.com"
+		},
+		"maintainers": [
+			{
+				"username": "etienneburdet",
+				"email": "etienne.burdet@opendatasoft.com"
+			},
+			{
+				"username": "rafael.szmarowski",
+				"email": "rafael.szmarowski@opendatasoft.com"
+			},
+			{
+				"username": "opendatasoft-user",
+				"email": "admin+npm@opendatasoft.com"
+			},
+			{
+				"username": "william.mai",
+				"email": "william.mai@opendatasoft.com"
+			},
+			{
+				"username": "richterb",
+				"email": "benoit.richter@opendatasoft.com"
+			},
+			{
+				"username": "rkouye_ods",
+				"email": "romaric.kouye@opendatasoft.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23554487423472173,
+		"detail": {
+			"quality": 0.3622857877267465,
+			"popularity": 0.029121346428660336,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.6574062e-8
+}

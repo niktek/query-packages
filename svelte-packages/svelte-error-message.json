@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-error-message",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Super basic error message displaying component that I created mostly to avoid having to copy everywhere.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-06-06T15:31:07.639Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-error-message"
+		},
+		"publisher": {
+			"username": "jimkang",
+			"email": "jimkang@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jimkang",
+				"email": "jimkang@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.16690010228786273,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.001992228563609958,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.3792811e-9
+}

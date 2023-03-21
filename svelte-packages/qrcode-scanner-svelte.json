@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "qrcode-scanner-svelte",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "QR Code scanner in a Svelte Component",
+		"date": "2022-02-13T19:14:45.456Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/qrcode-scanner-svelte",
+			"homepage": "https://github.com/PeerPiper/qrcode-scanner-svelte#readme",
+			"repository": "https://github.com/PeerPiper/qrcode-scanner-svelte",
+			"bugs": "https://github.com/PeerPiper/qrcode-scanner-svelte/issues"
+		},
+		"publisher": {
+			"username": "douganderson444",
+			"email": "douganderson444@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "douganderson444",
+				"email": "douganderson444@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.184969236799973,
+		"detail": {
+			"quality": 0.4660379081226978,
+			"popularity": 0.0051868955978295345,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 4.79149e-9
+}

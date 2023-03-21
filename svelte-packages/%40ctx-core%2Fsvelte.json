@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@ctx-core/svelte",
+		"scope": "ctx-core",
+		"version": "13.4.54",
+		"description": "ctx-core svelte",
+		"keywords": [
+			"ctx-core",
+			"svelte"
+		],
+		"date": "2023-03-15T18:48:08.170Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ctx-core%2Fsvelte",
+			"homepage": "https://github.com/ctx-core/svelte#readme",
+			"repository": "https://github.com/ctx-core/svelte",
+			"bugs": "https://github.com/ctx-core/svelte/issues"
+		},
+		"author": {
+			"name": "Brian Takita"
+		},
+		"publisher": {
+			"username": "btakita",
+			"email": "brian.takita@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "btakita",
+				"email": "brian.takita@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3804564608427358,
+		"detail": {
+			"quality": 0.8136128600876704,
+			"popularity": 0.05630267471362309,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0001307732
+}

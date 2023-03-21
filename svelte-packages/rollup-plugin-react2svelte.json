@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "rollup-plugin-react2svelte",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Transpile React to Svelte",
+		"keywords": [
+			"rollup-plugin",
+			"React",
+			"Svelte"
+		],
+		"date": "2023-01-24T19:49:49.027Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/rollup-plugin-react2svelte"
+		},
+		"author": {
+			"name": "Michael Lucht"
+		},
+		"publisher": {
+			"username": "micha-lmxt",
+			"email": "npm@lucht-familie.de"
+		},
+		"maintainers": [
+			{
+				"username": "micha-lmxt",
+				"email": "npm@lucht-familie.de"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24589088704933532,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.0027828839191782477,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.5171e-7
+}

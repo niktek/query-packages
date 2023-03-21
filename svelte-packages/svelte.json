@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte",
+		"scope": "unscoped",
+		"version": "3.57.0",
+		"description": "Cybernetically enhanced web apps",
+		"keywords": [
+			"UI",
+			"framework",
+			"templates",
+			"templating"
+		],
+		"date": "2023-03-15T17:41:44.025Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte",
+			"homepage": "https://svelte.dev",
+			"bugs": "https://github.com/sveltejs/svelte/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "conduitry",
+			"email": "npm@chor.date"
+		},
+		"maintainers": [
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			},
+			{
+				"username": "conduitry",
+				"email": "npm@chor.date"
+			}
+		]
+	},
+	"score": {
+		"final": 0.45243346134531387,
+		"detail": {
+			"quality": 0.6498332293867805,
+			"popularity": 0.4023337881788947,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 100000.445
+}

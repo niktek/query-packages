@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-adaptive-sensors",
+		"scope": "unscoped",
+		"version": "0.1.2",
+		"description": "Sensors for Svelte to help deliver adaptive behaviour based on a user's device and network.",
+		"keywords": [
+			"svelte",
+			"sensors",
+			"loading",
+			"performance",
+			"store"
+		],
+		"date": "2019-11-12T23:35:41.516Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-adaptive-sensors"
+		},
+		"author": {
+			"name": "pngwn",
+			"email": "hello@pngwn.io",
+			"username": "evilpingwin"
+		},
+		"publisher": {
+			"username": "evilpingwin",
+			"email": "hello@pngwn.io"
+		},
+		"maintainers": [
+			{
+				"username": "evilpingwin",
+				"email": "hello@pngwn.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.26745153155241125,
+		"detail": {
+			"quality": 0.7836682615264048,
+			"popularity": 0.0026898827328079426,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.5860034e-7
+}

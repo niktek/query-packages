@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@budibase/svelte-ag-grid",
+		"scope": "budibase",
+		"version": "1.0.4",
+		"description": "A barebones wrapper around ag-grid.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-02-23T11:30:16.517Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40budibase%2Fsvelte-ag-grid"
+		},
+		"publisher": {
+			"username": "kevmodrome",
+			"email": "npm@kevmodro.me"
+		},
+		"maintainers": [
+			{
+				"username": "mike_chuckles",
+				"email": "me@michaeldrury.co.uk"
+			},
+			{
+				"username": "shogunpurple",
+				"email": "martin@budibase.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25753283829078744,
+		"detail": {
+			"quality": 0.4969965248782887,
+			"popularity": 0.02089161083665428,
+			"maintenance": 0.28891947724134814
+		}
+	},
+	"searchScore": 4.6142313e-7
+}

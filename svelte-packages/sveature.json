@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "sveature",
+		"scope": "unscoped",
+		"version": "0.0.9",
+		"description": "Sveature is an opinionated component feature testing and library utility for Sapper and Svelte projects.",
+		"keywords": [
+			"oclif"
+		],
+		"date": "2020-10-31T17:04:55.265Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveature",
+			"homepage": "https://github.com/aewing/sveature",
+			"repository": "https://github.com/aewing/sveature",
+			"bugs": "https://github.com/aewing/sveature/issues"
+		},
+		"author": {
+			"name": "Andrew Ewing @aewing"
+		},
+		"publisher": {
+			"username": "aewing",
+			"email": "drew@phenocode.com"
+		},
+		"maintainers": [
+			{
+				"username": "aewing",
+				"email": "drew@phenocode.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22179644018628147,
+		"detail": {
+			"quality": 0.6289709984822165,
+			"popularity": 0.004844418581741441,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.0581474e-8
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@leveluptuts/g-query",
+		"scope": "leveluptuts",
+		"version": "0.5.0",
+		"description": "Not like jQuery. A GraphQL Fetcher & Cache for Svelte Kit",
+		"keywords": [
+			"graphql"
+		],
+		"date": "2022-08-01T00:27:22.038Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40leveluptuts%2Fg-query",
+			"homepage": "https://github.com/leveluptuts/gQuery#readme",
+			"repository": "https://github.com/leveluptuts/gQuery",
+			"bugs": "https://github.com/leveluptuts/gQuery/issues"
+		},
+		"author": {
+			"name": "Scott Tolinski"
+		},
+		"publisher": {
+			"username": "stolinski",
+			"email": "scott.tolinski@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "stolinski",
+				"email": "scott.tolinski@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20538344473646236,
+		"detail": {
+			"quality": 0.31214430752912636,
+			"popularity": 0.0198058395304989,
+			"maintenance": 0.29945173897728533
+		}
+	},
+	"searchScore": 3.974398e-9
+}

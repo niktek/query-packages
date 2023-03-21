@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@lucia-sveltekit/session-adapter-redis",
+		"scope": "lucia-sveltekit",
+		"version": "0.10.0",
+		"description": "Redis session adapter for Lucia",
+		"keywords": [
+			"sveltekit",
+			"lucia",
+			"supabase",
+			"adapter"
+		],
+		"date": "2022-10-23T04:38:47.849Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40lucia-sveltekit%2Fsession-adapter-redis",
+			"homepage": "https://github.com/pilcrowOnPaper/lucia-sveltekit#readme",
+			"repository": "https://github.com/pilcrowOnPaper/lucia-sveltekit",
+			"bugs": "https://github.com/pilcrowOnPaper/lucia-sveltekit/issues"
+		},
+		"author": {
+			"name": "pilcrowonpaper"
+		},
+		"publisher": {
+			"username": "pilcrowonpaper",
+			"email": "pilcrowonpaper@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pilcrowonpaper",
+				"email": "pilcrowonpaper@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24437370350987073,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0024977029802964023,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 6.85145e-8
+}

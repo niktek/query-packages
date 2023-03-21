@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "carbon-components-svelte",
+		"scope": "unscoped",
+		"version": "0.73.3",
+		"description": "Svelte implementation of the Carbon Design System",
+		"keywords": [
+			"carbon",
+			"carbon components",
+			"svelte",
+			"component library",
+			"carbon design system"
+		],
+		"date": "2023-03-11T19:53:32.967Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/carbon-components-svelte",
+			"homepage": "https://github.com/carbon-design-system/carbon-components-svelte",
+			"repository": "https://github.com/carbon-design-system/carbon-components-svelte",
+			"bugs": "https://github.com/carbon-design-system/carbon-components-svelte/issues"
+		},
+		"publisher": {
+			"username": "etrain",
+			"email": "enrico.npm@theetrain.ca"
+		},
+		"maintainers": [
+			{
+				"username": "etrain",
+				"email": "enrico.npm@theetrain.ca"
+			},
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.33009422350969847,
+		"detail": {
+			"quality": 0.5243588756641246,
+			"popularity": 0.1603425546965555,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000035973677
+}

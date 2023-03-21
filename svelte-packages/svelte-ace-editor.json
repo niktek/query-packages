@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-ace-editor",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "A Svelte3 component based on ace/brace",
+		"keywords": [
+			"svelte",
+			"Svelte3",
+			"ace editor"
+		],
+		"date": "2019-08-15T23:50:27.029Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ace-editor",
+			"homepage": "https://github.com/GreatEnemy/svelte-ace-editor#readme",
+			"repository": "https://github.com/greatenemy/svelte-ace-editor",
+			"bugs": "https://github.com/GreatEnemy/svelte-ace-editor/issues"
+		},
+		"author": {
+			"name": "IOM",
+			"email": "npm@greatenemy.com",
+			"url": "https://github.com/GreatEnemy",
+			"username": "iomge"
+		},
+		"publisher": {
+			"username": "iomge",
+			"email": "npm@greatenemy.com"
+		},
+		"maintainers": [
+			{
+				"username": "iomge",
+				"email": "npm@greatenemy.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.186442968504615,
+		"detail": {
+			"quality": 0.5091677549204802,
+			"popularity": 0.006522993972754019,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.80053e-9
+}

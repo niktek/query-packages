@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "everything-store",
+		"scope": "unscoped",
+		"version": "0.0.7",
+		"description": "buncha useful svelte shit",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-06-19T01:26:55.027Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/everything-store",
+			"homepage": "https://github.com/sw-yx/everything-store#readme",
+			"repository": "https://github.com/sw-yx/everything-store",
+			"bugs": "https://github.com/sw-yx/everything-store/issues"
+		},
+		"author": {
+			"name": "sw-yx"
+		},
+		"publisher": {
+			"username": "sw-yx",
+			"email": "swyx@swyx.io"
+		},
+		"maintainers": [
+			{
+				"username": "sw-yx",
+				"email": "swyx@swyx.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24196967683096657,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.020797846401157952,
+			"maintenance": 0.30807231393521367
+		}
+	},
+	"searchScore": 1.2116824e-7
+}

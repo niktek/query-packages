@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-headroom",
+		"scope": "unscoped",
+		"version": "2.2.1",
+		"description": "Svelte component with headroom",
+		"keywords": [
+			"svelte",
+			"svelte-component",
+			"headroom.js"
+		],
+		"date": "2019-10-14T10:29:36.044Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-headroom",
+			"homepage": "https://github.com/collardeau/svelte-headroom#readme",
+			"repository": "https://github.com/collardeau/svelte-headroom",
+			"bugs": "https://github.com/collardeau/svelte-headroom/issues"
+		},
+		"author": {
+			"name": "Thomas Collardeau"
+		},
+		"publisher": {
+			"username": "collardeau",
+			"email": "thomas@collardeau.com"
+		},
+		"maintainers": [
+			{
+				"username": "collardeau",
+				"email": "thomas@collardeau.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19224778171575307,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.012231103403007215,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.2975844e-8
+}

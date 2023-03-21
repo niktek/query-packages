@@ -1,0 +1,79 @@
+{
+	"package": {
+		"name": "@dfinity/gix-components",
+		"scope": "dfinity",
+		"version": "2.5.0",
+		"description": "GIX Components is a UI kit developed with [SvelteKit](https://kit.svelte.dev) by the GIX team.",
+		"keywords": [
+			"ui",
+			"ux",
+			"designsystem",
+			"uikit",
+			"sveltekit",
+			"svelte"
+		],
+		"date": "2023-03-16T09:10:37.302Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40dfinity%2Fgix-components"
+		},
+		"publisher": {
+			"username": "bitdivine",
+			"email": "bitdivine69@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nathan.mcgrath.dfinity",
+				"email": "nathan.mcgrath@dfinity.org"
+			},
+			{
+				"username": "frederikrothenberger",
+				"email": "frederik.rothenberger@dfinity.org"
+			},
+			{
+				"username": "bitdivine",
+				"email": "bitdivine69@gmail.com"
+			},
+			{
+				"username": "ielashi",
+				"email": "diner-rodding@ic8.org"
+			},
+			{
+				"username": "liadrit",
+				"email": "lia.bajraliu@dfinity.org"
+			},
+			{
+				"username": "dayyildiz",
+				"email": "dominik.ayyildiz@dfinity.org"
+			},
+			{
+				"username": "anthony_dfinity",
+				"email": "anthony@dfinity.org"
+			},
+			{
+				"username": "eric-swanson-dfinity",
+				"email": "eric.swanson@dfinity.org"
+			},
+			{
+				"username": "krpeacock",
+				"email": "kylpeacock@gmail.com"
+			},
+			{
+				"username": "terrorjack",
+				"email": "astrohavoc@gmail.com"
+			},
+			{
+				"username": "npm-dfinity-org",
+				"email": "npm@dfinity.org"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22809164642035235,
+		"detail": {
+			"quality": 0.3254801425598188,
+			"popularity": 0.039374105673543075,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.5463164e-8
+}

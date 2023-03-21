@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "diox",
+		"scope": "unscoped",
+		"version": "5.0.3",
+		"description": "Complete state management for both front and back ends",
+		"keywords": [
+			"state",
+			"management",
+			"react",
+			"vue",
+			"svelte",
+			"store",
+			"typescript",
+			"javascript",
+			"frontend",
+			"backend",
+			"global",
+			"ui",
+			"flux",
+			"router"
+		],
+		"date": "2022-06-05T15:05:41.836Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/diox",
+			"homepage": "https://github.com/openizr/diox#readme",
+			"repository": "https://github.com/openizr/diox",
+			"bugs": "https://github.com/openizr/diox/issues"
+		},
+		"publisher": {
+			"username": "matthieujabbour",
+			"email": "matthieu.jabbour@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "openizr2",
+				"email": "matthieu.jabbour@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3038944143352531,
+		"detail": {
+			"quality": 0.6092927348046654,
+			"popularity": 0.0281485237896397,
+			"maintenance": 0.31787031590708464
+		}
+	},
+	"searchScore": 0.0000012078194
+}

@@ -1,0 +1,66 @@
+{
+	"package": {
+		"name": "@beyonk/gdpr-cookie-consent-banner",
+		"scope": "beyonk",
+		"version": "9.1.1",
+		"description": "GDPR Cookie Consent Banner in vanilla js",
+		"keywords": [
+			"gdpr",
+			"cookie consent",
+			"banner",
+			"data protection",
+			"eu",
+			"consent",
+			"cookie",
+			"svelte",
+			"vanilla",
+			"beyonk"
+		],
+		"date": "2022-12-28T12:57:43.270Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40beyonk%2Fgdpr-cookie-consent-banner"
+		},
+		"author": {
+			"name": "Antony Jones"
+		},
+		"publisher": {
+			"username": "antony",
+			"email": "aj@desirableobjects.co.uk"
+		},
+		"maintainers": [
+			{
+				"username": "dextermb",
+				"email": "dexter.mb@outlook.com"
+			},
+			{
+				"username": "ghostsos",
+				"email": "ghostdevbusiness@gmail.com"
+			},
+			{
+				"username": "ahpercival",
+				"email": "adrian.percival@beyonk.com"
+			},
+			{
+				"username": "alex.dilley",
+				"email": "alex.dilley@gmail.com"
+			},
+			{
+				"username": "antony",
+				"email": "aj@desirableobjects.co.uk"
+			},
+			{
+				"username": "adampond",
+				"email": "adam@beyonk.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.39469058461257434,
+		"detail": {
+			"quality": 0.8788367301487212,
+			"popularity": 0.04131230594246972,
+			"maintenance": 0.3330864528231245
+		}
+	},
+	"searchScore": 0.00004731398
+}

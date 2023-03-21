@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-native-nativescript-ui",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Svelte Native support for Nativescript UI",
+		"keywords": [
+			"sveltejs",
+			"nativescript",
+			"nativescript-ui",
+			"svelte-native"
+		],
+		"date": "2021-10-29T11:33:17.039Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-native-nativescript-ui",
+			"homepage": "https://github.com/halfnelson/svelte-native-nativescript-ui#readme",
+			"repository": "https://github.com/halfnelson/svelte-native-nativescript-ui",
+			"bugs": "https://github.com/halfnelson/svelte-native-nativescript-ui/issues"
+		},
+		"author": {
+			"name": "David Pershouse"
+		},
+		"publisher": {
+			"username": "halfnelson",
+			"email": "dpershouse@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "halfnelson",
+				"email": "dpershouse@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20102078834375758,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.020033741559336824,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 2.1334804e-8
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-old-browser-warning-alert",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-02-09T22:42:27.389Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-old-browser-warning-alert"
+		},
+		"publisher": {
+			"username": "curious-george-nine",
+			"email": "efefwefefw41@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "curious-george-nine",
+				"email": "efefwefefw41@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21614885300173428,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.004525423798272066,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.6677132e-8
+}

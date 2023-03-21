@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svooltip",
+		"scope": "unscoped",
+		"version": "0.7.2",
+		"description": "A basic Svelte tooltip directive. Powered by [Floating UI](https://floating-ui.com/).",
+		"keywords": [
+			"svelte",
+			"tooltip",
+			"floating-ui",
+			"svelte-component"
+		],
+		"date": "2023-03-17T10:02:00.710Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svooltip",
+			"homepage": "https://github.com/Gibbu/svooltip#readme",
+			"repository": "https://github.com/Gibbu/svooltip",
+			"bugs": "https://github.com/Gibbu/svooltip/issues"
+		},
+		"publisher": {
+			"username": "gibbu",
+			"email": "Gibbu_@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gibbu",
+				"email": "Gibbu_@hotmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22654258679380204,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.012912251995017488,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.069759e-8
+}

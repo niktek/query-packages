@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "@silintl/svelte-google-places-autocomplete",
+		"scope": "silintl",
+		"version": "1.1.6",
+		"description": "A minimal port of the [Google Places Autocomplete API](https://developers.google.com/maps/documentation/javascript/places-autocomplete) as a Svelte component.",
+		"keywords": [
+			"svelte",
+			"places",
+			"autocomplete"
+		],
+		"date": "2021-11-16T20:56:44.873Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40silintl%2Fsvelte-google-places-autocomplete",
+			"homepage": "https://github.com/silinternational/svelte-google-places-autocomplete#readme",
+			"repository": "https://github.com/silinternational/svelte-google-places-autocomplete",
+			"bugs": "https://github.com/silinternational/svelte-google-places-autocomplete/issues"
+		},
+		"publisher": {
+			"username": "matt-h",
+			"email": "matt_henderson@sil.org"
+		},
+		"maintainers": [
+			{
+				"username": "fillup",
+				"email": "phillip.shipley@gmail.com"
+			},
+			{
+				"username": "wcjr11",
+				"email": "billy.govols@gmail.com"
+			},
+			{
+				"username": "matt-h",
+				"email": "matt_henderson@sil.org"
+			},
+			{
+				"username": "schparky",
+				"email": "steve_schram@sil.org"
+			},
+			{
+				"username": "hobbitronics",
+				"email": "michael_wilson@sil.org"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2101676678738752,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.013040060353536574,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 3.04179e-8
+}

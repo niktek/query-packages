@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@typedai/svelte",
+		"scope": "typedai",
+		"version": "0.0.4",
+		"description": "### Install the package for SvelteKit",
+		"keywords": [
+			"typescript",
+			"ai",
+			"openai",
+			"typed"
+		],
+		"date": "2023-03-03T01:38:20.009Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40typedai%2Fsvelte"
+		},
+		"publisher": {
+			"username": "gustavocadev",
+			"email": "gustavocadev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "gustavocadev",
+				"email": "gustavocadev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25145989481925884,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.5009516e-7
+}

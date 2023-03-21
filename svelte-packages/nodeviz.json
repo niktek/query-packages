@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "nodeviz",
+		"scope": "unscoped",
+		"version": "0.5.3",
+		"description": "A node graph based UI framework",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"graph",
+			"render",
+			"framework"
+		],
+		"date": "2022-11-27T11:38:56.057Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/nodeviz",
+			"homepage": "https://github.com/jarecsni/nodeviz#readme",
+			"repository": "https://github.com/jarecsni/nodeviz",
+			"bugs": "https://github.com/jarecsni/nodeviz/issues"
+		},
+		"author": {
+			"name": "Johnny Jarecsni",
+			"email": "johnny.jarecsni@icloud.com"
+		},
+		"publisher": {
+			"username": "jarecsni",
+			"email": "janos.jarecsni@me.com"
+		},
+		"maintainers": [
+			{
+				"username": "jarecsni",
+				"email": "janos.jarecsni@me.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.30501792729593113,
+		"detail": {
+			"quality": 0.6238282033208007,
+			"popularity": 0.0034365703800694563,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000016267662
+}

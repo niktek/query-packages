@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@knows/vite-plugin-pwa",
+		"scope": "knows",
+		"version": "0.12.4",
+		"description": "Zero-config PWA for Vite",
+		"keywords": [
+			"react",
+			"pwa",
+			"vue",
+			"vitepress",
+			"preact",
+			"svelte",
+			"sveltekit",
+			"workbox",
+			"solidjs",
+			"vite",
+			"vite-plugin"
+		],
+		"date": "2022-10-25T04:46:11.921Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40knows%2Fvite-plugin-pwa",
+			"homepage": "https://github.com/antfu/vite-plugin-pwa",
+			"repository": "https://github.com/antfu/vite-plugin-pwa",
+			"bugs": "https://github.com/antfu/vite-plugin-pwa/issues"
+		},
+		"author": {
+			"name": "antfu",
+			"email": "anthonyfu117@hotmail.com"
+		},
+		"publisher": {
+			"username": "jiaxinjiang",
+			"email": "1002563923@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "jiaxinjiang",
+				"email": "1002563923@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24462045645320935,
+		"detail": {
+			"quality": 0.4244496140979511,
+			"popularity": 0.0021201139324683476,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 5.950814e-8
+}

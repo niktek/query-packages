@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@douganderson444/svelte-component-gateway",
+		"scope": "douganderson444",
+		"version": "0.0.19",
+		"description": "Grabs a compiled Svelte component (ES Module) from the interwebs and mounts it so it to the DOM, so you can check it out, use it, and run your data (props) through it.",
+		"date": "2022-09-29T23:29:11.687Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40douganderson444%2Fsvelte-component-gateway",
+			"homepage": "https://github.com/DougAnderson444/svelte-component-gateway#readme",
+			"repository": "https://github.com/DougAnderson444/svelte-component-gateway",
+			"bugs": "https://github.com/DougAnderson444/svelte-component-gateway/issues"
+		},
+		"publisher": {
+			"username": "douganderson444",
+			"email": "douganderson444@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "douganderson444",
+				"email": "douganderson444@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22919231707006257,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.02048630231091283,
+			"maintenance": 0.3333299409496109
+		}
+	},
+	"searchScore": 7.0842795e-8
+}

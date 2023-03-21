@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-markup",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Pug & Markdown preprocessors for svelte",
+		"keywords": [
+			"rollup",
+			"svelte",
+			"pug",
+			"jade",
+			"markdown"
+		],
+		"date": "2019-11-14T01:18:16.496Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-markup"
+		},
+		"author": {
+			"name": "Reed Jones",
+			"email": "reedjones@reedjones.com",
+			"username": "reed-jones"
+		},
+		"publisher": {
+			"username": "reed-jones",
+			"email": "reedjones@reedjones.com"
+		},
+		"maintainers": [
+			{
+				"username": "reed-jones",
+				"email": "reedjones@reedjones.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1885019995760176,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0015288687180486996,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 8.274378e-9
+}

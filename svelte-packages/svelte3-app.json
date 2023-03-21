@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte3-app",
+		"scope": "unscoped",
+		"version": "1.0.6",
+		"description": "Creates a starter svelte application template",
+		"keywords": [
+			"cli",
+			"svelte",
+			"app"
+		],
+		"date": "2020-02-25T15:51:31.658Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte3-app"
+		},
+		"author": {
+			"name": "Oleksandr Demian"
+		},
+		"publisher": {
+			"username": "oleksandr_demian",
+			"email": "oleksandrovsky@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "oleksandr_demian",
+				"email": "oleksandrovsky@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.18506880009846366,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.002096586229496404,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.5349076e-9
+}

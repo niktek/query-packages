@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "unip",
+		"scope": "unscoped",
+		"version": "0.0.1-alpha-9",
+		"description": "Plugin boilerplate with svelte, create plugin/component for use in pure JavaScript, Vue.js and React",
+		"keywords": [
+			"boilerplate",
+			"scaffold",
+			"svelte",
+			"universal",
+			"javascript universal plugin",
+			"vue",
+			"react",
+			"pure",
+			"js",
+			"vanilla"
+		],
+		"date": "2022-08-29T07:18:35.905Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/unip",
+			"homepage": "https://github.com/babakhani/unip",
+			"repository": "https://github.com/babakhani/unip",
+			"bugs": "https://github.com/babakhani/unip/issues"
+		},
+		"author": {
+			"name": "Reza Babakhani",
+			"email": "babakhani.reza@gmail.com",
+			"username": "rbabakhani"
+		},
+		"publisher": {
+			"username": "rbabakhani",
+			"email": "babakhani.reza@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rbabakhani",
+				"email": "babakhani.reza@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2857323392822684,
+		"detail": {
+			"quality": 0.6786752257861663,
+			"popularity": 0.002397698593167381,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 6.324171e-7
+}

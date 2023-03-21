@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "@minna-ui/tabs",
+		"scope": "minna-ui",
+		"version": "0.24.0",
+		"description": "😸 A fast, friendly, and fun web UI kit for everyone.",
+		"keywords": [
+			"component",
+			"design-system",
+			"minna-ui",
+			"postcss",
+			"svelte",
+			"svelte-components",
+			"ui-components",
+			"wearegenki",
+			"web-components"
+		],
+		"date": "2019-05-28T12:13:47.732Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40minna-ui%2Ftabs",
+			"homepage": "https://wearegenki.github.io/minna-ui"
+		},
+		"author": {
+			"name": "Max Milton",
+			"email": "max@wearegenki.com",
+			"username": "maxmilton"
+		},
+		"publisher": {
+			"username": "maxmilton",
+			"email": "max@wearegenki.com"
+		},
+		"maintainers": [
+			{
+				"username": "maxmilton",
+				"email": "max@wearegenki.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28074888852800844,
+		"detail": {
+			"quality": 0.805178984299218,
+			"popularity": 0.022244568857817087,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.9207806e-7
+}

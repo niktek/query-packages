@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-rtk",
+		"scope": "unscoped",
+		"version": "0.3.2",
+		"description": "Redux Toolkit for Svelte",
+		"date": "2022-07-01T18:21:32.963Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-rtk"
+		},
+		"author": {
+			"name": "Gustavo Konrad",
+			"email": "g.konrad@outlook.com"
+		},
+		"publisher": {
+			"username": "kvdos-argonaut",
+			"email": "kvdos-argonaut@protonmail.ch"
+		},
+		"maintainers": [
+			{
+				"username": "kvdos-argonaut",
+				"email": "kvdos-argonaut@protonmail.ch"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2192463203111677,
+		"detail": {
+			"quality": 0.3595566954747321,
+			"popularity": 0.0019605479356621046,
+			"maintenance": 0.3162660568321895
+		}
+	},
+	"searchScore": 4.3143665e-8
+}

@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-kloktun-ui",
+		"scope": "unscoped",
+		"version": "1.0.11",
+		"description": "*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*",
+		"date": "2021-04-15T10:43:38.893Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-kloktun-ui"
+		},
+		"publisher": {
+			"username": "kloktunov",
+			"email": "kloktun@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kloktunov",
+				"email": "kloktun@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19240605416014236,
+		"detail": {
+			"quality": 0.33547609821394286,
+			"popularity": 0.0037790673290680177,
+			"maintenance": 0.25840157465938773
+		}
+	},
+	"searchScore": 6.401428e-9
+}

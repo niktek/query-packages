@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "jsonforms-svelte",
+		"scope": "unscoped",
+		"version": "1.0.6",
+		"description": "Generate svelte forms from a JSON schema.",
+		"keywords": [
+			"jsonforms",
+			"svelte",
+			"json",
+			"schema",
+			"form",
+			"generator",
+			"jsonforms-svelte"
+		],
+		"date": "2023-02-03T22:38:37.169Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/jsonforms-svelte",
+			"homepage": "https://github.com/mikaboh/jsonforms-svelte#readme",
+			"repository": "https://github.com/mikaboh/jsonforms-svelte",
+			"bugs": "https://github.com/mikaboh/jsonforms-svelte/issues"
+		},
+		"author": {
+			"name": "Mika Boehm",
+			"email": "mika.boehm.dev@gmail.com",
+			"username": "mikaboh"
+		},
+		"publisher": {
+			"username": "mikaboh",
+			"email": "mika.boehm.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mikaboh",
+				"email": "mika.boehm.dev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26097470798947653,
+		"detail": {
+			"quality": 0.4556226491955767,
+			"popularity": 0.02177499018324818,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.610588e-7
+}

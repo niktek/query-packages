@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-tabcontent",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "A fully-customizable tab UI component to go with your beautiful designs",
+		"keywords": [
+			"svelte",
+			"tab",
+			"round",
+			"ui"
+		],
+		"date": "2022-03-28T08:37:18.144Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tabcontent"
+		},
+		"author": {
+			"name": "Simon Guichard",
+			"url": "https://zogs.org"
+		},
+		"publisher": {
+			"username": "zogs",
+			"email": "guichardsim@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "zogs",
+				"email": "guichardsim@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23091888879366607,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0020530248049198422,
+			"maintenance": 0.2104086535007161
+		}
+	},
+	"searchScore": 1.05408894e-7
+}

@@ -1,0 +1,53 @@
+{
+	"package": {
+		"name": "xsm",
+		"scope": "unscoped",
+		"version": "1.6.0",
+		"description": "XSM - State Management made eXtraordinarily simple for React, Vue, Angular, Svelte",
+		"keywords": [
+			"XSM",
+			"State Management",
+			"javascript",
+			"ES6",
+			"React",
+			"Vue",
+			"Angular",
+			"Svelte",
+			"Redux",
+			"Vuex",
+			"MobX",
+			"RXJS",
+			"NGRX",
+			"Store"
+		],
+		"date": "2019-08-12T02:58:42.602Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/xsm",
+			"homepage": "https://github.com/peterluhub/xsm",
+			"repository": "https://github.com/peterluhub/xsm",
+			"bugs": "https://github.com/peterluhub/xsm/issues"
+		},
+		"author": {
+			"name": "Peter Lu"
+		},
+		"publisher": {
+			"username": "peterluhub",
+			"email": "peterluhub@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "peterluhub",
+				"email": "lu500@sbcglobal.net"
+			}
+		]
+	},
+	"score": {
+		"final": 0.32601297733481305,
+		"detail": {
+			"quality": 0.9460353551434679,
+			"popularity": 0.030836504725044754,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000050030485
+}

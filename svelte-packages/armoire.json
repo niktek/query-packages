@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "armoire",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "Component workshop and inventory tool. Very much inspired by Storybook, but specifically for Svelte.",
+		"date": "2022-05-13T17:05:36.312Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/armoire"
+		},
+		"author": {
+			"name": "Alex Shapiro"
+		},
+		"publisher": {
+			"username": "piroshapiro",
+			"email": "alex@pleinair.io"
+		},
+		"maintainers": [
+			{
+				"username": "piroshapiro",
+				"email": "alex@pleinair.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25229369615316555,
+		"detail": {
+			"quality": 0.5685239406961811,
+			"popularity": 0.0012741054442895535,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 5.1955308e-8
+}

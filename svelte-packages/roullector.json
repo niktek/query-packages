@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "roullector",
+		"scope": "unscoped",
+		"version": "1.1.2",
+		"description": "collect and generate map from file-based routers",
+		"keywords": [
+			"json",
+			"router",
+			"mapping",
+			"typescript",
+			"svelte-kit",
+			"generate"
+		],
+		"date": "2022-03-11T12:04:34.965Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/roullector",
+			"homepage": "https://github.com/vnphanquang/roullector",
+			"repository": "https://github.com/vnphanquang/roullector",
+			"bugs": "https://github.com/vnphanquang/roullector/issues"
+		},
+		"author": {
+			"name": "Quang Phan"
+		},
+		"publisher": {
+			"username": "vnphanquang",
+			"email": "vnphanquang@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vnphanquang",
+				"email": "vnphanquang@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24074945741355214,
+		"detail": {
+			"quality": 0.600959065094793,
+			"popularity": 0.0020230353861102296,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 6.132533e-8
+}

@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@rgossiaux/svelte-heroicons",
+		"scope": "rgossiaux",
+		"version": "0.1.2",
+		"description": "Svelte wrappers for the Heroicons library.",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"sveltejs",
+			"heroicons",
+			"icons"
+		],
+		"date": "2022-02-10T06:08:17.906Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40rgossiaux%2Fsvelte-heroicons",
+			"homepage": "https://github.com/rgossiaux/svelte-heroicons",
+			"repository": "https://github.com/rgossiaux/svelte-heroicons",
+			"bugs": "https://github.com/rgossiaux/svelte-heroicons/issues"
+		},
+		"author": {
+			"name": "Ryan Gossiaux",
+			"email": "ryan.gossiaux@gmail.com",
+			"username": "rgossiaux"
+		},
+		"publisher": {
+			"username": "rgossiaux",
+			"email": "ryan.gossiaux@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rgossiaux",
+				"email": "ryan.gossiaux@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19613108109917593,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.01793407754651078,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 1.4448159e-8
+}

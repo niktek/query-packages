@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-ink-mde",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "> Svelte wrapper for the [ink-mde](https://github.com/voracious/ink-mde) component.",
+		"date": "2023-01-01T18:09:46.493Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ink-mde"
+		},
+		"publisher": {
+			"username": "demetrius-mp",
+			"email": "demetrius.mp789@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "demetrius-mp",
+				"email": "demetrius.mp789@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21257516708575347,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.005031207334185853,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.5591895e-8
+}

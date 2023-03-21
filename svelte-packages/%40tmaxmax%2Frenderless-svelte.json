@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@tmaxmax/renderless-svelte",
+		"scope": "tmaxmax",
+		"version": "1.5.3",
+		"description": "A collection of renderless Svelte components",
+		"keywords": [
+			"svelte",
+			"components",
+			"renderless"
+		],
+		"date": "2021-05-04T13:30:40.551Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tmaxmax%2Frenderless-svelte",
+			"homepage": "https://www.renderless-svelte.dev",
+			"repository": "https://github.com/stephane-vanraes/renderless-svelte",
+			"bugs": "https://github.com/stephane-vanraes/renderless-svelte/issues"
+		},
+		"author": {
+			"name": "Stephane Vanraes"
+		},
+		"publisher": {
+			"username": "tmaxmax",
+			"email": "tmaxmax@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "tmaxmax",
+				"email": "tmaxmax@outlook.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24873122710516565,
+		"detail": {
+			"quality": 0.626599435462266,
+			"popularity": 0.002850631332886165,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 3.1100802e-7
+}

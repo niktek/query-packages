@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@dev-dafab/web-components",
+		"scope": "dev-dafab",
+		"version": "1.0.0",
+		"description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+		"date": "2022-12-11T12:10:49.571Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40dev-dafab%2Fweb-components"
+		},
+		"publisher": {
+			"username": "dev-dafab",
+			"email": "dev.dafab@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dev-dafab",
+				"email": "dev.dafab@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25855250680804776,
+		"detail": {
+			"quality": 0.46794994273002954,
+			"popularity": 0.004298212682269957,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 6.6966855e-8
+}

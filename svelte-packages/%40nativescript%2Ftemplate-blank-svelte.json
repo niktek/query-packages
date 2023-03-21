@@ -1,0 +1,118 @@
+{
+	"package": {
+		"name": "@nativescript/template-blank-svelte",
+		"scope": "nativescript",
+		"version": "8.4.1",
+		"description": "Blank template for NativeScript apps using Svelte",
+		"keywords": [
+			"nstudio",
+			"nativescript",
+			"mobile",
+			"{N}",
+			"tns",
+			"template",
+			"category-general",
+			"svelte",
+			"svelte-native"
+		],
+		"date": "2023-02-06T01:09:53.087Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nativescript%2Ftemplate-blank-svelte",
+			"homepage": "https://github.com/NativeScript/nativescript-app-templates",
+			"repository": "https://github.com/NativeScript/nativescript-app-templates",
+			"bugs": "https://github.com/NativeScript/NativeScript/issues"
+		},
+		"author": {
+			"name": "NativeScript Team",
+			"email": "oss@nativescript.org",
+			"username": "nativescript-bot"
+		},
+		"publisher": {
+			"username": "nativescript-bot",
+			"email": "oss@nativescript.org"
+		},
+		"maintainers": [
+			{
+				"username": "nativescript-user",
+				"email": "nativescript@telerik.com"
+			},
+			{
+				"username": "tns-bot",
+				"email": "nativescript@telerik.com"
+			},
+			{
+				"username": "lini",
+				"email": "bit@gbg.bg"
+			},
+			{
+				"username": "tachev",
+				"email": "nevermindd7@gmail.com"
+			},
+			{
+				"username": "rosen-vladimirov",
+				"email": "vladimirov@progress.com"
+			},
+			{
+				"username": "stoskov",
+				"email": "s.toskov@gmail.com"
+			},
+			{
+				"username": "rosen_vladimirov",
+				"email": "rosen.vladimirov.91@gmail.com"
+			},
+			{
+				"username": "walkerrunpdx",
+				"email": "walkerrunpdx@gmail.com"
+			},
+			{
+				"username": "bradmartin",
+				"email": "bradwaynemartin@gmail.com"
+			},
+			{
+				"username": "davecoffin",
+				"email": "dave@davecoffin.com"
+			},
+			{
+				"username": "rigor789",
+				"email": "shout@igor-randjelovic.com"
+			},
+			{
+				"username": "nativescript-bot",
+				"email": "oss@nativescript.org"
+			},
+			{
+				"username": "multishiv19",
+				"email": "sp@shiv19.com"
+			},
+			{
+				"username": "eddyverbruggen",
+				"email": "eddyverbruggen@gmail.com"
+			},
+			{
+				"username": "edusperoni",
+				"email": "edusperoni@gmail.com"
+			},
+			{
+				"username": "facetious",
+				"email": "Ian.MacDonald.facetious@gmail.com"
+			},
+			{
+				"username": "tdermendjiev",
+				"email": "tdermendjievft@gmail.com"
+			},
+			{
+				"username": "sis0k0",
+				"email": "stanimira.vlaeva@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28184209669376004,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.00947020668101756,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000001428566
+}

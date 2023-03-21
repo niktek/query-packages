@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "fetch-sveltekit",
+		"scope": "unscoped",
+		"version": "0.0.6",
+		"description": "fonction de requête API",
+		"keywords": [
+			"fetch",
+			"service",
+			"api"
+		],
+		"date": "2022-01-26T17:20:25.982Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/fetch-sveltekit"
+		},
+		"author": {
+			"name": "woopear",
+			"email": "woopears@gmail.com",
+			"username": "woopear"
+		},
+		"publisher": {
+			"username": "woopear",
+			"email": "woopears@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "woopear",
+				"email": "woopears@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19717373972140811,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.018854453220136704,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 4.7738804e-9
+}

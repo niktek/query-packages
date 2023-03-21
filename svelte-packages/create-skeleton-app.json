@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "create-skeleton-app",
+		"scope": "unscoped",
+		"version": "0.0.29",
+		"description": "Use this CLI app to setup a new Skeleton application in a new SvelteKit project.",
+		"keywords": [
+			"skeleton",
+			"svelte",
+			"sveltekit",
+			"svelte-kit"
+		],
+		"date": "2023-03-14T11:02:01.016Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-skeleton-app",
+			"homepage": "https://www.skeleton.dev",
+			"repository": "https://github.com/skeletonlabs/skeleton",
+			"bugs": "https://github.com/skeletonlabs/skeleton/issues"
+		},
+		"author": {
+			"name": "Skeleton Admin",
+			"email": "admin@skeletonlabs.co"
+		},
+		"publisher": {
+			"username": "skeletonadmin",
+			"email": "admin@skeleton.dev"
+		},
+		"maintainers": [
+			{
+				"username": "skeletonadmin",
+				"email": "admin@skeleton.dev"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28635211929035975,
+		"detail": {
+			"quality": 0.5470734658221853,
+			"popularity": 0.01589546536296425,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000010039873
+}

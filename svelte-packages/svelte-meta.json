@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-meta",
+		"scope": "unscoped",
+		"version": "1.0.2",
+		"description": "Easily generate SEO metadata for Svelte",
+		"keywords": [
+			"svelte",
+			"metadata",
+			"seo",
+			"meta-tags",
+			"open-graph"
+		],
+		"date": "2021-05-19T08:12:04.429Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-meta",
+			"homepage": "https://github.com/peppercornstudio/svelte-meta#readme",
+			"repository": "https://github.com/peppercornstudio/svelte-meta",
+			"bugs": "https://github.com/peppercornstudio/svelte-meta/issues"
+		},
+		"publisher": {
+			"username": "madeleineostoja",
+			"email": "madi@peppercorn.studio"
+		},
+		"maintainers": [
+			{
+				"username": "madeleineostoja",
+				"email": "madi@peppercorn.studio"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21213323296798736,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.003502942616589235,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 3.8874727e-8
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@caparturo/svelte-custom-dropdown",
+		"scope": "caparturo",
+		"version": "1.0.8",
+		"description": "A Svelte component that creates a basic dropdown list that you can customize using slots and properties",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"typescript",
+			"dropdown",
+			"select"
+		],
+		"date": "2022-07-13T03:39:20.369Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40caparturo%2Fsvelte-custom-dropdown"
+		},
+		"author": {
+			"name": "Cesar Patiño",
+			"email": "cesar.arturo.patino@gmail.com",
+			"username": "caparturo"
+		},
+		"publisher": {
+			"username": "caparturo",
+			"email": "cesar.arturo.patino@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "caparturo",
+				"email": "cesar.arturo.patino@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27530573628249233,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.0026508662911773418,
+			"maintenance": 0.3306483258170397
+		}
+	},
+	"searchScore": 9.566533e-7
+}

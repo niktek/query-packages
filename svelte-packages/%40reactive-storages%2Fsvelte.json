@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@reactive-storages/svelte",
+		"scope": "reactive-storages",
+		"version": "0.0.0",
+		"description": "Reactive storages API for Svelte UI framework.",
+		"date": "2022-04-20T06:58:02.732Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40reactive-storages%2Fsvelte"
+		},
+		"author": {
+			"name": "Yury Saukou",
+			"email": "yury_saukou@gmail.com"
+		},
+		"publisher": {
+			"username": "usavkov",
+			"email": "yury.saukou@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "usavkov",
+				"email": "yury.saukou@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1713395917836955,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.0009032098236473717,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.3589916e-9
+}

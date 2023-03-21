@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "arabic-supabase-ui-svelte",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "UI components for Supabase authentication using Svelte. Inspired by the [React version](https://github.com/supabase/ui).",
+		"keywords": [
+			"svelte",
+			"supabase",
+			"oauth"
+		],
+		"date": "2022-09-29T11:31:38.579Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/arabic-supabase-ui-svelte"
+		},
+		"publisher": {
+			"username": "yzn-h",
+			"email": "yznhamzeh@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "yzn-h",
+				"email": "yznhamzeh@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21644474503497918,
+		"detail": {
+			"quality": 0.31214430752912636,
+			"popularity": 0.018955047945704205,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 4.2313957e-8
+}

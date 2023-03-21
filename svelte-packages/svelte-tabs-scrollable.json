@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "svelte-tabs-scrollable",
+		"scope": "unscoped",
+		"version": "0.0.9",
+		"description": "a simple svelte scrollable tabs with a lot of additional features and with fully supporting of RTL mode",
+		"keywords": [
+			"svelte",
+			"svelte-tabs",
+			"tabs",
+			"scrollable",
+			"rtl",
+			"menu",
+			"tab",
+			"scroll",
+			"navigation"
+		],
+		"date": "2023-01-05T23:58:35.785Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tabs-scrollable",
+			"homepage": "https://github.com/Mood-al/svelte-tabs-scrollable#readme",
+			"bugs": "https://github.com/Mood-al/svelte-tabs-scrollable/issues"
+		},
+		"author": {
+			"name": "Mohammed Aliwi"
+		},
+		"publisher": {
+			"username": "mood-al",
+			"email": "aliwi299@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mood-al",
+				"email": "aliwi299@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28138598529109654,
+		"detail": {
+			"quality": 0.5199522807360968,
+			"popularity": 0.024953241153145296,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000016788149
+}

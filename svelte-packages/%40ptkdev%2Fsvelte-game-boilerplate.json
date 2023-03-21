@@ -1,0 +1,54 @@
+{
+	"package": {
+		"name": "@ptkdev/svelte-game-boilerplate",
+		"scope": "ptkdev",
+		"version": "1.0.20211105",
+		"description": "Make javascript game with this friendly kaboom boilerplate made with typescript, svelte and love",
+		"keywords": [
+			"ptkdev",
+			"svelte",
+			"svelte-game",
+			"kaboom",
+			"kaboomjs",
+			"javascript-game",
+			"js-game",
+			"make-game-with-javascript",
+			"create-game-with-javascript",
+			"svelte-game-boilerplate",
+			"kaboomjs-boilerplate",
+			"kaboom-boilerplate",
+			"boilerplate"
+		],
+		"date": "2021-11-06T01:29:55.629Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ptkdev%2Fsvelte-game-boilerplate",
+			"homepage": "https://github.com/ptkdev-boilerplate/svelte-game-boilerplate",
+			"repository": "https://github.com/ptkdev-boilerplate/svelte-game-boilerplate",
+			"bugs": "https://github.com/ptkdev-boilerplate/svelte-game-boilerplate/issues"
+		},
+		"author": {
+			"name": "Patryk Rzucidło [@ptkdev]",
+			"email": "support@ptkdev.io",
+			"url": "https://ptk.dev"
+		},
+		"publisher": {
+			"username": "ptkdevio",
+			"email": "ptkdev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ptkdevio",
+				"email": "ptkdev@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20582595144665963,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.023088533649159793,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 2.7066164e-8
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@bojalelabs/headless-svelte-ui",
+		"scope": "bojalelabs",
+		"version": "1.1.2",
+		"description": "A group of resusable headless components that makes it easy building Svelte Apps, with over 90% of styles props.",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2022-02-10T11:15:36.672Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bojalelabs%2Fheadless-svelte-ui"
+		},
+		"author": {
+			"name": "calebbenjin",
+			"email": "calebben94@gmail.com"
+		},
+		"publisher": {
+			"username": "calebbenjin",
+			"email": "calebbenjin@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "calebbenjin",
+				"email": "calebbenjin@gmail.com"
+			},
+			{
+				"username": "ayoalfonso",
+				"email": "alfonsoayo7@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23135172926079053,
+		"detail": {
+			"quality": 0.4969965248782887,
+			"popularity": 0.0027491278814115,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.0207056e-7
+}

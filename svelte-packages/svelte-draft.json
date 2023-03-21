@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "svelte-draft",
+		"scope": "unscoped",
+		"version": "0.2.1",
+		"description": "Develop svelte app in typedraft",
+		"keywords": [
+			"svelte",
+			"typescript",
+			"typedraft",
+			"literator",
+			"transcriber",
+			"compiler",
+			"literate programming",
+			"javascript",
+			"dsl"
+		],
+		"date": "2020-12-27T03:17:48.310Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-draft",
+			"homepage": "https://github.com/mistlog/svelte-draft",
+			"repository": "https://github.com/mistlog/svelte-draft",
+			"bugs": "https://github.com/mistlog/svelte-draft/issues"
+		},
+		"author": {
+			"name": "mistlog"
+		},
+		"publisher": {
+			"username": "mistlog",
+			"email": "mistlog@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "mistlog",
+				"email": "mistlog@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17636450762039302,
+		"detail": {
+			"quality": 0.45500908272581697,
+			"popularity": 0.024149110470402555,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.340911e-9
+}

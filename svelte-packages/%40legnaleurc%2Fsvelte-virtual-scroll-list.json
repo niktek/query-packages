@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@legnaleurc/svelte-virtual-scroll-list",
+		"scope": "legnaleurc",
+		"version": "1.0.9",
+		"description": "Svelte lib for virtualizing lists",
+		"keywords": [
+			"svelte",
+			"virtual",
+			"virtual-list",
+			"virtual-scroll"
+		],
+		"date": "2022-06-02T16:39:44.789Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40legnaleurc%2Fsvelte-virtual-scroll-list",
+			"homepage": "https://github.com/legnaleurc/svelte-virtual-scroll-list#readme",
+			"repository": "https://github.com/legnaleurc/svelte-virtual-scroll-list",
+			"bugs": "https://github.com/legnaleurc/svelte-virtual-scroll-list/issues"
+		},
+		"author": {
+			"name": "legnaleurc",
+			"url": "https://github.com/legnaleurc"
+		},
+		"publisher": {
+			"username": "legnaleurc",
+			"email": "legnaleurc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "legnaleurc",
+				"email": "legnaleurc@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2381987404460585,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0010024629158716884,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.3443524e-7
+}

@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-bind-uri",
+		"scope": "unscoped",
+		"version": "0.2.1",
+		"description": "```html <script lang=\"ts\"> \timport { Location } from 'svelte-uri'",
+		"keywords": [
+			"svelte",
+			"component",
+			"uri"
+		],
+		"date": "2022-11-05T17:25:12.916Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-bind-uri",
+			"homepage": "https://github.com/7korobi/svelte-bind-uri/blob/main/src/lib/"
+		},
+		"author": {
+			"name": "7korobi",
+			"email": "7korobi@gmail.com",
+			"username": "7korobi"
+		},
+		"publisher": {
+			"username": "7korobi",
+			"email": "7korobi@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "7korobi",
+				"email": "7korobi@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2536593229195188,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.01969949421889333,
+			"maintenance": 0.33332577567138477
+		}
+	},
+	"searchScore": 4.083102e-7
+}

@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@drblaster/svelte-qrcode",
+		"scope": "drblaster",
+		"version": "0.0.3",
+		"description": "[![npm version](https://badge.fury.io/js/svelte-qrcode.svg)](https://www.npmjs.com/package/svelte-qrcode) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/JonasJs/svelte-qrcode/blob/master/LICENSE) [![Total alerts]",
+		"date": "2021-03-09T09:54:25.603Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40drblaster%2Fsvelte-qrcode",
+			"homepage": "https://github.com/JonasJs/svelte-qrcode#readme",
+			"repository": "https://github.com/JonasJs/svelte-qrcode",
+			"bugs": "https://github.com/JonasJs/svelte-qrcode/issues"
+		},
+		"author": {
+			"name": "Jonas Alves"
+		},
+		"publisher": {
+			"username": "dottorblaster",
+			"email": "dottorblaster@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dottorblaster",
+				"email": "dottorblaster@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20252854059476677,
+		"detail": {
+			"quality": 0.5091677549204802,
+			"popularity": 0.01838789489914112,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 1.8768198e-8
+}

@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "svelte-keydown",
+		"scope": "unscoped",
+		"version": "0.6.0",
+		"description": "Utility to listen for keyboard events",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"keydown",
+			"keyup",
+			"utility",
+			"escape",
+			"enter",
+			"combo"
+		],
+		"date": "2023-02-14T19:26:26.011Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-keydown",
+			"homepage": "https://github.com/metonym/svelte-keydown",
+			"repository": "https://github.com/metonym/svelte-keydown",
+			"bugs": "https://github.com/metonym/svelte-keydown/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2811218674704665,
+		"detail": {
+			"quality": 0.5260551644706876,
+			"popularity": 0.018967575607410348,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000001616327
+}

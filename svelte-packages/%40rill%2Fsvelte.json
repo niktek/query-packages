@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@rill/svelte",
+		"scope": "rill",
+		"version": "1.0.0",
+		"description": "Svelte views for Rill.",
+		"keywords": [
+			"isomorphic",
+			"render",
+			"rill",
+			"svelte",
+			"universal"
+		],
+		"date": "2017-11-18T04:20:22.359Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40rill%2Fsvelte",
+			"homepage": "https://github.com/rill-js/svelte",
+			"repository": "https://github.com/rill-js/svelte",
+			"bugs": "https://github.com/rill-js/svelte/issues"
+		},
+		"author": {
+			"name": "Dylan Piercey",
+			"email": "pierceydylan@gmail.com",
+			"username": "dylanpiercey"
+		},
+		"publisher": {
+			"username": "dylanpiercey",
+			"email": "pierceydylan@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dylanpiercey",
+				"email": "pierceydylan@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.31774109920072197,
+		"detail": {
+			"quality": 0.9524221617315036,
+			"popularity": 0.0017281615521824118,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.00000995483
+}

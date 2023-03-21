@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@dishuostec/svelte-store",
+		"scope": "dishuostec",
+		"version": "1.1.2",
+		"description": "Touchable store",
+		"keywords": [
+			"svelte store",
+			"deep equal",
+			"touchable store",
+			"stopwatch store",
+			"countdown store",
+			"derived record store"
+		],
+		"date": "2022-09-15T10:03:53.114Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40dishuostec%2Fsvelte-store",
+			"homepage": "https://github.com/dishuostec/svelte-store#readme",
+			"repository": "https://github.com/dishuostec/svelte-store",
+			"bugs": "https://github.com/dishuostec/svelte-store/issues"
+		},
+		"author": {
+			"name": "dishuostec"
+		},
+		"publisher": {
+			"username": "dishuostec",
+			"email": "dishuostec@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dishuostec",
+				"email": "dishuostec@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2746510779541572,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.01862595203753467,
+			"maintenance": 0.32916169703110637
+		}
+	},
+	"searchScore": 9.852562e-7
+}

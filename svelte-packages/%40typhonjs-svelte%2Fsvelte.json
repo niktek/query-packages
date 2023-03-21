@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@typhonjs-svelte/svelte",
+		"scope": "typhonjs-svelte",
+		"version": "3.57.0-cq",
+		"description": "Cybernetically enhanced web apps",
+		"keywords": [
+			"UI",
+			"framework",
+			"templates",
+			"templating"
+		],
+		"date": "2023-03-17T04:03:00.834Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40typhonjs-svelte%2Fsvelte",
+			"homepage": "https://svelte.dev",
+			"repository": "https://github.com/sveltejs/svelte",
+			"bugs": "https://github.com/sveltejs/svelte/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "typhonrt",
+			"email": "support@typhonjs.io"
+		},
+		"maintainers": [
+			{
+				"username": "typhonrt",
+				"email": "support@typhonjs.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3112904977701897,
+		"detail": {
+			"quality": 0.6393694216825712,
+			"popularity": 0.008037155996433322,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000053799636
+}

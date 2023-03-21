@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-intersection-api-action",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "A Svelte action to easily integrate the Intersection Observer API",
+		"keywords": [
+			"svelte",
+			"svelte-action",
+			"Intersection",
+			"Observer",
+			"API"
+		],
+		"date": "2022-04-22T06:27:25.198Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-intersection-api-action",
+			"homepage": "https://anotherempty.github.io/svelte-intersection-api-action/",
+			"repository": "https://github.com/anotherempty/svelte-intersection-api-action",
+			"bugs": "https://github.com/anotherempty/svelte-intersection-api-action/issues"
+		},
+		"author": {
+			"name": "anotherempty",
+			"url": "https://github.com/anotherempty"
+		},
+		"publisher": {
+			"username": "anotherempty",
+			"email": "anotherempty@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "anotherempty",
+				"email": "anotherempty@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2231144576605199,
+		"detail": {
+			"quality": 0.3968723430022414,
+			"popularity": 0.0013375093737225834,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 5.7625407e-8
+}

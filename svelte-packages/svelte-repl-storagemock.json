@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-repl-storagemock",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "Provides a mock storage solution for REPL when access to window.localStorage is sandboxed.",
+		"date": "2021-12-12T15:17:11.903Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-repl-storagemock"
+		},
+		"author": {
+			"name": "Louis Louw"
+		},
+		"publisher": {
+			"username": "codelouis",
+			"email": "code@louislouw.me"
+		},
+		"maintainers": [
+			{
+				"username": "codelouis",
+				"email": "code@louislouw.me"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19044469736752648,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.0016872668846552522,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 5.6570815e-9
+}

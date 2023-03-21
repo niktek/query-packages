@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-copy-clipboard-action",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "A Svelte action to copy to clipboard",
+		"keywords": [
+			"svelte",
+			"svelte-action",
+			"copy",
+			"clipboard"
+		],
+		"date": "2022-04-24T19:33:30.999Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-copy-clipboard-action",
+			"homepage": "https://anotherempty.github.io/svelte-copy-clipboard-action/",
+			"repository": "https://github.com/anotherempty/svelte-copy-clipboard-action",
+			"bugs": "https://github.com/anotherempty/svelte-copy-clipboard-action/issues"
+		},
+		"author": {
+			"name": "anotherempty",
+			"url": "https://github.com/anotherempty"
+		},
+		"publisher": {
+			"username": "anotherempty",
+			"email": "anotherempty@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "anotherempty",
+				"email": "anotherempty@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22314494233845367,
+		"detail": {
+			"quality": 0.3968723430022414,
+			"popularity": 0.001424608453533364,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 5.765631e-8
+}

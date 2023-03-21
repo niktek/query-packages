@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@htmlbricks/formrenderer-dateinput",
+		"scope": "htmlbricks",
+		"version": "0.2.4",
+		"description": "Svelte-Bootstrap Date Input WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2022-01-02T19:14:29.528Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fformrenderer-dateinput"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21879623026431205,
+		"detail": {
+			"quality": 0.33700545393981596,
+			"popularity": 0.004439576964265215,
+			"maintenance": 0.33183069184249847
+		}
+	},
+	"searchScore": 2.5376202e-8
+}

@@ -1,0 +1,95 @@
+{
+	"package": {
+		"name": "tsparticles-particles.js",
+		"scope": "unscoped",
+		"version": "2.9.3",
+		"description": "Easily create highly customizable particle animations and use them as animated backgrounds for your website. Ready to use components available also for React, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Riot.js, Inferno.",
+		"keywords": [
+			"front-end",
+			"frontend",
+			"tsparticles",
+			"particles.js",
+			"particlesjs",
+			"particles",
+			"particle",
+			"canvas",
+			"jsparticles",
+			"xparticles",
+			"particles-js",
+			"particles-bg",
+			"particles-bg-vue",
+			"particles-ts",
+			"particles.ts",
+			"react-particles-js",
+			"react-particles.js",
+			"react-particles",
+			"react",
+			"reactjs",
+			"vue-particles",
+			"ngx-particles",
+			"angular-particles",
+			"particleground",
+			"vue",
+			"vuejs",
+			"preact",
+			"preactjs",
+			"jquery",
+			"angularjs",
+			"angular",
+			"typescript",
+			"javascript",
+			"animation",
+			"web",
+			"html5",
+			"web-design",
+			"webdesign",
+			"css",
+			"html",
+			"css3",
+			"animated",
+			"background",
+			"confetti",
+			"canvas",
+			"fireworks",
+			"fireworks-js",
+			"confetti-js",
+			"confettijs",
+			"fireworksjs",
+			"canvas-confetti"
+		],
+		"date": "2023-02-12T18:46:12.188Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/tsparticles-particles.js",
+			"homepage": "https://particles.js.org",
+			"repository": "https://github.com/matteobruni/tsparticles",
+			"bugs": "https://github.com/matteobruni/tsparticles/issues"
+		},
+		"author": {
+			"name": "Matteo Bruni",
+			"email": "matteo.bruni@me.com"
+		},
+		"publisher": {
+			"username": "matteobruni",
+			"email": "ar3s@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "ar3s",
+				"email": "mbruni88@icloud.com"
+			},
+			{
+				"username": "matteobruni",
+				"email": "ar3s@icloud.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.34762638908011506,
+		"detail": {
+			"quality": 0.6075140412473209,
+			"popularity": 0.1391586001121491,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000006132975
+}

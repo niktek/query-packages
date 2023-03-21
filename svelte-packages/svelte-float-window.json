@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-float-window",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "A Svelte component for a moveable floating window - with a slot and a resize corner.",
+		"keywords": [
+			"svelte",
+			"floating-window",
+			"html-mdi"
+		],
+		"date": "2021-08-25T05:23:31.939Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-float-window",
+			"homepage": "http://www.copious.world"
+		},
+		"author": {
+			"name": "Richard Leddy"
+		},
+		"publisher": {
+			"username": "rleddy",
+			"email": "richardaleddy@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rleddy",
+				"email": "richardaleddy@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23180869607037377,
+		"detail": {
+			"quality": 0.6075140412473209,
+			"popularity": 0.0014518238078102884,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.1574176e-7
+}

@@ -1,0 +1,85 @@
+{
+	"package": {
+		"name": "@builder.io/sdk-svelte",
+		"scope": "builder.io",
+		"version": "0.1.12",
+		"description": "Builder.io SDK for Svelte",
+		"date": "2023-03-16T13:42:47.572Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40builder.io%2Fsdk-svelte",
+			"homepage": "https://github.com/BuilderIO/builder/tree/main/packages/sdks/output/svelte#readme",
+			"repository": "https://github.com/BuilderIO/builder",
+			"bugs": "https://github.com/BuilderIO/builder/issues"
+		},
+		"publisher": {
+			"username": "samijaber",
+			"email": "jabersami@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "murtaza-haveliwala",
+				"email": "murtaza@builder.io"
+			},
+			{
+				"username": "gustavohgs",
+				"email": "gustavo@builder.io"
+			},
+			{
+				"username": "sanyamkamat",
+				"email": "sanyamkamat@gmail.com"
+			},
+			{
+				"username": "shyam-builder",
+				"email": "shyam@builder.io"
+			},
+			{
+				"username": "manucorporat",
+				"email": "manu.mtza@gmail.com"
+			},
+			{
+				"username": "steve8708",
+				"email": "sewell.steve@gmail.com"
+			},
+			{
+				"username": "samijaber",
+				"email": "jabersami@gmail.com"
+			},
+			{
+				"username": "caleb.amsden",
+				"email": "caleb@builder.io"
+			},
+			{
+				"username": "teleaziz123",
+				"email": "aziz@builder.io"
+			},
+			{
+				"username": "mrkoreye",
+				"email": "korey@builder.io"
+			},
+			{
+				"username": "dkendal",
+				"email": "dylan@builder.io"
+			},
+			{
+				"username": "mhevery",
+				"email": "misko@hevery.com"
+			},
+			{
+				"username": "adamdbradley",
+				"email": "adam@builder.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3088394031725549,
+		"detail": {
+			"quality": 0.6208418031542571,
+			"popularity": 0.016914844456031933,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000048490456
+}

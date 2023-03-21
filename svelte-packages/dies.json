@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "dies",
+		"scope": "unscoped",
+		"version": "0.2.1",
+		"description": "A Svelte package to display events in a calendar",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-11-05T14:59:47.381Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/dies"
+		},
+		"publisher": {
+			"username": "_clementf",
+			"email": "clement.ferey+oss@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "_clementf",
+				"email": "clement.ferey+oss@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18251804665683743,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.003214501437818228,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 2.4735007e-9
+}

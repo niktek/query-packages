@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "antillestores-simple-modal",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "A small and simple modal for Svelte",
+		"keywords": [
+			"svelte",
+			"modal"
+		],
+		"date": "2019-05-27T02:31:47.587Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/antillestores-simple-modal",
+			"homepage": "https://github.com/flekschas/svelte-simple-modal#readme",
+			"repository": "https://github.com/flekschas/svelte-simple-modal",
+			"bugs": "https://github.com/flekschas/svelte-simple-modal/issues"
+		},
+		"author": {
+			"name": "Fritz Lekschas"
+		},
+		"publisher": {
+			"username": "antillestores",
+			"email": "davy.ovar@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "antillestores",
+				"email": "davy.ovar@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2025925506291617,
+		"detail": {
+			"quality": 0.5492200220748142,
+			"popularity": 0.018334142482029706,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.2615082e-8
+}

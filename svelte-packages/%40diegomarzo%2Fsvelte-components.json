@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@diegomarzo/svelte-components",
+		"scope": "diegomarzo",
+		"version": "0.0.3",
+		"description": "https://github.com/diegomarzo/svelte-components.git",
+		"date": "2022-11-10T09:29:16.993Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40diegomarzo%2Fsvelte-components",
+			"homepage": "https://github.com/diegomarzo/svelte-components#readme",
+			"repository": "https://github.com/diegomarzo/svelte-components",
+			"bugs": "https://github.com/diegomarzo/svelte-components/issues"
+		},
+		"publisher": {
+			"username": "diegomarzo",
+			"email": "diegomarzo@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "diegomarzo",
+				"email": "diegomarzo@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21724472896847893,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.018465041036647607,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 3.8881943e-8
+}

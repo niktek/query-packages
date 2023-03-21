@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "pezdel-svelte-example",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "This template should help get you started developing with Svelte and TypeScript in Vite.",
+		"date": "2022-09-24T22:51:04.199Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/pezdel-svelte-example"
+		},
+		"publisher": {
+			"username": "pezdel",
+			"email": "adam.pezdel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pezdel",
+				"email": "adam.pezdel@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21081604616795815,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.001432235201690251,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 2.0617913e-8
+}

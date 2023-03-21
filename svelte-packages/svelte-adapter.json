@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-adapter",
+		"scope": "unscoped",
+		"version": "0.5.0",
+		"description": "Use Svelte components with Vue and React.",
+		"date": "2021-09-23T13:39:51.058Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-adapter",
+			"homepage": "https://github.com/pngwn/svelte-adapter#readme",
+			"repository": "https://github.com/pngwn/svelte-adapter",
+			"bugs": "https://github.com/pngwn/svelte-adapter/issues"
+		},
+		"author": {
+			"name": "pngwn",
+			"email": "hello@pngwn.io",
+			"username": "evilpingwin"
+		},
+		"publisher": {
+			"username": "evilpingwin",
+			"email": "hello@pngwn.io"
+		},
+		"maintainers": [
+			{
+				"username": "evilpingwin",
+				"email": "hello@pngwn.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16792394306734895,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.02636340294237408,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 1.9575415e-9
+}

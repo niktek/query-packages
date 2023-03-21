@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "react-store-adaptors",
+		"scope": "unscoped",
+		"version": "0.1.0",
+		"description": "useSyncExternalStore adaptors and shim for using Svelte Readables in React.",
+		"date": "2022-12-21T01:07:59.746Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/react-store-adaptors"
+		},
+		"author": {
+			"name": "Jillian Ada Burrows",
+			"email": "jill@adaburrows.com",
+			"username": "adaburrows"
+		},
+		"publisher": {
+			"username": "adaburrows",
+			"email": "jill@adaburrows.com"
+		},
+		"maintainers": [
+			{
+				"username": "adaburrows",
+				"email": "jill@adaburrows.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22174443564241936,
+		"detail": {
+			"quality": 0.34835864020984353,
+			"popularity": 0.0030561645263471418,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 8.82999e-9
+}

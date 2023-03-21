@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@furudean/svelte-persistent-store",
+		"scope": "furudean",
+		"version": "0.8.0",
+		"description": "Svelte store that saves and loads data from localStorage or sessionStorage",
+		"keywords": [
+			"svelte",
+			"svelte-kit",
+			"store",
+			"localStorage",
+			"sessionStorage"
+		],
+		"date": "2022-06-08T19:21:43.840Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40furudean%2Fsvelte-persistent-store",
+			"homepage": "https://github.com/furudean/svelte-persistent-store#readme",
+			"repository": "https://github.com/furudean/svelte-persistent-store",
+			"bugs": "https://github.com/furudean/svelte-persistent-store/issues"
+		},
+		"author": {
+			"name": "Merilynn Bandy",
+			"email": "merilynn@furudean.com",
+			"url": "https://www.furudean.com/",
+			"username": "furudean"
+		},
+		"publisher": {
+			"username": "furudean",
+			"email": "merilynn@furudean.com"
+		},
+		"maintainers": [
+			{
+				"username": "furudean",
+				"email": "merilynn@furudean.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2220422777542821,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.004853750966370334,
+			"maintenance": 0.32853380853478065
+		}
+	},
+	"searchScore": 5.243472e-8
+}

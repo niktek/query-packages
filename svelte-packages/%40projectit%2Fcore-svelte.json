@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@projectit/core-svelte",
+		"scope": "projectit",
+		"version": "0.5.0",
+		"description": "*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*",
+		"date": "2023-02-01T07:59:56.176Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40projectit%2Fcore-svelte",
+			"homepage": "https://github.com/joswarmer/ProjectIt#readme",
+			"repository": "https://github.com/joswarmer/ProjectIt",
+			"bugs": "https://github.com/joswarmer/ProjectIt/issues"
+		},
+		"publisher": {
+			"username": "jwarmer",
+			"email": "jos.warmer@openmodeling.nl"
+		},
+		"maintainers": [
+			{
+				"username": "jwarmer",
+				"email": "jos.warmer@openmodeling.nl"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.32897730776437445,
+		"detail": {
+			"quality": 0.673564551761557,
+			"popularity": 0.029260787340687718,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000011119676
+}

@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-page",
+		"scope": "unscoped",
+		"version": "2.2.1",
+		"description": "Why not another option for routing in svelte?",
+		"keywords": [
+			"svelte",
+			"router"
+		],
+		"date": "2019-01-22T21:01:48.349Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-page"
+		},
+		"author": {
+			"name": "Christian Kaisermann",
+			"email": "christian@kaisermann.me",
+			"username": "kaisermann"
+		},
+		"publisher": {
+			"username": "kaisermann",
+			"email": "christian@kaisermann.me"
+		},
+		"maintainers": [
+			{
+				"username": "kaisermann",
+				"email": "christian@kaisermann.me"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1925491909625398,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.00711022222833244,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.2070329e-8
+}

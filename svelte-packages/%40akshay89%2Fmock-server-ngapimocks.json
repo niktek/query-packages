@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@akshay89/mock-server-ngapimocks",
+		"scope": "akshay89",
+		"version": "1.0.2",
+		"description": "Mock server implementation using ngApiMocks",
+		"keywords": [
+			"ngApimock",
+			"Mock",
+			"Server",
+			"Mock Server",
+			"Angular",
+			"React",
+			"ReactJs",
+			"Svelte",
+			"Angular 6",
+			"Angular 8",
+			"Angular 9",
+			"Angular 10",
+			"Angular 11",
+			"Angular 12",
+			"Angular 13",
+			"ngApimocks"
+		],
+		"date": "2022-05-14T14:48:11.564Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40akshay89%2Fmock-server-ngapimocks"
+		},
+		"author": {
+			"name": "Akshay"
+		},
+		"publisher": {
+			"username": "akshaymhatre89",
+			"email": "akshay.mhatre8989@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "akshaymhatre89",
+				"email": "akshay.mhatre8989@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2608224540749632,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0019443605977859507,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 9.46895e-8
+}

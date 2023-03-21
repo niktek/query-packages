@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@eugenes/svelte-calendar",
+		"scope": "eugenes",
+		"version": "3.1.8",
+		"description": "A small date picker built with Svelte 3. Demo available here: [view docs and examples](https://6edesign.github.io/svelte-calendar).",
+		"date": "2022-10-12T19:36:43.627Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40eugenes%2Fsvelte-calendar"
+		},
+		"publisher": {
+			"username": "eugenes",
+			"email": "john-24@list.ru"
+		},
+		"maintainers": [
+			{
+				"username": "eugenes",
+				"email": "john-24@list.ru"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25618185334884647,
+		"detail": {
+			"quality": 0.4621851698978854,
+			"popularity": 0.002548330359858255,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 3.125556e-7
+}

@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "kitbook",
+		"scope": "unscoped",
+		"version": "1.0.0-alpha.15",
+		"description": "Svelte Component Documentation and Prototyping Workbench built using SvelteKit",
+		"keywords": [
+			"Kitbook",
+			"Svelte",
+			"SvelteKit",
+			"Typescript",
+			"UI",
+			"Component library",
+			"Documentation",
+			"Prototyping",
+			"Workbench",
+			"Stories"
+		],
+		"date": "2023-01-09T00:35:13.758Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/kitbook",
+			"homepage": "https://kitbook.vercel.app",
+			"repository": "https://github.com/jacob-8/kitbook",
+			"bugs": "https://github.com/jacob-8/kitbook/issues"
+		},
+		"author": {
+			"name": "Jacob Bowdoin"
+		},
+		"publisher": {
+			"username": "jacobbowdoin",
+			"email": "jacob@livingtongues.org"
+		},
+		"maintainers": [
+			{
+				"username": "jacobbowdoin",
+				"email": "jacob@livingtongues.org"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3428030170973744,
+		"detail": {
+			"quality": 0.7162946035920285,
+			"popularity": 0.032137055294569186,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000010112743
+}

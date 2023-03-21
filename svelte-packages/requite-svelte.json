@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "requite-svelte",
+		"scope": "unscoped",
+		"version": "1.0.0-alpha.0",
+		"description": "Dynamic selector for Svelte",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-03-04T22:41:38.190Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/requite-svelte"
+		},
+		"author": {
+			"name": "vacom"
+		},
+		"publisher": {
+			"username": "vacom",
+			"email": "vitor.works@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "vacom",
+				"email": "vitor.works@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18467342111571033,
+		"detail": {
+			"quality": 0.5091677549204802,
+			"popularity": 0.0014671442901693563,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.5688526e-9
+}

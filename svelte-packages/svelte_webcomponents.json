@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "svelte_webcomponents",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Boilerplate for developing web components in svelte, using nested components, passing props, sass and jest setup, eslint and style-lint etc",
+		"date": "2021-06-04T08:14:57.117Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte_webcomponents"
+		},
+		"author": {
+			"name": "Talvinder Singh",
+			"email": "talvindersingh1992@gmail.com",
+			"username": "talsingh"
+		},
+		"publisher": {
+			"username": "talsingh",
+			"email": "talvindersingh1992@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "talsingh",
+				"email": "talvindersingh1992@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3609206894691108,
+		"detail": {
+			"quality": 0.8539755837380317,
+			"popularity": 0.003266822481876346,
+			"maintenance": 0.2959560756544132
+		}
+	},
+	"searchScore": 0.000018681503
+}

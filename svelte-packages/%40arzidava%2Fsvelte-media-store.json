@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@arzidava/svelte-media-store",
+		"scope": "arzidava",
+		"version": "0.3.0",
+		"description": "A utility library to use media query as stores.",
+		"date": "2022-03-22T17:53:46.836Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40arzidava%2Fsvelte-media-store",
+			"homepage": "https://github.com/arzidava/svelte-media-store#readme",
+			"repository": "https://github.com/arzidava/svelte-media-store",
+			"bugs": "https://github.com/arzidava/svelte-media-store/issues"
+		},
+		"author": {
+			"name": "Stephane Vanraes"
+		},
+		"publisher": {
+			"username": "rainlife",
+			"email": "stephane.vanraes@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rainlife",
+				"email": "stephane.vanraes@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2034229803887573,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0025352249249302335,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.1776839e-8
+}

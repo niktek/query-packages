@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@gera2ld/plaid-common-svelte",
+		"scope": "gera2ld",
+		"version": "2.5.6",
+		"description": "Webpack utility helpers for Vue",
+		"date": "2022-08-06T16:44:15.612Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40gera2ld%2Fplaid-common-svelte",
+			"homepage": "https://github.com/gera2ld/plaid#readme",
+			"repository": "https://github.com/gera2ld/plaid",
+			"bugs": "https://github.com/gera2ld/plaid/issues"
+		},
+		"author": {
+			"name": "Gerald",
+			"email": "gera2ld@live.com",
+			"username": "gera2ld"
+		},
+		"publisher": {
+			"username": "gera2ld",
+			"email": "gera2ld@live.com"
+		},
+		"maintainers": [
+			{
+				"username": "gera2ld",
+				"email": "gera2ld@live.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2516673110299305,
+		"detail": {
+			"quality": 0.4353437325956674,
+			"popularity": 0.019952042131831875,
+			"maintenance": 0.32594564715739754
+		}
+	},
+	"searchScore": 2.3441014e-7
+}

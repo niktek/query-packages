@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "mini-rx-store",
+		"scope": "unscoped",
+		"version": "4.2.0",
+		"description": "MiniRx: The Lightweight RxJS Redux Store",
+		"keywords": [
+			"RxJS",
+			"Redux",
+			"State Management",
+			"Angular",
+			"React",
+			"Vue",
+			"Svelte",
+			"Observable",
+			"Store",
+			"JavaScript"
+		],
+		"date": "2022-11-24T08:21:57.699Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/mini-rx-store",
+			"homepage": "https://github.com/spierala/mini-rx-store",
+			"repository": "https://github.com/spierala/mini-rx-store",
+			"bugs": "https://github.com/spierala/mini-rx-store/issues"
+		},
+		"author": {
+			"name": "Florian Spier",
+			"email": "mail@florian-spier.be",
+			"url": "https://florian-spier.be",
+			"username": "spierala"
+		},
+		"publisher": {
+			"username": "spierala",
+			"email": "mail@florian-spier.be"
+		},
+		"maintainers": [
+			{
+				"username": "spierala",
+				"email": "mail@florian-spier.be"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23666908369174416,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.00718397006246819,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.5598028e-8
+}

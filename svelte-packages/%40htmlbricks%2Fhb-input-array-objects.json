@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@htmlbricks/hb-input-array-objects",
+		"scope": "htmlbricks",
+		"version": "0.19.31",
+		"description": "Svelte-Bootstrap Text Input WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2023-02-28T18:24:24.039Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fhb-input-array-objects"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23220687085199626,
+		"detail": {
+			"quality": 0.3470052539832993,
+			"popularity": 0.03268179425811381,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.66529e-8
+}

@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "eslint-plugin-svelte3-preprocess",
+		"scope": "unscoped",
+		"version": "2.7.3-preprocess",
+		"description": "An ESLint plugin for Svelte v3 components.",
+		"keywords": [
+			"eslint",
+			"eslintplugin",
+			"svelte",
+			"sveltejs"
+		],
+		"date": "2020-08-27T18:00:55.201Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/eslint-plugin-svelte3-preprocess",
+			"homepage": "https://github.com/sveltejs/eslint-plugin-svelte3#readme",
+			"repository": "https://github.com/sveltejs/eslint-plugin-svelte3",
+			"bugs": "https://github.com/sveltejs/eslint-plugin-svelte3/issues"
+		},
+		"author": {
+			"name": "Conduitry"
+		},
+		"publisher": {
+			"username": "sdwvit",
+			"email": "sdwvit@inet.ua"
+		},
+		"maintainers": [
+			{
+				"username": "sdwvit",
+				"email": "sdwvit@inet.ua"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20287687337491084,
+		"detail": {
+			"quality": 0.55,
+			"popularity": 0.018477940676867942,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.7157793e-8
+}

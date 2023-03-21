@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-preprocess-global",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Svelte preprocessor that applies the `:global()` directive to id, class, and data attribute selectors passed to Svelte components.",
+		"keywords": [
+			"svelte",
+			"svelte preprocessor",
+			"global"
+		],
+		"date": "2022-05-16T01:17:57.789Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-preprocess-global",
+			"homepage": "https://github.com/metonym/svelte-preprocess-global",
+			"repository": "https://github.com/metonym/svelte-preprocess-global",
+			"bugs": "https://github.com/metonym/svelte-preprocess-global/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22715376457673928,
+		"detail": {
+			"quality": 0.4380748564544328,
+			"popularity": 0.0015288687180486996,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 8.1334434e-8
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@qiuzhanghua/bui",
+		"scope": "qiuzhanghua",
+		"version": "0.0.2",
+		"description": "### for svelte",
+		"date": "2022-05-27T07:28:21.238Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40qiuzhanghua%2Fbui"
+		},
+		"publisher": {
+			"username": "qiuzhanghua",
+			"email": "qiuzhanghua@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "qiuzhanghua",
+				"email": "qiuzhanghua@icloud.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20693875183368599,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.01824547518775523,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 6.293226e-9
+}

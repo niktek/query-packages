@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte_ujs_ng",
+		"scope": "unscoped",
+		"version": "0.3.4",
+		"description": "Rails UJS for turbolinks and SSR of the svelte-rails gem",
+		"date": "2020-07-31T10:52:01.082Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte_ujs_ng"
+		},
+		"author": {
+			"name": "henning mueller",
+			"email": "mail@nning.io",
+			"username": "nning"
+		},
+		"publisher": {
+			"username": "nning",
+			"email": "mail@nning.io"
+		},
+		"maintainers": [
+			{
+				"username": "nning",
+				"email": "mail@nning.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25399745839909815,
+		"detail": {
+			"quality": 0.738845431940258,
+			"popularity": 0.0026692419400392224,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.108938e-7
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@radix-svelte/aspect-ratio",
+		"scope": "radix-svelte",
+		"version": "0.1.3",
+		"description": "## Installation",
+		"date": "2022-08-27T13:06:41.296Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40radix-svelte%2Faspect-ratio"
+		},
+		"publisher": {
+			"username": "symsym",
+			"email": "symeon.smith@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "symsym",
+				"email": "symeon.smith@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22598712711963015,
+		"detail": {
+			"quality": 0.4061962930377297,
+			"popularity": 0.0015531792264761723,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 4.6079485e-8
+}

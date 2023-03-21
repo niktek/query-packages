@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svselect",
+		"scope": "unscoped",
+		"version": "1.0.0-fixes",
+		"description": "Easy to use `Select` inputs.",
+		"keywords": [
+			"svelte",
+			"select",
+			"input",
+			"sv"
+		],
+		"date": "2022-12-03T15:24:47.447Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svselect",
+			"homepage": "https://github.com/Battledash-2/svselect#readme",
+			"repository": "https://github.com/Battledash-2/svselect",
+			"bugs": "https://github.com/Battledash-2/svselect/issues"
+		},
+		"author": {
+			"name": "battledash2"
+		},
+		"publisher": {
+			"username": "battledash2",
+			"email": "battledoosh@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "battledash2",
+				"email": "battledoosh@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24013266276198716,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0063454899117105276,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 6.131545e-8
+}

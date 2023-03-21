@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-parts",
+		"scope": "unscoped",
+		"version": "0.0.6",
+		"description": "docs: https://svelte-parts.surge.sh",
+		"keywords": [
+			"svelte",
+			"components"
+		],
+		"date": "2023-01-27T21:06:48.818Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-parts",
+			"homepage": "https://github.com/idris-maps/svelte-parts#readme",
+			"repository": "https://github.com/idris-maps/svelte-parts",
+			"bugs": "https://github.com/idris-maps/svelte-parts/issues"
+		},
+		"publisher": {
+			"username": "idris-maps",
+			"email": "idris.maps@gmx.ch"
+		},
+		"maintainers": [
+			{
+				"username": "idris-maps",
+				"email": "idris.maps@gmx.ch"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23283660277642454,
+		"detail": {
+			"quality": 0.3792891023433832,
+			"popularity": 0.006809158304979815,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.221801e-7
+}

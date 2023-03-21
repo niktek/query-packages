@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "@rmw/svelte-preprocess",
+		"scope": "rmw",
+		"version": "4.10.22",
+		"description": "A Svelte preprocessor wrapper with baked-in support for commonly used preprocessors",
+		"keywords": [
+			"svelte",
+			"preprocess",
+			"less",
+			"stylus",
+			"sass",
+			"scss",
+			"pug",
+			"coffeescript"
+		],
+		"date": "2022-07-29T05:46:27.432Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40rmw%2Fsvelte-preprocess",
+			"homepage": "https://github.com/sveltejs/svelte-preprocess#readme",
+			"repository": "https://github.com/sveltejs/svelte-preprocess",
+			"bugs": "https://github.com/sveltejs/svelte-preprocess/issues"
+		},
+		"author": {
+			"name": "Christian Kaisermann",
+			"email": "christian@kaisermann.me"
+		},
+		"publisher": {
+			"username": "gcxfd",
+			"email": "i@rmw.link"
+		},
+		"maintainers": [
+			{
+				"username": "gcxfd",
+				"email": "i@rmw.link"
+			}
+		]
+	},
+	"score": {
+		"final": 0.28405831136114656,
+		"detail": {
+			"quality": 0.5544221770842539,
+			"popularity": 0.003289713565076663,
+			"maintenance": 0.3330864528231245
+		}
+	},
+	"searchScore": 0.0000015809034
+}

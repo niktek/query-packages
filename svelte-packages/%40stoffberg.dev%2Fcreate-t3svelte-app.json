@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@stoffberg.dev/create-t3svelte-app",
+		"scope": "stoffberg.dev",
+		"version": "1.1.1",
+		"description": "Rapidly setup T3 Stack with SvelteKit",
+		"keywords": [
+			"cli",
+			"create-t3svelte-app"
+		],
+		"date": "2023-01-10T16:21:22.519Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40stoffberg.dev%2Fcreate-t3svelte-app"
+		},
+		"author": {
+			"name": "Dirk Stoffberg Beukes"
+		},
+		"publisher": {
+			"username": "stoffberg",
+			"email": "dirk_beukes@hotmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "stoffberg",
+				"email": "dirk_beukes@hotmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3066881100835201,
+		"detail": {
+			"quality": 0.6272833081421932,
+			"popularity": 0.00524700278341573,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000018667798
+}

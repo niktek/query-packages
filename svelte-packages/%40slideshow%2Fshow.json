@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@slideshow/show",
+		"scope": "slideshow",
+		"version": "0.0.6",
+		"description": "main library of show components",
+		"keywords": [
+			"slides",
+			"reveal",
+			"svelte"
+		],
+		"date": "2022-04-25T10:12:34.827Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40slideshow%2Fshow",
+			"homepage": "https://github.com/AleCandido/show#readme",
+			"repository": "https://github.com/AleCandido/show",
+			"bugs": "https://github.com/AleCandido/show/issues"
+		},
+		"author": {
+			"name": "Alessandro Candido",
+			"email": "candido.ale@gmail.com",
+			"username": "annibale"
+		},
+		"publisher": {
+			"username": "annibale",
+			"email": "candido.ale@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "annibale",
+				"email": "candido.ale@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21798067603813248,
+		"detail": {
+			"quality": 0.32554510520587454,
+			"popularity": 0.018870180544704532,
+			"maintenance": 0.3248930893877815
+		}
+	},
+	"searchScore": 1.9607649e-8
+}

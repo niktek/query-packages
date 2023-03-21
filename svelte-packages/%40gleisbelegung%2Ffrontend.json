@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@gleisbelegung/frontend",
+		"scope": "gleisbelegung",
+		"version": "2.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);",
+		"date": "2021-09-05T09:37:59.383Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40gleisbelegung%2Ffrontend"
+		},
+		"publisher": {
+			"username": "manuel3108",
+			"email": "mserret99@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "manuel3108",
+				"email": "mserret99@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.1879786781766051,
+		"detail": {
+			"quality": 0.3687250635161251,
+			"popularity": 0.02294729329608311,
+			"maintenance": 0.19808458990896707
+		}
+	},
+	"searchScore": 1.5724536e-9
+}

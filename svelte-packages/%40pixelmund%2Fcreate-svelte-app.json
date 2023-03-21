@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "@pixelmund/create-svelte-app",
+		"scope": "pixelmund",
+		"version": "1.0.9",
+		"description": "Bootstrap your next svelte/sapper application. Choose typescript, sass or any preprocessor. Webpack or Rollup.",
+		"keywords": [
+			"svelte",
+			"sapper",
+			"cli",
+			"create-svelte-app",
+			"svelte-boilerplate",
+			"svelte webpack",
+			"svelte typescript",
+			"sapper typescript",
+			"sapper webpack",
+			"sapper boilerplate",
+			"svelte cli",
+			"sapper cli"
+		],
+		"date": "2020-08-09T21:41:42.755Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40pixelmund%2Fcreate-svelte-app",
+			"homepage": "https://github.com/pixelmund/create-svelte-app#README",
+			"repository": "https://github.com/pixelmund/create-svelte-app",
+			"bugs": "https://github.com/pixelmund/create-svelte-app/issues"
+		},
+		"author": {
+			"name": "Pixelmund"
+		},
+		"publisher": {
+			"username": "pixelmund",
+			"email": "info@pixelmund.com"
+		},
+		"maintainers": [
+			{
+				"username": "pixelmund",
+				"email": "info@pixelmund.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2575749465252806,
+		"detail": {
+			"quality": 0.7320873823706467,
+			"popularity": 0.018683250503084548,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 5.915223e-7
+}

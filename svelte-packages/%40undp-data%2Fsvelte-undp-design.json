@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "@undp-data/svelte-undp-design",
+		"scope": "undp-data",
+		"version": "0.2.1",
+		"description": "This package is to manage svelte components for UNDP design system in GeoHub",
+		"date": "2023-03-20T16:01:10.212Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40undp-data%2Fsvelte-undp-design",
+			"homepage": "https://github.com/UNDP-Data/geohub#readme",
+			"repository": "https://github.com/UNDP-Data/geohub",
+			"bugs": "https://github.com/UNDP-Data/geohub/issues"
+		},
+		"author": {
+			"name": "United Nations Development Programme"
+		},
+		"publisher": {
+			"username": "j_igarashi",
+			"email": "info@water-gis.com"
+		},
+		"maintainers": [
+			{
+				"username": "mustafa.saifee",
+				"email": "mustafa.saifee@undp.org"
+			},
+			{
+				"username": "iferencik",
+				"email": "ioan.ferencik@undp.org"
+			},
+			{
+				"username": "thuhadev",
+				"email": "josephthuha@gmail.com"
+			},
+			{
+				"username": "j_igarashi",
+				"email": "info@water-gis.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.36642010683717485,
+		"detail": {
+			"quality": 0.7993107605086407,
+			"popularity": 0.028457748622617105,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000043325887
+}

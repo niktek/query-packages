@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-prose",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Typography utilities for Svelte",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"prose",
+			"typography",
+			"table of contents",
+			"toc"
+		],
+		"date": "2020-04-21T15:22:22.312Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-prose"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18979403828561764,
+		"detail": {
+			"quality": 0.5260551644706876,
+			"popularity": 0.0016225565897266057,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 9.307988e-9
+}

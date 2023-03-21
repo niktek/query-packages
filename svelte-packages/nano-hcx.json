@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "nano-hcx",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "HTML Compiler Extensions",
+		"keywords": [
+			"tlx",
+			"react",
+			"angular",
+			"svelte",
+			"vue",
+			"hyperApp",
+			"uhtml",
+			"lighterhtml",
+			"hypeHTML"
+		],
+		"date": "2020-06-30T18:15:21.511Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/nano-hcx"
+		},
+		"publisher": {
+			"username": "anywhichway",
+			"email": "syblackwell@anywhichway.com"
+		},
+		"maintainers": [
+			{
+				"username": "anywhichway",
+				"email": "syblackwell@anywhichway.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23120207058632875,
+		"detail": {
+			"quality": 0.6631254515578243,
+			"popularity": 0.0024424028027839806,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.5254743e-8
+}

@@ -1,0 +1,74 @@
+{
+	"package": {
+		"name": "@portabletext/svelte",
+		"scope": "portabletext",
+		"version": "2.0.0",
+		"description": "Render [Portable Text](https://portabletext.org) block content with [Svelte](https://svelte.dev/) components.",
+		"date": "2023-02-21T15:58:41.502Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40portabletext%2Fsvelte",
+			"homepage": "https://github.com/portabletext/svelte-portabletext#readme",
+			"repository": "https://github.com/portabletext/svelte-portabletext",
+			"bugs": "https://github.com/portabletext/svelte-portabletext/issues"
+		},
+		"author": {
+			"name": "Sanity",
+			"email": "hello@sanity.io"
+		},
+		"publisher": {
+			"username": "rexxars",
+			"email": "espen@hovlandsdal.com"
+		},
+		"maintainers": [
+			{
+				"username": "snorreeb",
+				"email": "snorre.e.brekke@gmail.com"
+			},
+			{
+				"username": "sanity-io",
+				"email": "developers@sanity.io"
+			},
+			{
+				"username": "kmelve",
+				"email": "knut.melvaer@gmail.com"
+			},
+			{
+				"username": "rexxars",
+				"email": "espen@hovlandsdal.com"
+			},
+			{
+				"username": "simenss",
+				"email": "simen@bengler.no"
+			},
+			{
+				"username": "skogsmaskin",
+				"email": "per.kristian.nordnes@gmail.com"
+			},
+			{
+				"username": "mariuslundgard",
+				"email": "studio@mariuslundgard.com"
+			},
+			{
+				"username": "bjoerge",
+				"email": "bjoerge@gmail.com"
+			},
+			{
+				"username": "rbotten",
+				"email": "rbotten@gmail.com"
+			},
+			{
+				"username": "hdoro",
+				"email": "opensource@hdoro.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.29316954377450327,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.041834341197426794,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000030404374
+}

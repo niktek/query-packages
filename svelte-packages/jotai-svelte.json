@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "jotai-svelte",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "Primitive and flexible state management for Svelte based on Jotai.",
+		"date": "2022-12-20T05:37:55.827Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/jotai-svelte",
+			"homepage": "https://github.com/wobsoriano/sveltio#readme",
+			"repository": "https://github.com/wobsoriano/jotai-svelte",
+			"bugs": "https://github.com/wobsoriano/jotai-svelte/issues"
+		},
+		"publisher": {
+			"username": "wobsoriano",
+			"email": "sorianorobertc@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wobsoriano",
+				"email": "sorianorobertc@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.258619284974954,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.020807212785433463,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 4.6958854e-7
+}

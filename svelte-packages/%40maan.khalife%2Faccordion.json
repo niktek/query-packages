@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "@maan.khalife/accordion",
+		"scope": "maan.khalife",
+		"version": "1.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-06-01T22:16:47.695Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40maan.khalife%2Faccordion"
+		},
+		"publisher": {
+			"username": "maankhalife",
+			"email": "maan.khalife@yahoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "maankhalife",
+				"email": "maan.khalife@yahoo.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.19630716133407816,
+		"detail": {
+			"quality": 0.33547609821394286,
+			"popularity": 0.0013375093737225834,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 1.9839494e-9
+}

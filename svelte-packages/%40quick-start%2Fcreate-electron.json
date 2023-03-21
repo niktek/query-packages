@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@quick-start/create-electron",
+		"scope": "quick-start",
+		"version": "1.0.11",
+		"description": "An easy way to start an Electron project",
+		"keywords": [
+			"electron",
+			"vite",
+			"vue",
+			"react",
+			"svelte",
+			"template",
+			"boilerplate"
+		],
+		"date": "2023-03-12T09:17:27.948Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40quick-start%2Fcreate-electron",
+			"homepage": "https://github.com/alex8088/quick-start/tree/master/packages/create-electron#readme",
+			"repository": "https://github.com/alex8088/quick-start",
+			"bugs": "https://github.com/alex8088/quick-start/issues"
+		},
+		"author": {
+			"name": "Alex Wei",
+			"email": "https://github.com/alex8088"
+		},
+		"publisher": {
+			"username": "alex.wei",
+			"email": "244096523@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "alex.wei",
+				"email": "244096523@qq.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2781951315309843,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.01420440142812545,
+			"maintenance": 0.33333225612699113
+		}
+	},
+	"searchScore": 4.2177186e-7
+}

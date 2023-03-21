@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-page-progress",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "Svelte Component that tracks a users progress through a page as they scroll",
+		"keywords": [
+			"svelte",
+			"svelte-page-progress",
+			"blogs",
+			"svelte-component",
+			"svelte-progress-bar"
+		],
+		"date": "2020-05-17T22:12:20.577Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-page-progress"
+		},
+		"author": {
+			"name": "Noman Gul",
+			"email": "nomangul2001@gmail.com",
+			"username": "nomangul"
+		},
+		"publisher": {
+			"username": "nomangul",
+			"email": "nomangul2001@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nomangul",
+				"email": "nomangul2001@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2153368885279015,
+		"detail": {
+			"quality": 0.6081416904986702,
+			"popularity": 0.0042422492579811885,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 4.9326832e-8
+}

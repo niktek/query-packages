@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-alertify",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "An alert dialogue for svelte, to replace the traditional browser alert.",
+		"keywords": [
+			"svelte-alertify",
+			"alertify",
+			"svelte alert",
+			"svelte"
+		],
+		"date": "2021-04-22T02:06:33.077Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-alertify",
+			"homepage": "https://github.com/onumahkalusamuel/svelte-alertify#readme",
+			"repository": "https://github.com/onumahkalusamuel/svelte-alertify",
+			"bugs": "https://github.com/onumahkalusamuel/svelte-alertify/issues"
+		},
+		"author": {
+			"name": "Onumah Kalu Samuel"
+		},
+		"publisher": {
+			"username": "onumahkalusamuel",
+			"email": "onumahkalusamuel@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "onumahkalusamuel",
+				"email": "onumahkalusamuel@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17777127707680135,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.021371020248958927,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 4.686411e-9
+}

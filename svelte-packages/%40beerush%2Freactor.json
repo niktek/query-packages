@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@beerush/reactor",
+		"scope": "beerush",
+		"version": "0.12.0",
+		"description": "Javascript Reactive Proxy to transform any object/array into reactive object/array, recursively!",
+		"keywords": [
+			"reactive",
+			"reactive",
+			"svelte",
+			"reactive",
+			"object"
+		],
+		"date": "2023-03-01T10:18:31.711Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40beerush%2Freactor",
+			"homepage": "https://github.com/beerush-id/reactor",
+			"repository": "https://github.com/beerush-id/reactor",
+			"bugs": "https://github.com/beerush-id/reactor/issues"
+		},
+		"author": {
+			"name": "Nanang Mahdaen El Agung",
+			"email": "mahdaen@gmail.com",
+			"username": "mahdaen"
+		},
+		"publisher": {
+			"username": "mahdaen",
+			"email": "mahdaen@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mahdaen",
+				"email": "mahdaen@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25386763212462904,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.029530984984931053,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.5220937e-7
+}

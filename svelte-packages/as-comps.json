@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "as-comps",
+		"scope": "unscoped",
+		"version": "0.0.27",
+		"description": "Simple and customizable building blocks for Svelte",
+		"keywords": [
+			"Svelte",
+			"Library",
+			"Component"
+		],
+		"date": "2023-03-15T16:08:07.041Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/as-comps",
+			"homepage": "https://github.com/SarcevicAntonio/as-comps#readme",
+			"repository": "https://github.com/SarcevicAntonio/as-comps",
+			"bugs": "https://github.com/SarcevicAntonio/as-comps/issues"
+		},
+		"author": {
+			"name": "Antonio Sarcevic"
+		},
+		"publisher": {
+			"username": "sarcevic",
+			"email": "sarcevicantonio@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sarcevic",
+				"email": "sarcevicantonio@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24154743350798463,
+		"detail": {
+			"quality": 0.4088071151157153,
+			"popularity": 0.00639609230458108,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.712757e-8
+}

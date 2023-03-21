@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-calendar-resurrected",
+		"scope": "unscoped",
+		"version": "1.0.0-alpha.2",
+		"description": "A simple svelte calendar component. Forked from svelte-calendar",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"calendar",
+			"datepicker",
+			"svelte-calendar",
+			"svelte-datepicker"
+		],
+		"date": "2021-08-04T13:55:41.027Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-calendar-resurrected",
+			"homepage": "https://phaqui.github.io/svelte-calendar-resurrected/"
+		},
+		"author": {
+			"name": "Jonathan Greenemeier",
+			"url": "https://6eDesign.github.io/"
+		},
+		"publisher": {
+			"username": "phaqui",
+			"email": "phaqui@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "phaqui",
+				"email": "phaqui@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20066085044956908,
+		"detail": {
+			"quality": 0.5019129540676174,
+			"popularity": 0.0029731967595428045,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 1.8000506e-8
+}

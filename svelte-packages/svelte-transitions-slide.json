@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "svelte-transitions-slide",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "Slide transition plugin for Svelte",
+		"keywords": [
+			"svelte",
+			"transitions",
+			"css",
+			"animation"
+		],
+		"date": "2017-05-07T15:53:48.644Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-transitions-slide",
+			"homepage": "https://github.com/sveltejs/svelte-transitions-slide#readme",
+			"repository": "https://github.com/sveltejs/svelte-transitions-slide",
+			"bugs": "https://github.com/sveltejs/svelte-transitions-slide/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "rich_harris",
+			"email": "richard.a.harris@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2067917029930606,
+		"detail": {
+			"quality": 0.55,
+			"popularity": 0.029663168157295805,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.6864797e-8
+}

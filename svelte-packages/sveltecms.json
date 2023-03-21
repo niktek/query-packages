@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "sveltecms",
+		"scope": "unscoped",
+		"version": "0.0.47",
+		"description": "A content manager built with sveltekit, for sveltekit projects. Sensible and extensible, with declarative configuration.",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"kit",
+			"cms",
+			"markdown",
+			"content",
+			"management",
+			"static",
+			"site",
+			"generator",
+			"serverless",
+			"docker",
+			"container"
+		],
+		"date": "2023-02-13T03:22:55.673Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltecms",
+			"homepage": "https://github.com/dnotes/sveltecms#readme",
+			"repository": "https://github.com/dnotes/sveltecms",
+			"bugs": "https://github.com/dnotes/sveltecms/issues"
+		},
+		"author": {
+			"name": "David Hunt"
+		},
+		"publisher": {
+			"username": "dnotes",
+			"email": "davidhuntatwork@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dnotes",
+				"email": "davidhuntatwork@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22913048283121337,
+		"detail": {
+			"quality": 0.35847999500206085,
+			"popularity": 0.014056621896938452,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.4344355e-8
+}

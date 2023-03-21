@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "sveltekit-cookie-manager-test",
+		"scope": "unscoped",
+		"version": "0.0.15",
+		"description": "## Features",
+		"date": "2022-04-04T10:41:21.136Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-cookie-manager-test"
+		},
+		"publisher": {
+			"username": "zuiev",
+			"email": "zitvura@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "zuiev",
+				"email": "zitvura@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2215254841890707,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.002192334293793494,
+			"maintenance": 0.3297186721638963
+		}
+	},
+	"searchScore": 1.4682056e-8
+}

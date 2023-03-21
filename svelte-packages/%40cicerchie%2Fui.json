@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "@cicerchie/ui",
+		"scope": "cicerchie",
+		"version": "0.9.0",
+		"description": "A set of web components for building fast user interfaces.",
+		"keywords": [
+			"svelte ui",
+			"svelte",
+			"tailwind ui",
+			"tailwindcss",
+			"web components",
+			"component library",
+			"design system"
+		],
+		"date": "2022-09-07T21:17:09.123Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cicerchie%2Fui",
+			"homepage": "https://github.com/cicerchie/ui#readme",
+			"repository": "https://github.com/cicerchie/ui",
+			"bugs": "https://github.com/cicerchie/ui/issues"
+		},
+		"author": {
+			"name": "https://github.com/cicerchia"
+		},
+		"publisher": {
+			"username": "cicerchia",
+			"email": "isensidellavita@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cicerchia",
+				"email": "isensidellavita@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2526477275670268,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0036439792994792243,
+			"maintenance": 0.3330831618846197
+		}
+	},
+	"searchScore": 1.1788033e-7
+}

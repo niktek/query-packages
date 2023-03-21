@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "svelte-navbar",
+		"scope": "unscoped",
+		"version": "0.0.115",
+		"description": "A cool animated navbar component for Svelte that switches between a side and a bottom navbar in a very funky way",
+		"keywords": [
+			"funky",
+			"blobby",
+			"svelte",
+			"navbar",
+			"component",
+			"animated",
+			"responsive"
+		],
+		"date": "2022-10-22T17:06:22.959Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-navbar",
+			"homepage": "https://github.com/HannesGitH/svelte-navbar#readme",
+			"bugs": "https://github.com/HannesGitH/svelte-navbar/issues"
+		},
+		"author": {
+			"name": "hannes Hattenbach",
+			"email": "hanneshattenbach.dev@gmail.com",
+			"url": "https://hannesgith.github.io"
+		},
+		"publisher": {
+			"username": "hannesgith",
+			"email": "Hanneshattenbach.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hannesgith",
+				"email": "Hanneshattenbach.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25424640518526165,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.021369314459067233,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.3017033e-7
+}

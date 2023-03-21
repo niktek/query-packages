@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@ctx-core/google-ui-svelte",
+		"scope": "ctx-core",
+		"version": "1.1.70",
+		"description": "ctx-core google",
+		"keywords": [
+			"ctx-core",
+			"google"
+		],
+		"date": "2023-03-19T18:09:25.025Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40ctx-core%2Fgoogle-ui-svelte",
+			"homepage": "https://github.com/ctx-core/google-ui-svelte#readme",
+			"repository": "https://github.com/ctx-core/google-ui-svelte",
+			"bugs": "https://github.com/ctx-core/google-ui-svelte/issues"
+		},
+		"author": {
+			"name": "Brian Takita"
+		},
+		"publisher": {
+			"username": "btakita",
+			"email": "brian.takita@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "btakita",
+				"email": "brian.takita@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26144400053250677,
+		"detail": {
+			"quality": 0.4365920367630224,
+			"popularity": 0.03942777953409542,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.4844177e-7
+}

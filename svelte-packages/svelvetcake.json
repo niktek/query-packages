@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "svelvetcake",
+		"scope": "unscoped",
+		"version": "1.1.10",
+		"description": "custom svelvet NPM fork to make adding  changes to NPM Package simpler",
+		"keywords": [
+			"svelte",
+			"svelvet",
+			"typescript"
+		],
+		"date": "2022-10-25T22:21:42.168Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelvetcake",
+			"homepage": "https://github.com/open-source-labs/Svelvet",
+			"repository": "https://github.com/open-source-labs/Svelvet",
+			"bugs": "https://github.com/open-source-labs/Svelvet/issues"
+		},
+		"publisher": {
+			"username": "aubertlone",
+			"email": "aubertlone@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ianhnizdo",
+				"email": "ianhnizdo@gmail.com"
+			},
+			{
+				"username": "rpotter0811",
+				"email": "rpotter0811@gmail.com"
+			},
+			{
+				"username": "wildcard355",
+				"email": "wildcard355@gmail.com"
+			},
+			{
+				"username": "aubertlone",
+				"email": "aubertlone@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2771214911300823,
+		"detail": {
+			"quality": 0.5288367301487213,
+			"popularity": 0.005153729767997742,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.5933567e-7
+}

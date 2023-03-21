@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "svelte-ripple",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "Svelte Ripple Action",
+		"date": "2022-05-24T07:36:44.718Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ripple",
+			"homepage": "https://github.com/myleftshoe/svelte-ripple#readme",
+			"repository": "https://github.com/myleftshoe/svelte-ripple",
+			"bugs": "https://github.com/myleftshoe/svelte-ripple/issues"
+		},
+		"author": {
+			"name": "mls"
+		},
+		"publisher": {
+			"username": "mls44",
+			"email": "myleftshoe@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mls44",
+				"email": "myleftshoe@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.22585432952555579,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0029275097722553456,
+			"maintenance": 0.2959560756544131
+		}
+	},
+	"searchScore": 6.594057e-8
+}

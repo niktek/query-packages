@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "cmds-component-pattern-follow-buttons",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-03-02T05:25:09.370Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/cmds-component-pattern-follow-buttons"
+		},
+		"publisher": {
+			"username": "cm-digital-mktg",
+			"email": "content.marketing.copa.airlines@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cm-digital-mktg",
+				"email": "content.marketing.copa.airlines@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25801421530040025,
+		"detail": {
+			"quality": 0.4660379081226978,
+			"popularity": 0.004389074848355056,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.3352774e-8
+}

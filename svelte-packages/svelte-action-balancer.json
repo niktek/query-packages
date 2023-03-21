@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "svelte-action-balancer",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)",
+		"date": "2023-01-10T20:41:41.587Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-action-balancer"
+		},
+		"publisher": {
+			"username": "pablopang",
+			"email": "ricciutipaolo@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pablopang",
+				"email": "ricciutipaolo@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26039481398340986,
+		"detail": {
+			"quality": 0.4660379081226978,
+			"popularity": 0.011190785371239576,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.796677e-7
+}

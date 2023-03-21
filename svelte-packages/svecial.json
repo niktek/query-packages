@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svecial",
+		"scope": "unscoped",
+		"version": "0.0.9",
+		"description": "A list of social buttons with Svelte",
+		"keywords": [
+			"svecial",
+			"svelte",
+			"svelte.js",
+			"sveltejs",
+			"social",
+			"button",
+			"buttons",
+			"oauth"
+		],
+		"date": "2019-09-04T16:04:26.066Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svecial"
+		},
+		"author": {
+			"name": "Olyno",
+			"email": "https://github.com/Olyno"
+		},
+		"publisher": {
+			"username": "olyno",
+			"email": "alexlew95@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "olyno",
+				"email": "alexlew95@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28709023186680244,
+		"detail": {
+			"quality": 0.8496219305350515,
+			"popularity": 0.002268738766514234,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 0.0000010146019
+}

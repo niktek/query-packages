@@ -1,0 +1,35 @@
+{
+	"package": {
+		"name": "svelte-cartographer",
+		"scope": "unscoped",
+		"version": "0.0.12",
+		"description": "A friendly Svelte addon for working with Google Maps.",
+		"date": "2022-08-25T08:54:29.528Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-cartographer",
+			"homepage": "https://github.com/janvotava/svelte-cartographer"
+		},
+		"publisher": {
+			"username": "cyner",
+			"email": "cyner@overflow.cz"
+		},
+		"maintainers": [
+			{
+				"username": "cyner",
+				"email": "cyner@overflow.cz"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18893117714433744,
+		"detail": {
+			"quality": 0.23926108599618262,
+			"popularity": 0.002791678789137361,
+			"maintenance": 0.3319307536265274
+		}
+	},
+	"searchScore": 5.1656492e-9
+}

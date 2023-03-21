@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "borrego-wc-library",
+		"scope": "unscoped",
+		"version": "0.0.0-alpha.18",
+		"keywords": [
+			"svelte",
+			"component",
+			"library"
+		],
+		"date": "2022-05-05T12:32:30.938Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/borrego-wc-library"
+		},
+		"author": {
+			"name": "Víctor Borrego Pérez"
+		},
+		"publisher": {
+			"username": "borrego",
+			"email": "victor.borrego.perez@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "borrego",
+				"email": "victor.borrego.perez@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19860050026996476,
+		"detail": {
+			"quality": 0.26874305250685687,
+			"popularity": 0.00393293942254837,
+			"maintenance": 0.33314587348575936
+		}
+	},
+	"searchScore": 4.5452677e-9
+}

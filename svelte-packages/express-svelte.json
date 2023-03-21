@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "express-svelte",
+		"scope": "unscoped",
+		"version": "1.0.8",
+		"description": "A straightforward Svelte view engine for Express.",
+		"keywords": [
+			"node",
+			"express",
+			"svelte",
+			"ssr",
+			"ssr-support",
+			"server-rendering",
+			"engine",
+			"template",
+			"hydration"
+		],
+		"date": "2021-07-16T13:56:13.440Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/express-svelte",
+			"homepage": "https://github.com/maxiruani/express-svelte#readme",
+			"repository": "https://github.com/maxiruani/express-svelte",
+			"bugs": "https://github.com/maxiruani/express-svelte/issues"
+		},
+		"author": {
+			"name": "Maximiliano Ruani"
+		},
+		"publisher": {
+			"username": "maxiruani",
+			"email": "maxi.ruani91@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "maxiruani",
+				"email": "maxi.ruani91@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.21155287296943748,
+		"detail": {
+			"quality": 0.42916563894126053,
+			"popularity": 0.004321726423569744,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 3.2974647e-8
+}

@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "vercel-crown",
+		"scope": "unscoped",
+		"version": "0.1.2",
+		"description": "Vercel builder for Crown",
+		"keywords": [
+			"svelte",
+			"sapper",
+			"vercel",
+			"builder"
+		],
+		"date": "2022-03-21T11:23:52.043Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/vercel-crown",
+			"homepage": "https://github.com/thgh/vercel-sapper#readme",
+			"repository": "https://github.com/thgh/vercel-sapper",
+			"bugs": "https://github.com/thgh/vercel-sapper/issues"
+		},
+		"author": {
+			"name": "Alfred Ringstad"
+		},
+		"publisher": {
+			"username": "alfredringstad",
+			"email": "alfred.ringstad@hyperlab.se"
+		},
+		"maintainers": [
+			{
+				"username": "alfredringstad",
+				"email": "alfred.ringstad@hyperlab.se"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20786029965091518,
+		"detail": {
+			"quality": 0.3006359051077207,
+			"popularity": 0.002865318434092355,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.928872e-9
+}

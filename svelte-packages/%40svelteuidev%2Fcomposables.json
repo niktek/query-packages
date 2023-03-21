@@ -1,0 +1,59 @@
+{
+	"package": {
+		"name": "@svelteuidev/composables",
+		"scope": "svelteuidev",
+		"version": "0.10.0",
+		"description": "Svelte actions and utilities library",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"svelteui",
+			"library",
+			"frontend",
+			"svelte-actions",
+			"svelte-utilities",
+			"svelte-composables",
+			"actions",
+			"state",
+			"dom"
+		],
+		"date": "2023-02-16T21:33:04.279Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40svelteuidev%2Fcomposables",
+			"homepage": "https://svelteui.org/",
+			"repository": "https://github.com/svelteuidev/svelteui",
+			"bugs": "https://github.com/svelteuidev/svelteui/issues"
+		},
+		"author": {
+			"name": "Kamell Perry",
+			"email": "kamellperry33@gmail.com",
+			"username": "uxtitan"
+		},
+		"publisher": {
+			"username": "lowkey_daisy",
+			"email": "just2playgg@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lowkey_daisy",
+				"email": "just2playgg@gmail.com"
+			},
+			{
+				"username": "uxtitan",
+				"email": "kamellperry33@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2970948085767954,
+		"detail": {
+			"quality": 0.5470734658221853,
+			"popularity": 0.04658886332420901,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000003300694
+}

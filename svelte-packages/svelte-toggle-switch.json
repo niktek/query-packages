@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-toggle-switch",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"description": "## Install",
+		"keywords": [
+			"svelte",
+			"switch",
+			"toggle",
+			"svelte switch",
+			"toggle switch",
+			"svelte-toggle-switch"
+		],
+		"date": "2022-06-30T11:30:46.312Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-toggle-switch",
+			"homepage": "https://github.com/ishansasika/svelte-toggle-switch#readme",
+			"repository": "https://github.com/ishansasika/svelte-toggle-switch",
+			"bugs": "https://github.com/ishansasika/svelte-toggle-switch/issues"
+		},
+		"author": {
+			"name": "Ishan Karunaratne",
+			"email": "ishansasika@gmail.com",
+			"url": "https://ishansasika.mn.co/",
+			"username": "ishansasika"
+		},
+		"publisher": {
+			"username": "ishansasika",
+			"email": "ishansasika@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ishansasika",
+				"email": "ishansasika@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2346732188406647,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.0013064029192055117,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.1964677e-7
+}

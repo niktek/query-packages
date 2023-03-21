@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "svelte-veev",
+		"scope": "unscoped",
+		"version": "0.0.0",
+		"date": "2022-12-18T13:37:02.394Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-veev"
+		},
+		"publisher": {
+			"username": "veevbot",
+			"email": "getemail@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "veevbot",
+				"email": "getemail@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17727571559308514,
+		"detail": {
+			"quality": 0.2,
+			"popularity": 0.0031672274224009995,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 1.929135e-9
+}

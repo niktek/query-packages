@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@felte/reporter-tippy",
+		"scope": "felte",
+		"version": "1.1.5",
+		"description": "An error reporter for Felte using Tippy.js",
+		"keywords": [
+			"svelte",
+			"forms",
+			"validation",
+			"felte"
+		],
+		"date": "2023-01-11T23:30:04.080Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40felte%2Freporter-tippy",
+			"homepage": "https://github.com/pablo-abc/felte/tree/main/packages/reporter-tippy",
+			"repository": "https://github.com/pablo-abc/felte",
+			"bugs": "https://github.com/pablo-abc/felte/issues"
+		},
+		"author": {
+			"name": "Pablo Berganza",
+			"email": "pablo@berganza.dev",
+			"url": "https://pablo.berganza.dev",
+			"username": "pberganza"
+		},
+		"publisher": {
+			"username": "pberganza",
+			"email": "pablo@berganza.dev"
+		},
+		"maintainers": [
+			{
+				"username": "pberganza",
+				"email": "pablo@berganza.dev"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27786380540933087,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.013256678159916394,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.789554e-7
+}

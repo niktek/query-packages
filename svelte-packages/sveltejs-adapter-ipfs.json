@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "sveltejs-adapter-ipfs",
+		"scope": "unscoped",
+		"version": "0.4.12",
+		"description": "See the demo repo on why it is needed : https://github.com/bug-reproduction/svelte-kit-static-ipfs/tree/fixes#fixes",
+		"date": "2023-02-21T22:23:52.008Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltejs-adapter-ipfs",
+			"homepage": "https://github.com/wighawag/sveltejs-adapter-ipfs#readme",
+			"repository": "https://github.com/wighawag/sveltejs-adapter-ipfs",
+			"bugs": "https://github.com/wighawag/sveltejs-adapter-ipfs/issues"
+		},
+		"publisher": {
+			"username": "wighawag",
+			"email": "npmdev1234567890@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "wighawag",
+				"email": "npmdev1234567890@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2475293397403544,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.011421578172717934,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.05573484e-7
+}

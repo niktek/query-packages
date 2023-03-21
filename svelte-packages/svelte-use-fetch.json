@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "svelte-use-fetch",
+		"scope": "unscoped",
+		"version": "1.0.0",
+		"date": "2022-11-28T10:34:28.472Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-use-fetch"
+		},
+		"author": {
+			"name": "Vladislav Emelyanov"
+		},
+		"publisher": {
+			"username": "hardwayder",
+			"email": "hardwayder@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "hardwayder",
+				"email": "hardwayder@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2343996218770919,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.0021268810818099496,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 8.4147274e-8
+}

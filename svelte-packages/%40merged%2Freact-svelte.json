@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@merged/react-svelte",
+		"scope": "merged",
+		"version": "0.0.5",
+		"description": "use svelte Components inside react",
+		"keywords": [
+			"react",
+			"svelte"
+		],
+		"date": "2021-09-02T09:36:26.781Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40merged%2Freact-svelte"
+		},
+		"author": {
+			"name": "Torsten Blindert"
+		},
+		"publisher": {
+			"username": "torsten4385",
+			"email": "info@by-torsten.com"
+		},
+		"maintainers": [
+			{
+				"username": "torsten4385",
+				"email": "info@by-torsten.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17845180249479214,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0009032098236473717,
+			"maintenance": 0.12383557401120959
+		}
+	},
+	"searchScore": 3.5160321e-9
+}

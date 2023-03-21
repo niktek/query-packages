@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "@fdnd/components",
+		"scope": "fdnd",
+		"version": "0.0.12",
+		"description": "It's a component library",
+		"keywords": [
+			"sveltekit",
+			"component library",
+			"higher education",
+			"fdnd"
+		],
+		"date": "2023-03-12T08:42:05.929Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40fdnd%2Fcomponents",
+			"homepage": "https://github.com/fdnd/components#readme",
+			"repository": "https://github.com/fdnd/components",
+			"bugs": "https://github.com/fdnd/components/issues"
+		},
+		"author": {
+			"name": "J.P. Sturkenboom",
+			"email": "j.p.sturkenboom@hva.nl"
+		},
+		"publisher": {
+			"username": "ju5tu5",
+			"email": "justus@ju5tu5.nl"
+		},
+		"maintainers": [
+			{
+				"username": "ju5tu5",
+				"email": "justus@ju5tu5.nl"
+			},
+			{
+				"username": "cydstumpel",
+				"email": "info@cydstumpel.nl"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2501594239581011,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.009692225238608507,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.0776264e-8
+}

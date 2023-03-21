@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@bulatdashiev/svelte-slider",
+		"scope": "bulatdashiev",
+		"version": "1.0.3",
+		"description": "Simple range slider for Svelte 3",
+		"keywords": [
+			"svelte",
+			"slider",
+			"range"
+		],
+		"date": "2020-05-24T07:55:02.534Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bulatdashiev%2Fsvelte-slider",
+			"homepage": "https://github.com/BulatDashiev/svelte-slider#readme",
+			"repository": "https://github.com/BulatDashiev/svelte-slider",
+			"bugs": "https://github.com/BulatDashiev/svelte-slider/issues"
+		},
+		"author": {
+			"name": "BulatDashiev"
+		},
+		"publisher": {
+			"username": "bulatdashiev",
+			"email": "bulatdashievmail@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bulatdashiev",
+				"email": "bulatdashievmail@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20346585488674407,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.04428274103441014,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.5176477e-8
+}

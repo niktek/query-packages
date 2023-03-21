@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "spindly-doctor",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "Check whether the tools needed for development with Spindly are correctly installed",
+		"keywords": [
+			"spindly",
+			"health-check",
+			"svelte",
+			"go",
+			"android",
+			"android-ndk",
+			"ios",
+			"windows",
+			"linux",
+			"macos"
+		],
+		"date": "2022-04-05T14:23:57.392Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/spindly-doctor",
+			"homepage": "https://github.com/spindlygo/spindly-doctor#readme",
+			"repository": "https://github.com/spindlygo/spindly-doctor",
+			"bugs": "https://github.com/spindlygo/spindly-doctor/issues"
+		},
+		"author": {
+			"name": "Hasindu Lanka"
+		},
+		"publisher": {
+			"username": "hasindu",
+			"email": "hasindu@bitzquad.com"
+		},
+		"maintainers": [
+			{
+				"username": "hasindu",
+				"email": "hasindu@bitzquad.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22982922142911735,
+		"detail": {
+			"quality": 0.3916267583440455,
+			"popularity": 0.0016446075948473565,
+			"maintenance": 0.319330232193449
+		}
+	},
+	"searchScore": 2.2735135e-8
+}

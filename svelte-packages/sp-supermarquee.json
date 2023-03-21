@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "sp-supermarquee",
+		"scope": "unscoped",
+		"version": "2.0.0",
+		"description": "Super smooth marquee library for your applications.",
+		"keywords": [
+			"marquee",
+			"scrolltext",
+			"scrollline",
+			"ticker",
+			"newsticker",
+			"jquery",
+			"jquery-plugin",
+			"vanilla",
+			"javascript",
+			"javascript",
+			"angular",
+			"svelte",
+			"react",
+			"vue",
+			"vue.js",
+			"scrolling",
+			"starwars",
+			"scroller"
+		],
+		"date": "2022-08-15T09:01:25.373Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sp-supermarquee",
+			"homepage": "https://superplug.in/supermarquee",
+			"repository": "https://github.com/superplug-in/supermarquee",
+			"bugs": "https://github.com/superplug-in/supermarquee/issues"
+		},
+		"author": {
+			"name": "SuperPlug.in^aheadware GmbH"
+		},
+		"publisher": {
+			"username": "superplugin",
+			"email": "hello@superplug.in"
+		},
+		"maintainers": [
+			{
+				"username": "superplugin",
+				"email": "hello@superplug.in"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3552735959148947,
+		"detail": {
+			"quality": 0.79973137380768,
+			"popularity": 0.0032587806841019996,
+			"maintenance": 0.3263246015233001
+		}
+	},
+	"searchScore": 0.000007136606
+}

@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "svelte-gantt",
+		"scope": "unscoped",
+		"version": "4.0.9-beta",
+		"description": "Interactive JavaScript Gantt chart/resource booking component",
+		"keywords": [
+			"svelte",
+			"gantt",
+			"booking",
+			"svelte-gantt",
+			"js-gantt",
+			"javascript-gantt",
+			"react-gantt",
+			"angular-gantt",
+			"vue-gantt",
+			"drag-n-drop"
+		],
+		"date": "2022-10-18T16:28:45.699Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-gantt",
+			"homepage": "https://github.com/ANovokmet/svelte-gantt#readme",
+			"repository": "https://github.com/ANovokmet/svelte-gantt",
+			"bugs": "https://github.com/ANovokmet/svelte-gantt/issues"
+		},
+		"author": {
+			"name": "Ante Novokmet",
+			"email": "ante.je.zakon@gmail.com",
+			"username": "anovokmet"
+		},
+		"publisher": {
+			"username": "v-py",
+			"email": "valentin.pyb@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "anovokmet",
+				"email": "ante.je.zakon@gmail.com"
+			},
+			{
+				"username": "v-py",
+				"email": "valentin.pyb@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2443455473157024,
+		"detail": {
+			"quality": 0.3912006487957689,
+			"popularity": 0.030288657139798017,
+			"maintenance": 0.3325266362229784
+		}
+	},
+	"searchScore": 2.555431e-7
+}

@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-unicons",
+		"scope": "unscoped",
+		"version": "1.1.0",
+		"description": "Unicon icons for Svelte based on IconScout/unicons",
+		"keywords": [
+			"svelte",
+			"unicons",
+			"unicon",
+			"iconscout",
+			"svelte unicon"
+		],
+		"date": "2022-10-09T04:56:57.666Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-unicons",
+			"homepage": "https://github.com/devShamim/svelte-unicons#readme",
+			"repository": "https://github.com/devShamim/svelte-unicons",
+			"bugs": "https://github.com/devShamim/svelte-unicons/issues"
+		},
+		"author": {
+			"name": "http://github.com/devShamim"
+		},
+		"publisher": {
+			"username": "shamim-ahmed",
+			"email": "shamimeforb@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "shamim-ahmed",
+				"email": "shamimeforb@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.273917705452636,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.0023339191956640143,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 0.0000010950273
+}

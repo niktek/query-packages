@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@dirk-bester/dark-light",
+		"scope": "dirk-bester",
+		"version": "1.0.3",
+		"description": "A SvelteKit skeleton tailwindcss dark mode component with dark|light|OS settings.",
+		"keywords": [
+			"SvelteKit",
+			"tailwindcss",
+			"skeleton",
+			"dark mode"
+		],
+		"date": "2023-03-03T01:30:44.335Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40dirk-bester%2Fdark-light",
+			"homepage": "https://github.com/dirk-bester/dark-light#readme",
+			"repository": "https://github.com/dirk-bester/dark-light",
+			"bugs": "https://github.com/dirk-bester/dark-light/issues"
+		},
+		"author": {
+			"name": "dirk bester"
+		},
+		"publisher": {
+			"username": "dirk-bester",
+			"email": "dirk.bester@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dirk-bester",
+				"email": "dirk.bester@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2785275243554039,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.0967197e-7
+}

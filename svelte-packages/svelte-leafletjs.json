@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-leafletjs",
+		"scope": "unscoped",
+		"version": "0.10.0",
+		"description": "Svelte component for leaflet",
+		"keywords": [
+			"svelte",
+			"leaflet"
+		],
+		"date": "2022-11-29T03:48:15.926Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-leafletjs",
+			"homepage": "https://ngyewch.github.io/svelte-leaflet/",
+			"repository": "https://github.com/ngyewch/svelte-leaflet",
+			"bugs": "https://github.com/ngyewch/svelte-leaflet/issues"
+		},
+		"publisher": {
+			"username": "ngyewch",
+			"email": "ngyewch@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "ngyewch",
+				"email": "ngyewch@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.27623300965190456,
+		"detail": {
+			"quality": 0.520646441024333,
+			"popularity": 0.01025523527919248,
+			"maintenance": 0.3327135571339637
+		}
+	},
+	"searchScore": 0.0000013273614
+}

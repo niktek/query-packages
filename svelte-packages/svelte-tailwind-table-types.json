@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "svelte-tailwind-table-types",
+		"scope": "unscoped",
+		"version": "1.1.4",
+		"description": "A Svelte component for rendering a dynamic table using tailwind, now with types !",
+		"keywords": [
+			"svelte",
+			"tables",
+			"tailwind"
+		],
+		"date": "2022-01-22T19:08:03.904Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-tailwind-table-types"
+		},
+		"author": {
+			"name": "Rafael Francisco",
+			"email": "rafaelfrancisco6@gmail.com",
+			"username": "rafaelfrancisco"
+		},
+		"publisher": {
+			"username": "rafaelfrancisco",
+			"email": "rafaelfrancisco6@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rafaelfrancisco",
+				"email": "rafaelfrancisco6@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23497399273240313,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.002165756895601047,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.2087827e-7
+}

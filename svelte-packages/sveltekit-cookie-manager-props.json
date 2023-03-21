@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "sveltekit-cookie-manager-props",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "## Features",
+		"date": "2022-04-04T12:22:28.992Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/sveltekit-cookie-manager-props"
+		},
+		"publisher": {
+			"username": "zuiev",
+			"email": "zitvura@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "zuiev",
+				"email": "zitvura@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18709314587319054,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.0012741054442895535,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.5867274e-9
+}

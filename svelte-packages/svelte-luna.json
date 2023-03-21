@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-luna",
+		"scope": "unscoped",
+		"version": "0.6.2",
+		"description": "Luna is a simple, elegant and beautiful UI component library for Svelte.",
+		"keywords": [
+			"svelte",
+			"svelte-ui",
+			"luna",
+			"ui"
+		],
+		"date": "2022-07-25T23:06:41.259Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-luna",
+			"homepage": "https://loskware.github.io/svelte-luna",
+			"repository": "https://github.com/loskware/svelte-luna",
+			"bugs": "https://github.com/loskware/svelte-luna/issues"
+		},
+		"author": {
+			"name": "Andrea Montorio",
+			"email": "andrea.montorio@gmail.com",
+			"username": "kendall"
+		},
+		"publisher": {
+			"username": "kendall",
+			"email": "andrea.montorio@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "kendall",
+				"email": "andrea.montorio@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2774721815810179,
+		"detail": {
+			"quality": 0.5314309668399496,
+			"popularity": 0.00393293942254837,
+			"maintenance": 0.33333246494611735
+		}
+	},
+	"searchScore": 0.000001325641
+}

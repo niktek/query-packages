@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@frontline-hq/react-in-svelte",
+		"scope": "frontline-hq",
+		"version": "0.0.11",
+		"description": "A library that allows you to use react components in svelte",
+		"date": "2023-03-05T20:15:39.386Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40frontline-hq%2Freact-in-svelte",
+			"homepage": "https://github.com/frontline-hq/react-in-svelte#readme",
+			"repository": "https://github.com/frontline-hq/react-in-svelte",
+			"bugs": "https://github.com/frontline-hq/react-in-svelte/issues"
+		},
+		"author": {
+			"name": "Benjamin Preiss benjaminpreiss@protonmail.com"
+		},
+		"publisher": {
+			"username": "frontline-codes",
+			"email": "contact@frontline.codes"
+		},
+		"maintainers": [
+			{
+				"username": "frontline-codes",
+				"email": "contact@frontline.codes"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.25505003488179556,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.023665399306306928,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.1602e-7
+}

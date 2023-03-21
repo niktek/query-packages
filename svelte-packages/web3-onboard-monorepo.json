@@ -1,0 +1,67 @@
+{
+	"package": {
+		"name": "web3-onboard-monorepo",
+		"scope": "unscoped",
+		"version": "2.12.0",
+		"description": "Web3-Onboard makes it simple to connect Ethereum hardware and software wallets to your dapp. Features standardised spec compliant web3 providers for all supported wallets, framework agnostic modern javascript UI with code splitting, CSS customization, mul",
+		"keywords": [
+			"Ethereum",
+			"Web3",
+			"EVM",
+			"dapp",
+			"Multichain",
+			"Wallet",
+			"Transaction",
+			"Provider",
+			"Hardware Wallet",
+			"Notifications",
+			"React",
+			"Svelte",
+			"Vue",
+			"Next",
+			"Nuxt",
+			"MetaMask",
+			"Coinbase",
+			"WalletConnect",
+			"Ledger",
+			"Trezor",
+			"Connect Wallet",
+			"Ethereum Hooks",
+			"Blocknative",
+			"Mempool",
+			"pending",
+			"confirmed",
+			"Injected Wallet",
+			"GameStop",
+			"Crypto",
+			"Crypto Wallet",
+			"Sequence"
+		],
+		"date": "2022-10-01T08:31:57.279Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/web3-onboard-monorepo",
+			"homepage": "https://onboard.blocknative.com",
+			"repository": "https://github.com/blocknative/web3-onboard",
+			"bugs": "https://github.com/blocknative/web3-onboard/issues"
+		},
+		"publisher": {
+			"username": "mentasuave01",
+			"email": "mentasuave01@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mentasuave01",
+				"email": "mentasuave01@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2933842888487519,
+		"detail": {
+			"quality": 0.5638006134362424,
+			"popularity": 0.023076910921812535,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 3.9891864e-7
+}

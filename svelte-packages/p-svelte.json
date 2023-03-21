@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "p-svelte",
+		"scope": "unscoped",
+		"version": "0.0.0",
+		"date": "2022-05-29T18:36:28.420Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/p-svelte"
+		},
+		"author": {
+			"name": "我"
+		},
+		"publisher": {
+			"username": "vanilla-vue",
+			"email": "getemail@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "vanilla-react",
+				"email": "getemail@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20100557721461715,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.001240504208122975,
+			"maintenance": 0.3166814555290432
+		}
+	},
+	"searchScore": 1.1349659e-8
+}

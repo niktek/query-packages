@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "szot-ui-experimental",
+		"scope": "unscoped",
+		"version": "1.21.0",
+		"description": "Svelte component package",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2023-01-20T14:49:12.507Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/szot-ui-experimental",
+			"homepage": "https://gitlab.com/team-tecnologia/public-pkgs/szot-ui#readme",
+			"repository": "https://gitlab.com/team-tecnologia/public-pkgs/szot-ui",
+			"bugs": "https://gitlab.com/team-tecnologia/public-pkgs/szot-ui/issues"
+		},
+		"author": {
+			"name": "szot"
+		},
+		"publisher": {
+			"username": "01oseluiz",
+			"email": "joseluizgnogueira@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "victoragc",
+				"email": "victorandr98@gmail.com"
+			},
+			{
+				"username": "01oseluiz",
+				"email": "joseluizgnogueira@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3856059711530852,
+		"detail": {
+			"quality": 0.8895361922957907,
+			"popularity": 0.005938419421946753,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000062089544
+}

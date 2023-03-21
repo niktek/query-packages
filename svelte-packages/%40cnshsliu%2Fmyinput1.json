@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "@cnshsliu/myinput1",
+		"scope": "cnshsliu",
+		"version": "0.0.18",
+		"description": "Svelte Component Package Starter",
+		"keywords": [
+			"typescript",
+			"npm",
+			"template",
+			"ts",
+			"svelte",
+			"svelte-kit",
+			"web-component",
+			"svelte-component"
+		],
+		"date": "2022-12-18T14:14:42.250Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cnshsliu%2Fmyinput1",
+			"homepage": "https://github.com/el3um4s/svelte-component-package-starter#readme",
+			"repository": "https://github.com/el3um4s/svelte-component-package-starter",
+			"bugs": "https://github.com/el3um4s/svelte-component-package-starter/issues"
+		},
+		"author": {
+			"name": "Samuele C. De Tomasi"
+		},
+		"publisher": {
+			"username": "cnshsliu",
+			"email": "liukehong@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "liukehong1123",
+				"email": "liukehong@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.34570146992867246,
+		"detail": {
+			"quality": 0.7588071151157153,
+			"popularity": 0.0040072471323932286,
+			"maintenance": 0.3333051397074865
+		}
+	},
+	"searchScore": 0.000013138502
+}

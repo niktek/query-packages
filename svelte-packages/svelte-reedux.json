@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-reedux",
+		"scope": "unscoped",
+		"version": "0.0.4",
+		"description": "A slim wrapper allowing the connection of redux in svelte SPAs",
+		"keywords": [
+			"redux",
+			"reedux",
+			"svelte",
+			"svelte-redux",
+			"svelte-reedux",
+			"react-redux",
+			"connect",
+			"svelte3"
+		],
+		"date": "2021-03-01T05:55:15.562Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-reedux"
+		},
+		"author": {
+			"name": "Chris Sullivan",
+			"email": "chrissullivan.dev@gmail.com",
+			"username": "icarus-sullivan"
+		},
+		"publisher": {
+			"username": "icarus-sullivan",
+			"email": "chrissullivan.dev@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "icarus-sullivan",
+				"email": "chrissullivan.dev@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.16688334849982434,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0019443605977859507,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.6171418e-9
+}

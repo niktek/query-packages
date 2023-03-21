@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-svg-spinners",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "A collection of [SVG Spinners](https://github.com/n3r4zzurr0/svg-spinners) components for Svelte.",
+		"date": "2022-11-13T05:40:33.757Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-svg-spinners",
+			"homepage": "https://github.com/luluvia/svelte-svg-spinners#readme",
+			"repository": "https://github.com/luluvia/svelte-svg-spinners",
+			"bugs": "https://github.com/luluvia/svelte-svg-spinners/issues"
+		},
+		"author": {
+			"name": "Luis Luvia",
+			"email": "lluvia@lusade.net",
+			"username": "luluvia"
+		},
+		"publisher": {
+			"username": "luluvia",
+			"email": "lluvia@lusade.net"
+		},
+		"maintainers": [
+			{
+				"username": "luluvia",
+				"email": "lluvia@lusade.net"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24927240576176163,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.007250115858027583,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 2.285194e-7
+}

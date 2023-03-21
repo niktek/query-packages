@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-codicons",
+		"scope": "unscoped",
+		"version": "0.10.1",
+		"description": "VS Code Codicons as Svelte components",
+		"keywords": [
+			"svelte",
+			"svelte component",
+			"icon",
+			"svg",
+			"vs code",
+			"codicon"
+		],
+		"date": "2022-08-04T02:29:11.337Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-codicons",
+			"homepage": "https://github.com/metonym/svelte-codicons",
+			"repository": "https://github.com/metonym/svelte-codicons",
+			"bugs": "https://github.com/metonym/svelte-codicons/issues"
+		},
+		"author": {
+			"name": "Eric Liu",
+			"url": "https://github.com/metonym"
+		},
+		"publisher": {
+			"username": "metonym",
+			"email": "ericyl.us@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "metonym",
+				"email": "ericyl.us@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2771983409479291,
+		"detail": {
+			"quality": 0.5260551644706876,
+			"popularity": 0.017113331115918513,
+			"maintenance": 0.32397750204614684
+		}
+	},
+	"searchScore": 0.0000014684327
+}

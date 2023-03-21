@@ -1,0 +1,31 @@
+{
+	"package": {
+		"name": "artesgo-holokit",
+		"scope": "unscoped",
+		"version": "1.0.12",
+		"description": "Everything you need to build a Svelte library, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-03-20T04:51:34.996Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/artesgo-holokit"
+		},
+		"publisher": {
+			"username": "tesgo",
+			"email": "artesgo@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "tesgo",
+				"email": "artesgo@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.26668283223703454,
+		"detail": {
+			"quality": 0.487046316308575,
+			"popularity": 0.011149344793701147,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.3950657e-7
+}

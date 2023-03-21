@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@htmlbricks/hb-layout-desktop",
+		"scope": "htmlbricks",
+		"version": "0.19.31",
+		"description": "Svelte Bootstrap 5 WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2023-02-28T18:24:23.727Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fhb-layout-desktop"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2262953818655655,
+		"detail": {
+			"quality": 0.32053154086330493,
+			"popularity": 0.03848357982830676,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.7992704e-8
+}

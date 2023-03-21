@@ -1,0 +1,57 @@
+{
+	"package": {
+		"name": "rollup-plugin-svelte",
+		"scope": "unscoped",
+		"version": "7.1.4",
+		"description": "Compile Svelte components with Rollup",
+		"keywords": [
+			"svelte",
+			"rollup"
+		],
+		"date": "2023-03-02T14:00:14.247Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/rollup-plugin-svelte",
+			"homepage": "https://github.com/sveltejs/rollup-plugin-svelte#readme",
+			"repository": "https://github.com/sveltejs/rollup-plugin-svelte",
+			"bugs": "https://github.com/sveltejs/rollup-plugin-svelte/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "rich_harris",
+			"email": "richard.a.harris@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "lukeed",
+				"email": "luke@lukeed.com"
+			},
+			{
+				"username": "rich_harris",
+				"email": "richard.a.harris@gmail.com"
+			},
+			{
+				"username": "lukastaegert",
+				"email": "lukas.taegert@tngtech.com"
+			},
+			{
+				"username": "shellscape",
+				"email": "andrew@shellscape.org"
+			},
+			{
+				"username": "conduitry",
+				"email": "npm@chor.date"
+			}
+		]
+	},
+	"score": {
+		"final": 0.349790208841387,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.22491722402625725,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.00012037701
+}

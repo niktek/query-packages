@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "@delemercier/sveltekit-formly",
+		"scope": "delemercier",
+		"version": "0.0.7",
+		"description": "This library is actively in development.",
+		"date": "2022-05-03T16:28:33.951Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40delemercier%2Fsveltekit-formly"
+		},
+		"author": {
+			"name": "Denis Lemercier",
+			"email": "delemercier@gmail.com",
+			"username": "delemercier"
+		},
+		"publisher": {
+			"username": "delemercier",
+			"email": "delemercier@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "delemercier",
+				"email": "delemercier@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20410009112570227,
+		"detail": {
+			"quality": 0.29615008342028837,
+			"popularity": 0.002268738766514234,
+			"maintenance": 0.32703145008953083
+		}
+	},
+	"searchScore": 5.0298268e-9
+}

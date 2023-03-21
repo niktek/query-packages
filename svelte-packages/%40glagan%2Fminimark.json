@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "@glagan/minimark",
+		"scope": "glagan",
+		"version": "0.1.4",
+		"description": "[![npm version](https://badge.fury.io/js/@glagan%2Fminimark.svg)](https://badge.fury.io/js/@glagan%2Fminimark)",
+		"keywords": [
+			"svelte",
+			"markdown",
+			"simple"
+		],
+		"date": "2022-09-18T19:09:59.843Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40glagan%2Fminimark",
+			"homepage": "https://github.com/Glagan/minimark",
+			"repository": "https://github.com/Glagan/minimark",
+			"bugs": "https://github.com/Glagan/minimark/issues"
+		},
+		"author": {
+			"name": "Glagan"
+		},
+		"publisher": {
+			"username": "glagan",
+			"email": "glagan-public-mail@protonmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "glagan",
+				"email": "glagan-public-mail@protonmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2583533596683907,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0196956138546623,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.9955779e-7
+}

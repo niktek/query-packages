@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@noir-ui/svelte",
+		"scope": "noir-ui",
+		"version": "0.0.18",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2023-01-11T10:10:17.693Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40noir-ui%2Fsvelte",
+			"homepage": "https://github.com/khairulhaaziq/noir-ui#readme",
+			"repository": "https://github.com/khairulhaaziq/noir-ui",
+			"bugs": "https://github.com/khairulhaaziq/noir-ui/issues"
+		},
+		"publisher": {
+			"username": "khairulhaaziq",
+			"email": "rhycoz@yahoo.com"
+		},
+		"maintainers": [
+			{
+				"username": "khairulhaaziq",
+				"email": "rhycoz@yahoo.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2460042539004319,
+		"detail": {
+			"quality": 0.4088071151157153,
+			"popularity": 0.019129864854430502,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.1770134e-7
+}

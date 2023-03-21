@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-theme-switcher",
+		"scope": "unscoped",
+		"version": "0.0.11",
+		"description": "![Test](https://github.com/dev-warner/svelte-theme-switcher/workflows/Test/badge.svg)",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2020-04-20T15:09:05.770Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-theme-switcher"
+		},
+		"publisher": {
+			"username": "dev-warner",
+			"email": "fed.warner@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dev-warner",
+				"email": "fed.warner@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23842257741529216,
+		"detail": {
+			"quality": 0.6870054539398158,
+			"popularity": 0.0026038488438296014,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.9192746e-7
+}

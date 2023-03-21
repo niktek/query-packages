@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "svelte-csv",
+		"scope": "unscoped",
+		"version": "1.2.8",
+		"description": "svelte-csv is the fastest in-browser CSV (or delimited text) parser for Svelte. It is full of useful features such as CSVDownloader, readString, jsonToCSV, readRemoteFile, CSVReader, ... etc.",
+		"keywords": [
+			"svelte",
+			"svelte-csv",
+			"csv"
+		],
+		"date": "2022-02-14T17:53:33.830Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-csv",
+			"homepage": "https://github.com/Bunlong/svelte-csv",
+			"repository": "https://github.com/Bunlong/svelte-csv"
+		},
+		"publisher": {
+			"username": "bunlong",
+			"email": "bunlong.van@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "bunlong",
+				"email": "bunlong.van@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2332569474191172,
+		"detail": {
+			"quality": 0.487046316308575,
+			"popularity": 0.01672135853638522,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.5652404e-7
+}

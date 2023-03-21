@@ -1,0 +1,39 @@
+{
+	"package": {
+		"name": "svelte-snackbar",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "An awesome snackbar for Svelte and SvelteKit projects",
+		"keywords": [
+			"OmLondhe",
+			"Svelte",
+			"SvelteKit"
+		],
+		"date": "2021-10-16T17:17:12.392Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-snackbar"
+		},
+		"author": {
+			"name": "Om Londhe"
+		},
+		"publisher": {
+			"username": "om-londhe",
+			"email": "oplondhe@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "om-londhe",
+				"email": "oplondhe@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.17256967310025212,
+		"detail": {
+			"quality": 0.4104255461016032,
+			"popularity": 0.001130468303792204,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 2.345058e-9
+}

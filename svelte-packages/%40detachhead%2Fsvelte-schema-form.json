@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "@detachhead/svelte-schema-form",
+		"scope": "detachhead",
+		"version": "0.1.5",
+		"description": "JSON Schema based form generator in Svelte",
+		"keywords": [
+			"svelte",
+			"form generator",
+			"form builder",
+			"json schema"
+		],
+		"date": "2023-02-17T01:09:58.472Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40detachhead%2Fsvelte-schema-form",
+			"homepage": "https://github.com/restspace/svelte-schema-form#readme",
+			"repository": "https://github.com/restspace/svelte-schema-form",
+			"bugs": "https://github.com/restspace/svelte-schema-form/issues"
+		},
+		"author": {
+			"name": "James Ellis-Jones"
+		},
+		"publisher": {
+			"username": "detachhead",
+			"email": "detachhead@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "detachhead",
+				"email": "detachhead@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2101289443440224,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.010655389630704986,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 2.4701121e-8
+}

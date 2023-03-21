@@ -1,0 +1,63 @@
+{
+	"package": {
+		"name": "@nanostores/router",
+		"scope": "nanostores",
+		"version": "0.8.2",
+		"description": "A tiny (835 bytes) router for Nano Stores state manager",
+		"keywords": [
+			"nano",
+			"router",
+			"react",
+			"preact",
+			"vue",
+			"svelte",
+			"store"
+		],
+		"date": "2023-03-05T17:56:45.911Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40nanostores%2Frouter",
+			"homepage": "https://github.com/nanostores/router#readme",
+			"repository": "https://github.com/nanostores/router",
+			"bugs": "https://github.com/nanostores/router/issues"
+		},
+		"author": {
+			"name": "Andrey Sitnik",
+			"email": "andrey@sitnik.ru",
+			"username": "ai"
+		},
+		"publisher": {
+			"username": "ai",
+			"email": "andrey@sitnik.ru"
+		},
+		"maintainers": [
+			{
+				"username": "dkzlv",
+				"email": "d.kzlv.ru@gmail.com"
+			},
+			{
+				"username": "ninoid",
+				"email": "ninatorgunakova@gmail.com"
+			},
+			{
+				"username": "wobsoriano",
+				"email": "sorianorobertc@gmail.com"
+			},
+			{
+				"username": "ai",
+				"email": "andrey@sitnik.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24118034353211487,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.009339384299718792,
+			"maintenance": 0.33333281257426134
+		}
+	},
+	"searchScore": 5.691133e-8
+}

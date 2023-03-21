@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "peachy-booking-flow",
+		"scope": "unscoped",
+		"version": "1.4.21-exp-timer",
+		"description": "Peachy Booking Flow Widget",
+		"keywords": [
+			"svelte",
+			"web-components",
+			"library"
+		],
+		"date": "2023-03-02T15:47:33.188Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/peachy-booking-flow"
+		},
+		"publisher": {
+			"username": "kadecall.peachystudio",
+			"email": "kade.call@peachystudio.com"
+		},
+		"maintainers": [
+			{
+				"username": "mesfahani",
+				"email": "esfahanimichael@gmail.com"
+			},
+			{
+				"username": "kadecall.peachystudio",
+				"email": "kade.call@peachystudio.com"
+			},
+			{
+				"username": "sam.chung.peachy",
+				"email": "sam.chung@peachystudio.com"
+			},
+			{
+				"username": "mrdetour",
+				"email": "detour@hybridvigordesign.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23121816940420137,
+		"detail": {
+			"quality": 0.3589212583140198,
+			"popularity": 0.01964321498093933,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 4.164701e-8
+}

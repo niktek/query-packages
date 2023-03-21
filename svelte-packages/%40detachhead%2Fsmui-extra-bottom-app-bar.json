@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@detachhead/smui-extra-bottom-app-bar",
+		"scope": "detachhead",
+		"version": "7.0.0-beta.0-7aa154b58dd17d39757ade237397a003da4f0bdc",
+		"description": "Svelte Material UI - Bottom App Bar",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"material-ui",
+			"material-design",
+			"material",
+			"svelte-components",
+			"sveltejs"
+		],
+		"date": "2022-11-25T05:49:02.165Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40detachhead%2Fsmui-extra-bottom-app-bar",
+			"homepage": "https://github.com/hperrin/svelte-material-ui#readme",
+			"repository": "https://github.com/hperrin/svelte-material-ui",
+			"bugs": "https://github.com/hperrin/svelte-material-ui/issues"
+		},
+		"author": {
+			"name": "Hunter Perrin",
+			"email": "hperrin@gmail.com"
+		},
+		"publisher": {
+			"username": "detachhead",
+			"email": "detachhead@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "detachhead",
+				"email": "detachhead@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2722743694542331,
+		"detail": {
+			"quality": 0.4956303817192603,
+			"popularity": 0.019777443966316074,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 5.276965e-7
+}

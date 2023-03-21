@@ -1,0 +1,52 @@
+{
+	"package": {
+		"name": "galanta",
+		"scope": "unscoped",
+		"version": "0.0.2",
+		"description": "A minimal UI library to make your Svelte apps look stylish",
+		"keywords": [
+			"ui",
+			"library",
+			"svelte",
+			"sveltekit",
+			"minimal",
+			"styling",
+			"pretty",
+			"typescript",
+			"javascript",
+			"css"
+		],
+		"date": "2022-05-09T14:30:00.823Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/galanta"
+		},
+		"author": {
+			"name": "Ionut-Cristian Florescu",
+			"email": "ionut.florescu@gmail.com",
+			"url": "https://github.com/icflorescu",
+			"username": "icflorescu"
+		},
+		"publisher": {
+			"username": "icflorescu",
+			"email": "ionut.florescu@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "icflorescu",
+				"email": "ionut.florescu@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.1871660468688887,
+		"detail": {
+			"quality": 0.28542794537856725,
+			"popularity": 0.018118456189217546,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 2.6068048e-9
+}

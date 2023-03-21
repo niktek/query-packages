@@ -1,0 +1,40 @@
+{
+	"package": {
+		"name": "@kitbook/vite-plugin-kitbook",
+		"scope": "kitbook",
+		"version": "0.0.6",
+		"description": "Vite plugin to turn a SvelteKit app into a Kitbook",
+		"date": "2023-03-10T01:25:47.462Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40kitbook%2Fvite-plugin-kitbook",
+			"homepage": "https://kitbook.vercel.app",
+			"repository": "https://github.com/jacob-8/kitbook",
+			"bugs": "https://github.com/jacob-8/kitbook/issues"
+		},
+		"author": {
+			"name": "Jacob Bowdoin"
+		},
+		"publisher": {
+			"username": "jacobbowdoin",
+			"email": "jacob@livingtongues.org"
+		},
+		"maintainers": [
+			{
+				"username": "jacobbowdoin",
+				"email": "jacob@livingtongues.org"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2534306310821077,
+		"detail": {
+			"quality": 0.426671865179287,
+			"popularity": 0.02504549136593494,
+			"maintenance": 0.3333232844292698
+		}
+	},
+	"searchScore": 3.011456e-8
+}

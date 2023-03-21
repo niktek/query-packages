@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-apollo-wrappers",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "ApolloClient methods wrappers for svelte",
+		"keywords": [
+			"svelte",
+			"apollo",
+			"svelte-apollo"
+		],
+		"date": "2022-12-05T21:34:20.894Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-apollo-wrappers",
+			"homepage": "https://github.com/mashiachy/svelte-apollo-wrappers"
+		},
+		"publisher": {
+			"username": "mashiachy",
+			"email": "vk.mail.twitter@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mashiachy",
+				"email": "vk.mail.twitter@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27400333753739764,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.00257858229498292,
+			"maintenance": 0.3329815209927432
+		}
+	},
+	"searchScore": 0.0000010386794
+}

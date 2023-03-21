@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-rxd-preprocessor",
+		"scope": "unscoped",
+		"version": "0.4.0",
+		"description": "Wrap svelte reactive statements with custom events to allow devtools to detect them",
+		"keywords": [
+			"svelte",
+			"reactive",
+			"debugger"
+		],
+		"date": "2021-01-10T21:14:00.611Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-rxd-preprocessor"
+		},
+		"author": {
+			"name": "unlocomqx"
+		},
+		"publisher": {
+			"username": "unlocomqx",
+			"email": "tunisoft.solutions@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "unlocomqx",
+				"email": "tunisoft.solutions@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23440351548148508,
+		"detail": {
+			"quality": 0.673564551761557,
+			"popularity": 0.0026415880428884257,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 1.5008136e-7
+}

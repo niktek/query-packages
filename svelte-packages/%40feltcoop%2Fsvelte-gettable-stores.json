@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@feltcoop/svelte-gettable-stores",
+		"scope": "feltcoop",
+		"version": "0.2.0",
+		"description": "`.get()` for Svelte stores; please do not use unless you really know what you're doing",
+		"date": "2022-07-07T23:20:09.179Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40feltcoop%2Fsvelte-gettable-stores",
+			"homepage": "https://github.com/feltcoop/svelte-gettable-stores#readme",
+			"repository": "https://github.com/feltcoop/svelte-gettable-stores",
+			"bugs": "https://github.com/feltcoop/svelte-gettable-stores/issues"
+		},
+		"publisher": {
+			"username": "ryanatkn",
+			"email": "mail@ryanatkn.com"
+		},
+		"maintainers": [
+			{
+				"username": "ryanatkn",
+				"email": "mail@ryanatkn.com"
+			},
+			{
+				"username": "greatbacon",
+				"email": "hamiltonjreed@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2425203361075065,
+		"detail": {
+			"quality": 0.4629360028651223,
+			"popularity": 0.024123804739649785,
+			"maintenance": 0.2719891531116926
+		}
+	},
+	"searchScore": 1.7357115e-7
+}

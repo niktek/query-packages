@@ -1,0 +1,72 @@
+{
+	"package": {
+		"name": "theui-sveltekit",
+		"scope": "unscoped",
+		"version": "1.0.0-beta.25",
+		"description": "This is an official component library of The UI for Sveltekit. The components designed on the top of TailwindCSS with custom theming. The components are accessible out of the box.",
+		"keywords": [
+			"sveltekit-components",
+			"svelte",
+			"sveltekit",
+			"components",
+			"tailwindcss",
+			"theui",
+			"mbparvez",
+			"ui",
+			"accordion",
+			"alert",
+			"badges",
+			"breadcrumbs",
+			"buttons",
+			"buttons-groups",
+			"collapses",
+			"container",
+			"darkmode",
+			"dropdown",
+			"Entry pop-up",
+			"Exit pop-up",
+			"forms",
+			"icons",
+			"modals",
+			"navbar",
+			"notifications",
+			"offcanvas",
+			"progress",
+			"tabs",
+			"tooltips"
+		],
+		"date": "2023-01-18T19:17:28.627Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/theui-sveltekit",
+			"homepage": "https://www.theui.dev/components/sveltekit",
+			"repository": "https://github.com/theui-dev/sveltekit",
+			"bugs": "https://github.com/theui-dev/sveltekit/issues"
+		},
+		"author": {
+			"name": "M B Parvez",
+			"url": "https://www.mbparvez.me"
+		},
+		"publisher": {
+			"username": "mbparvez",
+			"email": "mbparvezme@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "mbparvez",
+				"email": "mbparvezme@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2672498700268781,
+		"detail": {
+			"quality": 0.4957852946136434,
+			"popularity": 0.005278899931766945,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 3.4569635e-7
+}

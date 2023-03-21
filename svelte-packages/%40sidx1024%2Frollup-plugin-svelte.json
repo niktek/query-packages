@@ -1,0 +1,41 @@
+{
+	"package": {
+		"name": "@sidx1024/rollup-plugin-svelte",
+		"scope": "sidx1024",
+		"version": "7.1.0",
+		"description": "Compile Svelte components with Rollup",
+		"keywords": [
+			"svelte",
+			"rollup"
+		],
+		"date": "2022-10-24T13:32:36.446Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40sidx1024%2Frollup-plugin-svelte",
+			"homepage": "https://github.com/sveltejs/rollup-plugin-svelte#readme",
+			"repository": "https://github.com/sveltejs/rollup-plugin-svelte",
+			"bugs": "https://github.com/sveltejs/rollup-plugin-svelte/issues"
+		},
+		"author": {
+			"name": "Rich Harris"
+		},
+		"publisher": {
+			"username": "sidx1024",
+			"email": "vistax86live@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sidx1024",
+				"email": "vistax86live@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.27426861072804676,
+		"detail": {
+			"quality": 0.5251388535893105,
+			"popularity": 0.0015993390171680458,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 9.377152e-7
+}

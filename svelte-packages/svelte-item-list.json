@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svelte-item-list",
+		"scope": "unscoped",
+		"version": "2.8.5",
+		"description": "Svelte item list with pagination",
+		"keywords": [
+			"svelte",
+			"item-list",
+			"svelte-list",
+			"svelte-item-list",
+			"svelte",
+			"svelte-npm",
+			"typescript",
+			"svelte-pagination",
+			"pagination"
+		],
+		"date": "2020-05-03T23:00:39.152Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-item-list",
+			"homepage": "https://github.com/Zimtir/svelte-item-list",
+			"repository": "https://github.com/Zimtir/svelte-item-list",
+			"bugs": "https://github.com/Zimtir/svelte-item-list/issues"
+		},
+		"author": {
+			"name": "Marat Zimnurov"
+		},
+		"publisher": {
+			"username": "zimtir",
+			"email": "9e3u2f0b1@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "zimtir",
+				"email": "9e3u2f0b1@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.22053973081451744,
+		"detail": {
+			"quality": 0.6258202115054826,
+			"popularity": 0.003954494928187461,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 6.990358e-8
+}

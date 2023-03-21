@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-lightweight-router",
+		"scope": "unscoped",
+		"version": "0.1.6",
+		"description": "A lightweight client-side router with guards for the Svelte framework.",
+		"keywords": [
+			"Svelte",
+			"router",
+			"routing",
+			"SPA",
+			"guards"
+		],
+		"date": "2023-01-02T20:33:10.672Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-lightweight-router",
+			"homepage": "https://github.com/escheiermann/svelte-lightweight-router#readme",
+			"repository": "https://github.com/escheiermann/svelte-lightweight-router",
+			"bugs": "https://github.com/escheiermann/svelte-lightweight-router/issues"
+		},
+		"author": {
+			"name": "Edgar Scheiermann"
+		},
+		"publisher": {
+			"username": "escheiermann",
+			"email": "scheiermannedgar@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "escheiermann",
+				"email": "scheiermannedgar@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.24761117913202207,
+		"detail": {
+			"quality": 0.4336682615264049,
+			"popularity": 0.003283571805700158,
+			"maintenance": 0.33246128726315877
+		}
+	},
+	"searchScore": 2.3974437e-7
+}

@@ -1,0 +1,55 @@
+{
+	"package": {
+		"name": "@feltcoop/gro",
+		"scope": "feltcoop",
+		"version": "0.70.0",
+		"description": "opinionated webdev toolkit",
+		"keywords": [
+			"web",
+			"tools",
+			"tasks",
+			"bundlers",
+			"codegen",
+			"svelte",
+			"typescript"
+		],
+		"date": "2023-01-22T15:43:58.044Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40feltcoop%2Fgro",
+			"homepage": "https://github.com/feltcoop/gro#readme",
+			"repository": "https://github.com/feltcoop/gro",
+			"bugs": "https://github.com/feltcoop/gro/issues"
+		},
+		"author": {
+			"name": "Felt.coop",
+			"email": "team@felt.social",
+			"url": "https://felt.social"
+		},
+		"publisher": {
+			"username": "ryanatkn",
+			"email": "mail@ryanatkn.com"
+		},
+		"maintainers": [
+			{
+				"username": "ryanatkn",
+				"email": "mail@ryanatkn.com"
+			},
+			{
+				"username": "greatbacon",
+				"email": "hamiltonjreed@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.36347277547627377,
+		"detail": {
+			"quality": 0.8129360028651222,
+			"popularity": 0.00835802271448693,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000015666616
+}

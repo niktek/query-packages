@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "universal-title-bar",
+		"scope": "unscoped",
+		"version": "1.0.3",
+		"description": "Lightweight, fast. Made with Svelte.",
+		"keywords": [
+			"svelte",
+			"title-bar",
+			"titlebar",
+			"menu-bar",
+			"menubar",
+			"window controls",
+			"window-controls-overlay",
+			"electron",
+			"PWA",
+			"web-component"
+		],
+		"date": "2022-07-28T19:58:08.739Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/universal-title-bar",
+			"homepage": "https://github.com/ThaUnknown/universal-title-bar#readme",
+			"repository": "https://github.com/ThaUnknown/universal-title-bar",
+			"bugs": "https://github.com/ThaUnknown/universal-title-bar/issues"
+		},
+		"author": {
+			"name": "ThaUnknown"
+		},
+		"publisher": {
+			"username": "thaunknown",
+			"email": "casistaken@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thaunknown",
+				"email": "casistaken@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.23808729063545825,
+		"detail": {
+			"quality": 0.42944479778496014,
+			"popularity": 0.0017281615521824118,
+			"maintenance": 0.3104256993048753
+		}
+	},
+	"searchScore": 4.876395e-8
+}

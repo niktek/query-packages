@@ -1,0 +1,36 @@
+{
+	"package": {
+		"name": "@laosb/archive-of-sb-banner",
+		"scope": "laosb",
+		"version": "1.0.2",
+		"description": "A web component inserted to archived sites on Archive.of.sb",
+		"keywords": [
+			"svelte",
+			"web-components",
+			"library"
+		],
+		"date": "2022-02-11T15:11:10.765Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40laosb%2Farchive-of-sb-banner"
+		},
+		"publisher": {
+			"username": "laosb",
+			"email": "laosb@lns.unihubs.com"
+		},
+		"maintainers": [
+			{
+				"username": "laosb",
+				"email": "laosb@lns.unihubs.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.190649288891903,
+		"detail": {
+			"quality": 0.4493107605086407,
+			"popularity": 0.003794886568417761,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 3.0952458e-9
+}

@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-ken-burns-slideshow",
+		"scope": "unscoped",
+		"version": "1.0.4",
+		"description": "Image SlideShow - The Ken Burns effect is a type of panning and zooming effect used in film and video production from still imagery.",
+		"keywords": [
+			"Image",
+			"Slider",
+			"Ken",
+			"Burns",
+			"Effect",
+			"Svelte",
+			"Component"
+		],
+		"date": "2023-03-18T12:24:26.014Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ken-burns-slideshow",
+			"homepage": "https://github.com/TomaszDudek/svelte-ken-burns#readme",
+			"repository": "https://github.com/TomaszDudek/svelte-ken-burns",
+			"bugs": "https://github.com/TomaszDudek/svelte-ken-burns/issues"
+		},
+		"author": {
+			"name": "Tomasz Dudek"
+		},
+		"publisher": {
+			"username": "tomaszdudek",
+			"email": "tomaszdudek@icloud.com"
+		},
+		"maintainers": [
+			{
+				"username": "tomaszdudek",
+				"email": "tomaszdudek@icloud.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2715812284576199,
+		"detail": {
+			"quality": 0.5097513359337762,
+			"popularity": 0.005683317173772511,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 7.3821434e-7
+}

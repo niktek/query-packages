@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svbmit",
+		"scope": "unscoped",
+		"version": "0.7.0",
+		"description": "Form validation for Svelte",
+		"keywords": [
+			"svelte",
+			"forms",
+			"validation"
+		],
+		"date": "2021-12-24T15:41:57.508Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svbmit",
+			"homepage": "https://github.com/PierBover/svbmit#readme",
+			"repository": "https://github.com/PierBover/svbmit",
+			"bugs": "https://github.com/PierBover/svbmit/issues"
+		},
+		"publisher": {
+			"username": "pier25",
+			"email": "pierbover11@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "pier25",
+				"email": "pierbover11@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21394562579467746,
+		"detail": {
+			"quality": 0.4397711452609957,
+			"popularity": 0.0020677290787681686,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.8001787e-8
+}

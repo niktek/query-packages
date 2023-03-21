@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-brick-gallery",
+		"scope": "unscoped",
+		"version": "1.0.1",
+		"description": "A masonry-like image gallery component for svelte",
+		"keywords": [
+			"svelte",
+			"svelte-component",
+			"masonry",
+			"brick",
+			"image",
+			"gallery"
+		],
+		"date": "2022-09-27T19:45:35.305Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-brick-gallery",
+			"homepage": "https://anotherempty.github.io/svelte-brick-gallery/",
+			"repository": "https://github.com/anotherempty/svelte-brick-gallery",
+			"bugs": "https://github.com/anotherempty/svelte-brick-gallery/issues"
+		},
+		"author": {
+			"name": "anotherempty",
+			"url": "https://github.com/anotherempty"
+		},
+		"publisher": {
+			"username": "anotherempty",
+			"email": "anotherempty@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "anotherempty",
+				"email": "anotherempty@outlook.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3120154794213163,
+		"detail": {
+			"quality": 0.626599435462266,
+			"popularity": 0.02110229761428482,
+			"maintenance": 0.33328527033610517
+		}
+	},
+	"searchScore": 0.000006900269
+}

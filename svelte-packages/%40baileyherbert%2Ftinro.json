@@ -1,0 +1,43 @@
+{
+	"package": {
+		"name": "@baileyherbert/tinro",
+		"scope": "baileyherbert",
+		"version": "1.0.0",
+		"description": "Tiny declarative router for Svelte (fork with fixes)",
+		"keywords": [
+			"svelte-router",
+			"router",
+			"svelte",
+			"tinro"
+		],
+		"date": "2022-12-10T22:03:56.428Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40baileyherbert%2Ftinro",
+			"homepage": "https://github.com/baileyherbert/tinro#readme",
+			"repository": "https://github.com/baileyherbert/tinro",
+			"bugs": "https://github.com/baileyherbert/tinro/issues"
+		},
+		"author": {
+			"name": "Alexey Schebelev"
+		},
+		"publisher": {
+			"username": "baileyherbert",
+			"email": "hello@bailey.sh"
+		},
+		"maintainers": [
+			{
+				"username": "baileyherbert",
+				"email": "hello@bailey.sh"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2745233064622297,
+		"detail": {
+			"quality": 0.5218576712889783,
+			"popularity": 0.005139483086546915,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 5.556734e-7
+}

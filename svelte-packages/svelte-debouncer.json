@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-debouncer",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "Simple debouncer library for svelte (can also be used without it)",
+		"keywords": [
+			"svelte",
+			"debounce",
+			"debouncer"
+		],
+		"date": "2022-01-03T16:11:39.739Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-debouncer"
+		},
+		"author": {
+			"name": "Levy Barbosa",
+			"email": "marcio.levy20@gmail.com",
+			"username": "levyks"
+		},
+		"publisher": {
+			"username": "levyks",
+			"email": "marcio.levy20@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "levyks",
+				"email": "marcio.levy20@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19136788066495353,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.015507948753078992,
+			"maintenance": 0.1848429256432973
+		}
+	},
+	"searchScore": 1.0624081e-8
+}

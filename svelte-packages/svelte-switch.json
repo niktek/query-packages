@@ -1,0 +1,45 @@
+{
+	"package": {
+		"name": "svelte-switch",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "Svelte component for toggle button",
+		"keywords": [
+			"svelte",
+			"svelte3",
+			"svelte-components",
+			"toggle",
+			"svelte-switch",
+			"sveltejs"
+		],
+		"date": "2021-09-26T06:25:26.046Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-switch"
+		},
+		"author": {
+			"name": "thecodejack"
+		},
+		"publisher": {
+			"username": "thecodejack",
+			"email": "aadisrikanth@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "thecodejack",
+				"email": "aadisrikanth@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.19549691685597212,
+		"detail": {
+			"quality": 0.5091677549204802,
+			"popularity": 0.01512832276723394,
+			"maintenance": 0.10700479260370344
+		}
+	},
+	"searchScore": 1.645183e-8
+}

@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@bookshop/svelte-engine",
+		"scope": "bookshop",
+		"version": "3.4.0",
+		"description": "Bookshop frontend Svelte renderer",
+		"date": "2023-03-09T01:00:44.662Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40bookshop%2Fsvelte-engine"
+		},
+		"author": {
+			"name": "@bglw"
+		},
+		"publisher": {
+			"username": "bigelowcc",
+			"email": "liam@cloudcannon.com"
+		},
+		"maintainers": [
+			{
+				"username": "bigelowcc",
+				"email": "liam@cloudcannon.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.3327689145787129,
+		"detail": {
+			"quality": 0.6988591007924445,
+			"popularity": 0.018412907640893907,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000013198827
+}

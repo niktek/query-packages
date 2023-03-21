@@ -1,0 +1,62 @@
+{
+	"package": {
+		"name": "seo-analyzer",
+		"scope": "unscoped",
+		"version": "2.1.0",
+		"description": "A library for analyze a HTML files to show all of the SEO defects",
+		"keywords": [
+			"es5",
+			"react",
+			"vue",
+			"svelte",
+			"nuxt",
+			"next",
+			"angular",
+			"vanilla",
+			"jquery",
+			"plugins",
+			"seo",
+			"analyzer",
+			"html"
+		],
+		"date": "2022-06-21T06:14:36.987Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/seo-analyzer",
+			"homepage": "https://github.com/maddevsio/seo-analyzer",
+			"repository": "https://github.com/maddevsio/seo-analyzer",
+			"bugs": "https://github.com/maddevsio/seo-analyzer/issues"
+		},
+		"author": {
+			"name": "Denisoed",
+			"email": "denisoed@gmail.com",
+			"username": "denisoed"
+		},
+		"publisher": {
+			"username": "railmaddevs",
+			"email": "rail@maddevs.io"
+		},
+		"maintainers": [
+			{
+				"username": "denisoed",
+				"email": "denisoed@gmail.com"
+			},
+			{
+				"username": "railmaddevs",
+				"email": "rail@maddevs.io"
+			},
+			{
+				"username": "oh-roman",
+				"email": "roman.zh@maddevs.io"
+			}
+		]
+	},
+	"score": {
+		"final": 0.24981651500007518,
+		"detail": {
+			"quality": 0.4482510331562057,
+			"popularity": 0.03745733157715632,
+			"maintenance": 0.2920889685748822
+		}
+	},
+	"searchScore": 9.956246e-8
+}

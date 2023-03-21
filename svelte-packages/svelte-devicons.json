@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-devicons",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "svelte components for the svg icons of the\r [devicon](https://github.com/devicons/devicon) project.",
+		"date": "2022-07-22T01:33:57.998Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-devicons",
+			"homepage": "https://github.com/snailedlt/svelte-devicons#readme",
+			"repository": "https://github.com/snailedlt/svelte-devicons",
+			"bugs": "https://github.com/snailedlt/svelte-devicons/issues"
+		},
+		"publisher": {
+			"username": "snailedlt",
+			"email": "jorgenkalsnes.hagen@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "snailedlt",
+				"email": "jorgenkalsnes.hagen@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20296373594670497,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.0012230979476378705,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.5387725e-8
+}

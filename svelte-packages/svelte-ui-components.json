@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "svelte-ui-components",
+		"scope": "unscoped",
+		"version": "0.0.1",
+		"description": "UI-kit  for Svelte",
+		"date": "2019-10-14T11:25:17.784Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-ui-components"
+		},
+		"author": {
+			"name": "khanin"
+		},
+		"publisher": {
+			"username": "khanin_daniil",
+			"email": "khanin_daniil@mail.ru"
+		},
+		"maintainers": [
+			{
+				"username": "khanin_daniil",
+				"email": "khanin_daniil@mail.ru"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21405177865173797,
+		"detail": {
+			"quality": 0.6074009009759982,
+			"popularity": 0.0012054692026613517,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 3.6239328e-8
+}

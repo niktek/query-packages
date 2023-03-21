@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@macfja/sveltekit-cas",
+		"scope": "macfja",
+		"version": "2.0.2",
+		"description": "CAS/SSO integration in SvelteKit",
+		"keywords": [
+			"sso",
+			"cas",
+			"cas1",
+			"cas2",
+			"cas3",
+			"svelte",
+			"sveltejs",
+			"sveltekit"
+		],
+		"date": "2023-01-10T22:17:29.844Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40macfja%2Fsveltekit-cas",
+			"homepage": "https://github.com/macfja/sveltekit-cas#readme",
+			"repository": "https://github.com/macfja/sveltekit-cas",
+			"bugs": "https://github.com/macfja/sveltekit-cas/issues"
+		},
+		"author": {
+			"name": "MacFJA"
+		},
+		"publisher": {
+			"username": "macfja",
+			"email": "macfja@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "macfja",
+				"email": "macfja@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2812677335205356,
+		"detail": {
+			"quality": 0.5395361922957908,
+			"popularity": 0.0081326586467771,
+			"maintenance": 0.33302984372978955
+		}
+	},
+	"searchScore": 9.1497e-7
+}

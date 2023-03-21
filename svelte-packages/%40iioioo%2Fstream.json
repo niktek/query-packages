@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@iioioo/stream",
+		"scope": "iioioo",
+		"version": "0.0.32",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-10-17T15:42:49.792Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40iioioo%2Fstream"
+		},
+		"publisher": {
+			"username": "iioioo",
+			"email": "heinschulie@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "iioioo",
+				"email": "heinschulie@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21570364220549024,
+		"detail": {
+			"quality": 0.3263276266855747,
+			"popularity": 0.003425264404831138,
+			"maintenance": 0.3331614618803627
+		}
+	},
+	"searchScore": 6.945288e-9
+}

@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "svelte-popup",
+		"scope": "unscoped",
+		"version": "0.0.3",
+		"description": "Popup components，Support pop-up from top to bottom, left and right",
+		"keywords": [
+			"popup",
+			"svelte",
+			"sveltejs"
+		],
+		"date": "2022-02-16T06:40:47.989Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-popup"
+		},
+		"author": {
+			"name": "mwc"
+		},
+		"publisher": {
+			"username": "abmao",
+			"email": "1044926436@qq.com"
+		},
+		"maintainers": [
+			{
+				"username": "abmao",
+				"email": "1044926436@qq.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17640477954928288,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.001805298521989976,
+			"maintenance": 0.15579385840104162
+		}
+	},
+	"searchScore": 2.866837e-9
+}

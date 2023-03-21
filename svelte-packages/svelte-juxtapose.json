@@ -1,0 +1,46 @@
+{
+	"package": {
+		"name": "svelte-juxtapose",
+		"scope": "unscoped",
+		"version": "2.1.0",
+		"description": "A Svelte component for easily juxtaposing images with an interactive slider",
+		"keywords": [
+			"svelte",
+			"sveltekit",
+			"juxtapose",
+			"image comparison"
+		],
+		"date": "2022-09-05T18:47:44.992Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-juxtapose",
+			"homepage": "http://svelte-juxtapose.netlify.app",
+			"repository": "https://github.com/sawyerclick/svelte-juxtapose",
+			"bugs": "https://github.com/sawyerclick/svelte-juxtapose/issues"
+		},
+		"author": {
+			"name": "Sawyer Click",
+			"email": "sawyerclick@gmail.com",
+			"url": "https://sawyer.codes/",
+			"username": "sawyerclick"
+		},
+		"publisher": {
+			"username": "sawyerclick",
+			"email": "sawyerclick@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "sawyerclick",
+				"email": "sawyerclick@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30571622075959215,
+		"detail": {
+			"quality": 0.626599435462266,
+			"popularity": 0.00305635272641625,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000048272905
+}

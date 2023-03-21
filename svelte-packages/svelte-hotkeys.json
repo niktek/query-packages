@@ -1,0 +1,50 @@
+{
+	"package": {
+		"name": "svelte-hotkeys",
+		"scope": "unscoped",
+		"version": "0.1.1",
+		"description": "Svelte wrapper around hotkeys-js",
+		"keywords": [
+			"svelte",
+			"keyboard",
+			"hotkeys",
+			"hotkeys-js",
+			"actions",
+			"hooks",
+			"svelte-actions"
+		],
+		"date": "2021-07-08T14:34:15.590Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-hotkeys",
+			"homepage": "https://github.com/puruvj/svelte-hotkeys#readme",
+			"repository": "https://github.com/puruvj/svelte-hotkeys",
+			"bugs": "https://github.com/puruvj/svelte-hotkeys/issues"
+		},
+		"author": {
+			"name": "Puru Vijay",
+			"url": "https://puruvj.dev"
+		},
+		"publisher": {
+			"username": "puruvj",
+			"email": "awesomepuruvj@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "puruvj",
+				"email": "awesomepuruvj@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17654976541616155,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0018237123985175437,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 3.2286966e-9
+}

@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "manzana",
+		"scope": "unscoped",
+		"version": "0.2.12",
+		"description": "Build forms on Svelte as easy as eating apple.",
+		"keywords": [
+			"svelte",
+			"forms",
+			"utility"
+		],
+		"date": "2022-06-14T04:17:11.438Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/manzana",
+			"homepage": "https://manzana.estebanborai.com",
+			"repository": "https://github.com/EstebanBorai/manzana",
+			"bugs": "https://github.com/EstebanBorai/manzana/issues"
+		},
+		"author": {
+			"name": "Esteban Borai",
+			"email": "estebanborai@gmail.com",
+			"url": "https://estebanborai.com",
+			"username": "estebanborai"
+		},
+		"publisher": {
+			"username": "estebanborai",
+			"email": "estebanborai@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "estebanborai",
+				"email": "estebanborai@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2829802651338914,
+		"detail": {
+			"quality": 0.5314309668399496,
+			"popularity": 0.020444915637159975,
+			"maintenance": 0.3325578703111443
+		}
+	},
+	"searchScore": 8.5423375e-7
+}

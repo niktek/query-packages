@@ -1,0 +1,33 @@
+{
+	"package": {
+		"name": "svelte-to-solid",
+		"scope": "unscoped",
+		"version": "0.0.0",
+		"date": "2023-02-07T04:04:02.335Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-to-solid"
+		},
+		"publisher": {
+			"username": "veevbot",
+			"email": "getemail@163.com"
+		},
+		"maintainers": [
+			{
+				"username": "veevbot",
+				"email": "getemail@163.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.20787491825354973,
+		"detail": {
+			"quality": 0.2991096376886967,
+			"popularity": 0.004215315086497312,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.6282986e-8
+}

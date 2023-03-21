@@ -1,0 +1,49 @@
+{
+	"package": {
+		"name": "svelte-fullpage",
+		"scope": "unscoped",
+		"version": "1.0.8",
+		"description": "Lightweight fullpage Svelte component.",
+		"keywords": [
+			"svelte",
+			"sapper",
+			"ssr",
+			"fullpage",
+			"fullscroll",
+			"full",
+			"page",
+			"scroll"
+		],
+		"date": "2023-02-28T13:20:15.907Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-fullpage",
+			"homepage": "https://hejtmus.github.io/svelte-fullpage/",
+			"repository": "https://github.com/Hejtmus/svelte-fullpage",
+			"bugs": "https://github.com/Hejtmus/svelte-fullpage/issues"
+		},
+		"author": {
+			"name": "Filip Holčík",
+			"email": "filip.holcik.official@gmail.com",
+			"username": "filiph"
+		},
+		"publisher": {
+			"username": "filiph",
+			"email": "filip.holcik.official@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "filiph",
+				"email": "filip.holcik.official@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.30673695144633545,
+		"detail": {
+			"quality": 0.626599435462266,
+			"popularity": 0.0059727261171114016,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.000005107263
+}

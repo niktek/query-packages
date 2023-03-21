@@ -1,0 +1,48 @@
+{
+	"package": {
+		"name": "svast-utils",
+		"scope": "unscoped",
+		"version": "0.0.5",
+		"description": "Utilisties for working with svast nodes.",
+		"keywords": [
+			"svelte",
+			"ast",
+			"svast",
+			"utils"
+		],
+		"date": "2020-12-06T18:28:56.402Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svast-utils",
+			"homepage": "https://github.com/pngwn/MDsveX#readme",
+			"repository": "https://github.com/pngwn/MDsveX",
+			"bugs": "https://github.com/pngwn/MDsveX/issues"
+		},
+		"author": {
+			"name": "pngwn",
+			"email": "hello@pngwn.io",
+			"username": "evilpingwin"
+		},
+		"publisher": {
+			"username": "evilpingwin",
+			"email": "hello@pngwn.io"
+		},
+		"maintainers": [
+			{
+				"username": "evilpingwin",
+				"email": "hello@pngwn.io"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2642853344598242,
+		"detail": {
+			"quality": 0.7728837357107883,
+			"popularity": 0.002887484595944831,
+			"maintenance": 0.089741697537163
+		}
+	},
+	"searchScore": 2.8083e-7
+}

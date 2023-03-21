@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@tmaxmax/svelte-auth0",
+		"scope": "tmaxmax",
+		"version": "1.0.2",
+		"description": "Svelte Auth0 Component Library",
+		"keywords": [
+			"svelte"
+		],
+		"date": "2021-04-08T17:14:45.453Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40tmaxmax%2Fsvelte-auth0",
+			"homepage": "https://github.com/tmaxmax/svelte-auth0#readme",
+			"repository": "https://github.com/tmaxmax/svelte-auth0",
+			"bugs": "https://github.com/tmaxmax/svelte-auth0/issues"
+		},
+		"publisher": {
+			"username": "tmaxmax",
+			"email": "tmaxmax@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "tmaxmax",
+				"email": "tmaxmax@outlook.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.20406068151470894,
+		"detail": {
+			"quality": 0.5146750458851012,
+			"popularity": 0.0017480639592419116,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 2.2139877e-8
+}

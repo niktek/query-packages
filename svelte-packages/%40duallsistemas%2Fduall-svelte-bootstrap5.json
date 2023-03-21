@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "@duallsistemas/duall-svelte-bootstrap5",
+		"scope": "duallsistemas",
+		"version": "0.21.2",
+		"description": "Bootstrap 5 componentes for Svelte.",
+		"date": "2021-03-16T14:24:58.505Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40duallsistemas%2Fduall-svelte-bootstrap5",
+			"homepage": "https://github.com/duallsistemas/duall-svelte-bootstrap5#readme",
+			"repository": "https://github.com/duallsistemas/duall-svelte-bootstrap5",
+			"bugs": "https://github.com/duallsistemas/duall-svelte-bootstrap5/issues"
+		},
+		"author": {
+			"name": "Silvio Clecio",
+			"email": "silvioprog@gmail.com",
+			"url": "silvioprog",
+			"username": "silvioprog"
+		},
+		"publisher": {
+			"username": "silvioprog",
+			"email": "silvioprog@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "silvioprog",
+				"email": "silvioprog@gmail.com"
+			},
+			{
+				"username": "waldirpaim",
+				"email": "waldirpaim@gmail.com"
+			},
+			{
+				"username": "duall",
+				"email": "duallsistemas@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.237035890612542,
+		"detail": {
+			"quality": 0.3763727071808921,
+			"popularity": 0.023144035192814022,
+			"maintenance": 0.3314961889736842
+		}
+	},
+	"searchScore": 1.2617076e-7
+}

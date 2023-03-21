@@ -1,0 +1,38 @@
+{
+	"package": {
+		"name": "@latitudelabs/worklight",
+		"scope": "latitudelabs",
+		"version": "0.0.1",
+		"description": "A UI component explorer for svelte",
+		"date": "2022-04-18T05:15:47.393Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40latitudelabs%2Fworklight"
+		},
+		"publisher": {
+			"username": "nwaughachukwuma",
+			"email": "c.nwaugha@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "nwaughachukwuma",
+				"email": "c.nwaugha@gmail.com"
+			},
+			{
+				"username": "csimpkins",
+				"email": "csimpkins@latd.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.18882490396777465,
+		"detail": {
+			"quality": 0.35696130007821136,
+			"popularity": 0.0012741054442895535,
+			"maintenance": 0.23225879153945686
+		}
+	},
+	"searchScore": 1.2923754e-9
+}

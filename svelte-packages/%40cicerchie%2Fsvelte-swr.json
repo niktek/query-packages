@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "@cicerchie/svelte-swr",
+		"scope": "cicerchie",
+		"version": "0.0.12",
+		"description": "A stale-while-revalidate data fetching library for Svelte.",
+		"keywords": [
+			"swr",
+			"svelte-swr",
+			"stale-while-revalidate",
+			"data-fetching",
+			"data fetching"
+		],
+		"date": "2021-08-22T18:42:16.744Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40cicerchie%2Fsvelte-swr",
+			"homepage": "https://github.com/cicerchie/svelte-swr#readme",
+			"repository": "https://github.com/cicerchie/svelte-swr",
+			"bugs": "https://github.com/cicerchie/svelte-swr/issues"
+		},
+		"author": {
+			"name": "https://github.com/cicerchia"
+		},
+		"publisher": {
+			"username": "cicerchia",
+			"email": "isensidellavita@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "cicerchia",
+				"email": "isensidellavita@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2263359766833863,
+		"detail": {
+			"quality": 0.44931076050864066,
+			"popularity": 0.0031491354285953883,
+			"maintenance": 0.25840157465938773
+		}
+	},
+	"searchScore": 7.43562e-8
+}

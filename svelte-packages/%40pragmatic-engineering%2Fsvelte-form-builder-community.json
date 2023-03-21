@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@pragmatic-engineering/svelte-form-builder-community",
+		"scope": "pragmatic-engineering",
+		"version": "1.0.0",
+		"description": "Svelte Form Builder is a No-Code/Low-Code Drag and Drop Form Builder Library built for Svelte JS.",
+		"date": "2022-12-15T02:47:43.606Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40pragmatic-engineering%2Fsvelte-form-builder-community",
+			"homepage": "https://github.com/pragmatic-engineering/svelte-form-builder-community#readme",
+			"repository": "https://github.com/pragmatic-engineering/svelte-form-builder-community",
+			"bugs": "https://github.com/pragmatic-engineering/svelte-form-builder-community/issues"
+		},
+		"publisher": {
+			"username": "jojoshua",
+			"email": "jojoshua@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "jojoshua",
+				"email": "jojoshua@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.25071304332010774,
+		"detail": {
+			"quality": 0.44117676171200826,
+			"popularity": 0.004838137542395956,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.8785322e-7
+}

@@ -1,0 +1,47 @@
+{
+	"package": {
+		"name": "svelte-maplibre",
+		"scope": "unscoped",
+		"version": "0.2.0",
+		"description": "Svelte bindings for MapLibre",
+		"keywords": [
+			"gis",
+			"map",
+			"maplibre",
+			"svelte"
+		],
+		"date": "2023-03-05T00:41:09.071Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-maplibre",
+			"homepage": "https://svelte-maplibre.imfeld.dev",
+			"repository": "https://github.com/dimfeld/svelte-maplibre",
+			"bugs": "https://github.com/dimfeld/svelte-maplibre/issues"
+		},
+		"author": {
+			"name": "Daniel Imfeld",
+			"url": "https://imfeld.dev"
+		},
+		"publisher": {
+			"username": "dimfeld",
+			"email": "daniel@danielimfeld.com"
+		},
+		"maintainers": [
+			{
+				"username": "dimfeld",
+				"email": "daniel@danielimfeld.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.28427520724385597,
+		"detail": {
+			"quality": 0.5470734658221853,
+			"popularity": 0.009961430944382076,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000019225172
+}

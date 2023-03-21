@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "svelte-object-explorer",
+		"scope": "unscoped",
+		"version": "2.2.1",
+		"description": "A Svelte component to view objects similar to the console to easily see your state or stores",
+		"keywords": [
+			"svelte",
+			"object",
+			"explorer",
+			"component",
+			"devtool",
+			"helper"
+		],
+		"date": "2021-10-09T10:46:23.877Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-object-explorer",
+			"homepage": "https://github.com/Swiftaff/svelte-object-explorer",
+			"repository": "https://github.com/Swiftaff/svelte-object-explorer"
+		},
+		"author": {
+			"name": "swiftaff"
+		},
+		"publisher": {
+			"username": "swiftaff",
+			"email": "swiftaff@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "swiftaff",
+				"email": "swiftaff@gmail.com"
+			}
+		]
+	},
+	"score": {
+		"final": 0.2447088556010027,
+		"detail": {
+			"quality": 0.6081416904986702,
+			"popularity": 0.0071790655755027116,
+			"maintenance": 0.1707247871427877
+		}
+	},
+	"searchScore": 2.440456e-7
+}

@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@fanny-pack-ui/svelte-kit",
+		"scope": "fanny-pack-ui",
+		"version": "0.0.50",
+		"description": "<div align=\"center\">     <img src=\"/src/assets/images/fanny-pack.svg\" alt=\"fanny pack\" width=\"512\" /><br> </div>",
+		"date": "2022-11-13T05:25:11.646Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40fanny-pack-ui%2Fsvelte-kit",
+			"homepage": "https://fanny-pack-ui.pages.dev/",
+			"repository": "https://github.com/SamuelEarl/fanny-pack-ui",
+			"bugs": "https://github.com/SamuelEarl/fanny-pack-ui/issues"
+		},
+		"publisher": {
+			"username": "samwell",
+			"email": "samueltremain@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "samwell",
+				"email": "samueltremain@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.3195031846721019,
+		"detail": {
+			"quality": 0.6716314094393941,
+			"popularity": 0.003848843353191541,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 0.0000051583747
+}

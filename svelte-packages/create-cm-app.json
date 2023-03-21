@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "create-cm-app",
+		"scope": "unscoped",
+		"version": "0.4.0",
+		"description": "Create Typescript application with the Cross Masters stack",
+		"keywords": [
+			"typescript",
+			"node",
+			"vue",
+			"express",
+			"svelte"
+		],
+		"date": "2023-01-30T12:32:04.437Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/create-cm-app"
+		},
+		"author": {
+			"name": "Cross Masters s.r.o."
+		},
+		"publisher": {
+			"username": "matesmac",
+			"email": "matejfeldek@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "matesmac",
+				"email": "matejfeldek@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2909021837990698,
+		"detail": {
+			"quality": 0.5737790877555898,
+			"popularity": 0.006005116587789157,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 8.0799026e-7
+}

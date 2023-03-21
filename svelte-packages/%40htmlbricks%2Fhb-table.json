@@ -1,0 +1,44 @@
+{
+	"package": {
+		"name": "@htmlbricks/hb-table",
+		"scope": "htmlbricks",
+		"version": "0.19.31",
+		"description": "Svelte Boostrap Streaming Table WebComponent",
+		"keywords": [
+			"svelte",
+			"svelte-webcomponents",
+			"webcomponents"
+		],
+		"date": "2023-02-28T18:24:24.054Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40htmlbricks%2Fhb-table"
+		},
+		"author": {
+			"name": "Dario Caruso",
+			"email": "dev@dariocaruso.info",
+			"url": "https://dariocaruso.info"
+		},
+		"publisher": {
+			"username": "dariocaruso",
+			"email": "darioyzf@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "dariocaruso",
+				"email": "darioyzf@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.23988635011178394,
+		"detail": {
+			"quality": 0.3432369897934094,
+			"popularity": 0.057853104305984275,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 1.5145687e-7
+}

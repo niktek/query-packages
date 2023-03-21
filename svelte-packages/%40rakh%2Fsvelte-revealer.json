@@ -1,0 +1,37 @@
+{
+	"package": {
+		"name": "@rakh/svelte-revealer",
+		"scope": "rakh",
+		"version": "0.1.1",
+		"description": "A Svelte component for revealing an area",
+		"date": "2021-05-31T07:55:29.473Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40rakh%2Fsvelte-revealer"
+		},
+		"author": {
+			"name": "Martin Donnelly"
+		},
+		"publisher": {
+			"username": "rakh",
+			"email": "martind2000@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "rakh",
+				"email": "martind2000@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.17644820411901732,
+		"detail": {
+			"quality": 0.4228837357107883,
+			"popularity": 0.0015335372638198125,
+			"maintenance": 0.14013241532412543
+		}
+	},
+	"searchScore": 2.3482793e-9
+}

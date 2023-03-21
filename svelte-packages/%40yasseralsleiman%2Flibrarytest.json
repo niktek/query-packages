@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "@yasseralsleiman/librarytest",
+		"scope": "yasseralsleiman",
+		"version": "0.0.1",
+		"description": "Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).",
+		"date": "2022-11-25T11:03:51.185Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40yasseralsleiman%2Flibrarytest"
+		},
+		"publisher": {
+			"username": "yasseralsleiman",
+			"email": "yaserslyman0@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "yasseralsleiman",
+				"email": "yaserslyman0@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.21100580183422823,
+		"detail": {
+			"quality": 0.3138252595070726,
+			"popularity": 0.0019743942481761935,
+			"maintenance": 0.33190624570069943
+		}
+	},
+	"searchScore": 5.0435633e-9
+}

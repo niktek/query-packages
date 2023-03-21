@@ -1,0 +1,34 @@
+{
+	"package": {
+		"name": "svelte-stage",
+		"scope": "unscoped",
+		"version": "0.0.8",
+		"description": "A minimalist storybook like library for prototyping, developing and viewing your svelte components.",
+		"date": "2022-12-28T21:18:27.336Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/svelte-stage"
+		},
+		"publisher": {
+			"username": "jjnp",
+			"email": "jacob.palecek@outlook.com"
+		},
+		"maintainers": [
+			{
+				"username": "jjnp",
+				"email": "jacob.palecek@outlook.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2237084444198026,
+		"detail": {
+			"quality": 0.35118877309626423,
+			"popularity": 0.004814702355018997,
+			"maintenance": 0.3333333333333333
+		}
+	},
+	"searchScore": 5.4317947e-8
+}

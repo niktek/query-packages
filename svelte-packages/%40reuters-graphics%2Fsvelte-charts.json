@@ -1,0 +1,51 @@
+{
+	"package": {
+		"name": "@reuters-graphics/svelte-charts",
+		"scope": "reuters-graphics",
+		"version": "0.0.1-alpha.5",
+		"description": "![](https://graphics.thomsonreuters.com/style-assets/images/logos/reuters-graphics-logo/svg/graphics-logo-color-dark.svg)",
+		"date": "2022-08-02T11:32:48.414Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40reuters-graphics%2Fsvelte-charts",
+			"homepage": "https://reuters-graphics.github.io/svelte-charts"
+		},
+		"publisher": {
+			"username": "hobbes7878",
+			"email": "jon.r.mcclure@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "swhart22",
+				"email": "s.w.hart22@gmail.com"
+			},
+			{
+				"username": "man-shar",
+				"email": "sharma.manas271196@gmail.com"
+			},
+			{
+				"username": "mf475",
+				"email": "minami.funakoshi@gmail.com"
+			},
+			{
+				"username": "allyjlevine",
+				"email": "allyjlevine@gmail.com"
+			},
+			{
+				"username": "hobbes7878",
+				"email": "jon.r.mcclure@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2718471498188599,
+		"detail": {
+			"quality": 0.524790961786243,
+			"popularity": 0.001992228563609958,
+			"maintenance": 0.3248930893877815
+		}
+	},
+	"searchScore": 5.7526466e-7
+}

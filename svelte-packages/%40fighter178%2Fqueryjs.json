@@ -1,0 +1,42 @@
+{
+	"package": {
+		"name": "@fighter178/queryjs",
+		"scope": "fighter178",
+		"version": "0.0.3",
+		"description": "A single JS or TS file, giving (almost) all the features of a framework like Svelte or React.",
+		"keywords": [
+			"framework",
+			"onefile",
+			"one file"
+		],
+		"date": "2023-01-17T05:05:12.136Z",
+		"links": {
+			"npm": "https://www.npmjs.com/package/%40fighter178%2Fqueryjs"
+		},
+		"author": {
+			"name": "Fighter178"
+		},
+		"publisher": {
+			"username": "fighter178",
+			"email": "jonathonwoolston@gmail.com"
+		},
+		"maintainers": [
+			{
+				"username": "fighter178",
+				"email": "jonathonwoolston@gmail.com"
+			}
+		]
+	},
+	"flags": {
+		"unstable": true
+	},
+	"score": {
+		"final": 0.2393517924997568,
+		"detail": {
+			"quality": 0.40415024875407274,
+			"popularity": 0.004206660342869972,
+			"maintenance": 0.33324110501008714
+		}
+	},
+	"searchScore": 2.185908e-8
+}
