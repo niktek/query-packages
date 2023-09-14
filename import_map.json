@@ -1,5 +1,0 @@
-{
-  "imports": {
-    "lodash": "node:fs/promises"
-  }
-}

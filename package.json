@@ -2,12 +2,13 @@
 	"name": "@niktekio/query-packages",
 	"version": "0.0.4",
 	"description": "Queries stats from npm and github for certain packages",
-	"private": false,
+	"private": true,
 	"main": "./dist/index.js",
 	"module": "./dist.mjs",
 	"types": "./dist/index.d.ts",
 	"scripts": {
 		"lint": "tsc",
+		"dev": "tsx src/query.ts",
 		"test": "vitest run",
 		"build": "tsup src/*.ts --format cjs,esm --dts",
 		"ci": "pnpm lint && pnpm build",
@@ -16,8 +17,25 @@
 	"keywords": [],
 	"author": "niktek",
 	"license": "MIT",
+	"type": "module",
 	"devDependencies": {
 		"@changesets/cli": "^2.26.0",
+		"@octokit/graphql": "^7.0.1",
+		"@types/node": "^18.15.5",
+		"@types/sqlite3": "^3.1.8",
+		"eslint": "^8.47.0",
+		"eslint-config-prettier": "^9.0.0",
+		"prettier": "^3.0.1",
+		"sqlite3": "^5.1.6",
+		"tslib": "^2.5.0",
+		"tsup": "^7.2.0",
+		"tsx": "^3.12.7",
+		"typescript": "^5.0.2",
 		"vitest": "^0.29.3"
+	},
+	"dependencies": {
+		"@orama/orama": "^1.2.3",
+		"dotenv": "^16.0.3",
+		"jsonpath-plus": "^7.2.0"
 	}
 }
