@@ -23,7 +23,9 @@
 	},
 	"include": [
 		"./src/**/*.js",
-		"./src/**/*.ts"
+		"./src/**/*.ts",
+		"data/cruncher.ts",
+		"data/packages.ts"
 	],
 	"exclude": [
 		"../node_modules/**",
